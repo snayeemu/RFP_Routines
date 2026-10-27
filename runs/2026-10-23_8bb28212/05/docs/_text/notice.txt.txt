@@ -1,0 +1,95 @@
+{
+  "title": "DHS Network Operations Security Center (NOSC) Network, Cloud, and Cyber Services (NCCS) 2.0",
+  "solicitationNumber": "70RTAC26R00000007",
+  "type": "k",
+  "naics": [
+    {
+      "code": [
+        "541519"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": "NONE",
+  "responseDeadline": "2026-09-22T00:00:00-04:00",
+  "postedDate": "2026-10-22T04:43:34.535+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+*************************UPDATE****************************  
+
+  10/22/2026  
+
+ Dear Industry Partners, 
+
+ The U.S. Department of Homeland Security (DHS) appreciates industry's feedback on the draft solicitation and patience as the Department continues to coordinate internally on the NCCS 2.0 procurement. This notice is issued to provide an updated notional procurement schedule as follows below. 
+
+ The notional timeline of key events are as follows: 
+
+ 
+	  Final draft solicitation release:  11/4/2026 
+	  Pre-Solicitation conference:  11/9/2026 
+	  Final solicitation release:  11/16/2026 
+	  Proposal due date Phase 1:  11/19/2026 
+	  Government notification to proceed to Phase 2:  11/23/2026 
+	  Proposal due date Phase 2:  12/18/2026 
+	  Anticipated Award:  Late February 2027 
+ 
+
+ Interested parties are encouraged to continue monitoring SAM.gov for solicitation updates, amendments, and additional acquisition-related announcements. 
+ 
+Thank you for your continued interest in the NCCS 2.0 acquisition. 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  *************************UPDATE******************************  
+
+  October 5, 2026  
+
+ Dear Industry Partners, 
+
+ The Government hereby notifies interested parties that the anticipated acquisition schedule will be revised to a later timeframe. Interested parties are advised to continue monitoring SAM.gov for official updates regarding this acquisition. 
+
+ The Government appreciates the continued interest of industry and encourages all interested parties to monitor SAM.gov for the latest acquisition information. 
+
+  
+
+ Thank you 
+
+  
+
+  
+
+ ***************************************************************** 
+
+ Dear Industry Partners, 
+
+ The Department of Homeland Security (DHS), Office of Procurement Operations (OPO), on behalf of the DHS Office of the Chief Information Officer, intends to issue a solicitation to obtain Network, Cloud, and Cybersecurity Services (NCCS) 2.0.  Attached is a final draft solicitation for the requirement for your review. The resultant contract will be a DHS Department Wide Single Award Indefinite Delivery/Indefinite Quantity (IDIQ) contract. 
+
+ The notional timeline of key events is as follows: 
+
+ 
+	  Questions due on final draft solicitation:  9/22/2026 
+	  Final solicitation release:  10/1/2026 
+	  Proposal due date Phase 1:  10/6/2026 
+	  Government notification to proceed to Phase 2:  10/9/2026 
+	  Proposal due date Phase 2:  10/21/2026 
+	  Anticipated Award:  Late November 2026 
+ 
+
+  
+
+ Questions and comments are due no later than 12:00 p.m. Eastern Time Tuesday September 22, 2026. Questions and comments shall be submitted electronically via electronic mail to Nicole Belanger,  Nicole.Belanger@hq.dhs.gov  and Michael Lipperini,  Michael.Lipperini@hq.dhs.gov.  Electronic mail attachments, if included, shall be prepared using Microsoft Office. 
+
+ Please continue to check this notice for further updates on this procurement.

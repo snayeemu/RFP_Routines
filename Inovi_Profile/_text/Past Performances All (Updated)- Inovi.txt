@@ -1,0 +1,809 @@
+Past Performances:
+
+Experience 1: AngioDynamics – Salesforce Marketing Cloud Implementation
+
+
+
+ Project Name     AngioDynamics – Salesforce Marketing Cloud
+                  Implementation
+
+ Client Name &    AngioDynamics
+ Location         14 Plaza Drive, Latham, NY 12110, United States
+
+
+ Project Date     October 2025 – March 2026
+
+ Contract Value   $14,950 (115 hours, Time & Materials)
+
+
+
+ Users /          Up to 5 Marketing Cloud users, integrated with
+ Environment      AngioDynamics’ approximately 400-user Salesforce org
+
+ Work             Implemented Salesforce Marketing Cloud Engagement to
+ Description      support B2B product marketing for a newly FDA-indicated
+                  pulmonary embolism product and automate bi-weekly
+                  past-due invoice communications using Oracle and Power
+                  BI data. The implementation included Marketing Cloud
+                  account and user setup, Subscriber Key configuration,
+                  Content Builder and HTML email templates, Data
+                  Extensions, SQL Query Automations, three Journey
+                  Builder journeys, campaign reporting, Subscription
+                  Center, unsubscribe/compliance configuration, and
+                  Account Team-based sender configuration. Inovi
+                  integrated Marketing Cloud with Salesforce Lightning
+                  records (Leads, Contacts, and Accounts), configured the
+                  integration user and sending subdomain/DNS, and
+                  conducted UAT, client testing, bug fixes, documentation,
+                  and end-user training. The engagement also included
+                  weekly project management and 30 days of post-go-live
+                  hypercare.
+
+                   As a result, Inovi enabled AngioDynamics to execute
+                  targeted, compliant, Salesforce-integrated marketing
+                                                                        RF1 No. N6328520250691
+
+
+
+
+                      campaigns and automated receivables communications
+                      from a single platform.
+
+
+
+
+ Inovi Project        Sabur Chowdhury – Solution Consultant; Nazim Khan –
+ Team                 Project Manager; Md. Razwanul Ghani – Senior Salesforce
+                      Developer; Fatema Tus Sumaiya – QA Engineer; Faiz
+                      Mannan – CTO & Co-founder / Executive Oversight
+
+ Reference             1. Dan Bolduc – VP, Enterprise Systems / Executive
+                          Sponsor, AngioDynamics
+                       2. Mahgan Town – CRM Systems Manager / Subject
+                          Matter Expert, AngioDynamics
+
+ Contact               1. Dan Bolduc — Email: dbolduc@angiodynamics.com;
+ Information              Phone: +1.518.795.1154
+                       2. Mahgan Town — Email:
+                          mahgan.town@angiodynamics.com;
+                          Phone: +1.518.248.2095
+
+
+
+Experience 2: AngioDynamics – Salesforce Managed Services
+
+
+
+ Project Name         AngioDynamics – Salesforce Managed Services
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 2
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Client Name &        AngioDynamics
+ Location             14 Plaza Drive, Latham, NY 12110, United States
+
+
+ Project Date         October 2023 – Present
+
+ Contract Value       Monthly retainer: $3,000/month minimum. Cumulative
+                      value to date: $152,280
+
+ Users /              Approximately 400 active Salesforce users, including U.S.
+ Environment          regional sales teams, clinical specialists, executives, and
+                      international teams in APAC, Canada, LATAM, and Europe
+
+ Work                 Provided ongoing Salesforce managed services to
+ Description          administer, enhance, and support AngioDynamics’ multi-
+                      cloud Salesforce environment (Sales Cloud, Service Cloud,
+                      Service Cloud Voice, Field Service, Experience Cloud, CRM
+                      Analytics, Boomi, and Pardot/Marketing Cloud), used by
+                      field sales, clinical, service, and marketing teams in the U.S.
+                      and internationally. Inovi began with a Salesforce org
+                      assessment covering security health (88% baseline score),
+                      license and storage usage, installed packages, and
+                      automation. The assessment identified about 60 active
+                      Flows and 14 active Process Builders, uncovered a race
+                      condition between competing Order automations, and
+                      produced a roadmap for automation clean-up, license
+                      optimization, and Process Builder-to-Flow migration.
+                      Ongoing work includes role hierarchy and user access
+                      clean-up across ~400 users and 140+ roles; Field Service
+                      automation for Work Order and Service Appointment
+                      address sync and a rebuilt Work Step completion process
+                      (screen flow to Lightning Web Component); the
+                      NanoKnife simulator booking process with multi-step
+                      approvals, event recap reminders, and automated
+                      calendar bookings; Medical Training Request notifications
+                      and clinical log tracking; opportunity stage validation rules
+                      by product line (e.g., AlphaVac, AngioVac) and lead
+                      automation; a sales forecast embedded in a CRM Analytics
+                      dashboard; Email-to-Case support; and Agentforce use-
+                      case workshops and prompt reviews. The engagement
+                      runs on weekly status calls, Asana-based request tracking,
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 3
+                                                                        RF1 No. N6328520250691
+
+
+
+
+                      a weekly release schedule with client approval, sandbox-
+                      first development, and documented QA test execution
+                      before every production release.
+
+                      As a result, AngioDynamics benefits from a stable, well-
+                      governed Salesforce platform, faster turnaround on
+                      business requests, and reduced reliance on internal
+                      administration resources.
+
+
+
+
+ Inovi Project        Faiz Mannan – CTO & Co-founder / Executive Oversight;
+ Team                 Nazim Khan – Delivery Lead / Project Manager; Maheer
+                      Mahmud – Project Manager; Arshad Hossain – Tech Lead;
+                      Abdur Razzak – Senior Salesforce Developer; Sagar
+                      Chakraborty – Salesforce Consultant; Mohim Ahmad –
+                      Salesforce Developer; Rahadul Islam – Salesforce
+                      Developer; Sajjad Ahmed – Salesforce AI / Agentforce
+                      Developer; Fatema Tus Sumaiya – QA Engineer
+
+ Reference             1. Dan Bolduc – VP, Enterprise Systems, AngioDynamics
+
+ Contact               1. Dan Bolduc — Email: dbolduc@angiodynamics.com;
+ Information              Phone: +1.518.795.1154
+
+
+
+
+Experience 3: Loxo @ Lilly – Sales Cloud Improvement & Site Report
+Integration
+
+
+
+ Project Name         Loxo @ Lilly – Sales Cloud Improvement & Site Report
+                      Integration
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 4
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Client Name &        Loxo Oncology, Inc. (“Loxo @ Lilly”), a wholly owned
+ Location             subsidiary of Eli Lilly and Company
+                      Lilly Corporate Center, Indianapolis, IN 46285, United
+                      States
+
+ Project Date         March 2023 – December 2025
+
+ Contract Value       $21,580
+
+
+
+ Users /              50+ users
+ Environment
+
+ Work                 Improved and extended Loxo @ Lilly’s Salesforce Sales
+ Description          Cloud (Enterprise Edition) implementation to manage
+                      clinical protocols, escalations, and site-level information,
+                      and to bring site report data into Salesforce automatically
+                      instead of handling it manually. The work included Sales
+                      Cloud core configuration (Escalation app, profiles and
+                      permissions, custom fields for Accounts, Contacts,
+                      Contracts, Escalations, and Protocols, record types, page
+                      layouts, and list views); a nightly Site Report integration
+                      using Data Loader and custom development; up to four
+                      workflow rules for escalation and protocol processes; a
+                      starter dashboard with six reports; end-user and
+                      administrator training and documentation; and
+                      deployment to Production. The project kicked off on
+                      March 9, 2023, with user acceptance testing in late April
+                      and a planned go-live of May 1, 2023, managed through
+                      twice-weekly status meetings and client-accepted
+                      Sandbox-to-Production deployments. Under Amendment
+                      1, Inovi provided additional configuration, customization,
+                      development, and ongoing Sales Cloud support.
+
+                      As a result, Loxo @ Lilly gained a structured Salesforce
+                      environment for managing protocols, escalations, and site
+                      information, automated nightly site report data loads, and
+                      real-time reporting for business stakeholders, delivered
+                      within a regulated pharmaceutical enterprise
+                      environment.
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 5
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Inovi Project        Faiz Mannan – Engagement Manager (CTO & Co-founder);
+ Team                 Corey DeBoer – Solutions Architect; Maheer Mahmud –
+                      Delivery Lead; Sagar Chakraborty – Senior Salesforce
+                      Developer
+
+ Reference             1. Ron Baptiste – Primary Contact, Loxo @ Lilly
+                       2. Candace Johns – Associate Director, Business
+                          Operations, Loxo Oncology, Inc. (Alternate)
+
+ Contact               1. Ron Baptiste — Email: rbaptiste@loxooncology.com;
+ Information              Phone: 203-973-7204
+                       2. Candace Johns — Email: cjohns@loxooncology.com
+
+
+
+
+Experience 4: Quality Care for Children (QCC) – Nonprofit Implementation
+
+
+
+ Project Name         Quality Care for Children (QCC) – Nonprofit
+                      Implementation
+
+ Client Name &        Quality Care for Children
+ Location             2970 Clairmont Rd #1000, Atlanta, GA 30329, United States
+
+
+ Project Date         April 2022 – December 2022
+
+ Contract Value       $90,000
+
+
+
+ Users /              15+ users
+ Environment
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 6
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Work                 Implemented the Salesforce Nonprofit Success Pack
+ Description          (NPSP) in a new Salesforce environment to replace QCC’s
+                      manual, document-driven processes, where staff
+                      managed hundreds of spreadsheets, forms, and paper
+                      records to track families, scholarships, funding, and
+                      program participation. The solution supports multiple
+                      programs, including ECC, CCAPIS, and ASMC, and
+                      manages the full lifecycle of prospective guardians and
+                      families, from inquiry and intake through eligibility
+                      assessment, enrollment, scholarship management, and
+                      ongoing program participation. Inovi automated eligibility
+                      verification for childcare assistance and scholarship
+                      programs, centralized scholarship availability and funding
+                      allocations, and replaced fragmented document
+                      management with structured Salesforce records,
+                      automated workflows, and real-time reports and
+                      dashboards.
+
+                      As a result, QCC now has a single source of truth for its
+                      data, faster eligibility and enrollment processing, better
+                      oversight of scholarships, funding, and program capacity,
+                      improved data accuracy, and reduced administrative
+                      effort.
+
+ Inovi Project        Maheer Mahmud – Project Manager; Corey DeBoer –
+ Team                 Solutions Architect; Sagar Chakraborty – Tech Lead
+
+
+
+ Reference             1. Sarah Bello, LMSW – Family Resource and Scholarship
+                          Manager, Parent Services, QCC
+
+ Contact               1. Sarah Bello — Email: sarah.bello@qccga.org; Phone:
+ Information              404-479-4208
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 7
+                                                                        RF1 No. N6328520250691
+
+
+
+
+Experience 5: Ranch Hands Rescue – Managed Services
+
+
+
+ Project Name         Ranch Hands Rescue – Managed Services
+
+
+ Client Name &        Ranch Hands Rescue
+ Location             8827 Highway 377, Argyle, TX 76226, United States
+
+
+ Project Date         October 2025 – December 2025
+
+ Contract Value       $10,000
+
+
+
+ Users /              30+ users
+ Environment
+
+ Work                 Automated Ranch Hands Rescue’s survivor intake and
+ Description          case management workflow using the Salesforce
+                      Nonprofit Success Pack (NPSP). Before the project,
+                      survivor advocates handled intake through phone calls
+                      and paper or document-based forms, which was slow and
+                      limited visibility into service delivery. Advocates now
+                      capture and manage survivor information directly in
+                      Salesforce. The solution also added centralized resource
+                      tracking to monitor how resources are allocated and used
+                      across survivors, along with critical resource management
+                      to track key support services so survivors receive the right
+                      assistance on time.
+
+                      As a result, Ranch Hands Rescue gained greater
+                      operational efficiency, improved data accuracy, better
+                      reporting, and full visibility into how its resources are used
+                      to support survivors.
+
+ Inovi Project        Maheer Mahmud – Project Manager; Sagar Chakraborty –
+ Team                 Solutions Architect; Ahad Hossain – Salesforce Developer
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 8
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Reference             1. Landon C. Dickeson, MS, LPC, C-DBT – Chief Operating
+                          Officer, Ranch Hands Rescue and Bob’s House of Hope
+
+ Contact               1. Landon C. Dickeson — Email:
+ Information              landon@ranchhandsrescue.org; Phone: 940-240-0500,
+                          ext. 4
+
+
+
+Experience 6: Nana Grants – Nonprofit Improvement
+
+
+
+ Project Name         Nana Grants – Nonprofit Improvement
+
+
+ Client Name &        Nana Grants
+ Location             6065 Roswell Rd, #450, Atlanta, GA 30328, United States
+
+
+ Project Date         August 2023 – December 2023
+
+ Contract Value       $45,800
+
+
+
+ Users /              10+ users
+ Environment
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 9
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Work                 Enhanced Nana Grants’ existing Salesforce Nonprofit
+ Description          solution by optimizing all application forms for a mobile-
+                      friendly experience for parents and childcare providers,
+                      and by adding automated email notifications to Child Care
+                      Providers and parents, including reminders for parents to
+                      complete their CGPA information for scholarship eligibility
+                      verification. Inovi used Salesforce Nonprofit Cloud features
+                      to automate reporting and streamline scholarship
+                      management, giving real-time visibility into scholarship
+                      recipients, simplifying eligibility evaluation, and
+                      automating waiting list management. The solution used
+                      Salesforce Experience Cloud with guest user access and
+                      community licenses.
+
+                      As a result, Nana Grants can accurately track scholarship
+                      recipients, determine eligibility, and maintain an
+                      organized waiting list through a secure, scalable, and user-
+                      friendly solution with less administrative effort.
+
+ Inovi Project        Allen Hardy – Project Manager; Sagar Chakraborty –
+ Team                 Solutions Architect; Yousuf Zaman – Senior Salesforce
+                      Developer
+
+
+ Reference             1. Erica Stephens – Executive Director, Nana Grants
+
+ Contact               1. Erica Stephens — Email:
+ Information              Ericastephens@nanagrants.org; Direct: 770-845-3663
+
+
+
+
+Experience 7: Keys Non Profit – Accounting Seed Implementation
+
+
+
+ Project Name         Keys Non Profit – Accounting Seed Implementation
+
+
+ Client Name &        Keys Non Profit
+ Location             680 S. Waterman Ave. San Bernardino, CA 92408, United
+                      States
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 10
+                                                                         RF1 No. N6328520250691
+
+
+
+
+ Project Date          February 2025 – Present
+
+ Contract Value        $18,210 (Accounting Seed Implementation)
+
+
+
+ Users /               16 users
+ Environment
+
+ Work                  Led the migration of Keys Non Profit’s financial operations
+ Description           from Yardi and Smartsheet to Accounting Seed on
+                       Salesforce, including all historical financial data, vendor
+                       and customer profiles, and open billings and payables.
+                       Inovi replicated core accounting processes on the
+                       platform, configured granular sharing settings to protect
+                       sensitive financial records, and designed a multi-tier
+                       approval workflow with guardrails that stop users from
+                       approving transactions outside their limits, plus
+                       automated emergency backup approvals. The project also
+                       delivered order and inventory management, custom
+                       check printing, automated Positive Pay file generation for
+                       direct bank upload, standard financial reports, and custom
+                       reports for cash flow, inventory, and transaction history.
+                       Inovi also completed scoping for a future Salesforce
+                       Nonprofit Cloud rollout covering housing management,
+                       fleet tracking, and Agentforce AI capabilities.
+
+                       As a result, Keys Non Profit has a unified, well-governed
+                       financial system with real-time visibility into cash flow,
+                       inventory, and transactions, and a clear roadmap for
+                       expanding the platform.
+
+ Inovi Project         Wasif Hussain – Project Manager; Maheer Mahmud –
+ Team                  Consultant; Nafis Siddique – Tech Lead; Ahad Hossain –
+                       Salesforce Developer
+
+
+ Reference             Peter Parashos – Lead Data Analyst, Keys Non Profit
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 11
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Contact              Peter Parashos — Email: pparashos@keysnonprofit.org;
+ Information          Direct: 909-332-6825
+
+
+
+
+Experience 8: One Mission Society – Accounting Seed Data Migration
+
+
+
+ Project Name         One Mission Society – Accounting Seed Data Migration
+
+
+ Client Name &        One Mission Society
+ Location             941 Fry Rd, Greenwood, IN 46142, United States
+
+
+ Project Date         July 2026 – Present
+
+ Contract Value       $15,000 (Accounting Seed data migration)
+
+
+
+ Users /              11 Accounting Seed users; 65 total users
+ Environment
+
+ Work                 Leading the migration of One Mission Society’s US entity
+ Description          financial data from its existing Salesforce org (NPSP) to a
+                      new Salesforce Nonprofit Cloud environment. Because
+                      both orgs run Accounting Seed, Inovi is using the shared
+                      data structure for a clean, efficient transfer that reduces
+                      structural risk, especially for journal entries, which make
+                      up most of OMS’s data. The work includes a data
+                      dictionary, data mapping, and Chart of Accounts
+                      alignment, and the migration of Accounts Receivable
+                      (Billings, Cash Receipts, and Credit Memos), Accounts
+                      Payable (Payables, AP Disbursements, Cash
+                      Disbursements, and Credit Memos), Journal Entries and
+                      Journal Entry Lines, and all related file attachments
+                      matched to their new source records, with data validation
+                      and testing in every phase.
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 12
+                                                                        RF1 No. N6328520250691
+
+
+
+
+                      As a result, One Mission Society will have an accurate,
+                      clean, and structurally sound financial foundation in its
+                      new Nonprofit Cloud environment, delivered through a
+                      migration approach designed to prevent data loss and
+                      avoid disruption to operations.
+
+
+
+
+ Inovi Project        Wasif Hussain – Project Manager; Tahzeeb Rasheed –
+ Team                 Consultant; Abid Shiddique – Tech Lead; Ahad Hossain –
+                      Salesforce Developer
+
+
+ Reference            Betsy Shroyer – Chief Financial Officer, One Mission
+                      Society
+
+ Contact              Betsy Shroyer — Email: bshroyer@onemissionsociety.org;
+ Information          Direct: 765.744.9569
+
+
+
+
+Experience 9: Human Development Fund (HDF) – Accounting Seed
+Implementation (Phase 1)
+
+
+
+ Project Name         Human Development Fund (HDF) – Accounting Seed
+                      Implementation (Phase 1)
+
+ Client Name &        Human Development Fund
+ Location             1905 S. Haggerty Rd, Suite #7, Canton, MI 48188, United
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 13
+                                                                        RF1 No. N6328520250691
+
+
+
+
+                      States
+
+
+
+ Project Date         August 2026 – Present
+
+ Contract Value       $21,960 (Accounting Seed Implementation – Phase 1)
+
+
+
+ Users /              5 Accounting Seed users currently, expanding as more
+ Environment          international arms are added
+
+ Work                 Leading the Phase 1 implementation of Accounting Seed
+ Description          on Salesforce for Human Development Fund’s US entity,
+                      designed to support a Phase 2 roadmap that will connect
+                      Salesforce Nonprofit Cloud (NPC) and external fundraising
+                      and donation platforms such as Fundraise Up. The project
+                      began with stakeholder meetings and discovery, followed
+                      by a Report of Findings, Solution and Technical Design
+                      Documents, and a structured project plan. Workstreams
+                      include installing and configuring the Accounting Seed
+                      Financial Suite and AS Native Tax (reporting periods, Chart
+                      of Accounts with default GL setup, page layouts, branded
+                      email and PDF templates, users, and permissions);
+                      migrating the Chart of Accounts, Opening Trial Balance,
+                      open AR and AP, and three years of historical Journal
+                      Entries, with Account and Contact matching and merging;
+                      configuring the Financial Report Hub, a dashboard, and
+                      up to five custom financial reports; and UAT, custom
+                      training materials, and six hours of Accounting Seed
+                      training.
+
+                      As a result, HDF is building a centralized, scalable financial
+                      system that gives leadership immediate financial visibility
+                      and can grow as more international arms are added.
+
+ Inovi Project        Wasif Hussain – Project Manager; Tahzeeb Rasheed –
+ Team                 Solutions Architect; Asif Omar – Consultant
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 14
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Reference            Mustafa Ahmed - Chief Technology Officer
+
+ Contact              Mustafa Ahmed - Email: mustafa@hdfund.org;
+ Information
+
+
+
+
+Experience 10: Meridian Cooperative – Salesforce Service and Experience
+Cloud Implementation
+
+
+
+ Project Name         Meridian Cooperative – Salesforce Service and
+                      Experience Cloud Implementation
+
+ Client Name &        Meridian Cooperative
+ Location             Atlanta, GA
+
+
+ Project Date         September 2024 – July 2025
+
+ Contract Value       $150,000
+
+
+
+ Users /              300+ users
+ Environment
+
+ Work                 Migrated Meridian Cooperative from Microsoft Dynamics
+ Description          to Salesforce Service Cloud and Experience Cloud. The
+                      scope included complex data migration, Service Cloud
+                      configuration, automation, chat, Omni-Channel, and
+                      multiple system integrations.
+
+ Inovi Project        Sabur Chowdhury – Project Manager; Maheer Mahmud –
+ Team                 Delivery Lead; Emily DeBoer – Consultant; Arshad Hossain
+                      – Tech Lead; Nafis Siddique – Senior Salesforce Developer
+
+
+ Reference             1. Adam Dinges – VP Enterprise Consulting, Meridian
+                          Cooperative
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 15
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Contact               1. Adam Dinges — Email: adamd@meridian.coop;
+ Information              Phone: 256-710-8814
+
+
+
+
+Experience 11: EPIC – Salesforce Multi-cloud Digital Transformation
+
+
+
+ Project Name         EPIC – Salesforce Multi-cloud Digital Transformation
+
+
+ Client Name &        EPIC
+ Location             Atlanta, GA
+
+
+ Project Date         October 2018 – September 2024
+
+ Contract Value       $2,600,000
+
+
+
+ Users /              100+ users
+ Environment
+
+ Work                 Led a multi-year digital transformation for EPIC, replacing
+ Description          manual tools with an integrated platform that includes
+                      Salesforce Field Service, Sales Cloud, and Service Cloud.
+
+                      As a result, EPIC unified its siloed systems for customer,
+                      finance, and operational data on one platform.
+
+ Inovi Project        Corey DeBoer – Project Manager; Wasif Hussain –
+ Team                 Consultant; Sadia Abedin – 3D Designer; Sahadat Alam –
+                      UX Designer; Nafis Siddique – Senior Salesforce Developer
+
+
+ Reference             1. Paula Burrell – Controller, EPIC
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 16
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Contact               1. Paula Burrell — Email: p.burrell@thepowerofepic.com;
+ Information              Phone: 770.414.8400
+
+
+
+
+Experience 12: RigUPATL – Salesforce Service and Field Service
+Implementation
+
+
+
+ Project Name         RigUPATL – Salesforce Service and Field Service
+                      Implementation
+
+ Client Name &        RigUPATL
+ Location             Atlanta, GA
+
+
+ Project Date         December 2023 – June 2024
+
+ Contract Value       $75,000
+
+
+
+ Users /              10+ users
+ Environment
+
+ Work                 Digitally transformed RigUPATL’s field service operations
+ Description          by replacing manual processes with Salesforce Field
+                      Service.
+
+                      As a result, RigUPATL addressed inefficiencies in
+                      dispatching and scheduling and gained real-time visibility
+                      into field operations.
+
+ Inovi Project        Nazim Khan – Project Manager; Allen Irle – Solutions
+ Team                 Architect; Sumon Ali – Senior Salesforce Developer
+
+
+
+ Reference             1. Chris Kelly – President, RigUPATL
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 17
+                                                                        RF1 No. N6328520250691
+
+
+
+
+ Contact               1. Chris Kelly — Email: ckelly@rigupatl.com; Phone:
+ Information              470.259.0274
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 18
+

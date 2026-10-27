@@ -1,0 +1,1502 @@
+FEDERAL ACQUISITION REGULATION (FAR) Subpart 12.202
+COMBINED SYNOPSIS/SOLICITATION NOTICE
+
+In accordance with Revolutionary FAR Overhaul (RFO) Federal Acquisition Regulation (FAR) subpart 12.202, FAR Class Deviation 25-21 Rev. 2 for FAR Part 12, Combined Synopsis/Solicitation Procedures, shall be utilized in support of the subject solicitation. As such the following synopsis information as required by RFO FAR subpart 5.201(c) FAR Class Deviation 25-17 for FAR Part 5 is hereby provided to include details required by aforementioned RFO FAR subpart 12.202. 
+
+Points of Contact:	
+
+Tisha Blue-Warren, Contracting Officer, Tisha.Blue-Warren@hq.dhs.gov 
+Nicole Belanger, Contract Specialist, Nicole.Belanger@hq.dhs.gov
+Michael Lipperini, Contract Specialist, Michael.Lipperini@hq.dhs.gov 
+
+Competition:
+
+The solicitation is being issued as a full and open competition. 
+
+Codes for Services or Supplies: 
+
+The North American Industry Classification System (NAICS) Code assigned to this requirement is 541519 Other Computer Related Services. 
+
+The Product and Service Code (PSC) is DF01- IT and Telecom, IT Management Support Services.
+
+Description: 
+
+This is a combined synopsis/solicitation for commercial services prepared in accordance with FAR Part 12. This announcement constitutes the only solicitation. Proposals are being requested and a separate written solicitation will not be issued.
+
+Solicitation number 70RTAC26R00000007 is issued as a Request for Proposal (RFP) for Network, Cloud, and Cybersecurity Services (NCCS) 2.0. The Government intends to establish a Single Award Department Wide, Indefinite Delivery Indefinite Quantity (IDIQ) contracting vehicle as a result of this solicitation.
+
+All responsible sources may submit a proposal as appropriate which will be considered by the agency. 
+	
+
+
+The Department of Homeland Security (DHS) Office of the Chief Information Officer (OCIO) 
+DHS Network Operations Security Center (NOSC)
+Network, Cloud, and Cyber Services (NCCS) 2.0
+Indefinite-Delivery/ Indefinite-Quantity (IDIQ) Contract
+
+September 16, 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUCTIONS FOR SUBMISSION OF PROPOSAL
+
+
+This acquisition is for the Department of Homeland Security (DHS) to establish a department-wide, single-award indefinite-delivery indefinite-quantity (IDIQ) contract to procure Network, Cloud and Cyber Services (NCCS) for the Office of the Chief Information Officer (OCIO). 
+Compliance with the RFP Requirements
+
+The offeror shall examine and follow all RFP instructions. The Government reserves the right to reject and not to evaluate any proposal that fails to comply with the instructions contained herein. This RFP does not commit the Government to pay any costs for the preparation and submission of a proposal in response to this RFP. The Contracting Officer (CO) is the only individual who can legally commit the Government to the expenditure of public funds in connection with this procurement.
+2.0	Proposal Submission
+
+Proposal submission consists of Phase 1 and Phase 2, using a down-select process. Phase 1 consists of a Pass/Fail selection process. Phase 2 consists of a Trade-Off process. All prospective offerors must participate in the Phase 1 submission to be considered for evaluation and to be invited to the Phase 2 evaluation. Only those offerors that are determined to pass the Phase 1 evaluation factor will be qualified for further competition and will be invited to Phase 2 participation. The Offeror shall submit signed and dated proposal volumes via email to  Nicole.Belanger@hq.dhs.gov and Michael.Lipperini@hq.dhs.gov by the due date identified below. The email subject line shall contain RFP No. 70RTAC26R00000007. The proposal shall be submitted by the following submission due date(s) and time(s):
+
+Phase 1: TBD
+
+Phase 2: TBD
+
+The Government reserves the right to reject any proposal that is not received by DHS within the due date/time, and/or any proposal that is not submitted in its entirety, or if the proposal is submitted in a method other than by the proposal submission instructions provided.
+
+Alternate proposals shall not be submitted and will not be considered.
+
+    Question Submission
+
+Questions concerning this RFP shall be made via e-mail using the Microsoft Excel Format below, to Nicole.Belanger@hq.dhs.gov and Michael.Lipperini@hq.dhs.gov. The due date for submission of questions is TBD.
+
+Responses to questions received will be provided to all prospective offerors via an RFP amendment to be posted to SAM.gov on or about TBD. Statements expressing opinions, sentiments, or conjectures are not considered valid inquiries or comments for this purpose and will not receive a response from DHS. Inquiries requesting a Government’s response that would compromise a fair competition will not be answered. Further, offerors are reminded that DHS will not address hypothetical questions aimed toward receiving a potential “evaluation decision” from DHS. In order to receive responses to questions, offerors shall submit their questions in a Microsoft Excel file following the format below.
+
+The table below shall be included in the email or as a separate attachment. 
+
+
+    Proposal Format and Contents
+
+The proposal will consist of three volumes. The written submission will consist of the technical volumes (Volume 1 and Volume 2) and the price volume (Volume 3), which are prepared as separate documents. The Technical proposal shall not contain any pricing information. The proposal shall be done as a phased submission, as it will be evaluated using a phased approach.
+
+Below is the proposal format:
+
+
+
+
+
+
+4.1 Submission of Volumes
+
+For written submissions, the document in print format shall be configured with a paper size of 8
+½ by 11 inches in the printed view. The font shall be Times New Roman, and the font size shall be 12 points. No reduction in size is permitted except for charts or graphs. In those instances where reduction is allowable, Offerors shall ensure the print is no less than 10 points for graphs and tables. Each page shall have margins of at least one inch on each page. 
+
+Phase 1, Volume 1 
+
+Cover Sheet
+
+A cover sheet shall accompany the proposal to set forth any information that the Offeror wishes to bring to the attention of the Government. At a minimum, the cover sheet shall include the following information:
+
+RFP 70RTAC26R00000007 – Volume [identify the volume number]
+Date of Submission
+Offeror's Name
+Offeror's Employer Identification Number (EIN)
+Taxpayer Identification Number (TIN)
+Offeror's primary and alternate points-of-contact (name, title, phone number, and email address)
+Prompt Payment Terms
+Expiration date of the proposal (at minimum 150 days from the quotation submission date)
+Corporate signature
+
+If subcontractors are proposed, each subcontractor shall provide the information for items (3) through (8) identified above. The Offeror shall clearly identify the subcontractor lead. The Offeror shall provide subcontractors with its Phase 1 submission, if applicable.
+
+SF 1449
+
+Blocks 30a, 30b and 30c must be completed with the Offeror’s corporate signatory authority’s signature.
+
+4.1.1.3    SF 30
+
+Blocks 15a, 15b, and 15c in the SF 30 (if any amendment(s) to the RFP are issued) must be completed with the Offeror’s corporate signatory authority’s signature. 
+
+4.1.1.4 Factor 1: Facility Clearance
+
+The offeror, as the Prime Contractor or all Teaming Partners proposed in a Joint Venture (JV) or Mentor Protégé response, to include all sub-contractors, are required to demonstrate its current active Facility Clearance at the Top-Secret level. Offerors shall provide official company name(s) and Commercial and Government Entity (CAGE) code(s) for the Prime Contractor or all Teaming Partners to include, for example Joint Ventures or Mentor Protégé. Company name(s) and CAGE codes(s) must be complete and accurate. Offerors do not need to provide a report or screenshot from National Industrial Security System (NISS). DHS will verify whether an offeror has an active Top Secret Facility Clearance by utilizing the Facility Verification Notification from the Defense Counterintelligence and Security Agency’s (DCSA) NISS. 
+
+
+Phase 2, Volume 2
+
+  Cover Sheet
+
+The offeror’s cover sheet submission shall be in accordance with Section 4.1.1.1. 
+
+4.1.2.2 		SF 30
+
+The offeror’s SF 30 submission shall be in accordance with Section 4.1.1.3.
+
+ 	Factor 2: Demonstrated Prior Experience and Reference Checks
+
+The Offeror shall describe demonstrated prior experience in accordance with the tasks in the statement of work (SOW) from three (3) contracts/task orders performed within the last five (5) years implementing relevant work. Relevant means contracts/task orders for projects of a comparable size, scope, and complexity to the requirement described in the SOW.  The Government requires offerors to demonstrate relevant prior experience providing network and systems management, cloud management, and cybersecurity services including geographically dispersed operations and surge support.  Experience must reflect the ability to execute and manage these functions in an environment of similar size, scope, and complexity as NCCS 2.0. 
+ 
+If the offeror has a subcontractor, or teaming partner, the offeror may include at least one instance of demonstrated prior experience from the Prime Contractor’s Subcontractor or teaming partner. 
+
+If demonstrated prior experience of Subcontractor or teaming partner is submitted, the Offeror must clearly identify the owner of the demonstrated prior experience.  
+
+For each example of prior experience provided, the Offeror shall, at a minimum, document: 
+ 
+Name of project, duration, and dollar value. 
+Government Agency or Company for whom work was performed and a name, title, e-mail and phone number for a representative of that client agency or company that can attest to the work performed. 
+Brief description of the size, scope and complexity of the project (sufficient to establish relevance of experience to the DHS requirement), and role of Prime, subcontractor, and/or teaming partner which clearly identifies the level and type of services performed under the contract.
+
+The Offeror is permitted to submit on-going projects as demonstrated prior experience if 12 months of performance, at a minimum, under the on-going contract has been completed and if the Offeror clearly describes the stage that the project is at/what has been completed under performance to date. 
+ 
+The Government may contact the identified representative of the Government agency or company as part of the reference checks to confirm the level and quality of this demonstrated prior experience.  
+
+4.1.2.4	Factor 3: Staffing and Management Approach
+
+The Offeror shall describe their comprehensive, sound and reasonable approach to staffing and managing the requirements as described in the SOW. Offerors shall describe their approach to staffing the NCCS effort, recruiting and retaining staff, development of staff technical capabilities, managing relationships with partners and subcontractors, and interfacing with Government points of contact.  Offerors shall submit resumes for key personnel in accordance with the SOW and describe their qualifications and certifications.  
+ 
+
+  Phase 2, Volume 3 – Price Proposal
+
+4.1.3.2	Cover Sheet
+
+The offeror’s cover sheet submission shall be in accordance with Section 4.1.1.1. 
+
+ Factor 4: Price
+
+This solicitation utilizes a Rates-Only Pricing approach. The Offerors shall submit their Price proposal by completing RFP Attachment 2, Pricing Template in accordance with the instructions tab.  The Pricing Schedule lists all labor categories required at the IDIQ level.  The Offeror shall enter its fully burdened labor rates for each listed labor category for the base period of performance and each option period.  Offerors will be evaluated on the labor rates entered for reasonableness.  
+ 
+  
+
+
+
+ 
+Sample Scenario 
+The Government will apply the hourly labor rates from Attachment 2 to a sample scenario to arrive at a total evaluated price to use in the best-value tradeoff analysis. The Government will not disclose this sample scenario to vendors.  The total evaluated price will be used when the best value decision is made.  The labor hours in the sample scenario will be based on historical NOSC/SOC usage so that it represents a typical task order for DHS Headquarters and Components. The scenario will not result in an actual task order but will be used solely for the evaluation purpose. Incompletion of the pricing table will result in the Government’s rejection of the price proposal. 
+  
+Failure to use the Excel template (Attachment 2) as provided, adding columns or manipulating the Excel sheet formulas other than to provide information in the areas specifically designated for response will be viewed as non-compliant and the Offeror will be removed from further consideration.
+
+
+	 
+
+
+
+	
+
+
+EVALUATION
+
+RFO FAR 52.212-2 Evaluation – Commercial Items (Nov 2026)
+The Government will award a contract resulting from this RFP to the responsible offeror whose offer conforming to the RFP will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers:
+
+Phase 1 (Mandatory Down-Select):
+
+Factor 1:  Facility Clearance (Pass/Fail)
+
+Phase 2: 
+
+Factor 2:  Demonstrated Prior Experience and Reference Checks
+Factor 3:  Staffing and Management Approach
+Factor 4:  Price 
+
+Order of Importance: 
+
+Phase 1 Evaluation Factor 1 is PASS/FAIL.
+Phase 2, Evaluation Factor 2 is more important than Factor 3. The ultimate best value determination will be made during Phase 2, considering Factors 2, 3 and 4. When combined, the non-price Factors of 2 and 3 are significantly more important than Factor 4 - Price. As the evaluation of the non-price factors approaches equality, price will assume greater importance.
+
+The evaluation of Factors 2 and 3 will be done with a rating scale of "high confidence," "some confidence," and "low confidence," representing the Government’s confidence that the Offeror understands the requirement and will be successful in performing the work.
+
+
+
+
+(b) Options (if applicable). The Government will evaluate offers for award purposes by adding the total price for all options to the total price for the basic requirement. The Government may determine that an offer is unacceptable if the option prices are significantly unbalanced. The evaluation of options does not obligate the Government to exercise the option(s).
+
+ (c) Notice of award. A written notice of award or acceptance of an offer furnished to the successful Offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party. Before the offer’s specified expiration time, the Government may accept an offer (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award.
+
+Basis for Award
+
+An award will be made on an evaluation of the price and non-price factors, with a trade-off analysis used to accomplish that evaluation and resulting best value determination. Best value, as defined by RFO FAR 2.101, means the expected outcome of an acquisition that, in the Government’s estimation, provides the greatest overall benefit in response to the requirement. Phase 1 will be evaluated on a PASS/FAIL basis and after the Government has completed Phase I evaluations, all Offerors will be notified in writing by the CO of the Government’s mandatory decision for Offerors to proceed or not to proceed with Phase II submissions. Phase 2 will evaluate non-price and price factors.  The Government reserves the right to make an award to other than the lowest priced offeror if the superior technical solution, or the solution indicating a reduced performance risk, warrants paying a price premium. The Government may also award to other than the highest technically rated proposal, if the Government determines that a price premium is not warranted. 
+
+The Government intends to evaluate offers and award a contract without discussions with offerors. Therefore, the offeror’s initial offer should contain the offeror’s best terms from a price and technical standpoint. However, the Government reserves the right to conduct discussions if determined to be warranted by the Contracting Officer.
+
+
+Evaluation Method
+
+The vendor selection process will follow two phases as described below:
+
+Mandatory Down-Select Process – Phase 1
+
+After the Government has completed Phase 1 evaluations, all offerors will be notified in writing by the CO of the Government’s mandatory decision for offerors to proceed or not to proceed with Phase 2 proposal submissions. Offerors who receive a PASS evaluation rating for Factor 1 will be invited to proceed to Phase 2 of the proposal submission process. Offerors who receive a FAIL evaluation rating for Factor 1 will be notified that they are ineligible for award and the offeror will be removed from further consideration. 
+
+Trade-off Process – Phase 2
+
+The Government will conduct the evaluation of proposals by utilizing non-price factors (Factor 2 Demonstrated Prior Experience and Reference Checks, Factor 3 Staffing and Management Approach), and the price factor (Factor 4 Price).
+
+2.0 Evaluation Factors
+
+Factor 1 ‐ Facility Clearance
+
+Through its evaluation of Factor 1, the Government will determine whether the offeror, as the Prime Contractor or all Teaming Partners proposed in a JV or Mentor Protégé response, has an active Facility Clearance at the Top-Secret level by utilizing the Facility Verification Notification from the DCSA NISS. Offerors who possess the required Top Secret Facility Clearance will receive a rating of PASS. Offerors who do not possess a Top-Secret Facility Clearance will receive a rating of FAIL. The NISS report will be used for verification of an offeror’s Top Secret Facility Clearance. Offerors who fail to demonstrate possession of the Top-Secret Facility Clearance in the Phase 1 submission will be found to be noncompliant with the RFP instructions, will not be evaluated further, and will be ineligible for award. Factor 1 will be evaluated only in Phase 1 mandatory down select and will not be further considered in the best value tradeoff decision.
+
+Factor 2 – Demonstrated Prior Experience and Reference Checks
+
+The Government will evaluate the Offeror’s demonstrated prior experience and reference checks
+to determine its confidence that the Offeror will successfully perform the work.
+
+Factor 3 – Staffing and Management Approach
+
+The Government will evaluate the Offeror’s staffing and management approach to determine its confidence that the Offeror will successfully perform the work.
+
+Factor 4:   Price
+
+The price proposal will be evaluated to determine if it is fair and reasonable. All proposed prices
+will be evaluated by reviewing the offeror’s completed Attachment 2 Pricing Template based on a Rates Only evaluation. The Government will apply the hourly labor rates from Attachment 2 to a sample scenario to arrive at a total evaluated price to use in the best-value tradeoff analysis. The Government will not disclose this sample scenario to vendors.  The total evaluated price will be used when the best value decision is made. The labor hours in the sample scenario will be based on historical NOSC/SOC usage so that it represents a typical task order for DHS Headquarters and Components. 
+The scenario will not result in an actual task order but will be used solely for the evaluation purpose. Incompletion of the pricing table will result in the Government’s rejection of the price proposal. 
+
+Except when it is determined in accordance with RFO FAR 17.206(b) not to be in the Government’s best interests, the Government will evaluate price proposals for any option periods contained in the RFP. This includes options under FAR clause 52.217-8, Option to Extend Services, which applies to this RFP. 
+
+In accordance with FAR 52.217-8, the option to extend services for an additional six months using FAR Clause 52.217-8 will be incorporated within the award resulting from this RFP. For the evaluation purpose, the Government will use the last option period pricing on Attachment 2 to evaluate the potential six additional months. The Government will determine whether the price including the option available under FAR 52.217-8 is fair and reasonable. The Government may choose to exercise the Option to Extend Services at the end of any performance period (base or option periods). Prices for the base and option periods, including the 6-month option available under FAR 52.217-8, will be evaluated to ensure that they are fair and reasonable for performance of the requirements established in the RFP and as proposed in the technical submission. The price for the effort associated with FAR 52.217-8 will not be included in the total awarded value at contract award. If, at the end of the contract’s period of performance (the end of the base period or any option period) and within the time period established in the clause, the Government chooses to exercise this option, the pricing will be pursuant to the rates specified in the contract for the preceding performance period.
+
+
+IDIQ TERMS AND CONDITIONS
+
+Only the Contracting Officer (CO) for the IDIQ is authorized to change the terms and conditions at the IDIQ level by issuing a modification bilaterally signed by the CO and the Contractor, which is also referred to as the IDIQ Holder.
+
+Type of Orders
+
+The IDIQ contract will allow for Firm Fixed Price (FFP), Time and Materials (T&M), Labor Hour (LH), and hybrid type orders. The type of order will be identified at the order level.
+
+Flow Down of Clauses
+
+All clauses on the Contractor’s IDIQ contract will flow down to each order. 
+
+No Obligation of Funds
+
+No funding obligation will be made on the IDIQ contract, since each individual order placed against this IDIQ contract will obligate funds. 
+
+This IDIQ contract does not obligate any additional funds. 
+
+Guarantee and Maximum Contract Limitation
+
+The minimum guaranteed order amount under this IDIQ is $10,000. 
+
+Task Orders may order vastly differing quantities, under a wide variety of services in accordance with the Statement of Work, in terms of Tasks (see Section 3) and Attachment 3, Labor Category Descriptions, but in no event will the cumulative dollar ceiling value of all Task Orders issued exceed $625,996,046.00 for all years. The cumulative dollar ceiling value is currently an estimate and subject to change prior to final solicitation release.
+
+The Government has no obligation to issue Orders to the Contractor beyond the amount specified in this section.
+
+IDIQ Ordering Procedures
+
+IDIQ orders and administration thereof will be performed by duly appointed COs assigned by DHS Headquarters and Components within their warrant authority. The order-level CO shall award and administer orders in accordance with the DHS internal ordering procedures that will be established immediately after the IDIQ award, and the procedures outlined in FAR 16.505(a) FAR Class Deviation 26-04, Rev. 1 for FAR Part 16  Ordering from Single-award IDIQ contract. Task orders are subject to the terms and conditions of the IDIQ contract.
+
+All costs associated with the preparation of the Contractor’s order proposals will be at the Contractor’s expense.
+
+When a requesting office identifies a need that is within the scope of this IDIQ contract, the requesting office’s CO and COR shall follow all Headquarters/Component procedures for ordering off a single-award IDIQ contract.
+
+IDIQ orders may only be issued from the date of the IDIQ contract establishment through the IDIQ contract’s expiration date. The maximum period of performance for the order after the expiration date of the IDIQ contract shall be no longer than twelve (12) months.
+
+Each order issued under this IDIQ contract will include the following information, as applicable:
+
+IDIQ contract number and order number;
+Date of the order;
+Description of the work to be performed;
+The work schedule, period of performance, or required completion date (include the requesting office’s typical hours of operation, if applicable);
+Place of performance;
+Deliverables;
+CLIN number and description, quantity, unit price, and extended total;
+The firm-fixed-price to complete the requirements or labor-mix table with labor categories and rates identified;
+The security requirements;
+The payment schedule; and
+Accounting and appropriation data.
+
+Special Requirements for T&M and LH Orders
+
+For each order against this IDIQ contract that is issued on a T&M or LH basis, additional provisions and clauses required for and/or applicable to T&M or LH services will be incorporated by the Component ordering office in its RFP and the resultant task order award.
+
+Organizational Conflicts of Interest Notice
+
+The Offeror shall be aware that they may be deemed ineligible to participate in task orders by reason of an organizational conflict of interest (OCI) (see RFO FAR 9.5). The Contractor’s eligibility or ineligibility related to the existing or potential OCI to participate in task orders is determined by the task order level CO.
+
+Termination
+
+Notwithstanding any other provision relating to this IDIQ contract, DHS may terminate the IDIQ contract at any time in accordance with RFO FAR 52.212-4 (l) or (m) (FAR Class Deviation 25-21 Rev.2.) Any disputes will be handled in accordance with RFO FAR 52.212-4 (e).
+
+
+Discounts
+
+The Contractor is encouraged to provide additional discounts at the order level from its IDIQ established rates for any contract line items (CLINs). The Contractor shall make efforts to have any discounted rates, which are given to DHS Components in future orders and are more advantageous than the IDIQ rates, available for other future Components orders.
+
+The discount pricing established at the IDIQ level shall be maintained throughout the life of the IDIQ, unless a price adjustment is justified and incorporated by the IDIQ CO.
+
+The IDIQ labor category list may be updated during the term of the IDIQ. Labor categories may be added or removed at the IDIQ level. This will require a modification, subject to approval by the CO and COR.  Labor rates may be adjusted down but not up during the term of the IDIQ.
+
+Travel
+
+The Contractor may be required to travel to support the order requirements.  All travel required by the Government, when the travel destination is beyond a 50-mile radius of the Contractor’s primary work location (either the assigned DHS onsite facility or the Contractor’s corporate office) will be reimbursed to the Contractor in accordance with the Federal Travel Regulations and RFO FAR 31.205-46 FAR Class Deviation 25-12, for FAR Part 31.  The contractor shall be responsible for obtaining advance COR approval (electronic mail is acceptable) for all reimbursable travel in advance of each travel event. The travel requirement will be either in the contiguous United States (CONUS) or outside the contiguous United States (OCONUS).
+
+
+
+Other Direct Cost (ODC) - Other than Travel
+
+Materials and supplies are separate and distinct from those items included in the fixed rate or fixed price portions of the contract or included in the contractor's indirect rates. The contractor shall not charge the Government for materials/supplies that are priced in the fixed rates or fixed price portions of the contract or included in the indirect rates.
+
+13.0    INSPECTION AND ACCEPTANCE
+Clauses Incorporated by Reference (RFO FAR 52.252-2) (FEB 1998)
+
+
+
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at FAR Overhaul - FAR  Part Deviation Guidance | Acquisition.GOV.
+
+13.1 Acceptance
+Acceptance of all work and effort under the associated Task Orders shall be accomplished in writing by the Task Order Contracting Officer or their duly designated representative.
+The basis for acceptance shall be in compliance with the requirements set forth in the Statement of Work, the terms and conditions of this contract, and other terms and conditions specified at the Task Order level. Services and/or deliverable items rejected shall be corrected in accordance with the applicable clauses.
+Reports, documents and narrative type deliverables will be accepted when all discrepancies, errors or other deficiencies identified in writing by the government have been corrected.
+Non-conforming products or services will be rejected or revised as directed by the Task Order CO or COR as specified in the Statement of Work. Unless otherwise agreed by the parties, deficiencies will be corrected within five (5) business days of the rejection notice. If the deficiencies cannot be corrected within the specified period, the Contractor will immediately notify the Task Order Contracting Officer of the reason for the delay and provide a proposed corrective action plan within ten (10) business days.
+
+
+
+
+
+
+
+
+
+14.0   DELIVERIES OR PERFORMANCE
+Clauses Incorporated by Reference (RFO FAR 52.252-2) (FEB 1998)
+
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at FAR Overhaul - FAR Part Deviation Guidance | Acquisition.GOV. https://www.acquisition.gov/far-overhaul/far-part-deviation-guide
+
+
+14.1    IDIQ Contract Period of Performance/Ordering Period
+
+The Period of Performance of this IDIQ contract, which will also be referred to as the Ordering Period, will be a 12-month base ordering period with four (4) 12-month optional ordering periods. The period of performance dates are as follows: 
+
+Base Period:	    	 1 year
+Option Period One:	 1 year
+Option Period Two:	 1 year
+Option Period Three:	 1 year
+Option Period Four:       	 1 year
+
+* Actual dates will be completed at award.
+
+Orders may be issued at any time during the IDIQ contract period of performance and may extend for a period of twelve (12) months after the expiration date of the IDIQ contract. The period of performance of each order will be specified at the order level.
+
+14.2   Hours of Operation
+
+Contractor employees shall be required to work other than normal business hours, including weekends and holidays, to fulfill requirements under the Statement of Work. Contractor employees shall perform all work on a 24x7x365 basis.
+The Contractor will be required to provide services on the following federal holidays in support of this mission critical contract.
+New Year's Day - 1 January
+Martin Luther King's Birthday - Third Monday in January
+Inauguration Day – January 20 (or 21st if the 20th is a Sunday)
+Washington’s Birthday - Third Monday in February
+Memorial Day - Last Monday in May
+Juneteenth – 19 June
+Independence Day - 4 July 
+Labor Day - First Monday in September 
+Columbus Day - Second Monday in October 
+Veterans Day - 11 November 
+Thanksgiving Day - 4th Thursday in November 
+Christmas Day - 25 December 
+
+14.3   Deliverables
+
+(a)   Contract deliverables shall be in accordance with the Statement of Works.
+
+(b)   All applicable Task Order deliverables, their required delivery dates, destination of 
+delivery, and schedule for completion of work to be performed will be specified in Task Orders 
+issued under this IDIQ contract, as applicable.
+
+(c)   For purposes of delivery, all deliverables shall be made by close of business (COB) 4:30
+P.M. local time at destination, Monday through Friday, unless stated otherwise in a Task Order.
+
+(d)   All deliverables submitted in electronic format shall be free of any known computer virus or 
+defects. If a virus or defect is found, the initial deliverable will not be accepted. The 
+replacement file shall be provided within two (2) business days after notification of the presence 
+of a virus or defect.
+
+(e)   In addition to the deliverables required by this contract, additional applicable deliverables 
+may be required, where their specific format and delivery schedule will be specified in the 
+individual Task Orders issued under this IDIQ contract.
+
+
+15.0  Contract Accounting and Administration Data
+
+Accounting and appropriation data for obligations under the contract will be set forth on individual Task Orders. 
+
+15. 1  Primary Government Roles and Responsibilities 
+
+The following subsections describe the roles and responsibilities of individuals and/or authorized users who will be the primary Points of Contact (POC) for the Government on matters regarding contract administration as well as other administrative information. The Government reserves the right to unilaterally change any of these individual assignments at any time. 
+
+15.2  NCCS 2.0 Contracting Officer (CO) – IDIQ Contract Level 
+
+The IDIQ contract CO is the sole and exclusive Government official with actual authority to administer and modify the terms and conditions of the IDIQ contract, monitor the Contractor's performance in the areas of IDIQ contract compliance and IDIQ contract administration, and assist the Contractor and OCOs on matters related to the IDIQ contract’s terms and conditions. The Contracting Officer shall authorize any such revision in writing. In addition, the IDIQ CO makes all final decisions pertaining to within scope determination requests. 
+
+The IDIQ Contract CO may delegate routine administrative functions to an appointed Federal employee. 
+
+Contracting Officer:
+Name: Tisha Blue-Warren
+Email: Tisha.Blue-Warren@hq.dhs.gov 
+
+Contract Specialists:
+Name: Nicole Belanger
+Email: Nicole.Belanger@hq.dhs.gov
+
+Name: Michael Lipperini
+Email: Michael.Lipperini@hq.dhs.gov
+
+15.3   NCCS 2.0 Contracting Officer’s Representative (COR) – IDIQ Contract Level: 
+
+The Contracting Officer will designate in writing a Contracting Officer’s Representative (COR) to assist in monitoring the work under this IDIQ. The COR is responsible for the technical administration of the IDIQ and technical liaison with the Contractor. The COR is not authorized to change the scope of work or specifications as stated in the IDIQ, to make any commitments or otherwise obligate the Government or authorize any changes which affect the IDIQ ceiling, rates, delivery schedule, period of performance, or other terms or conditions. The Contractor will receive a copy of the COR Appointment Letter outlining the roles and responsibilities of the COR. A COR has no actual, apparent, or implied authority to make any commitments or changes that affect price, quality, quantity, delivery, or other terms and conditions of the IDIQ contract or any task order, nor in any way direct the Contractor or its subcontractors to operate in conflict with the IDIQ contract’s or task order’s terms and conditions. 
+
+The NCCS 2.0 IDIQ contract COR is responsible for the receipt and acceptance of the IDIQ-level deliverables and reports and past performance reporting for the NCCS 2.0 IDIQ contract. The COR supports the NCCS 2.0 IDIQ contract CO in the general management of the program. The NCCS 2.0 IDIQ contract COR will be:
+
+Name: 	TO BE COMPLETED AT TIME OF AWARD
+Email:	TO BE COMPLETED AT TIME OF AWARD
+Tel No:	TO BE COMPLETED AT TIME OF AWARD
+
+The IDIQ contract COR for this contract will be identified by the IDIQ contract CO through a written designation. A copy of the letter of designation with specific duties and responsibilities will be provided to the Contractor.
+
+15.4  Order Level Contracting Officer (CO)
+
+Only the designated IDIQ Contracting Officer or a warranted DHS Office of Procurement Operations Contracting Officer are authorized to issue orders against this Contract. This is a decentralized DHS Department Wide IDIQ Contract in support of the Office of the Chief Information Officer. All DHS Components and offices are authorized to issue orders off of this IDIQ Contract.
+
+15.5   Order Level Contracting Officer Representative (COR)
+Task Order COs may designate individual Task Orders Level Contracting Officer Representative (COR) that will be responsible for the day-to-day coordination of that Task Order. The COR for each Task Order will be appointed by the Task Order CO through a written designation. A copy of the letter of appointment with specific duties and responsibilities will be provided to the Contractor.
+15.6   Award of Orders Under the Contract
+Each Order issued against this IDIQ Contract will, at a minimum, include the following information as applicable:
+IDIQ Contract number and Delivery/Task Order number;
+Date of the order;
+Description of the service(s) to be acquired and/or work to be performed or supplies to be delivered;
+The period of performance, or required delivery date;
+Place of performance
+Deliverables
+Contract Line-Item Number (CLIN) and description, quantity, unit price and extended total
+Accounting and appropriation data
+
+15.7  Task Order Placement Procedures
+
+The Ordering Contracting Officer (OCO) must negotiate and administer delivery/task orders in accordance with the ordering procedures set forth in this IDIQ Contract. For products/services pre-priced in the IDIQ contract, the OCO can directly issue a delivery/task order to the IDIQ contract
+holder. For products/services not pre-priced in the IDIQ contract, the OCO shall:
+
+1) Ensure the products/services are in scope of the contract and consult with the IDIQ
+CO/COR if needed
+2) Submit a Request for Quotation/Proposal to the IDIQ contract holder; The Contractor shall 
+include a detailed description of any items added and provide evidence in the Quotation/Proposal 
+that competitive proposals were obtained for pricing offered to the Government in accordance with 
+the contractor’s approved purchasing system
+3) Evaluate the Quotation/Proposal and conduct cost/price analysis to ensure that the price is fair 
+and reasonable prior to making an award
+
+Individual orders will detail products or services required, in addition to any other 
+order-specific information. Orders will be within the scope, issued within the period of 
+performance, and be within the maximum value of the IDIQ contract. Only the Contracting Officer may 
+modify the IDIQ contract to change the scope, period, or estimated value.
+
+15.8   Invoice Preparation and Submission
+
+Please see RFO FAR 52.212-4(g) (APRIL 2026)(DEVIATION 25-21 Rev 2).
+
+Invoice instructions will be specified at the Task Order Level. Unless otherwise stated in the Task Order, the Contractor shall submit an original invoice and three copies (or electronic invoice, if authorized) to include at a minimum, the following information:
+
+(a)  Name and address of the Contractor;
+(b)  Invoice date and number;
+(c)  Contract number, contract line item number (CLIN) and delivery order number;
+(d)  Description, quantity, unit of measure, unit price and extended price of the items delivered;
+(e)  Shipping number and date of shipment, including the bill of lading number and weight of 
+shipment if shipped on Government bill of lading;
+(f)  Terms of any discount for prompt payment offered;
+(g)  Name and address of official to whom payment is to be sent;
+(h)  Name, title, and phone number of person to notify in event of defective invoice; and
+(i)  Electronic funds transfer (EFT) baking information.
+
+All invoices shall be submitted to the “Designated Billing Office” and/or “Designated Payment 
+Office” address specified in each Task Order. Invoices will be handled in accordance with the 
+Prompt Payment Act and payment will be made for items accepted by the Government that have been 
+delivered to the delivery destination set forth in each delivery order.
+
+Invoice for a time-and-material or labor-hour delivery order shall be billed and processed in 
+accordance with RFO FAR 52.212-4, Alternate I (APRIL 2026)(DEVIATION 25-21 Rev 2).
+
+The Contractor shall submit one invoice by the 5ᵗʰ business day of each month. Contract Line Item 
+Number (CLIN) for each billed item:
+Firm Fixed Price (FFP) CLIN – The Contractor shall bill in equal installments as identified by the associated CLIN Schedule in the task order.
+
+The Contractor shall submit invoices electronically to the address below: E-mail: 
+TBD
+Simultaneously provide an electronic copy of the invoice to the following individuals at the addresses below:
+ATTN: Contract Specialist - TBD
+ATTN: Contracting Officer – TBD  
+ATTN:   Contracting Officer Representative (COR) – TBD
+
+The contractor shall submit invoices to the email address above. Additionally, the contractor shall prepare and submit a sufficient and procurement regulatory compliant invoice and receiving report for technical certification of inspection/acceptance of services and approval for payment. The contractor shall attach backup information to the invoices and receiving reports substantiating all costs for services performed. The receiving agency’s written or electronic acceptance by the COR and date of acceptance shall be included as part of the backup documentation. If the invoice is submitted without all required back up documentation, the invoice shall be rejected. The Government reserves the right to have all invoices and backup documentation reviewed by the Contracting Officer prior to payment approval.
+
+16.0  SPECIAL CONTRACT REQUIREMENTS
+
+16.1   Authorized Users 
+This IDIQ contract is available for the use by only the DHS OPO Contracting Officers and the Office of the Under Secretary of Management unless delegated authority is given to other DHS Contracting Officers. 
+All Task Order solicitations must be sent to the IDIQ contract COR at the same time they are sent to the Contractor. The Contractor shall not provide a response to any Task Order solicitation that the IDIQ contract COR was not copied on. 
+
+16.2   Training 
+The Government will not allow costs, nor reimburse costs associated with the Contractor training employees to attain and/or maintain minimum personnel qualification requirements of this IDIQ contract or any Task Order. 
+
+16.3  Clause Refresh 
+DHS reserves the unilateral right to update the clauses in this contract based upon changes to the RFO FAR or the Homeland Security Acquisition Regulation (HSAR) upon written notification to the contractor or as a result of a mutual agreement of the parties. 
+
+16.4   Government Furnished Property (GFP) 
+The Government may furnish, entirely at its own choice, to the Contractor certain property to be used on-site on a no-cost-for-use basis, as necessary for the technical performance of the IDIQ contract. The Contractor shall use all reasonable care in protecting said property from damage or losses incurred, and will immediately advise the IDIQ contract COR of any repairs needed, damages or losses incurred, replacement required, etc. In no event shall any item of property, other than office operating supplies, be relocated or disposed of without the expressed authorization of the IDIQ contract COR. 
+Thirty (30) calendar days prior to the end of the IDIQ contract’s ordering period, or upon termination of the IDIQ contract, the Contractor shall furnish to the IDIQ contract COR a complete inventory of all Government Property in its possession under the contract that has not been tested to destruction, completely expended in performance or incorporated and made a part of a deliverable end item. The IDIQ contract COR will furnish disposition instructions on all listed property which was furnished or purchased under the IDIQ contract. 
+Additional GFP will be specified in individual Task Orders. 
+
+16.5   Government Furnished Information (GFI) 
+GFI will be specified in individual Task Orders.
+
+Contractor Acquired Property 
+If the Contractor is required to purchase property to perform this IDIQ contract or an associated Task Order, compliance with the procedures of RFO FAR Part 45, Government Property, is required. 
+
+16.6   Disclosure and Avoidance of Inherently Governmental Functions
+In accordance with RFO FAR Subpart 7.5, Inherently Governmental Functions, no personal services shall be performed under this IDIQ contract or any associated Task Order. No Contractor employee will be directly supervised by a Government employee. All individual Contractor employee assignments, and daily work direction, shall be given by the applicable employee supervisor. If the Contractor believes any Government action or communication has been given that would create a personal services relationship between the Government and any Contractor employee, the Contractor shall promptly notify both the IDIQ Contract and Task Order Contracting Officers of this communication or action.
+
+The Contractor shall not perform any inherently governmental actions as defined by RFO FAR Subpart 7.5. No Contractor employee shall hold him or herself out to be a Government employee, agent, or representative. No Contractor employee shall state orally or in writing at any time that he or she is acting on behalf of the Government. In all communications with third parties in connection with this contract, Contractor employees shall identify themselves as Contractor employees and specify the name of the company for which they work. In all communications with other Government contractors in connection with this contract, the Contractor employee shall state that they have no authority to in any way change the IDIQ contract or Task Order and that if the other contractor believes this communication to be a
+direction to change their contract or Task Order, they should notify their Contracting Officer and not
+carry out the direction until a clarification has been issued by their Contracting Officer.
+
+16.7 Disclosure of Information
+
+16.7.1   The contractor is reminded that information incorporated into the IDIQ or into an order may be subject to disclosure under the Freedom of Information Act (FOIA). 
+All items that are confidential to business, contain trade secrets, proprietary or personnel information shall be clearly marked. If such items are not marked, all information contained within the documents submitted will be deemed releasable. Marking of items will not necessarily preclude disclosure when DHS determines disclosure is warranted by FOIA.
+
+This section presents the general requirements applicable to NCCS 2.0 Support Services Contractor.
+
+16.7.2  Any information made available to the IDIQ Holder by the Government must be used only for the purpose of carrying out the provisions of this IDIQ and all subsequent orders and must not be divulged or made known in any manner to any person except as may be necessary in the performance of the order.
+
+16.7.3  In performance of this IDIQ, the IDIQ Holder assumes responsibility for protection of the confidentiality of Government records and must ensure that all work performed by its subcontractors shall be under the supervision of the IDIQ Holder or the IDIQ Holder's responsible employees.
+
+16.8  Non-Disclosure Agreements (NDA)
+All Contractor personnel performing work thereunder the IDIQ contract shall complete and sign DHS Form 11000-6, Non-Disclosure Agreement, or have executed a corporate-level NDA. The Contractor shall provide the completed form(s) to the IDIQ COR before any employee has access to any information, materials, or documents pertaining to the IDIQ contract.
+
+16.8.1  Each officer or employee of the IDIQ Holder or any of its subcontractors to whom any
+Government record may be made available or disclosed must be notified in writing by the IDIQ Holder that information disclosed to such officer or employee can be used only for a specific purpose and to the extent authorized herein.
+
+ 17.0   Other Information Technology (IT) Terms and Conditions
+ 
+17.1  ITAR SME Cybersecurity Policy
+
+All hardware, software, and services provided must be compliant with DHS Security Policy. The 4300 handbook is no longer in use. Reference Information Security Systems Program 4300A version 13.4, December 6, 2024.
+
+17.2  ISO Terms and Conditions for Sensitive but Unclassified Requests
+
+17.2.1. DHS Security Policy Requirement
+All hardware, software, and services provided under this contract must be compliant with DHS Information Security System Program 4300A version 13.4, December 6, 2024.
+
+17.2.2.  Encryption Compliance Requirement
+
+FIPS 197 (Advanced Encryption Standard (AES)) 256 algorithm and cryptographic modules that have been validated under FIPS 140-2 and / or FIPS 140-3.
+
+National Security Agency (NSA) Type 2 or Type 1 encryption.
+
+Public Key Infrastructure (PKI), key cards, biometrics, or in the case of multi-factor authentication, some combination therein (See Attachment U) Information Security Sensitive Systems Program Directive 4300A version 13.4, December 6, 2024.
+
+17.3  Security Review
+The Government may elect to conduct periodic reviews to ensure that the security requirements contained in the contract are being implemented and enforced. The Government, at its sole discretion, may obtain assistance from other Federal agencies and/or third-party firms to aid in security review activities. The Contractor shall afford DHS, the Office of the Inspector General, other government organizations, and Contractors working in support of the Government access to the Contractor’s facilities, installations, operations, documentation, databases, networks, systems, and personnel used in the performance of this contract. The Contractor shall, through the Contracting Officer and Contracting Officer's Representative (COR), contact the Component or Headquarters CIO, or designee, to coordinate and participate in review and inspection activity by government organizations external to DHS. Access shall be provided, to the extent necessary as determined by the Government (including providing all requested images), for the Government to carry out a program of inspection, investigation, and audit to safeguard against threats and hazards to the integrity, availability, and confidentiality of government data or the function of computer systems used in performance of this contract and to preserve evidence of computer crime.
+
+17.4  Interconnection Security Agreement Requirements 
+Interconnections between DHS and non-DHS IT systems shall be established only through controlled interfaces and via approved service providers. Connections with other federal agencies shall be documented based on interagency agreements, memoranda of understanding, service level agreements or interconnect service agreements. The applicable network connectivity policy is located in the Access Control Section, for “Interconnection Security Agreements,” of the DHS 4300A, Attachment N. 
+
+17.5  Security Authorization 
+A Security Authorization of any infrastructure directly in support of the DHS information system shall be performed as a general support system (GSS) prior to DHS occupancy to characterize the network, identify threats, identify vulnerabilities, analyze existing and planned security controls, determine likelihood of threat, analyze impact, determine risk, recommend controls, perform remediation on identified deficiencies, and document the results. The Security Authorization shall be performed in accordance with the DHS Security Policy and the controls provided by the hosting provider shall be equal to or stronger than the FIPS 199 security categorization of the DHS information system.
+
+At the beginning of the contract, and annually thereafter, the contractor shall provide the results of an independent assessment and verification of security controls. The independent assessment and verification shall apply the same standards that DHS applies in the Security Authorization Process of its information systems. Any deficiencies noted during this assessment shall be provided to the COR for entry into the DHS’ Plan of Action and Milestone (POA&M) Management Process. The contractor shall use the DHS’ POA&M process to document planned remedial actions to address any deficiencies in information security policies, procedures, and practices, and the completion of those activities. Security deficiencies shall be corrected within the timeframes dictated by the DHS POA&M Management Process. Contractor procedures shall be subject to periodic, unannounced assessments by DHS officials. The physical aspects associated with contractor activities shall also be subject to such assessments.
+
+The Government may elect to conduct periodic reviews to ensure that the security requirements contained in this contract are being implemented and enforced. The Government, at its sole discretion, may obtain assistance from other Federal agencies and/or third-party firms to aid in security review activities. Within ten working days’ notice, the Contractor shall afford DHS, the Office of the Inspector General, other government organizations, and Contractors working in support of the Government access to the Contractor’s facilities, installations, operations, documentation, databases, networks, systems, and personnel used in the performance of this contract. The Contractor shall, through the Contracting Officer and Contracting Officer’s Representative (COR), contact the Component or Headquarters Chief Information Officer, or designee, to coordinate and participate in the review and inspection activity of government organizations external to the DHS. Access shall be provided, to the extent necessary as determined by the Government (including providing all requested images), for the government to carry out a program of inspection, investigation, and audit to safeguard against threats and hazards to the integrity, availability and confidentiality of government data or the function of computer systems used in performance of this contract to preserve evidence of computer crime.
+
+17.6  DHS Enterprise Architecture Compliance
+All solutions and services shall meet DHS Enterprise Architecture policies, standards, and procedures. Specifically, the contractor shall comply with the following HLS EA requirements:
+​All developed solutions and requirements shall be compliant with the HLS EA.
+All IT hardware and software shall be compliant with the HLS EA Technical Reference Model (TRM) Standards and Products Profile.
+Description information for all data assets, information exchanges and data standards, whether adopted or developed, shall be submitted to the Enterprise Architecture Division (EAD) for review, approval and insertion into the DHS Data Reference Model and Mobius.
+Development of data assets, information exchanges and data standards will comply with the DHS Data Management Policy MD 103-01 and all data-related artifacts will be developed and validated according to DHS data management architectural guidelines.
+Applicability of Internet Protocol Version 6 (IPv6) to DHS-related components (networks, infrastructure, and applications) specific to individual acquisitions shall be in accordance with the DHS Enterprise Architecture (per OMB Memorandum M-05-22, August 2, 2005) regardless of whether the acquisition is for modification, upgrade, or replacement. All EA-related component acquisitions shall be IPv6 compliant as defined in the U.S. Government Version 6 (USGv6) Profile (National Institute of Standards and Technology (NIST) Special Publication 500-267) and the corresponding declarations of conformance defined in the USGv6 Test Program.​
+
+17.7 DHS-TSA Enterprise Architecture Compliance (Dec 2025)
+​
+The Contractor shall ensure that all architectural artifacts including but not limited to solutions, business, Data,  IT elements for legacy Transportation Security Equipment (TSE), Information Systems Security Agreements (ISSAs), System Design documents (SDDs), deliverables, and services are aligned and compliant with the current DHS and TSA Enterprise Architecture, the Common Approach to Federal Enterprise Architecture​, the Technology Business Management (TBM) Taxonomy, and Federal Information Technology Acquisition Reform Act (FITARA).
+All solutions and services shall meet DHS and TSA Enterprise Architecture policies, standards, and procedures.  Specifically:
+DHS and TSA Enterprise Architecture policies, standards, and procedures. 
+Homeland Security Enterprise Architecture (HLS EA) and TSA EA requirements.
+TSA and DHS IT Security, Cloud, Infrastructure (including Network), Application/Systems, Information/Data, Performance, and Business Architecture policies, directives, guidelines, standards, segment architectures and reference architectures.
+TSA functional capabilities
+TSA operational capabilities
+TSA lines of business
+TSA business processes
+TSA funding sources
+TBM Taxonomy for IT cost transparency​
+All software and tools that are used to build, develop, or deploy IT solutions for TSA, shall leverage the TSA NextGen Architecture (NGA) Technology Stack known as “The Kit”. In accordance with TSA CIO Priority 2.1 “Modernize, Simplify, Reduce and Enforce TSA IT and Data Toolkit”, use of “the Kit” will achieve modernization and simplification, with the ultimate goal of reducing the current TSA Technology Footprint.
+This includes new Transportation Security Equipment (TSE) and Legacy TSE that utilizes IT software, services, or equipment including embedded IT elements such as network switches, routers, In printers, etc.
+All solutions shall implement, and leverage TSA information and data standards as defined and approved per TSA policy.
+All solution architectures and services (e.g., Application, System, Network, Security, Information/Data, Cloud) shall be reviewed and approved by TSA EA as part of the TSA SELC (System Engineering Life Cycle) review process and in accordance with TSA IT Governance Management Directive 1400.20 with applicable DHS and TSA IT governance policies, directives, and processes.  This includes the Solution Engineering Review (SER), Preliminary Design Review (PDR) and Critical Design Review (CDR) stage gates. The required design artifacts include solution approach document, the PDR document, and System Design Document (SDD) as directed by EAD. Successful completion of the PDR/CDR stages results in an approved architecture which is required before proceeding to development.  An approved architecture is also a necessary critical step in receiving an Authority to Operate (ATO).    All implementations shall follow the approved solution architecture/design without deviation.  Any changes, to either the prior approved solution and/or prior approved design that are identified during subsequent SELC phases, including testing, implementation and deployment, shall undergo additional EA review prior to proceeding.
+TSA Offices acquiring Enterprise architecture type services at segment or solution levels shall engage and collaborate with the TSA Enterprise Architecture Division (EAD) to ensure strategic alignment of people, process, information, and technology and comply with enterprise level architecture governance, artifacts and standards.
+The Contractor shall engage domain architect(s) in EAD before SELC Obtain Phase, i.e., during SELC Need or “Analyze and Select” Phase.
+The Contractors shall collaborate with the EA domain architect(s) to deliver the required design artifacts and desired outcome under the guidance.
+The Contractor shall provide architecture and system/application data and models in prescribed formats to be stored in TSA's Enterprise Architecture Repository.
+In accordance with the TSA Cloud Strategy 2.0, April 2019, TSA's approach to cloud computing and governance of migration to the cloud, the contractor shall ensure that the cloud solutions utilize the SaaS (Software as a Service) model as its primary approach to cloud implementation, and also, when necessary, will use Platform as a Service (PaaS) or Infrastructure as a Service (IaaS). The contractor shall adhere to the principles of cloud strategy to systematically retire or replace legacy applications by use of an integrated approach to cloud planning, architecture, hybrid deployment, and operation.
+Applicability of Internet Protocol Version 6 (IPv6) to DHS-related components (networks, infrastructure, and applications) specific to individual acquisitions shall be in accordance with the DHS Enterprise Architecture (per OMB Memorandum M-21-07, November 2020​) regardless of whether the acquisition is for modification, upgrade, or replacement.  All EA related component acquisitions shall be IPv6 compliant as defined in the U.S. Government Version 6 (USGv6) Profile (National Institute of Standards and Technology (NIST) Special Publication 500-267) and the corresponding declarations of conformance defined in the USGv6 Test Program.
+Information and Data Governance and Management
+The Contractor shall develop, use, and dispose of TSA information and data assets following the TSA governance processes established by the Enterprise Information/Data Governance Board (EIDGB), in compliance with the DHS Enterprise Data Governance and Management MD (Management Directive) 103-01.
+TSA information and data assets include but are not limited to the TSA Data Catalog, TSA information and data standards, TSA Data Management Plan, TSA data sets (including open data sets for public consumption), TSA information and data stored in TSA repositories, TSA information and data in systems and applications (internal and external), and TSA information exchanges. 
+All TSA information and data, and all solutions that capture, store, use and provide TSA information and data shall comply with the Geospatial Data Act (GDA) of 2018 (P.L. 115-254) that requires agencies to foster efficient management of geospatial data/information, technologies, and infrastructure through enhanced coordination among Federal, state, local, and tribal governments, along with private sector and academia.
+Description information for all data assets shall be submitted to the TSA Enterprise Architecture Team, who will be responsible for coordination with DHS, and for review, approval and insertion into the TSA Data Reference Model and Enterprise Architecture Repository.
+In addition to the Federal Acquisitions Regulations (FAR) Subpart 27.4 – 'Rights in Data and Copyrights' and Section 35.011 detailing technical data delivery, the contractor shall provide all TSA-specific data in a format maintaining pre-existing referential integrity and data constraints, as well as data structures in a format understandable to TSA.  Examples of data structures can be defined as, but not limited to:
+Data models containing entities and attributes, identifying authoritative and trusted data sources, and depicting relationship mapping and, or linkages 
+Metadata information to define data definitions
+Detailed data formats, type, and size
+Delineations of the referential integrity (e.g., primary key/foreign key) of data schemas, structures, and or taxonomies
+Information exchange specifications
+
+All TSA-specific data shall be delivered in a secure and timely manner to TSA.  Data security is defined within the 'Requirements for Handling Sensitive, Classified, and/or Proprietary Information', section of this SOW (Statement of Work), SOO (Statement of Objectives) and PWS (Performance Work Statement).  This definition complies with not only the delivery of data, but also maintaining TSA-specific data within a non-TSA or DHS proprietary system.
+All metadata shall be pre-defined upon delivery to TSA.  Metadata shall be delivered in a format that is readily interpretable by TSA (e.g., metadata shall be extracted from any metadata repository that is not utilized by TSA and delivered in a TSA approved manner).  Metadata shall also provide an indication of historical version, the most current data to be used, as well as frequency of data refreshes.
+The contractor shall provide a Data Asset Repository Profile (DAR) and Data Management Plan (DMP) to EA using EA provided template before the preliminary/critical design review.  The DAR and DMP include conceptual and logical data models, data dictionaries, data asset profile, and other artifacts pertinent to the project's data.
+TSA adheres to the DHS NIEM (National Information Exchange Model) First policy and standards outlined in the DHS Memorandum, “Adoption of the National Information Exchange Model within the Department of Homeland Security," dated May 3, 2019.  All TSA information and data exchanges shall be NIEM compliant.  All TSA solutions that leverage TSA information and data exchanges shall be NIEM compliant. 
+17.8  DHS-United States Coast Guard (USCG) Enterprise Architecture Compliance
+All solutions and services shall meet DHS and USCG Enterprise Architecture policies, standards, and procedures. Specifically, the contractor shall comply with the following Homeland Security Enterprise Architecture (HLS EA) and USCG EA requirements:
+All developed solutions and requirements shall be compliant with the HLS and USCG EAs.
+All IT hardware and software shall be compliant with the HLS EA Technical Reference Model (TRM) Standards and Products Profile and with the USCG IT Products and Standards Inventory.
+Description information for all data assets, information exchanges and data standards, whether adopted or developed, shall be submitted to USCG Enterprise Architecture Division (EAD) and DHS Enterprise Architecture Division (EAD) for review, approval and insertion into the USCG and DHS Data Reference Model and Mobius.
+Development of data assets, information exchanges and data standards will comply with the DHS Data Management Policy MD 103-01 and all data-related artifacts will be developed and validated according to DHS data management architectural guidelines.
+Applicability of Internet Protocol Version 6 (IPv6) to DHS-related components (networks, infrastructure, and applications) specific to individual acquisitions shall be in accordance with the DHS Enterprise Architecture (per OMB Memorandum M-05-22, August 2, 2005) regardless of whether the acquisition is for modification, upgrade, or replacement. All EA-related component acquisitions shall be IPv6 compliant as defined in the U.S. Government Version 6 (USGv6) Profile (National Institute of Standards and Technology (NIST) Special Publication 500-267) and the corresponding declarations of conformance defined in the USGv6 Test Program.​
+
+17.9  DHS-CBP Enterprise Architecture Compliance
+​The Offeror shall ensure that the design conforms to the Department of Homeland Security (DHS) and Customs and Border Protection (CBP) Enterprise Architecture (EA), the DHS and CBP Technical Reference Models (TRM), and all DHS and CBP policies and guidelines (such as the CBP Information Technology Enterprise Principles and the DHS Service Oriented Architecture - Technical Framework), as promulgated by the DHS and CBP Chief Information Officers (CIO), Chief Technology Officers (CTO) and Chief Architects (CA).
+
+The Offeror shall conform to the Federal Enterprise Architecture (FEA) model and the DHS and CBP versions of the FEA model, as described in their respective EAs. All models will be submitted using Business Process Modeling Notation (BPMN 1.1 or BPMN 2.0 when available) and the CBP Architectural Modeling Standards. Universal Modeling Language (UML2) may be used for infrastructure only. Data semantics shall be in conformance with the National Information Exchange Model (NIEM). Development solutions will also ensure compliance with the current version of the DHS and CBP target architectures.
+
+Where possible, the Offeror shall use DHS/CBP approved products, standards, services, and profiles, as reflected by the hardware, software, application, and infrastructure components of the DHS/CBP TRM/standards profile. If new hardware, software, or infrastructure components are required to develop, test, or implement the program, these products will be coordinated through the DHS and CBP formal Technology Insertion (TI) process (to include a trade study with no less than four alternatives, one of which reflecting the status quo and another reflecting multi- agency collaboration). The DHS/CBP TRM/standards profile will be updated as TIs are resolved.
+All developed solutions shall be compliant with the Homeland Security (HLS) EA. All IT hardware and software shall be compliant with the HLS EA. Compliance with the HLS EA shall be derived from and aligned through the CBP EA.
+
+Description information for all data assets, information exchanges and data standards, whether adopted or developed, shall be submitted to the Enterprise Architecture Division (EAD) for review, approval, and insertion into the DHS Data Reference Model and Mobius.
+ Development of data assets, information exchanges, and data standards will comply with the DHS Data Management Policy MD 103-01. All data-related artifacts will be developed and validated according to DHS Data Management Architectural Guidelines.
+
+Applicability of Internet Protocol version 6 (IPv6) to DHS-related components (networks, infrastructure, and applications) specific to individual acquisitions shall be in accordance with the DHS EA (per OMB Memorandum M-05-22, August 2, 2005), regardless of whether the acquisition is for modification, upgrade, or replacement. All EA related component acquisitions shall be IPv6 compliant, as defined in the USGv6 Profile (NIST Special Publication 500-267) and the corresponding declarations of conformance, defined in the USGv6 Test Program.​
+
+17.10  ITAR SME Geospatial DATA ACT (GDA)
+
+In accordance with the Geospatial Data Act (GDA) of 2018 (U.S. Code, Title 43 – Public Lands,
+Chapter 46: Geospatial Data) all vendors shall:
+Ensure that all geospatial data, created or procured, complies with, Federal Geographic Data Committee (FGDC) endorsed standards and Department of Homeland Security Geospatial Management Office policies and best practices for metadata, records retention and privacy requirements.
+Ensure interoperability of geospatial data and allocate resources for effective data management.
+Support DHS in reducing duplicative data acquisition, as appropriate, by searching available data at Data.gov, Sam.gov and data from Homeland Security Enterprise partners (including, state, local, Tribal governments, private sector, and academia). 
+Ensure that geospatial data is made available to the public, as appropriate
+
+17.11   ITAR SME Identity and Credentials Management (ICAM)
+
+HSPD-12: 
+Procurements for products, systems, services, hardware, or software involving controlled facility or information systems shall be PIV-enabled by accepting HSPD-12 PIV credentials as a method of identity verification and authentication.
+
+Procurements for software products or software developments shall be compliant by PIV by accepting PIV credentials as the common means of authentication for access for federal employees and contractors.
+PIV-enabled information systems must demonstrate that they can correctly work with PIV credentials by responding to the cryptographic challenge in the authentication protocol before granting access.
+If a system is identified to be non-compliant with HSPD-12 for PIV credential enablement, a remediation plan for achieving HSPD-12 compliance shall be required for review, evaluation, and approval by the CISO.
+The Homeland Security Presidential Directive 12 (HSPD-12) requires the use of the Personal Identity Verification (PIV) credentials as the common means of authentication for access to DHS facilities, networks, and information systems. Personal Identity Verification (PIV) credentials shall be used as the primary means of logical authentication for DHS sensitive systems. The Contractor must use his or her federal issued Personal Identity Verification (PIV) credentials to access DHS resources to include IT applications and physical facility.
+The DHS Office of the Chief Security Officer shall be notified of all terminations/resignations within five (5) days of occurrence. The Contractor shall return to the Contracting Officer’s Representative (COR) all DHS issued Personal Identity Verification (PIV) credentials /identification cards and building passes that have either expired or have been collected from terminated employees. If a PIV credential/identification card or building pass is not available to be returned, a report shall be submitted to the COR, referencing the PIV credential, pass or card number, name of individual to whom it was issued and the last known location and disposition of the PIV credential, pass or card. The Contractor or contractor personnel’s failure to return all DHS issued identification cards and building passes upon expiration, upon the contractor personnel’s removal from the contract, or upon demand by DHS may subject the contractor personnel and the Contractor to civil and criminal liability.
+
+17.12  PIV/CAC Language For Coast Guard 
+The Homeland Security Presidential Directive 12 (HSPD-12)
+The Homeland Security Presidential Directive 12 (HSPD-12) requires the use of the Personal Identity Verification (PIV)/Common Access Card (CAC) credentials as the common means of authentication for access to DHS facilities, networks, and information systems. PIV/(CAC) credentials shall be used as the primary means of logical authentication for DHS sensitive systems. The Contractor must use his or her federal issued PIV/(CAC) credentials to access DHS resources to include IT applications and physical facility.
+
+The DHS Security Office shall be notified of all terminations/resignations within five (5) days of occurrence. The Contractor shall return to the Contracting Officer’s Representative (COR) all DHS issued PIV/CAC credentials / identification cards and building passes that have either expired or have been collected from terminated employees. If a PIV/CAC credential/identification card or building pass is not available to be returned, a report shall be submitted to the COR, referencing the PIV/CAC credential, pass or card number, name of individual to who it was issued and the last known location and disposition of the PIV/CAC credential, pass or card.
+
+18.0	Contract Clauses
+
+The following Revolutionary Federal Acquisition Regulation (FAR) Overhaul (RFO) FAR and Homeland Security Acquisition Regulations (HSAR) clauses are incorporated by reference into this solicitation, the IDIQ, and ALL Task Orders awarded as a result of it.
+All clauses referenced or incorporated below are applicable to this Single Award IDIQ Contract and to all associated orders unless otherwise stated. DHS may include additional contract clauses in Delivery/Task Orders issued under this contract other than those enumerated herein such as (1) optional FAR clauses, (2) optional DHS clauses, (3) unreferenced RFO FAR or HSAR alternate clauses, and (4) order specific clauses.
+18.1  RFO FAR 52.252-2 Clauses Incorporated by Reference (Feb 1998)
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available.
+Also, the full text of a clause may be accessed electronically at this address: FAR Overhaul - FAR  Part Deviation Guidance | Acquisition.GOVor for DHS specific clauses at:
+https://www.acquisition.gov/hsar
+
+The following clauses are incorporated by reference:
+
+
+
+18.2  RFO FAR Clauses Incorporated in Full Text
+52.216-18 Ordering (Aug 2020)
+
+(a)Any supplies and services to be furnished under this contract shall be ordered by issuance of delivery orders or task orders by the individuals or activities designated in the Schedule. Such orders may be issued from TBD
+
+(b)All delivery orders or task orders are subject to the terms and conditions of this contract. In the event of conflict between a delivery order or task order and this contract, the contract shall control.
+
+(c)A delivery order or task order is considered "issued" when—
+
+(1)If sent by mail (includes transmittal by U.S. mail or private delivery service), the Government deposits the order in the mail;
+(2)If sent by fax, the Government transmits the order to the Contractor's fax number; or
+(3)If sent electronically, the Government either—
+(i)Posts a copy of the delivery order or task order to a Government document access system, and notice is sent to the Contractor; or
+(ii)Distributes the delivery order or task order via email to the Contractor's email address.
+
+(d)Orders may be issued by methods other than those enumerated in this clause only if authorized in the contract.
+
+(End of clause)
+
+52.216-19 Order Limitations (OCT 1995)
+
+Minimum order. When the Government requires supplies or services covered by this contract in an amount of less than $10,000.00, the Government is not obligated to purchase, nor is the Contractor obligated to furnish, those supplies or services under the contract.
+
+Maximum order. The Contractor is not obligated to honor-
+
+Any order for a single item in excess of $625,996,046.00;
+
+Any order for a combination of items in excess of $625,996,046.00; or
+
+A series of orders from the same ordering office within 30 days that together call for quantities exceeding the limitation in paragraph (b)(1) or (2) of this section.
+
+If this is a requirements contract (i.e., includes the Requirements clause at subsection RFO 52.216-21 of the Federal Acquisition Regulation (FAR)), the Government is not required to order a part of any one requirement from the Contractor if that requirement exceeds the maximum-order limitations in paragraph (b) of this section.
+
+Notwithstanding paragraphs (b) and (c) of this section, the Contractor shall honor any order exceeding the maximum order limitations in paragraph (b), unless that order (or orders) is
+returned to the ordering office within 30 days after issuance, with written notice stating the Contractor’s intent not to ship the item (or items) called for and the reasons. Upon receiving this notice, the Government may acquire the supplies or services from another source.
+
+(End of clause)
+
+52.216-22 Indefinite Quantity (Deviation 26-04, Rev. 1) (Nov 2025)
+
+This is an indefinite-quantity contract for the supplies or services specified, and effective for the period stated, in the Schedule. The quantities of supplies and services specified in the Schedule are estimates only and are not purchased by this contract.
+
+Delivery or performance shall be made only as authorized by orders issued in accordance with the Ordering clause. The Contractor shall furnish to the Government, when and if ordered, the supplies or services specified in the Schedule up to and including the quantity designated in the Schedule as the “maximum.” The Government shall order at least the quantity of supplies or services designated in the Schedule as the “minimum.”
+
+Except for any limitations on quantities in the Order Limitations clause or in the Schedule, there is no limit on the number of orders that may be issued. The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
+
+Any order issued during the effective period of this contract and not completed within that period shall be completed by the Contractor within the time specified in the order. The contract shall govern the Contractor’s and Government’s rights and obligations with respect to that order to the same extent as if the order were completed during the contract’s effective period; provided, that the Contractor shall not be required to make any deliveries under this contract after November 24, 2036.
+
+(End of clause)
+
+52.217-8 Option to Extend Services (NOV 1999)
+
+The Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice to the Contractor within seven (7) days before contract expiration.
+
+(End of Clause)
+
+52.217-9 Option to Extend the term of the Contract (MAR 2000)
+
+The Government may extend the term of this contract by written notice to the Contractor within seven (7) days before IDIQ contract expiration; provided that the Government gives the Contractor a preliminary written notice of its intent to extend at least fourteen (14) days before
+IDIQ contract expiration. The preliminary notice does not commit the Government to an extension.
+
+If the Government exercises this option, the extended contract shall be considered to include this option clause.
+
+The total duration of this contract, including the exercise of any options under this clause, shall not exceed 5years.
+
+FAR 52.219-14 Limitations on Subcontracting (DEVIATION 26-03, Rev. 1) (NOV 2025) 
+(a) This clause does not apply to the unrestricted portion of a partial set-aside. 
+(b) Definition. Similarly situated entity, as used in this clause, means a first-tier subcontractor, including an independent contractor, that— 
+(1) Has the same small business program status as that which qualified the prime contractor for the award (e.g., for a small business set-aside contract, any small business concern, without regard to its socioeconomic status); and 
+(2) Is considered small for the size standard under the North American Industry Classification System (NAICS) code the prime contractor assigned to the subcontract. 
+(c) Applicability. This clause applies only to— 
+(1) Contracts that have been set aside for any of the small business concerns identified in 19.000(a)(3);
+(2) Part or parts of a multiple-award contract that have been set aside for any of the small business concerns identified in 19.000(a)(3); 
+(3) Contracts that have been awarded on a sole-source basis in accordance with sections 19.105, 19.106, 19.107, and 19.108;(4) Orders expected to exceed the simplified acquisition threshold and that are— 
+Set aside for small business concerns under multiple-award contracts, as described in 8.4 or 16.5 
+(5) Orders, regardless of dollar value, that are set aside in accordance with sections 19.105, 19.106, 19.107, and 19.108 under multiple-award contracts, as described in 8.4 and 16.5; and 
+(6) Contracts using the HUBZone price evaluation preference to award to a HUBZone small business concern unless the concern waived the evaluation preference. 
+(d) Independent contractors. An independent contractor shall be considered a subcontractor.
+By submission of an offer and execution of a contract, the Contractor agrees to the following requirements in the performance of a contract assigned a North American Industry Classification System (NAICS) code applicable to this contract: 
+(1) Services (except construction). It will not pay more than 50 percent of the amount paid by the Government for contract performance,  to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor’s 50 percent subcontract amount that cannot be exceeded. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the service portion of the contract. 
+(2) Supplies (other than procurement from a nonmanufacturer of such supplies). It will not pay more than 50 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor’s 50 percent subcontract amount that cannot be exceeded. When a contract includes both supplies and services, the 50 percent limitation shall apply only to the supply portion of the contract.
+(3) General construction. It will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor’s 85 percent subcontract amount that cannot be exceeded.
+(4) Construction by special trade contractors. It will not pay more than 75 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor’s 75 percent subcontract amount that cannot be exceeded.
+(f) The Contractor shall comply with the limitations on subcontracting as follows: 
+(1) For contracts, in accordance with paragraphs (c)(1), (2), (3) and (6) of this clause – [Contracting Officer check as appropriate.]
+ _X_ By the end of the base term of the contract and then by the end of each subsequent option period; or
+ __ By the end of the performance period for each order issued under the contract. 
+(2) For orders, in accordance with paragraphs (c)(4) and (5) of this clause, by the end of the performance period for the order. 
+(g) A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (e) of this clause will be performed by the aggregate of the joint venture participants. 
+(1) In a joint venture comprised of a small business protégé and its mentor approved by the Small Business Administration, the small business protégé shall perform at least 40 percent of the work performed by the joint venture. Work performed by the small business protégé in the joint venture must be more than administrative functions.
+(2) In an 8(a) joint venture, the 8(a) participant(s) shall perform at least 40 percent of the work performed by the joint venture. Work performed by the 8(a) participants in the joint venture must be more than administrative functions.
+(End of clause)
+52.219-28 Postaward Smal Business Program Representation (Deviation 26-03, Rev. 1) (Nov 2025)
+(a)Definitions. As used in this clause—
+Long-term contract means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.
+Small business concern—
+(1)Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (d) of this clause.
+(2)Affiliates, as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
+(b)If the Contractor represented that it was any of the small business concerns identified in 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status according to paragraph (e) of this clause or, if applicable, paragraph (g) of this clause, upon occurrence of any of the following:
+(1)Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include this clause, if the novation agreement was executed prior to inclusion of this clause in the contract.
+(2)Within 30 days after a merger or acquisition that does not require a novation or within 30 days after modification of the contract to include this clause, if the merger or acquisition occurred prior to inclusion of this clause in the contract.
+(3)For long-term contracts-
+(i)Within 60 to 120 days prior to the end of the fifth year of the contract; and
+(ii)Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter.
+(c) The Contractor shall represent its size status in accordance with the size standard in effect at the time of this representation that corresponds to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to this NAICS code(s) can be found at https://www.sba.gov/document/support--table-size-standards. 
+(d)The small business size standard for a Contractor providing an end item that it does not manufacture, process, or produce itself, for a contract other than a construction or service contract, is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
+(1)Was set aside for small business and has a value above the simplified acquisition threshold;
+(2)Used the HUBZone price evaluation preference regardless of dollar value, unless the Contractor waived the price evaluation preference; or
+(3)Was an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
+(e)Except as provided in paragraph (g) of this clause, the Contractor shall make the representation(s) required by paragraphs (b) of this clause by validating or updating all its representations in the Representations and Certifications section of the System for Award Management (SAM) and its other data in SAM, as necessary, to ensure that they reflect the Contractor's current status. The Contractor shall notify the contracting officer in writing within the timeframes specified in paragraph (b) of this clause, or with its offer for an order, that the data have been validated or updated, and provide the date of the validation or update.
+(f)If the Contractor represented that it was other than a small business concern prior to award of this contract, the Contractor may, but is not required to, take the actions required by paragraphs (e) or (g) of this clause.
+(g)If the Contractor does not have representations and certifications in SAM, or does not have a representation in SAM for the NAICS code applicable to this contract, the Contractor is required to complete the following representation and submit it to the contracting office, along with the contract number and the date on which the representation was completed:
+(1)The Contractor represents that it □ is, □ is not a small business concern under NAICS Code _____ assigned to contract number _____.
+(2)[Complete only if the Contractor represented itself as a small business concern in paragraph (g)(1) of this clause.] The Contractor represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1001.
+(3)Women-owned small business (WOSB) joint venture eligible under the WOSB Program. The Contractor represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [ The Contractor shall enter the name and unique entity identifier of each party to the joint venture: __.]
+(4)Economically disadvantaged women-owned small business (EDWOSB) joint venture. The Contractor represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [ The Contractor shall enter the name and unique entity identifier of each party to the joint venture: __ .]
+(5)Service-disabled veteran-owned small business (SDVOSB) joint venture eligible under the SDVOSB Program. The Contractor represents that it □ is, □ is not an SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [ The Contractor shall enter the name and unique entity identifier of each party to the joint venture: __.]
+(6) HUBZone joint venture eligible under the HUBZone Program.[ Complete only if the offeror is a HUBZone small business concern. ] The offeror represents, as part of its offer, It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a) through (c). [ The Contractor shall enter the name and unique entity identifier of each party to the joint venture: _____. ] Each HUBZone small business concern participating in the HUBZone joint venture must be certified as a HUBZone concern. [ Contractor to sign and date and insert authorized signer's name and title.______________________ ] 
+(End of clause)
+
+FAR 52.222-90, Addressing DEI Discrimination by Federal Contractors (APR 2026) 
+(DEVIATION 26-10, Revision 2) (effective April 27, 2026) 
+
+(a) Definitions. As used in this clause— 
+
+Program participation means membership or participation in, or access or admission to: training, mentoring, or leadership development programs; educational opportunities; clubs; associations; or similar opportunities that are sponsored or established by the contractor or subcontractor. 
+
+Racially discriminatory diversity, equity, and inclusion (DEI) activities means disparate treatment based on race or ethnicity in the recruitment, employment (e.g., hiring, promotions), contracting (e.g., vendor agreements), program participation, or allocation or deployment of an entity's resources. 
+
+(b) In connection with the performance of work under this contract, the Contractor agrees as follows: 
+
+(1) The Contractor will not engage in any racially discriminatory DEI activities; 
+
+(2) The Contractor will furnish all information and reports, including providing access to books, records, and accounts, as required by the Contracting Officer, for purposes of ascertaining compliance with this clause; 
+(3) In the event of the Contractor's or a subcontractor's noncompliance with this clause, this contract may be canceled, terminated, or suspended in whole or in part, and the Contractor or subcontractor may be declared ineligible for further Government contracts; 
+
+(4) The Contractor will report any subcontractor's known or reasonably knowable conduct that may violate this clause to the Contracting Officer and take any appropriate remedial actions directed by the Contracting Officer; and 
+
+(5) The Contractor will inform the Contracting Officer if a subcontractor sues the Contractor and the suit puts at issue, in any way, the validity of this clause. 
+
+(6) The Contractor recognizes that compliance with the requirements of this clause are material to the Government's payment decisions for purposes of 31 U.S.C. 3729(b)(4). 
+
+(c) The Contractor must include the substance of this clause, including this paragraph (c), in subcontracts at any tier, including those for commercial products and commercial services, except those where the place of delivery or performance is outside the United States. 
+
+(End of clause)
+
+FAR 52.224-3 Privacy Training – Alternate I (CLASS DEVIATION 17-03 Revision 2)
+(March 2026)
+
+(a) Definition. As used in this clause, personally identifiable information means information that 
+can be used to distinguish or trace an individual’s identity, either alone or when combined with 
+other information that is linked or linkable to a specific individual. (See Office of Management 
+and Budget (OMB) Circular A–130, Managing Federal Information as a Strategic Resource).
+ 
+(b) The Contractor shall ensure that initial privacy training, and annual privacy training 
+thereafter, is completed by contractor employees who—
+ 
+(1) Have access to a system of records;
+ 
+(2) Create, collect, use, process, store, maintain, disseminate, disclose, dispose, or otherwise 
+handle personally identifiable information on behalf of an agency; or
+ 
+(3) Design, develop, maintain, or operate a system of records (see also FAR subpart 24.3 ).
+ 
+(c) The contracting agency will provide initial privacy training, and annual privacy training 
+thereafter, to Contractor employees for the duration of this contract. Contractor employees shall 
+satisfy this requirement by completing Privacy at DHS: Protecting Personal Information accessible 
+at http://www.dhs.gov/dhs-security-and-training-requirements-contractors. Training shall be 
+completed within 30 days of contract award and be completed on an annual basis thereafter not later 
+than October 31st of each year.
+ 
+(d) The Contractor shall maintain and, upon request, provide documentation of completion of privacy 
+training to the Contracting Officer.
+ 
+(e) The Contractor shall not allow any employee access to a system of records, or permit any 
+employee to create, collect, use, process, store, maintain, disseminate, disclose, dispose or 
+otherwise handle personally identifiable information, or to design, develop, maintain, or operate a 
+system of records unless the employee has completed privacy training, as required by this clause.
+ 
+(f) The substance of this clause, including this paragraph (f), shall be included in all 
+subcontracts under this contract, when subcontractor employees will—
+ 
+(1) Have access to a system of records;
+ 
+(2) Create, collect, use, process, store, maintain, disseminate, disclose, dispose, or otherwise 
+handle personally identifiable information; or
+ 
+(3) Design, develop, maintain, or operate a system of records.
+
+(End of clause)
+
+52.244-2 Subcontracts (JUN 2020)
+
+Definitions. As used in this clause-
+“Approved purchasing system” means a Contractor’s purchasing system that has been reviewed and approved in accordance with part 44 of the Federal Acquisition Regulation (FAR).
+
+“Consent to subcontract” means the Contracting Officer’s written consent for the Contractor to enter into a particular subcontract.
+
+Subcontract means any contract, as defined in FAR subpart 2.1, entered into by a subcontractor to furnish supplies or services for performance of the prime contract or a subcontract. It includes, but is not limited to, purchase orders, and changes and modifications to purchase orders.
+
+When this clause is included in a fixed-price type contract, consent to subcontract is required only on unpriced contract actions (including unpriced modifications or unpriced delivery orders), and only if required in accordance with paragraph (c) or (d) of this clause.
+
+If the Contractor does not have an approved purchasing system, consent to subcontract is required for any subcontract that-
+
+Is of the cost-reimbursement, time-and-materials, or labor-hour type; or
+
+Is fixed-price and exceeds-
+
+For a contract awarded by the Department of Defense, the Coast Guard, or the National Aeronautics and Space Administration, the greater of the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, or 5 percent of the total estimated cost of the contract; or
+
+For a contract awarded by a civilian agency other than the Coast Guard and the National Aeronautics and Space Administration, either the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, or 5 percent of the total estimated cost of the contract.
+
+If the Contractor has an approved purchasing system, the Contractor nevertheless shall obtain the Contracting Officer’s written consent before placing the following subcontracts:
+
+
+
+
+
+
+
+The Contractor shall notify the Contracting Officer reasonably in advance of placing any subcontract or modification thereof for which consent is required under paragraph (b), (c), or (d) of this clause, including the following information:
+
+A description of the supplies or services to be subcontracted.
+
+Identification of the type of subcontract to be used.
+Identification of the proposed subcontractor.
+
+The proposed subcontract price.
+
+The subcontractor’s current, complete, and accurate certified cost or pricing data and Certificate of Current Cost or Pricing Data, if required by other contract provisions.
+
+The subcontractor’s Disclosure Statement or Certificate relating to Cost Accounting Standards when such data are required by other provisions of this contract.
+
+A negotiation memorandum reflecting-
+
+The principal elements of the subcontract price negotiations;
+
+The most significant considerations controlling establishment of initial or
+revised prices;
+
+The reason certified cost or pricing data were or were not required;
+
+The extent, if any, to which the Contractor did not rely on the subcontractor’s certified cost or pricing data in determining the price objective and in negotiating the final price;
+
+The extent to which it was recognized in the negotiation that the subcontractor’s certified cost or pricing data were not accurate, complete, or current; the action taken by the Contractor and the subcontractor; and the effect of any such defective data on the total price negotiated;
+
+The reasons for any significant difference between the Contractor’s price objective and the price negotiated; and
+
+A complete explanation of the incentive fee or profit plan when incentives are used. The explanation shall identify each critical performance element, management decisions used to quantify each incentive element, reasons for the incentives, and a summary of all trade-off possibilities considered.
+
+The Contractor is not required to notify the Contracting Officer in advance of entering into any subcontract for which consent is not required under paragraph (b), (c), or (d) of this clause.
+
+Unless the consent or approval specifically provides otherwise, neither consent by the Contracting Officer to any subcontract nor approval of the Contractor’s purchasing system shall constitute a determination-
+
+Of the acceptability of any subcontract terms or conditions;
+
+Of the allowability of any cost under this contract; or
+
+To relieve the Contractor of any responsibility for performing this contract.
+No subcontract or modification thereof placed under this contract shall provide for payment on a cost-plus-a-percentage-of-cost basis, and any fee payable under cost-reimbursement type subcontracts shall not exceed the fee limitations in FAR 15.404-4(c)(4)(i).
+
+The Contractor shall give the Contracting Officer immediate written notice of any action or suit filed and prompt notice of any claim made against the Contractor by any subcontractor or vendor that, in the opinion of the Contractor, may result in litigation related in any way to this contract, with respect to which the Contractor may be entitled to reimbursement from the Government.
+
+The Government reserves the right to review the Contractor’s purchasing system as set forth in FAR subpart 44.3.
+
+Paragraphs (c) and (e) of this clause do not apply to the following subcontracts, which were evaluated during negotiations
+
+
+
+
+
+(End of clause)
+
+FAR 52.244-6 Subcontracts for Commercial Products and Commercial Services (DEVIATION 26-10, Revision 2) (APR 2026)
+
+(a) Definitions. As used in this clause— 
+
+Commercial product, commercial service and commercially available off-the-shelf item have the meanings contained in Federal Acquisition Regulation (FAR) 2.101. 
+
+Subcontract has the meaning at FAR 44.401  
+
+Requirements. 
+
+(1) To the maximum extent practicable, the Contractor shall incorporate, and require its subcontractors at all tiers to incorporate, commercial products, commercial services, or non-developmental items as components of items to be supplied under this contract. 
+(2) If a clause in the following table is included in the contract, the Contractor shall insert the clause in subcontracts for commercial products or commercial services and must flow down the requirements of the clause to subcontracts as indicated in the specific clause:
+
+
+
+* Include only if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower-tier subcontracts that offer subcontracting opportunities. 
+
+(c) Subcontracts. The Contractor shall include the terms of this clause, including this paragraph (c), in subcontracts awarded under this contract.
+
+(End of clause)
+
+19.0	Homeland Security Acquisition Regulation (HSAR) Clauses
+
+This IDIQ incorporates one or more HSAR clauses by reference, with the same force and effect as if they were given in full text. Upon request, the CO will make the full text available. Also, the full text of a clause may be accessed electronically at the following web addresses:
+
+HSAR | Acquisition.GOV
+
+The following clauses are incorporated by reference:
+
+
+3052.212-70  Contract Terms and Conditions Applicable to DHS Acquisition of Commercial Items  (HSAR DEVIATION 25-09) (NOV 2025)
+
+The Contractor agrees to comply with any provision or clause that is incorporated herein by reference to implement agency policy applicable to acquisition of commercial items or components. The provision or clause in effect based on the applicable regulation cited on the date the solicitation is issued applies unless otherwise stated herein. The following provisions and clauses are incorporated by reference: 
+
+(a) Provisions.
+____	3052.216-70 Evaluation of Offers Subject to An Economic Price Adjustment Clause.
+____	3052.219-72 Evaluation of Prime Contractor Participation in the DHS Mentor Protégé Program.
+____	3052.247-70 F.o.B. Origin Information.
+____	Alternate I
+____	Alternate II
+____	3052.247-71 F.o.B. Origin Only.
+____	3052.247-72 F.o.B. Destination Only.
+(b) Clauses.
+_X___	3052.203-70 Instructions for Contractor Disclosure of Violations.
+_X___	3052.204-71 Contractor Employee Access. 
+_X___	Alternate I (HSAR DEVIATION 25-12) (NOV 2025)
+____	Alternate II
+_X__	3052.204-72 Safeguarding of Controlled Unclassified Information.
+_X___     Alternate I (HSAR DEVIATION 25-12) (NOV 2025)
+_X___3052.204-73 Notification and Credit Monitoring Requirements for Personally Identifiable       Information Incidents. (HSAR DEVIATION 25-12) (NOV 2025)
+_X_	3052.205-70 Advertisement, Publicizing Awards, and Releases.
+____	Alternate I
+____	3052.209-72 Organizational Conflicts of Interest.
+____	3052.209-73 Limitation on Future Contracting.
+____	3052.215-70 Key Personnel or Facilities.
+____	3052.216-71 Determination of Award Fee.
+____	3052.216-72 Performance Evaluation Plan.
+____	3052.216-73 Distribution of Award Fee.
+____	3052.217-91 Performance. (USCG)
+____	3052.217-92 Inspection and Manner of Doing Work. (USCG)
+____	3052.217.93 Subcontracts. (USCG)
+____	3052.217.94 Lay Days. (USCG)
+____	3052.217-95 Liability and Insurance. (USCG)
+____	3052.217-96 Title. (USCG)
+____	3052.217.97 Discharge of Liens. (USCG)
+____	3052.217-98 Delays. (USCG)
+____	3052.217-99 Department of Labor Safety and Health Regulations for Ship Repair. (USCG)
+____	3052.217-100 Guarantee. (USCG)
+____	3052.219-71 DHS Mentor Protégé Program.
+____	3052.228-70 Insurance.
+____	3052.228-90 Notification of Miller Act Payment Bond Protection. (USCG)
+____	3052.228-91 Loss of or Damage to Leased Aircraft. (USCG)
+____	3052.228.92 Fair Market Value of Aircraft. (USCG)
+____	3052.228-93 Risk and Indemnities. (USCG)
+____	3052.236-70 Special Provisions for Work at Operating Airports.
+_X__	3052.242-72 Contracting Officer's Representative.
+____	HSAR 3052.249-90 Contract Termination (USCG).
+
+(End of clause)
+
+HSAR 3052.209-73 Limitation of future contracting (JUN 2006)
+
+The Contracting Officer has determined that this acquisition may give rise to a potential organizational conflict of interest. Accordingly, the attention of prospective offerors is invited to FAR Subpart 9.5--Organizational Conflicts of Interest.
+
+The nature of this conflict is [Applicable at the task order level, as appropriate].
+
+The restrictions upon future contracting are as follows:
+
+If the Contractor, under the terms of this contract, or through the performance of tasks pursuant to this contract, is required to develop specifications or statements of work that are to be incorporated into a solicitation, the Contractor shall be ineligible to perform the work described in that solicitation as a prime or first-tier subcontractor under an ensuing DHS contract. This restriction shall remain in effect for a reasonable time, as agreed to by the Contracting Officer and the Contractor, sufficient to avoid unfair competitive advantage or potential bias (this time shall in no case be less than the duration of the initial production contract). DHS shall not unilaterally require the Contractor to prepare such specifications or statements of work under this contract.
+
+To the extent that the work under this contract requires access to proprietary, business confidential, or financial data of other companies, and as long as these data remain proprietary or confidential, the Contractor shall protect these data from unauthorized use and disclosure and agrees not to use them to compete with those other companies.
+
+The Contracting Officer’s determination described above will be made at the task order level.
+
+HSAR 3052.215-70 Key Personnel or Facilities (DEC 2003)
+
+The personnel or facilities specified below are considered essential to the work being performed under this contract and may, with the consent of the contracting parties, be changed from time to time during the course of the contract by adding or deleting personnel or facilities, as appropriate.
+
+Before removing or replacing any of the specified individuals or facilities, the Contractor shall notify the Contracting Officer, in writing, before the change becomes effective. The Contractor shall submit sufficient information to support the proposed action and to enable the Contracting Officer to evaluate the potential impact of the change on this contract. The Contractor shall not remove or replace personnel or facilities until the Contracting Officer approves the change.
+
+The Key Personnel or Facilities under this IDIQ contract:
+
+Program Manager 
+Deputy Program Manager
+
+All other Key Personnel will be identified at the Order level, if applicable.
+
+(End of clause)
+
+
+ SPECIAL CLAUSE INFORMATION TECHNOLOGY SECURITY AWARENESS TRAINING (JULY 2023) – (HSAR Class Deviation 15-01, Revision 1)
+
+(a) Applicability. This clause applies to the Contractor, its subcontractors, and Contractor employees (hereafter referred to collectively as “Contractor”). The Contractor shall insert the substance of this clause in all subcontracts. 
+
+(b) Security Training Requirements. 
+(1) All users of Federal information systems are required by Title 5, Code of Federal Regulations, Part 930.301, Subpart C, as amended, to be exposed to security awareness materials annually or whenever system security changes occur, or when the user’s responsibilities change. The Department of Homeland Security (DHS) requires that Contractor employees take an annual Information Technology Security Awareness Training course before accessing sensitive information under the contract. Unless otherwise specified, the training shall be completed within thirty (30) days of contract award and be completed on an annual basis thereafter not later than October 31st of each year. Any new Contractor employees assigned to the contract shall complete the training before accessing sensitive information under the contract. The training is accessible at http://www.dhs.gov/dhs-security-and-training-requirements-contractors. The Contractor shall maintain copies of training certificates for all Contractor and subcontractor employees as a record of compliance. Unless otherwise specified, initial training certificates for each Contractor and subcontractor employee shall be provided to the Contracting Officer’s Representative (COR) not later than thirty (30) days after contract award. Subsequent training certificates to satisfy the annual training requirement shall be submitted to the COR via e-mail notification not later than October 31st of each year. The e-mail notification shall state the required training has been completed for all Contractor and subcontractor employees. 
+(2)The DHS Rules of Behavior apply to every DHS employee, Contractor and subcontractor that will have access to DHS systems and sensitive information. The DHS Rules of Behavior shall be signed before accessing DHS systems and sensitive information. The DHS Rules of Behavior is a document that informs users of their responsibilities when accessing DHS systems and holds users accountable for actions taken while accessing DHS systems and using DHS Information Technology resources capable of inputting, storing, processing, outputting, and/or transmitting sensitive information. The DHS Rules of Behavior is accessible at http://www.dhs.gov/dhs-security-and-training-requirements-contractors. Unless otherwise specified, the DHS Rules of Behavior shall be signed within thirty (30) days of contract award. Any new Contractor employees assigned to the contract shall also sign the DHS Rules of Behavior before accessing DHS systems and sensitive information. The Contractor shall maintain signed copies of the DHS Rules of Behavior for all Contractor and subcontractor employees as a record of compliance. Unless otherwise specified, the Contractor shall e-mail copies of the signed DHS Rules of Behavior to the COR not later than thirty (30) days after contract award for each employee. The DHS Rules of Behavior will be reviewed annually, and the COR will provide notification when a review is required. 
+
+(End of clause)
+
+
+List of Attachments
+
+Attachment 1 - NCCS 2.0 Statement of Work
+Attachment 2 - NCCS 2.0 Pricing Template
+Attachment 3 - NCCS 2.0 Labor Category Descriptions
+Attachment 4 - NCCS 2.0 Reading Room Instructions
+
+
+20.0	Representations and Certifications
+ (This section will be removed in the resulting IDIQ contract award)
+
+The following RFO FAR Provisions and Clauses are incorporated by full text:
+
+RFO FAR 52.209-2 Prohibition on Contracting with Inverted Domestic Corporations-Representation (April 2026)(DEVIATION 25-27 Rev 3)
+
+(a) Definitions. As used in this clause—
+Inverted domestic corporation means a foreign incorporated entity that meets the definition of an 
+inverted domestic corporation under 6 U.S.C. 395(b), applied in accordance with the rules and 
+definitions of 6 U.S.C. 395(c).
+Subsidiary means an entity in which more than 50 percent of the entity is owned—
+(1) Directly by a parent corporation; or
+(2) Through another subsidiary of a parent corporation.
+
+(b) Government agencies are not permitted to use appropriated (or otherwise made available) funds 
+for contracts with either an inverted domestic corporation, or a subsidiary of an inverted domestic 
+corporation, unless the exception at 9.108-3(b) applies or the requirement is waived in accordance 
+with the procedures at 9.108-5.
+
+(c) Representation. The Offeror represents that-
+(1) It □ is, □ is not an inverted domestic corporation; and
+(2) It □ is, □ is not a subsidiary of an inverted domestic corporation.
+
+(End of provision)
+
+RFO FAR 52.209-5 Certification Regarding Responsibility Matters (April 2026)(DEVIATION 25-27 Rev 3)
+
+(a) (1) The Offeror certifies, to the best of its knowledge and belief, that—
+
+(i) The Offeror and/or any of its Principals—
+
+(A) Are □ are not □ presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;
+
+(B) Have □ have not □, within a three-year period preceding this offer, been convicted of or had a civil judgment rendered against them for: commission of fraud or a criminal offense in connection with obtaining, attempting to obtain, or performing a public (Federal, State, or local) contract or subcontract; violation of Federal or State antitrust statutes relating to the submission of offers; or commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax
+laws, or receiving stolen property (if offeror checks "have", the offeror shall also see 52.209-7, if included in this solicitation);
+
+
+(C) Are □ are not □ presently indicted for, or otherwise criminally or civilly charged by a 
+governmental entity with, commission of any of the offenses enumerated in paragraph (a)(1)(i)(B) of this provision; and
+
+(D) Have □, have not □, within a three-year period preceding this offer, been notified of any 
+delinquent Federal taxes in an amount that exceeds the threshold at 9.104-5(a)(2) for which the liability remains unsatisfied. Federal taxes are considered delinquent if both of the following criteria apply:
+
+(1) The tax liability is finally determined. The liability is finally determined if it has been assessed. A liability is not finally determined if a pending administrative or judicial challenge remains. In the case of a judicial challenge to the liability, the liability is not finally determined until all judicial appeal rights have been exhausted.
+
+(2) The taxpayer is delinquent in making payment. A taxpayer is delinquent if the taxpayer has failed to pay the tax liability when full payment was due and required. A taxpayer is not delinquent in cases where enforced collection action is precluded.
+(ii) The Offeror has □ has not □, within a 3-year period preceding this offer, had one or more contracts terminated for default by any Federal agency.
+
+(2) "Principal," for the purposes of this certification, means an officer, director, owner, 
+partner, or a person having primary management or supervisory responsibilities within a business entity (e.g., general manager; plant manager; head of a division or business segment; and similar positions).
+
+(b) The Offeror shall provide immediate written notice to the Contracting Officer if, at any time 
+prior to contract award, the Offeror learns that its certification was erroneous when submitted or 
+has become erroneous by reason of changed circumstances.
+
+(c) A certification that any of the items in paragraph (a) of this provision exists will not 
+necessarily result in withholding of an award under this solicitation. However, the Government will 
+consider the certification in connection with a determination of the Offeror's responsibility. 
+Failure of the Offeror to furnish a certification or provide such additional information as 
+requested by the Contracting Officer may render the Offeror nonresponsible.
+
+(d) This provision does not require establishment of a system of records in order to render, in 
+good faith, the certification required by paragraph (a). The knowledge and information of an 
+Offeror is not required to exceed that which is normally possessed by a prudent person in the 
+ordinary course of business dealings.
+
+(e) The certification in paragraph (a) of this provision is a material representation of fact upon 
+which reliance was placed when making award. If the Government later determines that the Offeror 
+knowingly rendered an erroneous certification, in addition to other remedies available to the 
+Government, the Contracting Officer may terminate the contract resulting from this solicitation for
+default.
+
+
+RFO FAR 52.209-7 Information Regarding Responsibility Matters (April 2026)(DEVIATION
+25-27 Rev 3)
+
+(a) Definitions. As used in this provision—
+
+Administrative proceeding means a non-judicial process that is adjudicatory in nature in order to 
+make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative 
+Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract 
+Appeals Proceedings). This includes administrative proceedings at the Federal and State level but 
+only in connection with performance of a Federal contract or grant. It does not include agency 
+actions such as contract audits, site visits, corrective plans, or inspection of deliverables.
+
+Federal contracts and grants with total value greater than $10,000,000 means—
+(1) The total value of all current, active contracts and grants, including all priced options; and
+(2) The total value of all current, active orders including all priced options under 
+indefinite-delivery, indefinite-quantity, 8(a), or requirements contracts (including task and 
+delivery and multiple-award Schedules).
+
+Principal means an officer, director, owner, partner, or a person having primary management or 
+supervisory responsibilities within a business entity (e.g., general manager; plant manager; head 
+of a division or business segment; and similar positions).
+
+(b) The offeror □ has □ does not have current active Federal contracts and grants with total value 
+greater than $10,000,000.
+
+(c) If the offeror checked "has" in paragraph (b) of this provision, the offeror represents, by 
+submission of this offer, that the information it has entered in the Federal Awardee Performance 
+and Integrity Information System (FAPIIS) is current, accurate, and complete as of the date of 
+submission of this offer with regard to the following information:
+
+(1) Whether the offeror, and/or any of its principals, has or has not, within the last five years, 
+in connection with the award to or performance by the offeror of a Federal contract or grant, been the subject of a proceeding, at the Federal or State level that resulted in any of the following dispositions:
+(i) In a criminal proceeding, a conviction.
+
+(ii) In a civil proceeding, a finding of fault and liability that results in the payment of a 
+monetary fine, penalty, reimbursement, restitution, or damages of $5,000 or more.
+
+(iii) In an administrative proceeding, a finding of fault and liability that results in–
+
+(A) The payment of a monetary fine or penalty of $5,000 or more; or
+
+(B) The payment of a reimbursement, restitution, or damages in excess of
+$100,000.
+
+
+(iv) In a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the Contractor if the proceeding could have led to any of the outcomes specified in paragraphs (c)(1)(i), (c)(1)(ii), or (c)(1)(iii) of this provision.
+
+(2) If the offeror has been involved in the last five years in any of the occurrences listed in 
+(c)(1) of this provision, whether the offeror has provided the requested information with regard to each occurrence.
+
+(d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this 
+provision in FAPIIS as required through maintaining an active registration in the System for Award 
+Management, which can be accessed via https://www.sam.gov (see 52.204-7).
+
+
+(End of provision)
+
+
+RFO FAR 52.209-11 Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law (April 2026)(DEVIATION 25-27 Rev 3)
+
+(a) The Government will not enter into a contract with any corporation that—
+
+(1) Has any unpaid Federal tax liability that has been assessed, for which all judicial and 
+administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability, where the awarding agency is aware of the unpaid tax liability, unless an agency has considered suspension or debarment of the corporation and made a determination that suspension or debarment is not necessary to protect the interests of the Government; or
+
+(2) Was convicted of a felony criminal violation under any Federal law within the preceding 24 months, where the awarding agency is aware of the conviction, unless an agency has considered suspension or debarment of the corporation and made a determination that this action is not necessary to protect the interests of the Government.
+
+(b) The Offeror represents that–
+
+(1) It is □ is not □ a corporation that has any unpaid Federal tax liability that has been 
+assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability; and
+
+(2) It is □ is not □ a corporation that was convicted of a felony criminal violation under a 
+Federal law within the preceding 24 months.
+
+(End of provision)
+
+
+RFO FAR 52.229-11 Tax on Certain Foreign Procurements—Notice and Representation (JUL 2025 DEV 25-13)
+
+(a) Definitions. As used in this provision—
+
+Foreign person means any person other than a United States person.
+
+Specified Federal procurement payment means any payment made pursuant to a contract with a foreign 
+contracting party that is for goods, manufactured or produced, or services provided in a foreign 
+country that is not a party to an international procurement agreement with the United States. For 
+purposes of the prior sentence, a foreign country does not include an outlying area of the United 
+States.
+
+United States person as defined in 26 U.S.C. 7701(a)(30) means
+
+(1) A citizen or resident of the United States;
+(2) A domestic partnership;
+(3) A domestic corporation;
+(4) Any estate (other than a foreign estate, within the meaning of 26 U.S.C. 701(a)(31)); and
+(5) Any trust if–
+
+(i) A court within the United States is able to exercise primary supervision over the 
+administration of the trust; and
+(ii) One or more United States persons have the authority to control all substantial decisions of the trust.
+
+(b) Unless exempted, there is a 2 percent tax of the amount of a specified Federal procurement 
+payment on any foreign person receiving such payment. See 26 U.S.C. 5000C and its implementing 
+regulations at 26 CFR 1.5000C-1 through 1.5000C-7.
+
+(c) Exemptions from withholding under this provision are described at 26 CFR 1.5000C-1(d)(5) 
+through (7). The Offeror may claim an exemption from the withholding by using the Department of the 
+Treasury Internal Revenue Service (IRS) Form W-14, Certificate of Foreign Contracting Party 
+Receiving Federal Procurement Payments, available at www.irs.gov/w14. Any exemption claimed and 
+self-certified on the IRS Form W-14 is subject to audit by the IRS. Any disputes regarding the 
+imposition and collection of the 26 U.S.C. 5000C tax are adjudicated by the IRS as the 26 U.S.C.  
+5000C tax is a tax matter, not a contract issue. The IRS Form W-14 is provided to the acquiring 
+agency rather than to the IRS.
+
+(d) For purposes of withholding under 26 U.S.C. 5000C, the Offeror represents that
+
+(1) It □ is □ is not a foreign person; and
+
+(2) If the Offeror indicates "is" in paragraph (d)(1) of this provision, then the Offeror 
+represents that—I am claiming on the IRS Form W-14 □ a full exemption, or □ partial or no exemption [Offeror must select one] from the excise tax.
+
+(e) If the Offeror represents it is a foreign person in paragraph (d)(1) of this provision, then—
+
+(1) The clause at FAR 52.229-12, Tax on Certain Foreign Procurements, will be included in
+any resulting contract; and
+
+(2) The Offeror shall submit with its offer the IRS Form W-14. If the IRS Form W-14 is not 
+submitted with the offer, exemptions will not be applied to any resulting contract and the 
+Government will withhold a full 2 percent of each payment.
+
+(f) If the Offeror selects "is" in paragraph (d)(1) and "partial or no exemption" in paragraph 
+(d)(2) of this provision, the Offeror will be subject to withholding in accordance with the clause 
+at FAR 52.229-12, Tax on Certain Foreign Procurements, in any resulting contract.
+
+(g) A taxpayer may, for a fee, seek advice from the IRS as to the proper tax treatment of a 
+transaction. This is called a private letter ruling. Also, the IRS may publish a revenue ruling, 
+which is an official interpretation by the IRS of the Internal Revenue Code, related statutes, tax 
+treaties, and regulations. A revenue ruling is the conclusion of the IRS on how the law is applied 
+to a specific set of facts. For questions relating to the interpretation of the IRS regulations go 
+to https://www.irs.gov/help/tax-law-questions. 
+
+(End of provision)
+
+21.0	FAR Solicitation Provisions
+
+FAR 52.252-1 Solicitation Provisions Incorporated by Reference (FEB 1998)
+
+This solicitation incorporates one or more solicitation provisions by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make the full text available. The offeror is cautioned that the listed provisions may include blocks that must be completed by the offeror and submitted with its quotation or offer. In lieu of submitting the full text of those provisions, the offeror may identify the provision by paragraph identifier and provide the appropriate information with its quotation or offer. Also, the full text of a solicitation provision may be accessed electronically at this/these address(es):
+
+Revolutionary FAR Overhaul | Acquisition.GOV
+
+The following solicitation provisions are incorporated by reference:
+
+	
+52.216-1 Type of Contract (OCT 2025) (DEVIATION 26-04) (effective November 28, 2025) 
+
+The Government contemplates award of a single-award IDIQ contract resulting from this solicitation. 
+(End of provision)
+        
+52.227-15 Representation of Limited Rights Data and Restricted Computer Software (Dec 2007)
+
+This solicitation sets forth the Government’s known delivery requirements for data (as defined in the clause at 52.227-14, Rights in Data-General). Any resulting contract may also provide the Government the option to order additional data under the Additional Data Requirements clause at 52.227-16, if included in the contract. Any data delivered under the resulting contract will be subject to the Rights in Data-General clause at 52.227-14 included in this contract. Under the latter clause, a Contractor may withhold from delivery data that qualify as limited rights data or restricted computer software, and deliver form, fit, and function data instead. The latter clause also may be used with its Alternates II and/or III to obtain delivery of limited rights data or restricted computer software, marked with limited rights or restricted rights notices, as appropriate. In addition, use of Alternate V with this latter clause provides the Government the right to inspect such data at the Contractor’s facility.
+By completing the remainder of this paragraph, the offeror represents that it has reviewed the requirements for the delivery of technical data or computer software and states [offeror check appropriate block]-
+
+None of the data proposed for fulfilling the data delivery requirements qualifies as limited rights data or restricted computer software; or
+
+Data proposed for fulfilling the data delivery requirements qualify as limited rights data or restricted computer software and are identified as follows:
+
+
+
+
+
+
+
+Any identification of limited rights data or restricted computer software in the offeror’s response is not determinative of the status of the data should a contract be awarded to the offeror.
+
+(End of provision)
+
+52.233-2 Service of Protest (AUG 2025) (DEVIATION 25-25) (effective November 3, 2025) 
+
+(a) Protests, (as defined in FAR 33.102), that are filed directly with an agency, and copies of any protests that are filed with the Government Accountability Office (GAO), must be served on the Contracting Officer identified in the solicitation by obtaining written and dated acknowledgment of receipt from them. 
+
+(b) The copy of any protest must be received in the office designated above within one day of filing a protest with the GAO.
+(End of provision)
+
+ | Reference RFP Section | Paragraph No. | Page No.(s) | Question
+1 |  |  |  | 
+2 |  |  |  | 
+3 |  |  |  | 
+Phase | Volumes/Sections | Page Limit
+Phase 1 – Written Submission | Volume 1 – Technical Proposal | Volume 1 – Technical Proposal
+Phase 1 – Written Submission | 1. Cover Sheet | 2 pages
+Phase 1 – Written Submission | 2. Standard Form (SF) 1449 (signed by the offeror) | No page limit
+Phase 1 – Written Submission | 3. SF 30 (Amendment(s)) (signed by the offeror), if any | No page limit
+Phase 1 – Written Submission | 4. Factor 1: Facility Clearance | 1 page
+Phase 2 – Written Submission | Volume 2 – Technical Proposal | Volume 2 – Technical Proposal
+Phase 2 – Written Submission | Cover Sheet | 2 pages
+Phase 2 – Written Submission | SF 30 (Amendment(s)) (signed by the offeror), if any | No page limit
+Phase 2 – Written Submission | Factor 2: Demonstrated Prior Experience and Reference Checks | Statement of prior relevant experience on contracts of similar size, scope, and complexity. 
+(No more than 1 page per reference)
+Phase 2 – Written Submission | Factor 3: Staffing and Management Approach | 10 pages
+ | Resumes | 2 Pages per resume
+Phase 2 | Volume 3 – Price Proposal | 
+ | Cover Sheet | 2 pages
+ | Factor 4: Price | No page limit
+CONFIDENCE RATING | RATING DESCRIPTION
+High Confidence | The Government has high confidence that the Offeror understands the requirement, proposes a sound approach, and will be successful in performing the contract.
+Some Confidence | The Government has some confidence that the Offeror understands the requirement, proposes a sound approach, and will be successful in performing the contract.
+Low Confidence | The Government has low confidence that the Offeror understands the requirement, proposes a sound approach, or will be successful in performing the contract.
+RFO
+FAR Clause | Title | Date
+52.242-15 | Stop-Work Order | (AUG 1989)
+52.242-17 | Government Delay of Work | (APR 1984)
+ |  | 
+CLAUSE | TITLE | DATE
+52.202-1 | Definitions | Jun 2020
+52.203-3 | Gratuities | Apr 1984
+52.203-5 | Covenant Against Contingent Fees | May 2014
+52.203-7 | Anti-Kickback Procedures | Jun 2020
+52.203-12 | Limitation on Payments to Influence Certain Federal
+Transactions | Jun 2020
+52.203-17 | Contractor Employee Whistleblower Rights | Nov 2023
+52.240-92 | Security Requirements (FAR Class Deviation 25-23) | Nov 2025
+52.204-9 | Personal Identity Verification of Contractor Personnel | Jan 2011
+52.204-13 | System for Award Management Maintenance (FAR Class Deviation 25-19) | Aug 2025
+52.204-91 | Contractor Identification (FAR Class Deviation 25-19) | Aug 2025
+52.209-6 | Protecting the Government’s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment  (FAR Class Deviation 25-27, Rev. 3) | Apr 2026
+52.209-9 | Updates of Publicly Available Information Regarding Responsibility Matters  (FAR Class Deviation 25-27, Rev 3) | Apr 2026
+52.209-10 | Prohibition on Contracting with Inverted Domestic
+Corporations (FAR Class Deviation 25-27 Rev.2) | Nov 2025
+52.212-4 | Contract Terms and Conditions – Commercial Items (FAR Class Deviation 25-21 Rev.2) | Nov 2025
+52.212-4 Alt 1 | Contract Terms and Conditions – Commercial Items (FAR Class Deviation 25-21 Rev.) | Nov 2025
+52.216-32 | Task-Order and Delivery-Order Ombudsman | Sept 2019
+52.219-9 Alt 1 | Small Business Subcontracting Plan (FAR Class Deviation 26-03) | Oct 2025
+52.222-3 | Convict Labor (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-19 | Child Labor—Cooperation with Authorities and Remedies (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-35 | Equal Opportunity for Veterans (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-36 | Equal Opportunity for Workers with Disabilities (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222.37 | Employment Reports on Veterans (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-40 | Notification of Employee Rights Under the National Labor Relations Act (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-41 | Service Contract Labor Standards (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-42 | Statement of Equivalent Rates for Federal Hires | May 2014
+52.222-43 | Fair Labor Standards Act and Service Contract Labor Standards- Price Adjustment (Multiple Year and Option Contracts) (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-44 | Fair Labor Standards Act and Service Contract Labor Standards- Price Adjustment (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-50 | Combating Trafficking in Persons (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-54 | Employment Eligibility Verification (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.222-62 | Paid Sick Leave Under Executive Order 13706 (FAR Class Deviation 26-10, Rev 2) | Apr 2026
+52.226-8 | Encouraging Contractor Policies to Ban Text Messaging While Driving | May 2024
+52.227-1 | Authorization and Consent | Jun 2020
+52.227-14 | Rights in Data - General | May 2014
+52.227-14 Alt IV | Rights in Data | Dec 2007
+52.229-12 | Tax on Certain Foreign Procurements (FAR Class Deviation 25-13) | Jul 2025
+52.232-18 | Availability of Funds | Apr 1984
+52.232-33 | Payment by Electronic Funds Transfer—System for Award Management | Oct 2018
+52.232-37 | Multiple Payment Arrangements | May 1999
+52.232-39 | Unenforceability of Unauthorized Obligations | Jun 2013
+52.233-3 | Protest After Award (FAR Class Deviation 25-25) | Aug 2025
+52.233-4 | Applicable Law for Breach of Contract Claim  (FAR Class Deviation 25-25) | Aug 2025
+52.237-3 | Continuity of Services | Jan 1991
+52.240-91 | Security Prohibitions and Exclusions (FAR Class Deviation 25-23) | Aug 2025
+52.240-92 | Security Requirements (FAR Class Deviation 25-23) | Aug 2025
+52.240-93 | Basic Safeguarding of Covered Contractor Information Systems (FAR Class Deviation 25-23) | Aug 2025
+52.242-3 | Penalties for Unallowable Costs (FAR Class Deviation 26-11) | Nov 2025
+52.242-15 | Stop Work Order | Aug 1989
+52.245-1 | Government Property | Sep 2021
+52.245-9 | Use and Charges | Apr 2012
+52.246-25 | Limitation of Liability—Services | Feb 1997
+52.247-35 | F.O.B. Destination, Within Consignee’s Premises | Apr 1984
+52.251-1 | Government Supply Sources | Apr 2012
+Number | Title | Date
+52.203-13 | Contractor Code of Business Ethics and Conduct | NOV 2021
+52.203-17 | Contractor Employee Whistleblower Rights | NOV 2023
+52.203-19 | Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements | JAN 2017
+52.204-9 | Personal Identity Verification of Contractor Personnel | JAN 2011
+52.219-8 * | Utilization of Small Business Concerns | JAN 2025
+52.222-35 | Equal Opportunity for Veterans | JUN 2020
+52.222-36 | Equal Opportunity for Workers with Disabilities | JUN 2020
+52.222-37 | Employment Reports on Veterans | JUN 2020
+52.222-40 | Notification of Employee Rights Under the National Labor Relations Act | DEC 2010
+52.222-41 | Service Contract Labor Standards | AUG 2018
+52.222-50 | Combating Trafficking in Persons | NOV 2021
+52.222-50 with Alt I | Combating Trafficking in Persons, with its Alternate I | MAR 2015
+52.222-51 | Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements | MAY 2014
+52.222-53 | Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements | MAY 2014
+52.222-54 | Employment Eligibility Verification | JAN 2025
+52.222-62 | Paid Sick Leave Under Executive Order 13706 | JAN 2022
+52.224-3 | Privacy Training | JAN 2017
+52.224-3 with Alt I | Privacy Training, with Alternate I | JAN 2017
+52.225-26 | Contractors Performing Private Security Functions Outside the United States | OCT 2016
+52.232-40 | Providing Accelerated Payments to Small Business Subcontractors | MAR 2023
+52.240-3 | Security Prohibitions and Exclusions | DATE
+52.240-3 with Alt I | Security Prohibitions and Exclusions, with its Alternate I | DATE
+52.240-4 | Security Requirements | DATE
+52.240-4 with Alt II | Security Requirements, with its Alternate II | DATE
+52.247-64 | Preference for Privately Owned U.S.-Flag Commercial Vessels | NOV 2021
+52.222-90 | Addressing DEI Discrimination by Federal Contractors | APR 2026
+CLAUSE | TITLE | DATE
+3052.222-70 | Strikes or Picketing Affecting Timely Completion of the
+Contract Work | DEC 2003
+3052.222-71 | Strikes or Picketing Affecting Access to a DHS Facility | DEC 2003
+3052.228-70 | Insurance | DEC 2003
+PROVISION | TITLE | DATE
+52.203-11 | Certification and Disclosure Regarding Payments to Influence
+Certain Federal Transactions | Sep 2024
+52.204-7 | System for Award Management (FAR Class Deviation 25-19) | Aug 2025
+52.204-13 | Prohibition on contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements-Representation | Jan 2017
+52.216-31 | Time-and-Materials/Labor-Hour Proposal Requirements- Commercial Acquisition | Nov 2021
+52.217-5 | Evaluation of Options (FAR Class Deviation 25-36) | Sep 2025

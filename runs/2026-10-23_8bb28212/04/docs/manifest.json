@@ -1,0 +1,33 @@
+{
+  "opportunity_id": "79e1f7cd1194437ead5d5941b3c63a98",
+  "sam_url": "https://sam.gov/opp/79e1f7cd1194437ead5d5941b3c63a98/view",
+  "notice": {
+    "title": "Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development",
+    "solicitationNumber": "HT003826SC005-AOI0002",
+    "type": "o",
+    "naics": [
+      {
+        "code": [
+          "541512"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": "NONE",
+    "responseDeadline": "2026-10-28T14:00:00-04:00",
+    "postedDate": "2026-10-22T12:45:31.423+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": "zip",
+  "expected_files": 3,
+  "files": [
+    "HT003826SC005-AOI00002_AOI 02 Posting Questions and Answers 20OCT26.xlsx",
+    "HT003826SC005-AOI00002_SOO_EIDS_DxP_v2 19OCT26.docx",
+    "HT003826SC005-AOI0002_EIDS Data Exchange Platform_22OCT26.docx",
+    "Deleted Attachments.txt"
+  ],
+  "links": [],
+  "errors": [],
+  "status": "ok"
+}

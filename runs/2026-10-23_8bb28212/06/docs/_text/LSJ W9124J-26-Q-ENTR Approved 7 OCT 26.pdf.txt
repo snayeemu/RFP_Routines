@@ -1,0 +1,776 @@
+=== Page 1 ===
+             GSA Federal Supply Schedules Limited Sources Justification
+                          CUI//SP-PROCURE//FEDCON
+
+                                                              Control No.: MICC 2027-1
+
+
+                         Justification Review Document
+               Federal Supply Schedule Limited Source Justification
+
+Program: Enterprise Information Management/Information Technology (IM/IT) Support
+Services for the U.S. Army Office of the Surgeon General (OTSG), Headquarters, U.S.
+Army Medical Command (HQ MEDCOM), other Army organizations and/or authorized
+users (CONUS/OCONUS) initiative to sustain the current IM/IT infrastructure and future
+IM/IT enhancements.
+
+Authority: Title 41 U.S.C. 4106(c)(2) as implemented by GSA Manual 538.7104-
+3(b)(1)(ii) –Only once source is capable
+
+Amount: $7.5M
+
+Prepared by:           Deborah Carolina-Godbolt                PH.: 520-725-9610
+                       IT Support Chief, COR                   Date: 5 October 2026
+                       Email: deborah.g.carolina-godbolt.civ@army.mil
+
+Contracting Officer:   Angelic M. Hatcher                        PH.: 520-944-7138
+                       Chief / Contracting Officer               Date: 5 October 2026
+                       Email: angelic.m.hatcher.civ@army.mil
+
+Technical:             Catina Pickett                            PH.: 571-644-6221
+                       IT Support, COR                           Date: 5 October 2026
+                       Email: catina.m.pickett.civ@army.mil
+
+Requirements:          Deborah Carolina-Godbolt                PH.: 520-725-9610
+                       IT Support Chief, COR                   Date: 5 October 2026
+                       Email: deborah.g.carolina-godbolt.civ@army.mil
+
+
+
+
+                            CUI//SP-PROCURE//FEDCON
+
+                                          1
+
+=== Page 2 ===
+                   GSA Federal Supply Schedules Limited Sources Justification
+                                CUI//SP-PROCURE//FEDCON
+
+                                                                 Control No.: MICC 2027-1
+
+
+Reviews: I have reviewed this justification and find it adequate to support limiting
+competition.
+
+Chief DT&A:
+Name: Michael Lucas
+Email: michael.p.lucas20.civ@army.mil / PH: 520-725-4970
+LUCAS.MICHAEL.PA Digitally signed by
+                 LUCAS.MICHAEL.PATRICK.1233280204
+TRICK.1233280204 Date: 2026.10.07 11:10:10 -05'00'
+________________________________
+
+
+MICC Office of Counsel:
+Kevin Cox
+Email: kevin.d.cox8.civ@army.mil / PH: 210-466-2153
+
+ COX.KEVIN.DENNI Digitally signed by
+                 COX.KEVIN.DENNIS.1097238061
+ S.1097238061
+________________________________
+                 Date: 2026.10.07 15:13:44 -05'00'
+
+
+
+
+Director, MICC-Fort Sam Houston:
+Liza J. Esmond
+Email: liza.j.esmond.civ@army.mil / PH: 210-466-2149
+ESMOND.LIZA. Digitally  signed by
+                ESMOND.LIZA.J.1016102195
+
+J.1016102195    Date: 2026.10.07 15:54:37
+________________________________
+                -05'00'
+
+
+
+Small Business Specialist:
+Timothy E. Greenwell
+Email: timothy.e.greenwell.civ@army.mil / PH: 520-714-8143
+
+GREENWELL.TIMOTHY.EU Digitally signed by
+                     GREENWELL.TIMOTHY.EUGENE.1185797666
+________________________________
+GENE.1185797666      Date: 2026.10.07 09:54:41 -07'00'
+
+
+
+
+                                       CUI//SP-PROCURE//FEDCON
+
+                                                           2
+
+=== Page 3 ===
+             GSA Federal Supply Schedules Limited Sources Justification
+                          CUI//SP-PROCURE//FEDCON
+
+                                                             Control No.: MICC 2027-1
+
+
+Federal Supply Schedule Limited Source Justification
+
+1. Requiring Activity: MEDCOM OTSG located in Ft Sam Houston, TX and Falls
+Church, VA
+
+2. Contracting Activity: MICC-Fort Sam Houston, 2205 Infantry Post Road, Bldg 604,
+Fort Sam Houston, TX 78234-1361
+
+3. Description of Action: Request approval to award a noncompetitive $7.5 million, 3-
+year (base and two one-year options to include RFO FAR 52.217-8) (firm-fixed-price,
+task order) with Akima Data Management, LLC., CAGE 7VW94, 2553 Dulles View Dr,
+Ste 700 Herndon, VA, 20171-5228 under General Services Administration (GSA)
+Multiple Award Schedule (MAS) Contract 47QTCA24D0062, Special Item Number (SIN)
+54151S (Information Technology Professional Services. The Government projects
+award by 13 October 2026 and fiscal year 2027, Operations and Maintenance funds will
+be used. Note on Non-Competitive Duration: In accordance with Army and DoD
+acquisition guidance regarding limited sources actions, this task order has been
+intentionally restricted to a 3-year core period (Base plus two Option Years) plus RFO
+FAR 52.217-8 rather than a 5-year lifecycle. This duration represents the minimum
+operational timeframe necessary to execute and stabilize complex, active in-flight
+enterprise migrations across the Army Medical Department (AMEDD) enterprise before
+re-competing the consolidated long-term requirement.
+
+4. Description of Supplies/Services: The Contractor shall provide professional, non-
+personal enterprise Information Management/Information Technology (IM/IT) support
+services, supervision, and technical personnel to perform IT help desk support, systems
+management, network administration, and project management to sustain and optimize
+the IT infrastructure of OTSG, HQ MEDCOM, Direct Reporting Units (DRUs), and
+authorized joint medical command users across Continental United States (CONUS)
+and Outside the Continental United States (OCONUS) locations.
+The requirement encompasses:
+
+a. IT Management, Coordination & Advisory Support (PWS 5.1, 5.3, 5.4): Program
+   coordination, Network Enterprise Center (NEC) interface, risk management, Work
+   Breakdown Structures, and deliverable administration.
+
+b. Systems and Network Administration (PWS 5.1, 5.2, 5.3, 5.5): LAN/WAN/server
+   management, NIPRNET/SIPRNET operational sustainment, Active Directory
+   administration, and Army Unified Directory Services (AUDS) performance.
+
+c. Help Desk, Computer User Support & Workstation Maintenance (PWS 5.1, 5.2,
+   5.3, 5.6): Tiered technical troubleshooting, hardware/software maintenance, ticket
+   solvency (95% AQL), inventory control, and DEPO account management.
+
+
+                            CUI//SP-PROCURE//FEDCON
+
+                                           3
+
+=== Page 4 ===
+             GSA Federal Supply Schedules Limited Sources Justification
+                          CUI//SP-PROCURE//FEDCON
+
+                                                               Control No.: MICC 2027-1
+
+
+d. Telecommunications Engineering & Mobility Operations (PWS 5.1, 5.3, 5.7):
+   Mobile device configuration, DISA Storefront management, phone
+   moves/adds/changes, and Telecommunications Officer liaison.
+
+e. Optional Mission-Emergent Surge Support (PWS 7.3 & Technical Exhibit 3):
+   Labor-hour capacity up to 10% (1,920 hours annually) for transient spikes,
+   enterprise rollouts, and emergency IAVA patching.
+
+f. Service Contract Reporting & Deliverables (PWS 5.2, 5.8, Technical Exhibit 2):
+   Mandatory SAM.gov reporting and QCP execution (NSP).
+
+             Period        Period of Performance (POP)        Estimated Value
+              Base          13 Oct 2026 — 12 Oct 2027         $2,085,128.45 M
+             Option 1       13 Oct 2027 — 12 Oct 2028         $2,128,033.44 M
+             Option 2       13 Oct 2028 — 12 Oct 2029         $2,171,866.94 M
+             Dash 8         13 Oct 2029 — 12 Apr 2030         $1,085,933.47 M
+                                                Total Value: $7,470,962.30 M
+
+5. Authority Cited: Title 41 U.S.C. 4106(c)(2) as implemented by GSA Manual
+538.7104-3(b)(1)(ii) –Only once source is capable.
+
+6. Reason for Authority Cited:
+
+a. Background & Critical In-Flight Migrations (Past 30 to 120 Days): Akima Data
+   Management, LLC is the only source that possesses the specialized qualifications,
+   active credentials, and institutional capability required to manage the existing
+   systems while simultaneously executing urgent transformations across the complex,
+   interdependent IT infrastructure of the Defense Health Agency (DHA), Department of
+   the Army, and DISA networks.
+
+   While market research revealed commercial vendors capable of performing standard
+   IT help desk and facilities support in the abstract, the unique operational
+   environment of OTSG/MEDCOM requires newly implemented (within the past 30 to
+   120 days) specialized systems expertise that only Akima Data Management, LLC
+   can provide without catastrophic mission failure:
+
+   x   Army Unified Directory Service (AUDS) Mandate: In February 2026,
+       MEDCOM implemented AUDS, and in August 2026, OTSG was formally
+       mandated to converge its infrastructure into this cloud-based directory and
+       device management platform. AUDS collapses over 60 disparate legacy
+       unclassified Army Active Directory forests into a single global structure. The work
+       requires active daily coordination with the 93rd and 7th Signal Brigades to
+       install, configure, and migrate endpoint hardware. Only Akima personnel possess
+
+
+                             CUI//SP-PROCURE//FEDCON
+
+                                            4
+
+=== Page 5 ===
+              GSA Federal Supply Schedules Limited Sources Justification
+                           CUI//SP-PROCURE//FEDCON
+
+                                                                 Control No.: MICC 2027-1
+
+
+       the active domain controller scripts and established operational interfaces with
+       the 93rd and 7th Signal Brigades.
+
+   x   Imminent DEPO Sunset & Cutover to MAPS (31 October 2026): On 31
+       October 2026, the Army will decommission Defense Enterprise Provisioning
+       Online (DEPO) and fully transition to the Modern Army Provisioning System
+       (MAPS). MAPS introduces an advanced Identity, Credential, and Access
+       Management (ICAM) framework operating under strict DoD Impact Level 5 (IL5)
+       security controls to orchestrate user lifecycles across the entire Army 365 (A365)
+       tenant. Akima technicians have completed platform-specific training and are
+       actively configuring provisioning pipelines. Transitioning to a new vendor during
+       this critical 31 October cutover would sever account creation and lock out
+       thousands of clinical and administrative users.
+
+   x   Vasion Print Zero-Trust Migration: In May 2026, NETCOM directed the
+       elimination of legacy local print servers in favor of Vasion Print (formerly
+       PrinterLogic), a cloud-native, serverless print management architecture aligned
+       with Army Zero-Trust initiatives. Akima is actively reconfiguring print queues
+       across all command facilities.
+
+   x   Classified NSS Tooling (CSfC, WINDAR-S, ADSV): In Fall 2026, OTSG
+       significantly expanded its Secret Internet Protocol Router Network (SIPRNET)
+       operational footprint, requiring immediate technical support for Commercial
+       Solutions for Classified (CSfC), Windows Data-at-Rest–Secret (WINDAR-S), and
+       ABMS DeviceONE SecureView (ADSV). Akima personnel currently hold the
+       specialized system configurations and Secret-cleared touch-labor access
+       required to support these secure enclaves at JBSA.
+
+   x   Army Mobility Program (AMP) Deployment: In June 2026, DISA terminated
+       support for legacy Army DMUC devices, mandating transition to the Army
+       Mobility Program (AMP). Akima is actively provisioning and managing the
+       replacement mobile framework.
+
+   x   Active Authorization to Operate (ATO) Data Packet Completion: Akima is
+       actively completing the formal Assessment and Authorization (A&A) process to
+       achieve Continuous ATO for systems processing Controlled Unclassified
+       Information (CUI). Transitioning to a new mid-stream vendor would halt security
+       control validation, corrupt technical artifacts, and risk complete revocation of the
+       command's ATO.
+
+b. Proposed Contractor’s Unique Capabilities & Workforce Retention: Akima Data
+   Management LLC (ADM) is uniquely qualified in its own corporate right to execute
+   this requirement without operational discontinuity:
+
+
+                             CUI//SP-PROCURE//FEDCON
+
+                                             5
+
+=== Page 6 ===
+              GSA Federal Supply Schedules Limited Sources Justification
+                           CUI//SP-PROCURE//FEDCON
+
+                                                                Control No.: MICC 2027-1
+
+
+
+
+   x   GSA Schedule Maturity & Direct Corporate Capabilities: Akima Data
+       Management holds prime GSA MAS Contract 47QTCA24D0062 under SIN
+       54151S, possessing DCAA-audited and approved accounting systems capable
+       of administering firm-fixed-price enterprise task orders.
+
+   x   Binding Incumbent Workforce Rebadging Agreement: Under established GAO
+       precedent (Allied Universal Security Services, B-417376.2; Battelle Memorial
+       Institute, B-424575), an agency's sole-source justification is legally rational where
+       the designated contractor has established a binding commitment to retain and
+       deploy the incumbent operational workforce possessing non-transferable, site-
+       specific expertise. Akima has executed a formalized workforce retention plan
+       guaranteeing that 100% of the active, Secret-cleared technicians performing on-
+       site duties will be transitioned on Day 1. This captures all personnel holding
+       active Network Enterprise Center (NEC) administrative tokens, AVS registrations,
+       and active migration scripts for AUDS and MAPS, eliminating the 60- to 90-day
+       onboarding void that would otherwise cripple command systems.
+
+   x   Verified Corporate Process Certifications: Akima possesses certified appraisals
+       at CMMI Level 3 for Services, ISO 9001:2015 (Quality Management), and ISO
+       27001:2013 (Information Security Management), alongside an active Top Secret
+       Facility Clearance.
+
+c. Alternatives Considered:
+
+   x   Civilian Manpower Cap Limits: OTSG/MEDCOM operates under strict civilian
+       staffing caps that restrict hiring additional permanent GS-2210 IT specialists.
+       Currently, organic IT leadership operates with only two (2) full-time government
+       IT staff (one being a temporary term position). These positions are 100%
+       committed to high-level cyber governance and inherently governmental
+       oversight, leaving zero bandwidth to perform day-to-day Tier II/III help desk ticket
+       resolution or network touch-labor.
+
+   x   Military Signal Reallocation: Military signal personnel are structurally assigned
+       to deployable operational units and medical readiness commands. Diverting
+       active-duty military personnel to perform stationary, commercial desktop support
+       at CONUS headquarters directly degrades tactical readiness.
+
+   x   Conducting a Competitive Procurement: A competitive procurement on GSA
+       MAS requires a minimum of 60 to 90 days PALT plus a 30-day transition. Award
+       must be in place immediately to prevent contract lapse on 12 October 2026.
+       Competing the requirement would guarantee an unmitigated 90-day break in
+       service during the critical 31 October MAPS cutover, causing systemic collapse
+
+                             CUI//SP-PROCURE//FEDCON
+
+                                             6
+
+=== Page 7 ===
+              GSA Federal Supply Schedules Limited Sources Justification
+                           CUI//SP-PROCURE//FEDCON
+
+                                                                 Control No.: MICC 2027-1
+
+
+       of medical IT services.
+
+   x   Conclusion on Alternatives: Issuing a limited sources task order to Akima Data
+       Management, LLC under GSAM 538.7104-3(b)(1)(ii) is the only viable course of
+       action to maintain mission operations, preserve network ATO accreditation, and
+       protect healthcare delivery.
+
+7. Efforts to Obtain Competition
+
+   1. Effective competition. The Government received responses from more than 90
+      capable Civilian Manpower Cap Limits: OTSG/MEDCOM operates under strict
+      civilian staffing caps that restrict hiring additional permanent GS-2210 IT
+      specialists. Currently, organic IT leadership operates with only two (2) full-time
+      government IT staff (one being a temporary term position). These positions are
+      100% committed to high-level cyber governance and inherently governmental
+      oversight, leaving zero bandwidth to perform day-to-day Tier II/III help desk ticket
+      resolution or network touch-labor.
+
+   2. Military Signal Reallocation: Military signal personnel are structurally assigned
+      to deployable operational units and medical readiness commands. Diverting
+      active-duty military personnel to perform stationary, commercial desktop support
+      at CONUS headquarters directly degrades tactical readiness.
+
+   3. Conducting a Competitive Procurement: A competitive procurement on GSA
+      MAS requires a minimum of 60 to 90 days PALT plus a 30-day transition. Award
+      must be in place immediately to prevent contract lapse on 12 October 2026.
+      Competing the requirement would guarantee an unmitigated 90-day break in
+      service during the critical 31 October MAPS cutover, causing systemic collapse
+      of medical IT services.
+
+   4. Conclusion on Alternatives: Issuing a limited sources task order to Akima Data
+      Management, LLC under GSAM 538.7104-3(b)(1)(ii) is the only viable course of
+      action to maintain mission operations, preserve network ATO accreditation, and
+      protect healthcare delivery.
+
+d. Impact if Not Approved
+
+If this justification is not approved, contractor support will terminate on 12 October 2026:
+
+   x   Active migrations across AUDS, the 31 October MAPS deployment, and Vasion
+       Print will collapse mid-implementation.
+   x   Over 4,500 military and civilian personnel will lose service desk support,
+       workstation provisioning, and mobile connectivity.
+
+
+                             CUI//SP-PROCURE//FEDCON
+
+                                             7
+
+=== Page 8 ===
+             GSA Federal Supply Schedules Limited Sources Justification
+                          CUI//SP-PROCURE//FEDCON
+
+                                                                Control No.: MICC 2027-1
+
+
+   x   Vulnerability patching and IAVA remediation will cease, triggering immediate
+       non-compliance and revocation of the command's DoD IL5 Authority to Operate
+       (ATO).
+7. Efforts to Obtain Competition
+
+Market research was initiated via the System for Award Management (SAM.gov) and
+GSA eLibrary under NAICS 541513. While more than 90 commercial vendors and
+seven (7) 8(a) concerns responded indicating general commercial capabilities,
+comprehensive technical evaluation against the complex, in-flight operational
+environment revealed that only Akima possesses the active platform training, immediate
+NEC admin tokens, and specialized dual-tenant expertise required to execute active
+migrations without catastrophic downtime.
+
+Subcontracting Competition & 100% Prime Self-Performance:
+
+Subcontracting competition is not applicable. In direct technical and contracting
+discussions with Akima Data Management, LLC, the vendor confirmed that 100% of all
+required services under this task order will be self-performed directly by Akima Data
+Management, LLC with zero percent (0%) subcontracting. Consequently, no small
+business subcontracting plan is required pursuant to RFO FAR 19.101(b)(1), and the
+contractor fully complies with the Limitations on Subcontracting requirements set forth in
+FAR 52.219-14 (Class Deviation 2021-O0008).
+
+8. Actions to Increase Competition:
+
+This non-competitive order is strictly limited to 42 months (3-year core plus RFO FAR
+52.217-8) to stabilize the IT environment. To facilitate future competition, the
+Government will:
+
+   1. Develop a comprehensive, vendor-neutral Technical Data Package (TDP) and
+      unclassified network architecture baseline.
+
+   2. Formulate standardized, documented Operating Procedures (SOPs) for all newly
+      deployed systems (AUDS, MAPS, CSfC, Vasion Print).
+
+   3. Initiate formal acquisition planning for a competitive follow-on contract at least 18
+      months prior to the expiration of Option Period 2.
+
+9. Market Research:
+
+In accordance with AFARS PGI 5110.090, market research was conducted from June
+through August 2026. A formal Sources Sought notice was posted on SAM.gov under
+W9124J-27R-ENTR (closing 16 July 2026). An evaluation committee of G6 technical
+personnel evaluated all responses against the PWS requirements over a 30-day period.
+
+                             CUI//SP-PROCURE//FEDCON
+
+                                            8
+
+=== Page 9 ===
+               GSA Federal Supply Schedules Limited Sources Justification
+                            CUI//SP-PROCURE//FEDCON
+
+                                                                   Control No.: MICC 2027-1
+
+
+While several firms demonstrated baseline capacity for basic Tier I/II support, only
+Akima Data Management, LLC possessed the verified corporate maturity (CMMI Level
+3 / ISO 27001), active Secret-cleared workforce with active NEC administrative access
+and verified past performance across OTSG/MEDCOM systems to execute the
+requirement without unacceptable mission risk.
+
+10. Other Facts:
+
+a. Procurement History
+
+The localized baseline IT support preceding this enterprise effort was procured under
+the following historical contracts, which expire simultaneously in October 2026:
+
+Contract / Order   Contractor       Competitive        Actual Cost /     Period of
+Number                              Status             Obligated Value   Performance &
+                                                                         Scope
+
+W9124J-24-C-       Localized        8(a) Set-Aside     $1,332,388.99     Localized Touch-
+0007               Baseline                                              Labor
+                   Contractor                                            Predecessor
+
+47QTCB21D0359 Tuvli, LLC            8(a) Sole Source   $14,801,174.73    01 Apr 2023 –
+/ W9124J-23-F- (Incumbent           (STARS III)                          12 Oct 2026
+0047           Predecessor)                                              (Falls Church /
+                                                                         NCR Focus)
+
+W9124J-24-C-       MSM              8(a) Sole Source   $3,464,009.40     13 Oct 2023 –
+0004               Technology LLC                                        12 Oct 2026
+                                                                         (JBSA Onsite
+                                                                         IM/IT Support; 5
+                                                                         FTEs)
+
+
+b. Determination of New Requirement and 8(a) Program Release Compliance (13
+CFR § 124.504(d) / RFO FAR 19.108-11)
+
+In accordance with Page 9, Paragraph a of the approved and signed Market Research
+Report, the Contracting Officer has evaluated this procurement to ensure full
+compliance with statutory consolidation, bundling, and small business program
+guidelines:
+
+Non-Consolidation Determination (RFO FAR 7.107-2 / 10 U.S.C. § 4241):
+
+ This requirement does not constitute consolidation in accordance with RFO FAR 2.101
+and RFO FAR 7.107-2. A technical crosswalk between the preceding legacy contracts
+(W9124J-24-C-0007, W9124J-23-F-0047, and W9124J-24-C-0004) and the current
+PWS confirms that this acquisition represents a fundamentally new, distinct, and
+
+
+                                CUI//SP-PROCURE//FEDCON
+
+                                              9
+
+=== Page 10 ===
+               GSA Federal Supply Schedules Limited Sources Justification
+                            CUI//SP-PROCURE//FEDCON
+
+                                                                       Control No.: MICC 2027-1
+
+
+transformed operational capability. The legacy efforts were historically descoped to
+basic, single-site, localized touch-labor and routine hardware maintenance. In contrast,
+the current PWS establishes an integrated enterprise-wide IT operating model that
+introduces centralized multi-tier Enterprise Service Desk operations, Zero Trust
+cybersecurity, hybrid-cloud systems administration, and standardized service level
+agreements (SLAs) across multiple geographically dispersed installations. Because this
+acquisition procures a newly defined, substantially transformed operational capability
+rather than combining continuing legacy contract requirements without change, it is not
+a consolidated requirement.
+
+Non-Bundling Determination (RFO FAR 7.107-3 / 15 U.S.C. § 632(o)):
+
+ This requirement does not constitute bundling under RFO FAR 2.101 and RFO FAR
+7.107-3. Bundling is defined as consolidating two or more procurement requirements for
+goods or services previously provided or performed under separate smaller contracts
+into a solicitation of offers for a single contract that is unlikely to be suitable for award to
+a small business concern. Market research conducted under NAICS 541513 ($37.0M
+Size Standard) confirms that small businesses possess the technical capability and
+certified personnel to execute this scope. Crucially, the acquisition strategy focuses on
+an award to Akima Data Management, LLC, a certified Small Disadvantaged Business
+(SDB) concern under GSA MAS SIN 54151S cross-mapped to NAICS 541513.
+Because the resulting contract will be awarded directly to a small business concern, the
+acquisition strategy fully preserves small business prime contracting participation and
+completely negates bundling.
+
+Technical Crosswalk: Legacy Predecessor Contracts vs. New Enterprise PWS
+
+The operational transformation between the historical contracts and the new enterprise
+PWS is detailed in the comparative crosswalk below:
+
+ Technical      Predecessor       Current Enterprise PWS (W9124J-27-Q-             Nature of
+ Domain         Contracts         ENTR)                                            Scope
+                (W9124J-24-C-                                                      Transformation
+                0007, W9124J-
+                23-F-0047, &
+                W9124J-24-C-
+                0004)
+
+ Operational    Descoped to       Integrated enterprise-wide IT operating model    Transformed
+ Scope &        localized,        establishing centralized multi-tier Enterprise   from
+ Footprint      single-site       Service Desk operations across OTSG, HQ          fragmented,
+                touch-labor       MEDCOM, DRUs, and authorized users               localized touch-
+                geographically    CONUS/OCONUS.                                    labor to a unified
+                fragmented                                                         global enterprise
+                between NCR                                                        command-and-
+                (23-F-0047)
+
+
+                                 CUI//SP-PROCURE//FEDCON
+
+                                                10
+
+=== Page 11 ===
+                 GSA Federal Supply Schedules Limited Sources Justification
+                              CUI//SP-PROCURE//FEDCON
+
+                                                                           Control No.: MICC 2027-1
+
+
+                  and JBSA (24-                                                          control support
+                  C-0004).                                                               model.
+
+Directory &       Maintained          Administers enterprise migration to Army Unified   Complete
+Domain            legacy,             Directory Service (AUDS), converging over 60       architectural
+Architecture      decentralized       disparate legacy Army AD forests into a single     overhaul
+                  unclassified        global directory structure.                        requiring daily
+                  Active Directory                                                       operational
+                  forests and                                                            coordination with
+                  localized user                                                         93rd and 7th
+                  accounts.                                                              Signal Brigades.
+
+Identity &        Manual account      Executes sunsetting of DEPO and deployment         Transition to
+Account           creation and        of Modern Army Provisioning System (MAPS)          automated IL5
+Provisioning      user processing     under DoD IL5 security controls across the         ICAM engine
+                  through legacy      entire Army 365 (A365) tenant.                     governing
+                  Defense                                                                thousands of
+                  Enterprise                                                             user accounts
+                  Provisioning                                                           and
+                  Online (DEPO).                                                         collaboration
+                                                                                         spaces.
+
+Classified &      Limited local       Engineering and touch-labor for classified         Introduction of
+Zero-Trust        SIPRNET             National Security Systems (NSS) utilizing CSfC,    advanced
+Infrastructure    terminal            WINDAR-S, and ADSV, alongside serverless           cryptographic
+                  checkouts and       zero-trust Vasion Print migration.                 and zero-trust
+                  basic hardware                                                         computing
+                  swapouts.                                                              enclaves.
+
+Mobile Device     Basic tracking      Force-wide rollout and mobile lifecycle            Replacement of
+Infrastructure    of legacy Army      management of the newly mandated Army              sunsetted DISA
+                  DMUC cellular       Mobility Program (AMP).                            mobile
+                  phones.                                                                framework
+                                                                                         across the
+                                                                                         medical
+                                                                                         enterprise.
+
+Financial         Fragmented          Certified IGE evaluated at $7,470,962.30 over      Consolidated
+Footprint         contracts with      42 months (Base Period: $2,085,128.45/year).       operational
+                  redundant                                                              structure
+                  project                                                                eliminating
+                  management                                                             duplicate
+                  structures.                                                            management
+                                                                                         overhead and
+                                                                                         lowering annual
+                                                                                         run-rates.
+
+
+
+
+Analysis & Exemption from SBA Release:
+
+
+
+                                     CUI//SP-PROCURE//FEDCON
+
+                                                    11
+
+=== Page 12 ===
+          GSA Federal Supply Schedules Limited Sources Justification
+                       CUI//SP-PROCURE//FEDCON
+
+                                                             Control No.: MICC 2027-1
+
+
+1. Substantial Transformation (>25% Rule): Under 13 CFR § 124.504(d)(1),
+   where a procurement consolidates work previously performed under separate
+   contracts and introduces newly mandated, enterprise-wide technical
+   architectures (AUDS, MAPS under DoD IL5, Vasion Print, and CSfC/WINDAR-S)
+   that exceed 25% of the baseline scope, operational reach, and technical
+   complexity of the predecessor efforts, the procurement is legally recognized as a
+   "new requirement." This overarching determination applies across all
+   predecessor work, including standalone contracts W9124J-24-C-0007 and
+   W9124J-24-C-0004.
+
+2. Task Order Carve-Out for W9124J-23-F-0047 (13 CFR § 124.504(d)(4)(i)): It is
+   specifically noted that predecessor contract W9124J-23-F-0047 was issued as
+   an individual task order under the GSA STARS III Government-Wide Acquisition
+   Contract (GWAC) 47QTCB21D0359 (whereas 24-C-0007 and 24-C-0004 were
+   standalone contracts). Pursuant to 13 CFR § 124.504(d)(4)(i):
+
+   "The requirement that a follow-on procurement must be released from the 8(a)
+   program in order for it to be fulfilled outside the 8(a) program does not apply to
+   task or delivery orders offered to and accepted into the 8(a) program, where the
+   basic contract was not accepted into the 8(a) program." Consequently, task order
+   W9124J-23-F-0047 possesses an independent, secondary regulatory exemption
+   from 8(a) release mandates.
+
+3. No Requirement to Await SBA Concurrence (Court of Federal Claims
+   Precedent): Under controlling federal court precedent (Vinsys Information
+   Technology v. United States, 151 Fed. Cl. 678), when a Contracting Officer
+   reasonably determines that an acquisition is a "new requirement," the agency is
+   not required to request, wait for, or obtain formal release or affirmative
+   concurrence from the SBA. In accordance with 13 CFR § 124.504(d)(1), the
+   agency’s sole procedural obligation is to provide formal written notification to the
+   servicing SBA District Office and the SBA Procurement Center Representative
+   (PCR) prior to award, documenting that the procurement represents a new
+   requirement being fulfilled outside the 8(a) program. Transmittal of this written
+   notice completes the agency's coordination requirement, permitting the
+   Contracting Officer to proceed immediately with contract award.
+
+
+
+
+                          CUI//SP-PROCURE//FEDCON
+
+                                         12
+
+=== Page 13 ===
+                  GSA Federal Supply Schedules Limited Sources Justification
+                               CUI//SP-PROCURE//FEDCON
+
+                                                                         Control No.: MICC 2027-1
+
+
+11. Technical Certification: I certify that the supporting data under my cognizance
+which are included in the justification are accurate and complete to the best of my
+knowledge and belief.
+
+PICKETT.CATINA.MARIE. Digitally signed by
+                      PICKETT.CATINA.MARIE.1131580580
+1131580580
+__________________________________
+                      Date: 2026.10.07 11:06:33 -05'00'
+
+Catina Pickett
+IT Support, COR
+
+12. Requirements Certification: I certify that the supporting data under my
+cognizance which are included in the justification are accurate and complete to the best
+of my knowledge and belief.
+
+                                Digitally signed by CAROLINA-
+ CAROLINA-
+                                GODBOLT.DEBORAH.G.1061191034
+__________________________________
+ GODBOLT.DEBORAH.G.1061191034
+                                Date: 2026.10.07 12:00:49 -04'00'
+Deborah Carolina-Godbolt
+IT Support Chief, COR
+
+
+13. Fair and Reasonable Cost Determination: I hereby determine that the anticipated
+price/cost to the Government for this contract action represents the best value and will
+be fair and reasonable consistent with DoD Class Deviation 2014-O0011 -
+Determination of Fair and Reasonable Prices When Using Federal Supply Schedule
+Contracts, dated March 13, 2014. This determination will be made using independent
+Government estimate, RFO FAR 15.404-1(c)(2)(iii)(D)).
+HATCHER.ANGEL Digitally  signed by
+                 HATCHER.ANGELIC.M.102850173
+
+IC.M.1028501737 7Date: 2026.10.07 16:11:53 -05'00'
+__________________________________
+Angelic Hatcher
+Chief/Contracting Officer
+
+14. Contracting Officer Certification: I certify that this justification is accurate and
+complete to the best of my knowledge and belief.
+HATCHER.ANGEL Digitally  signed by
+                 HATCHER.ANGELIC.M.102850173
+
+IC.M.1028501737 7Date: 2026.10.07 16:12:19 -05'00'
+__________________________________
+Angelic Hatcher
+Chief/Contracting Officer
+
+
+
+
+                                          CUI//SP-PROCURE//FEDCON
+
+                                                                    13
+
+=== Page 14 ===
+              GSA Federal Supply Schedules Limited Sources Justification
+                           CUI//SP-PROCURE//FEDCON
+
+                                                              Control No.: MICC 2027-1
+
+
+APPROVAL
+
+Based on the foregoing justification, I hereby approve the procurement of Enterprise
+Information Management/Information Technology (IM/IT) Support Services for the U.S.
+Army Office of the Surgeon General (OTSG) and Headquarters Medical Command
+(HQ MEDCOM) on a limited sources basis pursuant to the authority of Title 41 U.S.C.
+4106(c)(2) as implemented by General Services Administration Acquisition Manual
+(GSAM) 538.7104-3(b)(1)(ii) (Only one source is capable of providing the supplies or
+services required at the level of quality required because the supplies or services are
+unique or highly specialized).
+
+The total estimated value of this task order is $7,470,962.30 for a 42-month period of
+performance consisting of a 12-month Base Period, two (2) 12-month Option Periods,
+and a potential six-month extension under RFO FAR 52.217-8, from approximately 13
+October 2026 through 12 April 2030.
+                     Digitally signed by
+HATCHER.ANGEL HATCHER.ANGELIC.M.1028501
+                737
+IC.M.1028501737 Date: 2026.10.07 16:12:40
+                     -05'00'
+
+ANGELIC M. HATCHER
+Contracting Officer
+
+
+
+
+                                    CUI//SP-PROCURE//FEDCON
+
+                                              14

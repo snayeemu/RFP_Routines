@@ -1,0 +1,1298 @@
+MD. NAFIS SIDDIQUE                                           Web Development: HTML, CSS, JavaScript,
+                                                             PHP, MySQL.
+Industry Experience: 7+ Years
+                                                             Frameworks & Libraries: Laravel, WordPress,
+Salesforce Development, Integration &
+                                                             jQuery, Bootstrap, JavaScript Libraries.
+CRM Solutions
+                                                             Salesforce Tools: Force.com, Apex Data
+                                                             Loader, VS Code Plug-ins, Ant Migration Tool,
+PROFESSIONAL SUMMARY
+                                                             Sandbox and Production Environments.
+Senior Salesforce Developer and Technical                    Cloud & DevOps: AWS, DigitalOcean, Git,
+Lead with 7+ years of experience in                          Server Configuration.
+technology and software development,
+                                                             Business & Application Solutions: CRM,
+including Salesforce development,
+                                                             SaaS, E-commerce, E-forms, Payment
+administration, integration, and business                    Processing, Document Management,
+solution delivery. Experienced in Apex,                      Workflow Automation.
+Lightning Web Components (LWC),
+Visualforce, Salesforce Flow, Sales Cloud,
+                                                             PROJECT EXPERIENCE
+CPQ, and Field Service Lightning. Skilled in                 DocuSign Integration | Role: Salesforce
+integrating Salesforce with third-party                      Developer | Technology: Apex, HTML, CSS,
+applications and services, including                         DocuSign, Visualforce.
+DocuSign, Twilio, Chargent, BambooHR,                        Integrated DocuSign with Salesforce by
+Adobe Sign, WordPress, DigitalOcean, and                     generating custom Visualforce PDF
+AWS. Also experienced in Salesforce                          documents and creating signing envelopes.
+Experience Cloud, Marketing Cloud, custom                    Configured signer routing based on
+PDF generation, REST APIs, and web                           predefined order requirements.
+application development. Has worked in                       DocuSign Integration | Role: Salesforce
+technical leadership, client requirements                    Developer | Technology: Apex, Visualforce,
+analysis, application development, and                       DocuSign.
+startup operations.                                          Integrated DocuSign with Salesforce for PDF
+                                                             generation, signing envelopes, and signer
+TECHNICAL SKILLS                                             routing.
+Salesforce Platforms: Sales Cloud, CPQ, Field                Twilio Integration | Role: Salesforce
+Service Lightning, Experience Cloud,                         Developer | Technology: Apex, REST API,
+Marketing Cloud, Salesforce Sites.                           Triggers.
+Salesforce Development & Automation:                         Integrated SMS, voice, and authentication
+Apex, Lightning Web Components (LWC),                        workflows for appointment, registration, and
+Visualforce, Salesforce Flow, Triggers,                      campaign notifications.
+Scheduled Apex, SLDS, Custom Buttons,
+                                                             Chargent Payment Integration | Role:
+Custom PDF Generation.
+                                                             Salesforce Developer | Technology: Apex,
+Integration & APIs: REST APIs, SOAP,                         Visualforce, Chargent.
+DocuSign, Twilio, Chargent, BambooHR,                        Integrated payment processing and
+Adobe Sign, DigitalOcean, AWS S3,                            developed custom payment pages and
+WordPress Integration.                                       payment-plan functionality.
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com      Page: 1
+BambooHR Integration | Role: Salesforce                      Developed public registration and response
+Developer | Technology: Apex, REST API, and                  forms, configurable surveys, and
+Scheduled Apex.                                              administrative question-management
+                                                             functionality.
+Synchronized employee data with Salesforce
+and automated user-status checks and HR                      Field Service Lightning Implementation |
+email alerts.                                                Role: Salesforce Developer | Technology:
+                                                             Apex, LWC
+Adobe Sign Integration | Role: Salesforce
+Developer | Technology: Apex, Visualforce,                   Implemented Field Service functionality and
+LWC.                                                         custom notifications for newly assigned
+                                                             service appointments.
+Integrated electronic signatures with
+Salesforce using custom actions and                          Accounting Seed Approval Workflow |
+dynamically generated PDF documents.                         Role: Salesforce Developer | Technology:
+                                                             Apex, LWC, Accounting Seed.
+Salesforce–WordPress Synchronization |
+Role: Salesforce Developer | Technology:                     Developed an approval interface for account-
+Apex, REST API, PHP.                                         payable and cash-disbursement records,
+                                                             including approval decisions and comments.
+Retrieved Salesforce data through REST APIs
+and displayed it on a WordPress website.                     Custom PDF & JavaScript Library Solutions
+                                                             | Role: Salesforce Developer | Technology:
+AWS & DigitalOcean Integrations | Role:
+                                                             Apex, Visualforce, LWC, JavaScript
+Salesforce Developer | Technology: Apex,
+REST API, PHP, Amazon S3.                                    Developed custom PDFs for invoices, checks,
+                                                             appointments, and reports, and integrated
+Integrated cloud storage and document
+                                                             JavaScript libraries for calendars, QR codes,
+services with Salesforce for file management,
+                                                             image cropping, and PDF processing.
+PDF generation, and record attachments.
+Experience Cloud Implementation | Role:                      EDUCATION
+Salesforce Developer | Technology: Apex,
+LWR, SLDS, HTML, CSS.                                        Bachelor of Computer Science and
+                                                             Engineering
+Developed a branded portal with                              BRAC University | 2011–2017
+passwordless login, profile management,
+dashboards, and multistep forms.                             CERTIFICATIONS
+Marketing Cloud Implementation | Role:                       Salesforce Certifications
+Salesforce Developer | Technology:
+Marketing Cloud, Journey Builder, Apex.                        •   Salesforce Certified Associate
+                                                               •   Salesforce Certified AI Specialist
+Implemented data synchronization and
+                                                               •   Salesforce Certified Data Cloud
+customer journey functionality, including
+WhatsApp session messaging.                                        Consultant
+
+Salesforce Sites & Feedback Forms | Role:
+Salesforce Developer | Technology: Apex,
+Visualforce, LWC, SLDS.
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com        Page: 2
+Md. Nazim Ul Islam                                            Quality Assurance & Testing: UAT, QA
+Industry Experience: 15+ Years                                Testing, Test Case Development, User Story
+                                                              Validation, Sandbox Testing, Production
+Salesforce Solutions & Project Delivery
+                                                              Validation, Release Management, Hypercare.
+PROFESSIONAL SUMMARY                                          Project & Delivery Management: Project
+                                                              Management, Delivery Management,
+Certified Salesforce professional with 15+                    Business Analysis, Functional Leadership,
+years of industry experience in Salesforce                    Requirements Analysis, Stakeholder
+solutions, project delivery, quality assurance,               Collaboration, Training, Go-Live Support.
+business analysis, and platform                               Programming & Database: Apex, JavaScript,
+implementation. Experienced in Salesforce                     CSS, HTML, SQL, PL/SQL, Oracle.
+Field Service, Service Cloud, Sales Cloud,
+                                                              Development Tools: Oracle Developer 9i,
+Experience Cloud, Accounting Seed,                            Oracle Forms & Reports, ADF.
+Marketing Cloud Engagement, Financial
+Services Cloud, and CRM Analytics. Proven                     Methodologies: Agile, Software
+                                                              Development Life Cycle (SDLC), System
+experience leading UAT and QA, managing
+                                                              Design, Workflow Automation.
+Salesforce implementations and managed
+services, coordinating data migrations,                       PROJECT EXPERIENCE
+delivering customer and partner portals, and
+                                                              Field Service, Accounting Seed &
+managing production releases. Holds 15
+                                                              Experience Cloud Portals -QA Lead,
+Salesforce certifications covering
+                                                              Functional Lead.
+architecture, development, administration,
+business analysis, Agentforce, and AI.                        Field Service, Experience Cloud,
+                                                              Accounting Seed, Flow, Apex -Led
+TECHNICAL SKILLS                                              UAT/QA covering automation, inventory,
+                                                              data migration, and customer/partner
+Salesforce Platforms: Sales Cloud, Service                    portals.
+Cloud, Field Service, Experience Cloud,
+Financial Services Cloud, Marketing Cloud                     Medical Technology Salesforce
+Engagement, CRM Analytics, CPQ,                               Managed Services -Delivery Lead,
+Accounting Seed.                                              Project Manager.
+Salesforce Development & Automation:                          Sales Cloud, Service Cloud, Field Service,
+Apex, Lightning Web Components (LWC),                         Experience Cloud, CRM Analytics, LWC,
+Flow, Salesforce Sites, Custom Objects,                       Flow -Managed support for a 400-user
+Reports & Dashboards, Workflow                                organization, including assessment,
+Automation.
+                                                              approvals, analytics, and controlled
+Marketing Cloud: Journey Builder, Content                     releases.
+Builder, MC Connect, SQL, Data Extensions,
+Subscription Center.                                          Marketing Cloud Engagement
+                                                              Implementation -Project Manager.
+Data Migration & Integration: Data Loader,
+Data Migration, Data Mapping, Data                            Marketing Cloud, Journey Builder,
+Reconciliation, DBSync, QuickBooks, Sage,                     Content Builder, MC Connect, SQL -
+Simpro.                                                       Delivered Marketing Cloud setup,
+
+
+
+                    Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com     Page: 1
+journeys, Sales Cloud integration, UAT,
+                                                           Salesforce Sites, Custom Objects,
+training, and go-live.
+                                                           Sandbox QA -Led QA for eligibility,
+Field Service & Accounting Seed                            household/income data, and file-upload
+Implementation -Project Manager.                           functionality.
+Field Service, Accounting Seed, Flow,
+                                                           Additional Salesforce Projects:
+Apex, Data Loader -Managed
+                                                           Accounting Seed Job Costing; Filter
+implementation, Sage migration, data
+                                                           Services Support; Sales Initiative Bulk
+cleanup, FSL training, inventory
+                                                           Upload; Internal Project Management
+synchronization, and automation.
+                                                           App.
+Field Service & SharinPix Photo
+Management -Project Manager, QA Lead.                      EDUCATION
+
+Field Service, CPQ, Accounting Seed,                       Master of Business Administration -
+SharinPix, LWC, Flow -Managed FSL                          Management Information Systems
+enhancements, CPQ, payment                                 University of Dhaka | 2019
+integration, mobile flows, recurring                       Bachelor of Commerce
+appointments, and photo management.                        Kabi Nazrul Govt. College | 2004
+
+Service Cloud & Field Service                              CERTIFICATIONS
+Implementation -Project Coordinator,
+                                                           Salesforce Certifications – 15
+QA Lead.
+                                                             •       Salesforce Application Architect
+Service Cloud, Field Service, Flow,
+                                                             •       Salesforce Platform Data Architect
+DBSync, QuickBooks -Coordinated                              •       Salesforce Platform Sharing and
+implementation, automation, integration,                             Visibility Architect
+production validation, and hypercare.                        •       Salesforce Platform Developer
+                                                             •       Salesforce Platform App Builder
+Field Service for Rigging & Crane                            •       Salesforce Platform Administrator
+Services -Project Manager.                                   •       Salesforce Platform Administrator II
+                                                             •       Salesforce Platform Foundations
+Service Cloud, Field Service, Flow -                         •       Salesforce Business Analyst
+Managed dispatch, scheduling, quoting,                       •       Salesforce Agentforce Specialist
+service reporting, and equipment                             •       Salesforce Agentforce Sales Consultant
+tracking.                                                    •       Salesforce Agentforce Sales Foundations
+                                                             •       Salesforce Agentforce Field Service and
+Financial Services Cloud Data Migration                              Operations Consultant
+-Business Analyst, Migration Coordinator.                    •       Salesforce Agentforce Service
+                                                                     Consultant
+Financial Services Cloud, Data Loader,                       •       Salesforce AI Associate
+Flow -Led data mapping and migration,
+                                                           Oracle Certifications
+including approximately 17,000
+attachments and reconciliation.                                  •    Oracle Certified Associate
+Public Survey & Scholarship Application                          •    Oracle Certified Professional
+-QA Lead.
+
+
+
+                 Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com         Page: 2
+Md. Razwanul Ghani                                            JavaScript, TypeScript, Vue.js, Nuxt, React,
+                                                              Next.js, Node.js, NestJS.
+Industry Experience: 6+ Years
+                                                              Database & DevOps: PostgreSQL, MySQL,
+Salesforce Development, Integration &
+                                                              Redis, RabbitMQ, Docker, Git, CI/CD.
+Automation
+                                                              Analytics: Tableau, SQL, Data Modeling,
+                                                              Reporting & Dashboards.
+PROFESSIONAL SUMMARY
+Senior Salesforce Developer with 6+ years of                  PROJECT EXPERIENCE
+software development experience, including
+3+ years focused on Salesforce development,                   Niko Health Integration - Senior Salesforce
+administration, integration, and enterprise                   Developer
+automation. Experienced in Apex, Lightning                    Salesforce, MuleSoft, Queueable Apex,
+Web Components (LWC), SOQL, Flow,                             Anypoint MQ - Developed integration flows
+asynchronous Apex, REST APIs, MuleSoft,                       supporting referring providers, patients,
+Anypoint Platform, Anypoint MQ,                               insurance, diagnoses, authorizations, pricing,
+                                                              and invoicing.
+DataWeave, EDI, AWS services, SFTP,
+Salesforce Marketing Cloud, and QuickBooks                    EDI Supplier Integration - Senior Salesforce
+integrations. Strong experience supporting                    Developer
+healthcare workflows, payment
+                                                              MuleSoft, Anypoint MQ, EDI 850/855/856/997
+synchronization, order management,                            - Supported supplier order processing,
+invoicing, supplier integrations, and                         acknowledgements, shipment updates, SKU
+enterprise system troubleshooting.                            matching, serial synchronization, and
+                                                              rejected-order handling.
+TECHNICAL SKILLS
+                                                              QuickBooks Payment Integration - Senior
+Salesforce: Apex, LWC, SOQL/SOSL, Triggers,                   Salesforce Developer
+Batch Apex, Queueable Apex, Scheduled
+Apex, Flow, Custom Metadata, Validation                       Salesforce, QuickBooks, Batch Apex -
+Rules, Security & Sharing, REST API.                          Developed and supported payment
+                                                              synchronization, investigated outstanding-
+Integration & Middleware: MuleSoft                            balance mismatches, and implemented
+Anypoint Platform, Anypoint MQ,                               targeted payment reprocessing.
+DataWeave, REST APIs, JSON/XML, API-led
+Integration, SFTP, EDI, AWS SQS, AWS                          Zenkraft / Printing Integration - Senior
+Lambda.                                                       Salesforce Developer
+Salesforce Marketing Cloud: Marketing                         Salesforce, Zenkraft, Sandbox Testing -
+Cloud Engagement, Email Studio, Journey                       Troubleshot packing-slip printing issues,
+Builder, Data Extensions, Email Deliverability,               supported printer configuration, and
+Salesforce Email Services.                                    performed sandbox validation and
+External Systems & Integrations: Niko                         deployment testing.
+Health, QuickBooks, EDI 850/855/856/997,
+AWS Services, External REST APIs.                             Salesforce Marketing Cloud Support -
+                                                              Senior Salesforce Developer
+Full-Stack Development: PHP, Laravel,
+
+
+
+
+                    Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com         Page: 1
+Marketing Cloud Engagement, Journey
+Builder, Email Services - Supported email-
+send troubleshooting, message-volume
+issues, Email Services, and reply-handling for
+marketing journeys.
+
+Salesforce Application Development &
+Integration - Salesforce Developer
+Apex, LWC, SOQL, Triggers, Flow, REST APIs -
+Developed Salesforce applications, reusable
+components, backend automation, external
+API integrations, and supported testing,
+deployment, and production
+troubleshooting.
+
+Full-Stack Business Application
+Development - Full-Stack Developer
+PHP, Laravel, JavaScript, REST APIs,
+Relational Databases - Developed business
+applications, backend logic, database
+functionality, reporting, API integrations,
+testing, and production support.
+
+EDUCATION
+Master of Science in Computer Science and
+Engineering | Dhaka International University
+
+Bachelor of Science in Computer Science
+and Engineering | Dhaka International
+University
+
+CERTIFICATIONS
+Salesforce Certifications
+•   Salesforce Certified Administrator
+•   Salesforce Certified Platform Developer I
+•   Salesforce Certified JavaScript Developer I
+•   Salesforce Certified Associate
+•   Salesforce Certified Marketing Cloud
+    Email Specialist
+•   MuleSoft Certified Developer
+•   Tableau Data Analyst I
+
+
+
+
+                    Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com   Page: 2
+MD. TAHZEEB RASHEED                                          Business Operations: Policy and SOP
+                                                             Development, Resource Allocation, Vendor
+Industry Experience: 12+ Years                               Management, Payroll, HR Administration,
+Finance, Accounting Systems & Process                        Contract Management.
+Automation                                                   Workflow & Collaboration Tools: SAP Ariba,
+                                                             Zapier, Trello, Asana, ClickUp, Google
+PROFESSIONAL SUMMARY                                         Workspace, Microsoft Office Suite.
+
+Finance and accounting professional with 12+                 Leadership & Communication: Team
+years of experience in financial reporting,                  Leadership, Staff Training, Cross-Functional
+                                                             Collaboration, Negotiation, Stakeholder
+budgeting, financial modeling, contractual
+                                                             Communication, Process Improvement.
+compliance, and process improvement.
+Specialized in Salesforce Accounting Seed,
+                                                             PROJECT EXPERIENCE
+with experience in financial process
+automation, financial system                                 Automated Financial System
+implementation, data integration, reporting,                 Implementation | Role: Finance & Accounts
+and accounting workflows. Skilled in financial               Lead | Technology: Financial Automation,
+                                                             Data Integration, Financial Reporting.
+risk management, VAT and tax compliance,
+cost optimization, and translating business                  Led the establishment of an automated
+requirements into efficient financial                        financial system, integrated digital data
+                                                             sources, and improved financial reporting
+processes. Experienced with Wave
+                                                             and decision-making.
+Accounting, Tally ERP, QuickBooks, Xero,
+Google Data Studio, and workflow                             Investor Financial Modeling & Reporting |
+automation tools.                                            Role: Finance & Accounts Lead | Technology:
+                                                             Financial Modeling, Data Visualization.
+TECHNICAL SKILLS                                             Developed financial models and
+                                                             visualizations aligned with investor
+Salesforce & Accounting Systems:
+                                                             requirements and organizational objectives.
+Salesforce Accounting Seed (hands-on
+experience to be confirmed), Financial                       Financial Reporting & Dashboard
+Workflows, Financial Process Automation,                     Development | Role: Finance &
+Wave Accounting, Tally ERP, QuickBooks,                      Administration Manager | Technology:
+Xero.                                                        Google Data Studio, Wave Accounting.
+Financial Management: Financial Reporting,
+                                                             Developed financial dashboards, established
+Budget Management, Financial Modeling,
+                                                             financial workflows, and improved financial
+Cost Optimization, Financial Forecasting,
+                                                             visibility and record-keeping.
+Financial Risk Management.
+Accounting & Compliance: Accounting                          Budgeting, Cost Optimization & Financial
+Principles, Contractual Compliance, VAT and                  Risk Management | Role: Senior Manager,
+Tax Reporting, NBR Reporting, Regulatory                     Finance & Administration | Technology:
+Compliance, Financial Auditing.
+                                                             Financial Modeling, Budget Management -
+Reporting & Analytics: Google Data Studio,                   Improved budgeting and forecasting,
+Financial Dashboards, Data Visualization,                    supported cost-saving initiatives, and
+Financial Data Analysis, Reporting Accuracy.
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com      Page: 1
+strengthened financial risk management and                     •   ACCA Advanced Level (Part 2) -
+contractual compliance.                                            Completed in 2015.
+                                                               •   Certified Accounting Technician (CAT) -
+VAT, Tax & Regulatory Reporting | Role:
+                                                                   ACCA, completed in 2015.
+Finance Consultant | Technology:
+Accounting Systems, Financial Reporting.
+Managed VAT and tax compliance and
+monthly and annual reporting to the
+National Board of Revenue (NBR), including
+work involving Singapore and the United
+States.
+Financial Compliance Audit & Accounting
+Services | Role: ACCA Trainee | Technology:
+Tally ERP, Accounting & Audit Processes.
+Supported compliance audits for BRAC,
+fixed-asset valuation for DBL Ceramics
+Limited, and accounting services for S. C.
+Johnson Private Limited.
+
+Financial Process Improvement | Role:
+Accounts Officer | Technology: Financial
+Reporting, Accounting Processes, Vendor
+Management - Improved accounting
+processes, reduced data-entry errors,
+negotiated vendor cost savings, and
+maintained timely financial reporting.
+
+Salesforce Accounting Seed & Financial
+Workflow Support | Role: Accounts Lead |
+Technology: Salesforce Accounting Seed,
+Financial Workflows, Accounting Automation
+Include this project only after confirming his
+direct Accounting Seed responsibilities, such
+as implementation, configuration, reporting,
+integration, or workflow automation.
+
+EDUCATION
+B.Sc. in Applied Accounting
+Oxford Brookes University | 2015
+
+PROFESSIONAL QUALIFICATIONS
+ •   ACCA Professional Level (Part 3) -
+     Currently enrolled.
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com      Page: 2
+MOHIM AHMAD                                                  Studio, MavensMate, Eclipse, PHPStorm.
+                                                             Technical Leadership & Consulting:
+Industry Experience: 8+ Years                                Requirements Analysis, Stakeholder
+Salesforce Development, Technical                            Workshops, Gap Analysis, Solution
+Leadership & Integration                                     Architecture, Data Modeling, Project
+                                                             Planning, Effort Estimation, Developer
+                                                             Mentoring, Coding Standards, Client
+PROFESSIONAL SUMMARY                                         Consulting.
+Senior Salesforce Developer and Technical
+                                                             PROJECT EXPERIENCE
+Lead with 8+ years of software development
+experience, including 6+ years building                      DocuSign Integration | Role: Salesforce
+custom Salesforce solutions. Experienced in                  Developer | Technology: Apex, HTML, CSS,
+Salesforce administration, development,                      DocuSign, Visualforce.
+integration, and technical consulting, with                  Integrated DocuSign with Salesforce by
+expertise in Apex, Lightning Web                             generating custom Visualforce PDF
+Components (LWC), Aura, Visualforce, Service                 documents and creating signing envelopes.
+                                                             Configured signer routing based on
+Cloud, Field Service, Experience Cloud, CPQ,
+                                                             predefined order requirements.
+and Accounting Seed. Skilled in
+requirements analysis, solution design,                      Custom Payment Processing System for
+REST/SOAP integrations, project planning,                    Property Purchases | Role: Salesforce
+                                                             Developer | Technology: Site.com, Cardknox,
+and end-to-end delivery. Experienced in
+                                                             Accounting Seed, Visualforce, Apex
+leading and mentoring developers,                            Queueable.
+establishing coding standards, and
+                                                             Integrated Cardknox payment processing
+translating client requirements into scalable
+                                                             with Salesforce and automated billing, cash
+Salesforce solutions.
+                                                             receipts, refunds, and cancellation penalties.
+                                                             Generated transaction-summary PDFs and
+TECHNICAL SKILLS
+                                                             optimized processing to address Salesforce
+Salesforce Platforms: Service Cloud, Field                   platform limits.
+Service, Experience Cloud, CPQ, Accounting                   Partner Portal with LWC | Role: Salesforce
+Seed, Site.com, Agentforce.                                  Developer | Technology: Experience Cloud,
+Salesforce Development & Automation:                         Lightning Web Components, Apex.
+Apex, Lightning Web Components (LWC),                        Developed a branded partner portal enabling
+Aura, Visualforce, SOQL, Triggers, Batch Apex,               external sales personnel to manage accounts,
+Queueable Apex, Salesforce Flow, SLDS.                       contacts, and opportunities, create orders,
+Integration & APIs: REST APIs, SOAP APIs,                    track order status, and sort or filter order
+Cardknox, DocuSign, Salesforce Email                         records.
+Services.                                                    Automated Quoting & Vendor Price
+Programming Languages: JavaScript,                           Requests | Role: Salesforce Developer |
+Python, PHP, Node.js, AngularJS, Java.                       Technology: Salesforce CPQ, Apex, Batch
+Databases & Cloud: MySQL, Microsoft SQL                      Apex, Email Services, Triggers.
+Server, AWS EC2, Amazon S3.                                  Automated vendor price requests through
+                                                             scheduled batch jobs and CSV attachments.
+Tools & Development Environments: Visual                     Developed an email service to process
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com       Page: 1
+returned pricing files and create price books
+and price book entries for opportunities.
+
+EDUCATION
+Bachelor of Science - Computer Science
+American International University-
+Bangladesh
+
+CERTIFICATIONS
+Salesforce Certifications
+ •   Salesforce Certified Agentforce Field
+     Service & Operations Consultant
+ •   Salesforce Certified Service Cloud
+     Consultant
+ •   Salesforce Certified Agentforce
+     Specialist
+ •   Salesforce Certified Platform Developer I
+ •   Salesforce Certified Administrator
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com   Page: 2
+Rowshanara Sadia                                             testing.
+
+Industry Experience: 4+ Years                                Software Practices: Object-Oriented
+                                                             Programming (OOP), Agile Methodology,
+Salesforce Development & CRM Solutions
+                                                             Workflow Automation, Responsive UI Design.
+                                                             Strong focus on design patterns, continuous
+PROFESSIONAL SUMMARY                                         integration, and sprint planning.
+Salesforce Developer with 4+ years of                        Data Analysis & Visualization: Data Analysis,
+professional experience in software                          Data Visualization, Working with Real-World
+development and Salesforce platform                          Datasets
+development. Experienced in Apex,
+                                                             Professional Skills: Team Leadership,
+Lightning Web Components (LWC), Flows,
+                                                             Mentorship, Collaboration, Project
+CPQ, Sales Cloud, Service Cloud, API                         Management, Communication.
+integration, reports and dashboards. Holds
+Salesforce certifications in Platform                        PROJECT EXPERIENCE
+Development, Administration, Platform App
+Builder, AI, and Sales Cloud. Experienced in                 Salesforce CPQ Implementation
+Agile methodology, workflow automation,                      Role: CPQ Administrator & Developer |
+unit testing, debugging, and collaborative                   Technology: Salesforce CPQ, Quote, Product
+software development.                                        Catalog, Pricing Rules, Advanced Approvals,
+                                                             Apex, LWC.
+TECHNICAL SKILLS
+                                                              ●   Configured complex Salesforce CPQ
+Salesforce Development: Apex, Lightning                           product catalogs, including static and
+Web Components (LWC), Flows, CPQ, Sales                           dynamic product bundles, option
+Cloud, Service Cloud, Agentforce, Platform                        constraints, block pricing, and tiered
+App Builder, API Integration, Reports &                           discount schedules to streamline
+Dashboards. Extensive experience in                               product selection and quote accuracy.
+designing scalable custom solutions,
+                                                              ●   Developed custom Price Rules, Summary
+automations, AI agents, and enterprise-grade
+integrations.                                                     Variables, and tailored Apex plugins
+                                                                  (Plugins/QCP) to execute real-time
+Programming Languages: Java, Python,                              complex pricing calculations directly
+JavaScript (ES6+), C++, SQL. Proficient in
+                                                                  within the Quote Line Editor.
+writing clean, efficient, and maintainable
+code across full-stack software development                   ●   Implemented Advanced Approvals
+environments.                                                     processes with multi-tiered approval
+                                                                  chains, smart approvals, and custom
+Web & Frontend Technologies: HTML5,
+                                                                  email notifications, significantly
+CSS3, React, Tailwind CSS, Bootstrap. Skilled
+in building intuitive, responsive, and                            accelerating deal review cycles and
+accessibility-compliant user interfaces.                          maintaining pricing governance.
+
+Development Tools: Git, GitHub, VS Code,                     Inovi Drive Integration
+CI/CD, Unit Testing, Debugging. Experienced                  Role: Salesforce Developer | Tech Stack:
+with version control workflows, automated                    Apex, REST APIs, Lightning Web
+deployment pipelines, and code quality
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com        Page: 1
+Components (LWC), Salesforce Flows, Cloud                          Components (LWC), vastly improving
+Storage Integration.                                               user experience and data entry speeds
+                                                                   for accounting teams.
+●   Collaborated as part of a development
+    team on custom Apex REST API                              ●    Customized key financial entry modules
+    integrations connecting Salesforce with                        (Billings, Payables, Purchase Orders),
+    Inovi Drive, enabling automated real-                          implementing automated validation
+    time document synchronization and                              checks, interactive confirmation modals,
+    organized cloud file management.                               and guardrails to eliminate user data
+●   Worked collaboratively to design and                           entry errors.
+    build intuitive Lightning Web
+    Components (LWC) for customized file                     EDUCATION
+    navigation, document preview, and                        Bachelor of Science - Computer Science
+    interactive dashboards, increasing user                  and Engineering
+    adoption and reducing file retrieval times
+    by 40%.                                                  BRAC University | 2022
+
+Salesforce Experience Cloud Portal                           CERTIFICATIONS
+Role: Salesforce Developer | Tech Stack:
+                                                               ●   Salesforce Platform Developer I
+Experience Cloud, LWC, Apex, Custom
+                                                               ●   Salesforce Administrator
+Security & Sharing Rules, SLDS, CSS3.                          ●   Salesforce Platform App Builder
+●   Engineered highly responsive, pixel-                       ●   Salesforce Certified AI Associate
+                                                               ●   Salesforce Certified Agentforce
+    perfect Lightning Web Components
+                                                                   Specialist
+    (LWC) and customized layouts for an                        ●   Salesforce Sales Cloud Consultant
+    external-facing customer portal built on                   ●   Salesforce Certified Revenue Cloud
+    Salesforce Experience Cloud.                                   Consultant
+●   Established robust user access controls,
+    Sharing Rules, custom Permission Sets,
+    and secure user self-registration
+    workflows compliant with enterprise
+    security standards across web and
+    mobile.
+
+Accounting Seed UI & Process
+Modernization
+Role: Salesforce Developer | Tech Stack:
+Lightning Web Components (LWC),
+Accounting Seed AppExchange Package,
+Apex, SLDS.
+
+●   Modernized legacy Accounting Seed
+    financial interfaces into high-
+    performance Lightning Web
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com        Page: 2
+Sagar Chakraborty                                            Programming Languages: Apex, Java, C,
+Industry Experience: 20+ Years                               C++, SQL, SOQL, SOSL, PL/SQL, PHP,
+Salesforce Architecture & Technical                          JavaScript.
+Leadership                                                   Databases: MySQL, MS SQL Server.
+                                                             DevOps & Deployment: Git, Gearset, Copado,
+PROFESSIONAL SUMMARY
+                                                             Salesforce CLI (SFDX), CI/CD Pipelines,
+Technical Lead with 20+ years of experience                  Sandbox Management, Apache, Gradle.
+across the full Software Development Life                    Development & Testing Tools: Visual Studio
+Cycle (SDLC), including requirements,                        Code, Eclipse, NetBeans, Android Studio,
+analysis, design, development, testing,                      XCode, Jira, Postman, Git, BitBucket,
+implementation, and maintenance of                           Subversion, Visio.
+enterprise applications. Brings 10 years of                  Architecture & Methodologies: Salesforce
+Salesforce development and technical                         Platform Design Patterns, Object-Oriented
+leadership experience, specializing in                       Analysis & Design (OOAD), SDLC, Agile.
+integration architecture, Apex, and Lightning                Technical Leadership: Solution Design,
+Web Components (LWC). Salesforce certified                   Technical Architecture, Development
+across Integration Architecture, Platform                    Standards, Code Review, Team Leadership,
+Development, Administration, AI, and Data                    Platform Governance, Stakeholder
+Cloud. Experienced in Agile delivery, solution               Collaboration.
+design, technical leadership, team                           PROJECT EXPERIENCE
+management, stakeholder collaboration, and
+platform optimization.                                       Salesforce to Google Cloud Storage
+                                                             Document Pipeline
+TECHNICAL SKILLS
+                                                             Role: Technical Lead, Integration Developer |
+Salesforce Platforms: Sales Cloud, Service                   Technology: Apex, REST, JWT/OAuth 2.0,
+Cloud, Experience Cloud, CPQ, Data Cloud,                    Google Cloud Storage, MuleSoft.
+Agentforce.
+                                                                 •   Designed a secure Salesforce-to-
+Salesforce Development: Apex, Lightning
+                                                                     Google Cloud document transfer
+Web Components (LWC), Aura, Visualforce,
+Flow, Platform Events, Named Credentials,                            pipeline with MuleSoft integration.
+External Services,                                               •   Implemented automated processing,
+Batchable/Queueable/Schedulable Apex,                                authentication, retry handling, upload
+Apex REST.                                                           verification, and production
+Integration & APIs: REST/SOAP APIs, Web                              deployment.
+Services, JSON, Webhooks, JWT/OAuth
+Authentication, MuleSoft, Boomi, External                    Sage Intacct Payment Integration
+Services, Reconciliation & Retry Design, API                 Role: Integration Developer | Technology:
+Logging.
+                                                             Apex REST, Scheduled/Batch Apex, REST
+Cloud Platforms: Salesforce, Google Cloud                    Webhooks.
+Platform.
+                                                                 •   Developed event-driven Salesforce
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com       Page: 1
+       integration with Sage Intacct for                          •    Mbiologix CRM: Designed and
+       billing and payment processing.                                 delivered a custom CRM as Solutions
+   •   Implemented webhook handling,                                   Architect and Delivery Lead using PHP
+       reconciliation, failure handling, and                           and MySQL.
+       safeguards for out-of-order events.                        •    Streamline Monitor: Developed a
+                                                                       hybrid mobile application supporting
+Clinician Calendar Registration Indicator
+                                                                       vehicle technicians and client
+Role: Technical Lead, Developer |                                      invoicing.
+Technology: Aura, Apex, LWC, Experience                           •    BARI Mobile App: Developed and
+Cloud, JotForm.                                                        maintained an offline-capable mobile
+                                                                       application and supported application
+   •   Enhanced an Experience Cloud                                    publishing.
+       calendar to display patient registration
+                                                                  •    Item Packing Application: Developed
+       status.
+                                                                       a C#/.NET garment packing and
+   •   Integrated existing JotForm/Salesforce
+                                                                       barcode solution for automated box
+       processes and improved visibility of
+                                                                       counting and container loading.
+       registration completion.
+                                                                  •    Online Inventory & Accounts
+Salesforce–Zoho CRM Bi-directional Lead                                Management: Developed a
+Sync                                                                   PHP/MySQL solution for purchase
+                                                                       orders, sales orders, inventory, and
+Role: Integration Developer | Technology:                              accounts
+Apex, REST, Scheduled Apex, Zoho CRM API.
+                                                              EDUCATION
+   •   Developed two-way lead
+       synchronization between Salesforce                     Bachelor of Science - Computer Science
+       and Zoho CRM for approximately 500                     and Engineering (CSE)
+       leads per day.
+                                                              Chittagong University of Engineering &
+   •   Managed field mapping, duplicate
+                                                              Technology (CUET)
+       avoidance, reconciliation, and error
+       reporting.                                             CERTIFICATIONS
+Experience Cloud Community Build                                • Salesforce Certified Integration Architect
+                                                                • Salesforce Certified Platform Developer II
+Role: Salesforce Developer | Technology:
+                                                                • Salesforce Certified Platform Developer I
+LWC, Experience Cloud, Apex.
+                                                                • Salesforce Certified Platform App Builder
+   •   Developed a customer community                           • Salesforce Certified Administrator
+       with custom Lightning Web                                • Salesforce Certified Associate
+       Components.                                              • Salesforce Certified AI Specialist
+   •   Delivered functionality for branding,                    • Salesforce Certified AI Associate
+       announcements, personalization,                          • Salesforce Certified Data Cloud
+       favorites, and service history.                                Consultant
+
+Additional Application & CRM Projects
+
+
+
+
+                    Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com      Page: 2
+Sajjad Ahmed                                                 Builder, Claude API, Claude Code, Model
+                                                             Context Protocol (MCP).
+Industry Experience: 10+ Years
+                                                             Programming & Database: Apex, SOQL,
+Salesforce Architecture, Integration & AI
+                                                             SOSL, JavaScript, SQL, PHP, DataWeave.
+
+PROFESSIONAL SUMMARY                                         External Systems: QuickBooks, SharePoint,
+                                                             Google Services, Stripe, Shopify, Marketing
+Enterprise Architect with 10+ years of                       Cloud, DrChrono, Fullscript.
+software development experience, including                   Web & Development: Laravel, WordPress,
+9+ years on the Salesforce platform,                         jQuery.
+progressing from developer to lead engineer
+                                                             DevOps & Tools: Salesforce CLI (SFDX), Git,
+and enterprise architect. Specializes in
+                                                             Visual Studio Code, Postman.
+integration architecture, Apex, Lightning
+Web Components, Agentforce, and                              Architecture & Methodologies: Enterprise
+                                                             Architecture, Solution Design, Integration
+Accounting Seed. Experienced in MuleSoft,
+                                                             Strategy, Platform Design Patterns, Agile,
+Boomi, REST APIs, OAuth, EDI, QuickBooks,
+                                                             Technical Leadership.
+SharePoint, Google services, Stripe, Shopify,
+DrChrono, Fullscript, and Marketing Cloud                    PROJECT EXPERIENCE
+integrations. Proven experience in enterprise
+architecture, solution design, integration                   Accounting Seed Implementation &
+                                                             Automation - Enterprise Architect, Lead
+strategy, AI enablement, technical leadership,
+                                                             Developer.
+and Agile delivery. Holds five Salesforce
+certifications covering Platform Integration                 Accounting Seed, Apex, Flow, LWC - Led
+Architecture, Agentforce, Administration,                    solution design, customization, automation,
+                                                             testing, and go-live.
+Development, and MuleSoft.
+                                                             Inventory Sync – Accounting Seed & Field
+TECHNICAL SKILLS                                             Service - Enterprise Architect, Integration
+                                                             Developer.
+Salesforce Platforms: Sales Cloud, Service
+Cloud, Experience Cloud, Field Service,                      Accounting Seed, Field Service, Apex, Flow -
+Agentforce.                                                  Designed inventory synchronization and
+                                                             automated status/quantity updates.
+Salesforce Development: Apex, Lightning
+Web Components (LWC), Aura, Visualforce,                     Product Search Automation Engine -
+Flow, Triggers,                                              Enterprise Architect, Lead Developer
+Batchable/Queueable/Schedulable Apex,                        Apex, SOQL/SOSL, LWC, Flow - Designed
+Apex REST.                                                   search logic and developed a scalable
+Integration & APIs: REST APIs, OAuth,                        product-search interface.
+Connected Apps, MuleSoft Anypoint, Boomi,                    Agentforce AI Agent Implementation -
+EDI, DataWeave.                                              Enterprise Architect, Agentforce Specialist
+Financial & Field Service: Accounting Seed,                  Agentforce, Prompt Builder, Apex, Flow -
+FinancialForce, Field Service Lightning,                     Designed AI agents, actions, guardrails,
+Inventory, Automation.                                       testing, and production rollout.
+AI & Agentforce: Agentforce, Prompt
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com       Page: 1
+Inovi Product Suite - Enterprise Architect                    Salesforce Developer
+
+Salesforce, Apex, LWC, REST APIs - Led                        Apex REST, Connected App, Aura -
+architecture and development of core                          Developed Salesforce APIs and backend
+product features and integrations.                            automation.
+GridXpress – AppExchange Product -                            Blackwood Associates – Accounting Seed -
+Salesforce Lead Developer                                     Salesforce Developer
+LWC, Apex, AppExchange - Developed                            Accounting Seed, Apex, Visualforce, jQuery -
+advanced list, Kanban, record, filtering, and                 Developed Salesforce product-management
+mass-data capabilities.                                       functionality.
+Navia Benefits – Salesforce - Salesforce Lead
+Developer                                                     EDUCATION
+Service Cloud, Apex, Flow, Visualforce -                      Bachelor of Science in Computer Science
+Developed automation, email templates,                        and Engineering
+mass email, and case-email functionality.
+                                                              Rajshahi University of Engineering &
+Navia Benefits – Boomi EDI Integration -                      Technology (RUET)
+Boomi Developer
+                                                              CERTIFICATIONS
+Boomi, EDI - Developed EDI and data-
+integration processes.                                        Salesforce Certifications
+VHUB – Vehicle Recon Platform - Salesforce                     •   Salesforce Certified Agentforce Specialist
+Lead Developer
+                                                               •   Salesforce Certified Platform Integration
+Apex REST, Flow, LWC, Visualforce -                                Architect
+Integrated Salesforce with web/AI services                     •   Salesforce Certified Platform
+and automated estimates, work orders, and                          Administrator
+invoices.
+                                                               •   Salesforce Certified MuleSoft Developer
+RD Live – Scheduling & EHR Integration -                       •   Salesforce Certified Platform Developer
+Senior Salesforce Developer
+                                                              Additional Credentials
+Experience Cloud, LWC, Apex, REST -
+Developed scheduling and                                       •   Trailhead Superbadges: Advanced Apex
+DrChrono/Fullscript integrations.                                  Specialist, Apex Specialist, Data
+Astech – Salesforce & MuleSoft Integration                         Integration Specialist.
+- Lead Developer                                               •   Trailhead Ranger – 137 badges, 119,000+
+                                                                   points.
+MuleSoft, Apex REST, FinancialForce, SQL
+Server - Integrated Salesforce with legacy                     •   Anthropic: Building with the Claude API,
+SQL Server systems.                                                Claude Code in Action, Introduction to
+                                                                   Model Context Protocol, Introduction to
+Shopify Integration - Salesforce Developer
+                                                                   Agent Skills.
+Aura, Apex, Shopify API - Developed product-
+catalog integration and synchronization.
+Streamline – Mobile App Backend –
+
+
+
+
+                    Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com       Page: 2
+ALLEN IRLE                                                   Service, Flow, Okta - Implemented Salesforce
+                                                             solutions for 100+ users, migrated legacy data,
+Industry Experience: 8+ Years                                established service-desk processes and MFA,
+Salesforce Consulting, Field Service & CRM                   automated workflows, and developed reports
+Solutions                                                    and dashboards.
+
+PROFESSIONAL SUMMARY                                         2023–Present | RigUpATL - Field Service for
+                                                             Crane & Rigging Operations | Role: Salesforce
+Salesforce Consultant with 8+ years of                       Field Service Architect
+experience delivering Salesforce and Field
+Service solutions. Experienced in multi-year                 Salesforce Field Service, Scheduling and
+digital transformation projects, Salesforce                  Routing, Reports and Dashboards - Architected
+implementation and customization, legacy                     and led implementation for 20+ users,
+data migration, workflow automation,                         replacing manual processes with integrated
+                                                             scheduling, routing, and real-time visibility of
+reporting, and ongoing support. Works
+                                                             jobs, equipment, and technicians.
+across Sales Cloud, Service Cloud, Field
+Service, CPQ, Pardot, and Accounting Seed,
+                                                             2018–2021 | Carolina Filters - CRM, Field
+with experience in stakeholder engagement,
+                                                             Service & Accounting Implementation | Role:
+Agile delivery, and operational process
+                                                             Salesforce Consultant.
+improvement.
+                                                             Sales Cloud, Field Service, Accounting Seed,
+TECHNICAL SKILLS                                             Data Migration, Workflow Automation -
+                                                             Implemented Salesforce solutions for quoting,
+Salesforce Platforms: Sales Cloud, Service                   job costing, and inventory management;
+Cloud, Field Service, Salesforce CPQ, Pardot,
+                                                             integrated payroll, migrated customer and
+Accounting Seed.
+                                                             financial data, configured security, and
+Development & Automation: Apex, Visualforce,                 developed reports and user training materials.
+Flow, Approval Processes, Process Builder.
+Integration & Security: Data Migration, Payroll-             EDUCATION
+System Integration, Okta MFA, Profiles,
+                                                             BA, Sports and Fitness Studies - Brewton
+Permission Sets, Sharing Settings, Object and
+Org-Level Security.                                          Parker College | 2007
+
+Reporting & Delivery: Reports and                            AA, Liberal Arts - Rend Lake College | 2004
+Dashboards, Unit Testing, Agile Project
+Management, Stakeholder Communication,                       CERTIFICATIONS
+User Training, Change Management, Risk
+Assessment.                                                     •    Salesforce Certified Administrator
+                                                                •    Salesforce Certified Advanced
+PROJECT EXPERIENCE
+                                                                     Administrator
+2018–Present | EPIC Response - Disaster                         •    Salesforce Certified Platform Developer
+Response Digital Transformation | Role:
+Salesforce Consultant.
+
+Sales Cloud, Service Cloud, CPQ, Pardot, Field
+
+                         Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com   Page: 1
+Aumit Hasan                                                 Programming Languages: Python, R, SQL,
+                                                            PySpark, JavaScript, Bash.
+Industry Experience: 4+ Years
+                                                            Machine Learning & AI: Langchain, Langgraph,
+Data Engineering, Analytics & Cloud                         TensorFlow, Keras, Scikit-learn, Deep Learning,
+Solutions                                                   Neural Networks, Natural Language Processing,
+                                                            Computer Vision, Model Deployment,
+PROFESSIONAL SUMMARY                                        Automated Machine Learning.
+
+Data Engineer and Analyst with 4+ years of                  Web Development: React.js, Django, REST
+industry experience in data pipeline                        APIs, HTML, CSS, PHP.
+development, ETL processing, data analysis,                 Web Scraping: Scrapy, BeautifulSoup,
+visualization, and cloud-based data solutions.              Selenium.
+Experienced in Python, SQL, PySpark, Apache                 Tools & DevOps: Git, Jira, Docker, Kubernetes.
+Airflow, Apache Spark, Kafka, AWS, Azure,
+and Google Cloud Platform. Skilled in data                  PROJECT EXPERIENCE
+warehousing, workflow automation, data                      2026 | Data Cloud & Marketing Pipeline
+integration, statistical analysis, dashboard                Creation | Role: Data Cloud Engineer |
+development, and machine learning. Also                     Technology: Salesforce Data Cloud, Marketing
+experienced in full-stack application                       Cloud Growth, Flow Builder, Apex, SOQL .
+development using React.js and Django, with
+                                                            Automated data ingestion from Salesforce CRM
+knowledge of Salesforce Data Cloud and                      into Data Cloud DMOs, harmonized customer
+Salesforce data migration.                                  profiles via Identity Resolution, and orchestrated
+                                                            automated email trigger pipelines via Flow
+TECHNICAL SKILLS                                            Builder.
+
+Data Engineering & ETL: Apache Airflow,                     2026 | Financial Data Migration & ETL
+Apache Kafka, Apache Spark, PySpark, SQL,                   Automation | Role: Data Engineer / Analytics
+AWS Glue, Azure Data Factory, Google Cloud                  Engineer | Technology: Python, Pandas,
+Dataflow, Microsoft Fabric, Snowflake,                      NumPy, Salesforce (Accounting Seed), Google
+Databricks.                                                 Colab
+Cloud Platforms & Storage: AWS, Azure,
+Google Cloud Platform, KloverCloud, Amazon                  Automated      the     end-to-end    extraction,
+S3, Azure Blob Storage, Azure Data Lake,                    transformation, and migration of multi-
+BigQuery, Google Cloud Storage, Amazon                      thousand line General Ledger transactions from
+Redshift, Azure Synapse.                                    legacy client files into Salesforce Accounting
+                                                            Seed, replacing a PostgreSQL VM workflow with
+Data Analysis & Visualization: Python, R, SPSS,             a zero-imbalance, chunked Pandas pipeline.
+Power BI, Tableau, Amazon QuickSight, Looker,
+Excel, Google Sheets, Statistical Analysis, Data            2026 | Agentic AI & RAG Knowledge System |
+Cleaning, Dashboard Development.
+                                                            Role: AI Engineer / LLM Engineer | Technology:
+Data Modeling & Integration: Data Pipeline                  Python, LangChain, LangGraph, Vector Store
+Creation, ETL Process Management, Data                      (Chroma), OpenAI/Anthropic LLMs, RAG
+Warehousing, Data Integration, Workflow                     Architected and implemented a stateful,
+Automation, AWS Step Functions, Cloud
+                                                            autonomous Agentic AI system leveraging
+Composer, Salesforce Data Cloud, Salesforce
+Data Migration.                                             LangChain, LangGraph, and a custom Vector
+                                                            Store RAG pipeline, enabling reliable multi-step
+                        Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com   Page: 1
+reasoning, dynamic tool invocation,            and
+                                                            2023 | Brain Tumor Classification | Role:
+grounded domain-specific retrieval.
+                                                            Machine Learning Developer
+2026 | Data Pipeline Creation | Role: Data                  CNN, MRI Image Analysis - Implemented a
+Engineer | Technology: PySpark, Apache                      convolutional neural network to classify brain
+Airflow, MongoDB, Apache Iceberg.                           tumors from MRI images.
+Migrated data from MongoDB collections to                   2022 | Sentiment Analysis | Role: Machine
+Apache Iceberg tables using automated                       Learning Developer
+pipelines.
+                                                            Python, Machine Learning - Analyzed Amazon
+2025 | ETL Process Monitoring | Role: Data                  mobile-phone reviews using lexicon-based and
+Engineer                                                    machine learning techniques.
+KoboToolbox, Amazon S3- Developed and
+monitored ETL pipelines to transfer                         EDUCATION
+KoboToolbox form data into Amazon S3.
+                                                            Master of Science - Applied Statistics and
+2024 | SMS Notification Pipeline | Role: Data               Data Science
+Engineer                                                    Jahangirnagar University | 2024
+Data Pipelines, SMS Integration- Automated                  Bachelor of Science - Computer Science
+daily anniversary SMS notifications for Walton
+                                                            and Engineering
+AC buyers.
+                                                            City University | 2022
+2025 | Azure Data Engineering Project | Role:
+Data Engineer
+                                                            TRAINING & CERTIFICATIONS
+                                                               ●   Salesforce Certified Data Cloud Consultant
+Azure Data Factory, Data Lake Storage Gen2,
+                                                               ●   Salesforce Certified Agentforce Specialist
+Databricks, Synapse Analytics, Power BI - Built
+                                                               ●   Snowflake SnowPro Core - Certified
+an end-to-end data platform
+                                                               ●   Applied Data Science with Python -
+                                                                   Coursera
+2025 | Zillow Real Estate Data Pipeline | Role:
+                                                               ●   IBM Data Engineering Specialization -
+Data Engineer                                                      Coursera
+Python, AWS S3, Lambda, Apache Airflow -                       ●   Google Data Analytics - Coursera
+Automated real estate data extraction and ETL                  ●   Machine Learning Specialization - Coursera
+processing.                                                    ●   Power BI Essentials & Power BI Complete
+                                                                   Course - Udemy
+2025 | Google Cloud ETL Pipeline | Role: Data                  ●   SQL for Business Intelligence & Analytics -
+Engineer                                                           Udemy
+Cloud Data Fusion, Apache Airflow, Looker                      ●   Machine Learning, Deep Learning & Data
+Studio - Developed a Google Cloud ETL pipeline                     Science - Udemy
+and supported data visualization.                              ●   IBM AI Engineering - Coursera
+
+2023 | Stock Market Data Analysis | Role: Data
+Engineer / Analyst
+Apache Kafka - Analyzed real-time stock
+market data using Kafka.
+                        Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com     Page: 2
+BEN SMITH                                                    SaaS & Enterprise Applications:
+                                                             SaaS Implementations, Enterprise Software
+Industry Experience: 25+ Years                               Implementations, Salesforce, Salesforce CPQ,
+Senior IT Project & Program Management |                     CRM Implementations, Software
+SaaS | Salesforce | AI-Enabled Delivery                      Configuration, Integration, Testing,
+                                                             Deployment, Training, Customer Success.
+PROFESSIONAL SUMMARY                                         Business Analysis:
+                                                             Discovery, Requirements Gathering, Process
+Senior IT Project Manager and AI Delivery                    Analysis, Use Cases, User Stories, Epics,
+Consultant with 25+ years of IT experience                   Features, Backlogs, Acceptance Criteria, UAT,
+and 15+ years leading project and program                    Business/Technical Requirements.
+delivery across enterprise technology, SaaS                  Leadership & Stakeholder Management:
+implementations, Salesforce, software                        Cross-Functional Teams, Executive
+development, infrastructure, and business                    Stakeholders, Product & Engineering,
+transformation. Experienced in managing                      Technical Teams, Vendors, PMO, Customers,
+initiatives from discovery and requirements                  Business Leadership, Status Reporting,
+through implementation and Go-Live,                          Governance, Escalation Management.
+coordinating cross-functional teams, vendors,                AI & Emerging Technology:
+executives, and business stakeholders. Skilled               Generative AI, AI-Assisted Project
+in Agile/Scrum, Waterfall, and hybrid delivery,              Management, AI Delivery, Risk Intelligence, AI
+                                                             Forecasting, What-If Scenario Analysis,
+including scope, schedule, budget, resource,
+                                                             Project Health Analysis, Go-Live Forecasting,
+risk, issue, dependency, testing, and change
+                                                             AI-Powered Workflow Optimization.
+management. Combines technical
+development experience with delivery                         Technical Foundation:
+                                                             Software Development Life Cycle (SDLC),
+leadership and AI-enabled project
+                                                             Web Development, Application
+management, including the creation of The                    Development, Systems Integration, APIs,
+RAID Boss, an AI-powered project                             Databases, Enterprise Applications,
+management and risk intelligence platform.                   Technology Architecture, Technical
+                                                             Requirements.
+TECHNICAL SKILLS
+                                                             PROJECT EXPERIENCE
+Project & Program Management:
+Agile, Scrum, Waterfall, Hybrid, SDLC, PMO                   AI-Powered Project Management / Risk
+Governance, Project Planning, Program                        Intelligence | Role: AI Delivery Consultant /
+Management, Scope Management, Schedule                       Product Creator | Technology: Generative AI,
+Management, Budget Management,                               SaaS, Jira, Salesforce, AI Risk Analysis.
+Resource Planning, RAID Management, Risk
+& Issue Management, Dependency                               Created The RAID Boss, an AI-powered
+Management, Change Management, Go-Live                       project management platform designed to
+Readiness.
+                                                             improve risk and issue management, project
+Agile & Delivery Tools:                                      health analysis, What-If scenario modeling,
+Jira, Azure DevOps, Confluence, Wrike,                       and Go-Live readiness forecasting. Designed
+Microsoft Project, Smartsheet, Planview,                     AI-driven workflows and integrations with
+SharePoint.
+                                                             Jira and Salesforce to support project
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com     Page: 1
+monitoring, forecasting, and decision-                       scope, risks, and dependencies while
+making.                                                      coordinating business analysts, developers,
+                                                             QA teams, clients, and executive
+Cigna / Beacon Hill – Medicare Telesales
+                                                             stakeholders.
+Call Center Consolidation | Role: Program
+Management Senior Advisor | Technology:
+                                                             Earlier IT / Software Development
+Salesforce, Jira, Agile/Scrum, SaaS/Vendor
+                                                             Experience | Role: Web Developer /
+Integration.
+                                                             Technology & Project Management |
+Led business and technology initiatives from                 Technology: Web Development, Application
+inception through Go-Live for an enterprise                  Development, SDLC, PHP, MySQL, C#.NET,
+Medicare telesales call center consolidation.                ASP.NET, SQL Server.
+Coordinated cross-functional teams, vendors,
+                                                             Developed web and desktop applications
+milestones, risks, issues, and dependencies;
+                                                             and supported requirements analysis,
+managed delivery through two-week Agile
+                                                             database design, system development, and
+sprints and provided executive reporting and
+                                                             implementation. Built a strong technical
+escalation support during AEP War Room
+                                                             foundation that supports subsequent project
+coordination.
+                                                             and program management across enterprise
+Projectmates / Systemates – SaaS                             technology initiatives.
+Implementation Delivery | Role:
+                                                             EDUCATION
+Implementation Delivery Lead | Technology:
+SaaS, Microsoft Project, Smartsheet, Azure                   Bachelor of Science (B.S.) - Computer
+DevOps, Wrike.                                               Information Systems
+
+Led multiple customer SaaS                                   CERTIFICATIONS
+implementations and managed a team of
+five implementation project managers.                        Professional Scrum Master™ I (PSM I) -
+Coordinated discovery, configuration, testing,               Scrum.org
+training, deployment, and support while                      AI / Generative AI Professional
+improving implementation processes and                       Development:
+project budget tracking, contributing to a
+40% reduction in support volume.                              ●   AI-focused project management and
+                                                                  generative AI training
+ArganoKeste – Salesforce / Salesforce CPQ                     ●   Prompt engineering and Generative AI
+Enterprise Implementations | Role: Senior                         training
+Project Manager | Technology: Salesforce,                     ●   Artificial Intelligence fundamentals and
+Salesforce CPQ, Jira, Agile/Scrum, SaaS.                          Generative AI with GPT
+Managed multi-million-dollar Salesforce
+implementations, including a major
+Salesforce CPQ implementation from
+inception through Go-Live. Oversaw SOW
+execution, budgets, resources, schedules,
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com      Page: 2
+COREY DEBOER                                                Salesforce Solution Architect.
+
+Industry Experience: 13+ Years                              Salesforce Service Cloud, Experience Cloud,
+Salesforce Solution Architecture, CRM &                     Service AI, Okta SSO, Omni-Channel, Slack, Jira,
+Enterprise Integration                                      Confluence - Led the solution design and
+                                                            migration from Microsoft Dynamics to
+PROFESSIONAL SUMMARY                                        Salesforce for 300+ users. Designed a multi-
+                                                            cloud customer service solution, implemented
+Salesforce Solutions Architect with 13+ years               a multi-entity Experience Cloud portal and SSO,
+of consulting experience in solution design,                and managed scope changes within the
+Salesforce implementation, and multi-cloud                  agreed budget and timeline.
+architecture. Experienced in leading
+discovery sessions, designing scalable                      Dec 2023–Jun 2024 | Big Truck Rental - Fleet
+solutions, migrating legacy systems,                        Analytics & Predictive Insights | Role:
+                                                            Salesforce Solution Architect.
+integrating business processes, and
+managing project delivery. Skilled in                       Salesforce CRM Analytics (CRMA), Data
+Salesforce Service Cloud, Experience Cloud,                 Integration, Predictive Analytics - Designed a
+Sales Cloud, Service AI, CRM Analytics, and                 fleet analytics proof of concept with real-time
+Account Engagement (Pardot), with a focus                   fleet visibility, demand forecasting, and
+on operational efficiency, customer service,                predictive maintenance alerts. Integrated
+and user adoption.                                          siloed data sources into a unified analytics
+                                                            platform and aligned reporting with
+TECHNICAL SKILLS                                            stakeholder-defined KPIs.
+
+Salesforce Platforms: Sales Cloud, Service                  Aug 2023–Nov 2023 | Yard Management
+Cloud, Experience Cloud, Service AI, CRM                    Solutions - Multi-Cloud Salesforce
+Analytics, Account Engagement (Pardot).                     Transformation | Role: Salesforce Solution
+Solution Architecture: Multi-Cloud                          Architect.
+Architecture, Salesforce Implementation,                    Sales Cloud, Service Cloud, Account
+Discovery Workshops, Business Process
+                                                            Engagement (Pardot), Experience Cloud,
+Optimization.
+                                                            Conga - Led the transformation from Zoho,
+Integration & Data: Microsoft Dynamics                      HubSpot, and spreadsheets to a unified
+Migration, Legacy Data Migration, Okta SSO,                 Salesforce platform. Designed lead-to-support
+Jira, Confluence, Slack.
+                                                            workflows, a product demonstration
+Customer Experience: Omni-Channel Routing,                  scheduling tool, a self-service customer portal,
+Self-Service Portals, Knowledge Base, Case                  and automated document generation for
+Management.                                                 quotes and proposals.
+Project Delivery: Agile Methodologies, Scope
+and Change Control, Technical Documentation,
+                                                            EDUCATION
+User Training, Stakeholder Management.                      Bachelor of Business Administration - Major
+                                                            in Management, Minor in Accounting
+PROJECT EXPERIENCE
+                                                            University of North Texas
+Sep 2024–Jun 2025 | Meridian Cooperative -                  CERTIFICATIONS
+Enterprise Salesforce Migration | Role:
+                        Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com    Page: 1
+•   Salesforce Application Architect
+•   Salesforce Development Lifecycle and
+    Deployment Designer
+•   Salesforce Platform Developer I
+•   Salesforce Sharing and Visibility Designer
+•   Salesforce Data Architecture &
+    Management Designer
+•   Salesforce Advanced Administrator
+•   Salesforce Community Cloud Consultant
+•   Salesforce Force.com Developer
+•   Salesforce Service Cloud Consultant
+•   Salesforce Sales Cloud Consultant
+•   Salesforce Administrator
+
+
+
+
+                       Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com   Page: 2
+Md. Arshad Hossain                                           Salesforce Development Standards.
+
+Industry Experience: 20+ Years                               AI & Agentic Solutions: Agentic AI
+                                                             Development, Claude, OpenAI, Gemini,
+Enterprise Architecture, Salesforce & AI
+                                                             Frontier LLMs, AI-Powered Tools, Consultant
+Transformation                                               Co-Pilot, Spec-Driven Development, Human-
+                                                             in-the-Loop Governance.
+PROFESSIONAL SUMMARY
+                                                             Enterprise Integration & Solution Design:
+Technology leader with 20+ years of                          Salesforce Integration, Enterprise Systems
+experience in software development,                          Architecture, Technical Prototyping, Business
+                                                             Requirements Analysis, Solution Estimation.
+including 12+ years in the Salesforce
+ecosystem. Currently serving as Senior                       Product Development: SaaS Product
+Director of Development at Inovi Solutions,                  Design, Education Technology, E-Governance
+leading strategic planning, product                          Solutions, Product Architecture, Software
+                                                             Development.
+development, solution architecture, and AI
+transformation across the company's                          Technical Leadership & Delivery: Strategic
+consulting and product portfolio.                            Planning, Technical Team Leadership, Project
+                                                             Management, Client Communication,
+Experienced in enterprise architecture,
+                                                             Requirements Gathering, Coding Standards,
+Salesforce solution design, technical team
+                                                             Quality Assurance, Developer Mentoring.
+leadership, pre-sales scoping and estimation,
+client engagement, requirements analysis,                    Security & Compliance: SOC 2 and HIPAA
+                                                             Process Alignment.
+and software delivery. Focuses on designing
+AI-powered tools and agentic assistants                      Programming & Web Technologies: Apex,
+using frontier large language models (LLMs),                 Visualforce, PHP, CakePHP, C#.NET, ASP.NET,
+advancing AI-native software delivery with                   JavaScript, jQuery, ExtJS, HTML, CSS,
+                                                             ActionScript.
+human-in-the-loop governance, and
+developing SaaS products for education and                   Databases & Platforms: MySQL, SQL Server,
+e-governance. Brings a strong foundation in                  Salesforce Platform, Android Application
+                                                             Development.
+Salesforce architecture, enterprise
+integration, application development, and                    Design & Analysis Tools: UML, Use Cases,
+technical problem-solving. Holds five                        Axure, MySQL Workbench.
+Salesforce certifications, including
+Application Architect, Data Architect, and                   PROJECT EXPERIENCE
+Sharing and Visibility Architect.                            AI Delivery Blueprint & AI-Native Delivery
+                                                             Transformation - Senior Director of
+TECHNICAL SKILLS
+                                                             Development
+
+Salesforce Platforms: Sales Cloud, Service                   AI Automation, Frontier LLMs, Human-in-the-
+Cloud, Community/Experience Cloud, CPQ,                      Loop Governance - Authored Inovi's AI
+Field Service.                                               delivery blueprint, covering automation
+                                                             across 12 delivery stages, three-tier human
+Salesforce Architecture & Development:                       oversight, and a phased 18-month rollout.
+Enterprise Architecture, Solution Design,
+Salesforce Platform Design, Apex, Visualforce,
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com     Page: 1
+AI-Powered Tools & Agentic Assistants -                      PHP, CakePHP, ExtJS, JavaScript, jQuery,
+Strategic & Solution Architecture Lead                       MySQL, Salesforce - Developed cloud-based
+                                                             and SaaS applications, designed databases
+Claude, OpenAI, Gemini, Agentic AI - Leads
+                                                             and interfaces, documented requirements,
+the design of AI-powered tools and agentic
+                                                             and addressed technical challenges.
+products, including a Consultant Co-Pilot and
+spec-driven development workflows.                           Mobile Application Development - Software
+                                                             Engineer
+Inovi Consulting & Product Portfolio -
+Senior Director of Development                               Android, Salesforce, Application
+                                                             Development - Designed and developed
+Solution Architecture, Product Development,
+                                                             Android mobile applications and supporting
+AI Transformation - Leads strategic planning,
+                                                             application functionality.
+product development, solution architecture,
+and AI transformation across consulting                      Web & Desktop Application Development –
+engagements and products.                                    Programmer
+SaaS Products for Education & E-                             C#.NET, ASP.NET, SQL Server, PHP, MySQL -
+Governance - Product Development &                           Worked on web and desktop application
+Architecture Leadership                                      development using .NET, PHP, and database
+                                                             technologies.
+SaaS, Solution Design, Product Architecture -
+Leads product design and development
+initiatives for education and e-governance                   EDUCATION
+solutions in Bangladesh.                                     Master of Science in Software Engineering
+                                                             Independent University | 2011–2012
+Salesforce Architecture & Enterprise
+Solution Delivery - Technical Lead, Director                 Bachelor of Science in Computer
+of Development                                               Science & Engineering
+Salesforce, Sales Cloud, Service Cloud,                      The People's University of Bangladesh |
+Community Cloud, CPQ, Field Service -                        2000–2004
+Guided architecture and software design
+decisions, supervised Salesforce delivery                    CERTIFICATIONS
+teams, established coding standards, and
+supported complex technical problem-                         Salesforce Certifications
+solving.                                                      •   Salesforce Certified Application Architect
+                                                              •   Salesforce Certified Data Architect
+Salesforce Client Solutions & Pre-Sales -
+Principal Software Engineer / Technical Lead                  •   Salesforce Certified Sharing and Visibility
+                                                                  Architect
+Salesforce, Apex, Visualforce, Requirements
+                                                              •   Salesforce Certified Platform Developer I
+Analysis, Solution Prototyping - Worked with
+international clients to analyze business                     •   Salesforce Certified Platform App Builder
+requirements, propose solutions, design and
+prototype systems, manage projects, and
+lead technical teams.
+SaaS & Web Application Development -
+Software Engineer / Senior Software
+Engineer
+
+
+
+
+                   Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com        Page: 2
+

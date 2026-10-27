@@ -1,0 +1,9 @@
+[   40953ms] [INFO] DRIFT_WIDGET:: widget_core:bootstrap_api finished in 503 ms @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0
+[   40954ms] [LOG] WIDGET NO SHOW :: Widget did not meet targeting conditions and widget display icon does not match with visitors session @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0
+[   40954ms] [LOG] Widget VISIBILITY ::  EVERYONE @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0
+[  580478ms] [LOG] DRIFT_WIDGET:: WS Reconnect - attempting to reconnect to chat cluster 73421, IP: 100.26.69.114 after close code 1006 Socket Status: isConnected: false, connectionState: closed is_mobile_false @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0
+[  619597ms] [LOG] DRIFT_WIDGET:: Failed to send logs Error: timeout of 0ms exceeded
+    at createError (https://js.driftt.com/core/assets/js/22.4cb40074.chunk.js:1:3531)
+    at XMLHttpRequest.handleTimeout (https://js.driftt.com/core/assets/js/22.4cb40074.chunk.js:1:12625) @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0
+[  619603ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://log.api.drift.com/log:0
+[  894605ms] [LOG] DRIFT_WIDGET:: WS Reconnect - attempting to reconnect to chat cluster 73421, IP: 100.26.69.114 after close code 1006 Socket Status: isConnected: false, connectionState: closed is_mobile_false @ https://js.driftt.com/core/assets/js/23.60057654.chunk.js:0

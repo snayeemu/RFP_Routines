@@ -1,0 +1,30 @@
+{
+  "opportunity_id": "8b125a8efbb248e9a9416e0fb52e535e",
+  "sam_url": "https://sam.gov/opp/8b125a8efbb248e9a9416e0fb52e535e/view",
+  "notice": {
+    "title": "Enterprise IT Support Services J&A",
+    "solicitationNumber": "W9124J-27-F-A001 ",
+    "type": "u",
+    "naics": [
+      {
+        "code": [
+          "541513"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": null,
+    "responseDeadline": null,
+    "postedDate": "2026-10-22T19:33:25.807+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": "zip",
+  "expected_files": 1,
+  "files": [
+    "LSJ W9124J-26-Q-ENTR Approved 7 OCT 26.pdf"
+  ],
+  "links": [],
+  "errors": [],
+  "status": "ok"
+}

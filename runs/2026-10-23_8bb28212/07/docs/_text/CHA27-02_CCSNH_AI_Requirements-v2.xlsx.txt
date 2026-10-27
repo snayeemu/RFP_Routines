@@ -1,0 +1,174 @@
+=== Sheet Title ===
+Request for Information |  |  |  |  |  | 
+Enterprise Artificial Intelligence (AI) Platform Solutions |  |  |  |  |  | 
+Community College System of New Hampshire |  |  |  |  |  | 
+CCSNH Sytem Office, IT Department |  |  |  |  |  | 
+2026-10-22 00:00:00 |  |  |  |  |  | 
+Vendor Name: |  |  |  |  |  | 
+Address: |  |  |  |  |  | 
+Telephone Number: |  |  |  |  |  | 
+Primary Contact Name: |  |  |  |  |  | 
+Signature |  |  |  |  |  | 
+=== Sheet General Information Questions ===
+1.1 Company Information | 
+Question  | Response
+Company Name: | 
+Describe your company’s goals and core business: | 
+Identify your parent company if applicable: | 
+Is your company public or privately held? | 
+Provide your company address and contact information: | 
+Provide the name and title of the person responsible for the information contained in this RFP | 
+Provide your company website: | 
+Provide the number of years your company has been in business: | 
+Provide your Company size: | 
+a. Number of Employees: | 
+b. Number of Locations: | 
+c. Revenue (if public): | 
+Identify any bankruptcy or legal issues: | 
+Provide a brief description of your research and development investment (expressed in a total amount or percentage of total sales).  | 
+1.2 Product Solution/Customer Base | 
+Provide the name and general description of your solution.    | 
+Provide the number of installed customer base for your  product. | 
+Provide a list and identify other academic institutions that have your solution implemented.   | 
+Do you allow prospective customers to have access to a demo site (sandbox system) for functionality preview and testing? | 
+Do you have a user group or community forum website? | 
+1.8 Licenses | 
+Please provide details of offered licensing structures (i.e. a single license with unlimited users? Or one license per user? | 
+If your solution requires one license per user, do you differentiate between admin users, power users and standard users? Please provide the costs for each | 
+Does your solution have a hard "lock out" if concurrent licenses are exceeded?  Is there a grace threshold?  | 
+Does a licenses include access to all installed modules?  Or are the modules licensed separately? | 
+=== Sheet Business Requirements ===
+Requirement | Vendor Response (1.Full Functionality 2. Partial Functionality 3.Custom Development  4. Future Release 5. Not Available | Comments
+AI Platform Requirements |  | 
+·         Cloud-based SaaS  [Required] |  | 
+·         Browser accessible  [Required]  |  | 
+Current and most commonly used browsers across Windows, Apple, Linux, Android, and iOS |  | 
+·         Model Agnosticism / Multi-Model Support  [Preferred] |  | 
+Ability to select from or switch between multiple underlying LLMs (e.g., GPT-4, Claude, Gemini, Llama) to avoid vendor lock-in. |  | 
+·         Current data set for LLM (Knowledge Cutoff)  [Required] |  | 
+Model should have access to recent information or ability to browse the web for up-to-date context. |  | 
+·         CCSNH or individual users provided data sets for SLM (Small Language Models) / Private instances  [Required] |  | 
+·         End user provided links to Google Drive or Microsoft OneDrive and SharePoint folders for analysis  [Preferred] |  | 
+·         Unlimited access for all CCSNH users (or predictable flat-rate license)  [Required] |  | 
+No hard caps on prompts that impede educational use; predictable costs. |  | 
+Data Privacy & Security (FERPA) |  | 
+·         Strict No-Training Policy  [Required] |  | 
+Vendor MUST guarantee that CCSNH Data (prompts, uploads, outputs) is NOT used to train, fine-tune, or improve foundation models or third-party models. |  | 
+·         Zero Data Retention / Session Only Processing  [Required] |  | 
+Option to configure sessions where data is processed in memory and not retained by the vendor after the session ends. |  | 
+·         FERPA Compliance  [Required] |  | 
+Solution must be capable of acting as a official under FERPA; compliant handling of Education Records. |  | 
+·         Data Residency  [Required] |  | 
+All data at rest and in transit must remain within the United States. |  | 
+·         Security Certification  [Required] |  | 
+Vendor must provide a current SOC 2 Type II report or ISO 27001 certification. |  | 
+·         Data Isolation  [Required] |  | 
+Data supplied by one user must not be accessible to or influence the experience of any other user (unless explicitly shared in a team workspace). |  | 
+Intellectual Property |  | 
+·         Ownership of Inputs and Outputs  [Required] |  | 
+CCSNH and its users retain full ownership of all prompts, uploaded content, and AI-generated outputs. |  | 
+·         Copyright Indemnification  [Required] |  | 
+Vendor must indemnify CCSNH against third-party claims of copyright infringement regarding the authorized use of the platform's outputs. |  | 
+Core Functionality |  | 
+·         Writing assistance (Structure/Grammar/Clarity)  [Required] |  | 
+Refining drafts, improving tone, checking grammar. |  | 
+·         Citation and Grounding (Retrieval-Augmented Generation)  [Required] |  | 
+Ability to provide citations, references, or links to sources to minimize hallucinations, especially when analyzing uploaded documents. |  | 
+·         Analyze and assign a grade/feedback based on criteria  [Preferred] |  | 
+·         Generate text in response to user prompts  [Required] |  | 
+·         Speech to Text (Transcription)  [Required] |  | 
+·         Text to Speech (Accessibility)  [Required] |  | 
+·         Image to Text (OCR / Description)  [Required] |  | 
+·         Text to Image Generation  [Required] |  | 
+·         Multimodal Capabilities  [Required] |  | 
+Ability to process and reason across mixed inputs (e.g., uploading a chart image and asking a question about it). |  | 
+·         Code Generation and Execution Sandbox  [Required] |  | 
+Ability to generate and run code (e.g., Python) in a secure sandbox for data analysis or CS education. |  | 
+·         Translation services  [Preferred] |  | 
+English, Spanish, and other major languages. |  | 
+·         MCP support  [Required] |  | 
+·         Skills support  [Preferred] |  | 
+Example: having the ability to load and chain on-demand skills for more complex workflows. |  | 
+·         Multi-agent support  [Preferred] |  | 
+Example: using coordinated agents for holistic instructional design and verification. |  | 
+·         Local-file support  [Preferred] |  | 
+Example: being able to provide knowledge in and have an LLM output to a local folder on a device. |  | 
+Accessibility |  | 
+·         WCAG 2.1 AA Compliance  [Required] |  | 
+Platform interface must meet WCAG 2.1 Level AA standards. |  | 
+·         VPAT Availability  [Required] |  | 
+Vendor must provide a current Voluntary Product Accessibility Template (VPAT). |  | 
+Integration |  | 
+·         LTI 1.3 Support  [Required] |  | 
+Seamless integration with Learning Management Systems (e.g., Canvas) using LTI 1.3 standards. |  | 
+·         Single Sign On (SSO)  [Required] |  | 
+Integration with CCSNH Identity Provider (e.g., Azure AD, Okta, Shibboleth). |  | 
+·         API Access  [Preferred] |  | 
+Availability of an API for integrating AI capabilities into custom CCSNH applications. |  | 
+Tech / Admin |  | 
+·         Compatible with major Operating Systems  [Required] |  | 
+Apple macOS, Windows, iOS, Android, Chrome OS. |  | 
+·         Upload of files for analysis (Document Parsing)  [Required] |  | 
+PDF, DOCX, CSV, TXT, PPTX. Support for sensitive files allowed ONLY if Security requirements under Data Privacy and Security are met. |  | 
+·         Granular access control  [Preferred] |  | 
+Ability to manage permissions for shared workspaces or datasets. |  | 
+·         Automated Data Retention/Deletion Policies  [Required] |  | 
+Admin ability to set automated deletion schedules for user data (e.g., delete after 30 days). |  | 
+·         Export user data  [Required] |  | 
+Ability to export chat history and generated content in standard formats. |  | 
+·         Team dashboards/workspaces  [Preferred] |  | 
+Collaborative environments for classes or working groups. |  | 
+·         Enterprise management capabilities  [Required] |  | 
+Centralized admin console for license management and policy enforcement. |  | 
+·         Usage Analytics  [Preferred] |  | 
+Dashboards showing adoption rates, active users, and token usage by department. |  | 
+·         Administrative Tech Support & Escalation  [Required] |  | 
+Defined SLA for support response times and escalation protocols. |  | 
+AI Governance |  | 
+·         Bias Mitigation & Transparency  [Required] |  | 
+Vendor provides documentation on efforts to detect and mitigate bias in model outputs. |  | 
+·         AI Safety Guardrails  [Required] |  | 
+Mechanisms to prevent generation of harmful, illegal, or sexually explicit content. |  | 
+=== Sheet Solution Pricing ===
+Solution Pricing Sheet  |  |  |  |  |  |  | 
+Approximate Cost Range (Based on CCSNH's current environment)  |  |  |  |  |  |  | 
+One-Time Cost Range |  |  |  |  |  |  | 
+Item Description |  | Total Cost Range ($) |  |  |  |  | 
+Installation, Implementation and Training cost |  |  |  |  |  |  | 
+Customization |  |  |  |  |  |  | 
+TOTAL ONE TIME COST |  | 0 |  |  |  |  | 
+3-Year Recurring Cost Range |  |  |  |  |  |  | 
+Item Description |  | $ Year 1 (Range) | $ Year 2 (Range) | $ Year 3 (Range) |  |  | 
+Application Software Cost |  |  |  |  |  |  | 
+Additional Solution Cost (Add-on etc.) |  |  |  |  |  |  | 
+Support and Maintenance |  |  |  |  |  |  | 
+Software Upgrades |  |  |  |  |  |  | 
+Other |  |  |  |  |  |  | 
+TOTAL 3 YEAR RECURRING COST RANGE |  | 0 | 0 | 0 |  |  | 
+Total Contract Cost Range |  |  |  |  |  |  | 
+0 |  |  |  |  |  |  | 
+Standard Rates |  | $ Rate/hr. |  |  |  |  | 
+Training costs per hour |  |  |  |  |  |  | 
+Functional consultant cost per hour |  |  |  |  |  |  | 
+Technical consultant cost per hour |  |  |  |  |  |  | 
+=== Sheet References ===
+References | 
+Submitters are to provide evidence of qualifications with their bid. Please list two examples of experience with full responsibility for work of a similar size | 
+Reference 1 | Response
+Name of Reference Project | 
+Location of Project | 
+Date Work Performed | 
+Contact Name | 
+Contact Number | 
+Contact Email | 
+Description of Project | 
+Approx. Contract Value | 
+Reference 2 | Response
+Name of Reference Project | 
+Location of Project | 
+Date Work Performed | 
+Contact Name | 
+Contact Phone Number | 
+Contact Email | 
+Description of Project | 
+Approx. Contract Value | 

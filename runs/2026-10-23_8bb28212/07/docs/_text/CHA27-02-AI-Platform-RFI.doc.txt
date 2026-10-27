@@ -1,0 +1,162 @@
+
+
+
+
+REQUEST FOR INFORMATION
+
+FOR
+
+Enterprise Artificial Intelligence (AI) Platform Solutions
+
+At
+
+	The Community College System of New Hampshire
+
+RFI #SYS27-02
+
+Date of Issue: October 22, 2026
+
+Submissions must be received no later than 
+2:00 PM on November 20, 2026
+
+All questions related to the RFI should be submitted via e-mail to:
+
+Sean Fitzpatrick, System Office Procurement at  HYPERLINK "mailto:sfitzpatrick@ccsnh.edu" sfitzpatrick@ccsnh.edu
+
+
+The full content of this Request for Information, Attachments, Appendices, Response to Questions and all Addenda via CCSNH website located at: 
+
+ HYPERLINK "https://www.ccsnh.edu/about-ccsnh/bidding-rfp/" https://www.ccsnh.edu/about-ccsnh/bidding-rfp/
+
+The RFI contains specific protocols relating to discussion and other communications regarding this RFI. Any violations of these provisions may result in immediate disqualification of a firm’s submission.
+
+Prospective firms are encouraged to promptly notify CCSNH of any apparent inconsistencies, problems, or ambiguities in the RFI.
+
+
+
+
+
+Table of Contents
+ TOC \o "1-3" \h \z \u  HYPERLINK \l "_Toc243564277" INTRODUCTION	 PAGEREF _Toc243564277 \h 3
+ HYPERLINK \l "_Toc243564278" ABOUT THE COMMUNITY COLLEGE SYSTEM OF NEW HAMPSHIRE	 PAGEREF _Toc243564278 \h 3
+ HYPERLINK \l "_Toc243564279" PURPOSE:	 PAGEREF _Toc243564279 \h 3
+ HYPERLINK \l "_Toc243564280" VENDOR QUESTIONS	 PAGEREF _Toc243564280 \h 3
+ HYPERLINK \l "_Toc243564281" SCHEDULE OF KEY EVENTS	 PAGEREF _Toc243564281 \h 4
+ HYPERLINK \l "_Toc243564282" SUBMISSION GUIDELINES:	 PAGEREF _Toc243564282 \h 4
+ HYPERLINK \l "_Toc243564283" CONTENT FOR VENDOR RESPONSE	 PAGEREF _Toc243564283 \h 4
+ HYPERLINK \l "_Toc243564284" REFERENCES	 PAGEREF _Toc243564284 \h 4
+ HYPERLINK \l "_Toc243564285" TOTAL COST OF OWNERSHIP	 PAGEREF _Toc243564285 \h 4
+ HYPERLINK \l "_Toc243564286" ADDENDUM:	 PAGEREF _Toc243564286 \h 5
+ HYPERLINK \l "_Toc243564287" DEMONSTRATION MEETINGS:	 PAGEREF _Toc243564287 \h 5
+ HYPERLINK \l "_Toc243564288" SUBMISSION OF RFI RESPONSE:	 PAGEREF _Toc243564288 \h 5
+ HYPERLINK \l "_Toc243564289" ADDITIONAL INFORMATION:	 PAGEREF _Toc243564289 \h 5
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+
+ABOUT THE COMMUNITY COLLEGE SYSTEM OF NEW HAMPSHIRE
+The Community College System of New Hampshire (CCSNH) is a public system of higher education consisting of seven colleges located across NH. All colleges in CCSNH are accredited by the New England Commission on Higher Education and serve New Hampshire learners with 200 associate degree and certificate programs, aligned with career opportunities and transfer pathways at affordable rates of tuition. The System Office provides central support to the colleges and is located in Concord, New Hampshire’s capital city.
+
+Key Stats:
+15K – 24K students currently enrolled (depending on student types included)
+604 full-time employees
+188 part-time employees
+1,250 adjunct professors
+
+PURPOSE:
+CCSNH is seeking information from qualified vendors regarding enterprise Artificial Intelligence (AI) platforms and related services that may support academic, administrative, student success, accessibility, and operational functions across the System.
+
+CCSNH is conducting this Request for Information (RFI) as part of a market research effort to better understand:
+
+AI solutions currently available in the higher education marketplace 
+Functional capabilities offered by vendors 
+Licensing and subscription models 
+Security and privacy controls 
+Integration capabilities 
+Total cost of ownership 
+Future product roadmaps 
+Best practices for AI adoption within higher education
+
+This RFI is issued solely for information-gathering purposes and does not constitute a solicitation, procurement, or commitment to purchase any product or service
+
+
+VENDOR QUESTIONS
+Questions regarding the meaning and interpretation of the RFI, attachments, specifications, etc., should be requested via email. Answers will be provided via an RFI addendum posted to  HYPERLINK "https://www.ccsnh.edu/about-ccsnh/bidding-rfp/" https://www.ccsnh.edu/about-ccsnh/bidding-rfp/. Please direct all questions or correspondence regarding this RFI to:
+
+Sean Fitzpatrick, Procurement Manager
+CCSNH System Office
+CCSNHPurchasing@ccsnh.edu
+SCHEDULE OF KEY EVENTS
+
+Request for Information Issued			Thursday, October 22, 2026
+
+Submission Due Date & Time			Friday, November 20, 2026 @ 2:00 P.M.
+
+SUBMISSION GUIDELINES:
+
+	
+CONTENT FOR VENDOR RESPONSE
+The functional and non-functional requirements for the Enterprise Artificial Intelligence (AI) Platform Solution have been identified in the addendum ‘CHA27-02_CCSNH_AI_Requirements’. Vendors are asked to provide responses to all the worksheets. For the worksheet titled ‘Business Requirements’, please provide Vendor Response (column B) to each of the requirements with one of the following ratings:
+	
+Rating Scale
+Comments
+Full Functionality
+This function is provided as standard (out of the box) by the vendor
+Partial Functionality
+The standard product has the functionality in a limited way and custom development cannot provide the full functionality.
+Custom Development
+The function can be custom-developed during the implementation
+Future Release
+The function is currently not available but planned for future release
+Not Available
+The function is not available in current or future releases and will not be custom-developed.
+
+REFERENCES
+CCSNH asks that vendors supply at least two customer references similar to CCSNH who currently use their system in a production environment. References must include the client organization’s name, contact name, and title as well as information on the length of time that the product has been in use in the client’s organization. Also include reference to user groups, user networking, and user conferences. Contact information can be provided at a later date prior to arrangement of Reference calls.
+
+TOTAL COST OF OWNERSHIP
+CCSNH is particularly interested in understanding the range of pricing and licensing models available in the marketplace. A solution pricing worksheet is included in the ‘CHA27-02_CCSNH_AI_Requirements’ file. All one time versus recurring costs should be clearly identified along with any additional costs. 
+	
+
+ADDENDUM:
+In the event it becomes necessary to add to or revise any part of this RFI prior to the scheduled submittal date, CCSNH will post addenda to https://www.ccsnh.edu/about-ccsnh/bidding-rfp/.  Before your submission, always check for any addenda or other materials that may have been issued, which would affect the RFI.
+
+DEMONSTRATION MEETINGS: 
+No demonstration meetings will be held as part of this RFI.  
+
+SUBMISSION OF RFI RESPONSE:   
+Submissions are due on Friday, November 20, 2026, at 2:00pm, and must include all the required documents listed below. All required submission documentation should be emailed to Sean Fitzpatrick, Procurement Manager, at  HYPERLINK "mailto:CCSNHpurchasing@ccsnh.edu" CCSNHpurchasing@ccsnh.edu. Confirmation of receipt will be sent within 24 hours. 
+
+Submissions should include the following Documents:
+Completed CCSNH AI Requirements Spreadsheet including:
+General Information Questions
+Business Requirements
+Solution Pricing
+References
+(Optional) Any additional materials you feel might be helpful to the CCSNH review committee 
+Submitter’s W9
+ADDITIONAL INFORMATION:
+This solicitation does not commit CCSNH to award a contract, to pay any costs incurred in the preparation of a submission, or to procure a contract for the articles of goods or services. 
+
+	Should any ambiguity or conflict in the RFI become apparent to any Vendor prior to the proposal deadline, the Vendor shall promptly contact CCSNH Procurement for a written interpretation. The information given in response will be documented in an RFI addendum and posted to HYPERLINK "https://www.ccsnh.edu/about-ccsnh/bidding-RFP/"https://www.ccsnh.edu/about-ccsnh/bidding-RFP/. Any addendum to the RFI must be acknowledged by the Vendor in their submission. No oral statement, explanations or commitments made by anyone shall affect the RFI except when confirmed in writing by CCSNH Procurement or their designee.
+
+
+
+
+
+
+
+
+
+CCSNH – RFI #CHA27-02
+
+
+

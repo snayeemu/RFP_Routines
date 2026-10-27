@@ -1,0 +1,41 @@
+{
+  "title": "Marine Corps Cyberspace Environment (MCCE) Operational Support Services (OSS) and Enterprise Artificial Intelligence (AI) Integration",
+  "solicitationNumber": "M6785426I4208",
+  "type": "r",
+  "naics": [
+    {
+      "code": [
+        "541513"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": "NONE",
+  "responseDeadline": "2026-11-03T13:00:00-05:00",
+  "postedDate": "2026-10-22T19:15:16.091+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+Amendment 04 is attached to provide the answers to Industry's questions regarding this RFI. Attachment 2-RFI_M67854-26-I-4208_Official_QA_20261021_Public Release is provided in the attachments. No further extension will be provided beyond 03 November 2026.  
+
+ Amendment 03 is attached to revise the response due date from 19 October 2026 at 1:00 P.M. to 03 November 2026 at 1:00 P.M. Questions and answers are in final review and will be released in Amendment 04. Please see below for Market Research Clarifications.  
+
+ Market Research Clarification Statements: 
+
+ 1. Clarification on Primary Scope and Contractor-Provided Tooling: The Government reiterates that the primary requirement of this effort is the provision of skilled, professional IT touch-labor services (Objective 1). Any proposed AI/automation tooling must be presented as an embedded component of the service delivery model, consistent with the constraints in Section 3.2 of the RFI, designed to augment the workforce and improve efficiency. 
+
+ 2. Additional Request for Information on Service-Based Ordering Models: In addition to the areas outlined in the original RFI, the Government is seeking industry feedback on recommended ordering approaches for service-based delivery models. Respondents are encouraged to describe frameworks where the Government could procure "hours of service" or service outcomes rather than individual labor categories. Descriptions should include associated tooling considerations, structural elements that support efficient ordering, and methods for performance tracking. 
+
+ 3. Clarification on Submission Formatting: To resolve confusion identified in industry questions, respondents are instructed to adhere to the following: The "Capabilities Narrative" is limited to five (5) pages (PDF). Any optional "Supplementary Materials" are separate and limited to fifteen (15) pages (PDF). The "Vendor Comment Matrix" must be submitted in its native Microsoft Excel (.xlsx) format, and the 300-word limit per cell is in effect. 
+
+ 4. Clarification on ROM Pricing and Software Licensing: To resolve the conflict identified between RFI Section 3.2 and Area B, respondents are instructed that this is a services acquisition. Any costs associated with contractor-provided proprietary tooling (licensing, subscriptions, etc.) are expected to be included within the fully burdened labor rates of the "Labor" ROM component. The "Platform Licensing/Subscription" and "Variable/Consumption Costs" line items should be used only for estimating potential Government-incurred costs on Government-owned platforms (e.g., ServiceNow credits, Power Platform licensing). If a vendor's solution does not generate such costs, those line items should be marked as $0. 
+
+ Amendment 02 is attached to revise the response due date from 5 October 2026 at 1:00 P.M. to 19 October 2026 at 1:00 P.M. Questions are in the process of being answered. No additional questions will be accepted at this time.  
+
+ Amendment 01 is attached to revise the release date and the response due date. Thank you! 
+
+ The Marine Corps Systems Command (MARCORSYSCOM), Portfolio Acquisition Executive Mission Systems (PAE MS), is conducting market research to identify capable, innovative commercial partners to deliver comprehensive, enterprise-scale Information Technology (IT) Operational Support Services (OSS). 
+
+ While providing qualified, certified personnel remains the primary focus, the Government is simultaneously exploring the integration of commercial AI and automation technologies as a critical capability for our selected partner(s) to drive operational efficiencies. Consolidating professional services represents a strategic opportunity to optimize workflows and lower manual touch-labor costs over time by equipping the contractor workforce with advanced automation tools.

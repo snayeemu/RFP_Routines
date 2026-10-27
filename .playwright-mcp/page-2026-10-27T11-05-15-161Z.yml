@@ -1,0 +1,46 @@
+- generic [active] [ref=e1]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row [ref=e5]:
+        - cell [ref=e6]
+        - cell [ref=e9]:
+          - generic [ref=e10]:
+            - link "" [ref=e11] [cursor=pointer]:
+              - /url: https://support.outreachsystems.com/resources/help/profiles/
+            - link " Inovi Solutions, Inc." [ref=e13] [cursor=pointer]:
+              - /url: /go?sub=997FA735-B1CB-4747-8A7D-58069FD54198
+              - generic [ref=e14]: 
+              - text: Inovi Solutions, Inc.
+            - text: 1 of 1
+  - generic [ref=e15]:
+    - generic [ref=e16]:
+      - table [ref=e17]:
+        - rowgroup [ref=e18]:
+          - row [ref=e19]:
+            - cell [ref=e20]
+            - cell [ref=e21]:
+              - link " Oct 26, 2026" [ref=e22] [cursor=pointer]:
+                - /url: /go?doc=78938890-9ca1-4643-91df-902c17f05cf8
+                - generic [ref=e23]: 
+                - text: Oct 26, 2026
+            - cell [ref=e24]
+      - paragraph [ref=e26]: "The government contract opportunities enclosed with this email are provided to you by the UTA Cross Timbers APEX Accelerator. This service is provided to our clients as part of government contracting assistance services. This contract opportunity notice is based upon your product/service profile. If you wish to revise your product/service profile or have questions concerning this contract opportunity, please contact the UTA Cross Timbers APEX Accelerator at: Tel: (817) 272-6000"
+    - separator [ref=e27]
+    - heading "VETERANS AFFAIRS, DEPARTMENT OF, VETERANS AFFAIRS, DEPARTMENT OF, 246-NETWORK CONTRACTING OFFICE 6 (36C246), 100 EMANCIPATION DR, HAMPTON VA 23667" [level=4] [ref=e28]
+    - paragraph [ref=e29]:
+      - text: D -- DA10--MediaLab SaaS Document Control system
+      - generic [ref=e30]: service
+      - text: SOL 36C24627Q0094 DUE 10/30/2026 at 08:00AM -04:00 POC Cherisse Hall, Cherisse.Hall@va.gov, tel:757-726-6096The Department of Veterans Affairs, Network Contracting Office (NCO) 6 intends to award a sole source, firm fixed price contract to MediaLab Solutions LLC, 1745 N. Brown Road, Ste. 300, Lawrenceville, GA 30043 for the MediaLab Solutions LLC Software as a Service (SaaS) document control system
+      - generic [ref=e31]: service
+      - text: for the Fayetteville VAMC located at 2300 Ramsey Street, Fayetteville, NC, 28301. The MediaLab Solutions LLC SaaS document control system
+      - generic [ref=e32]: service
+      - text: is the current
+      - generic [ref=e33]: service
+      - text: in place and being utilized throughout the Fayetteville Coastal Health Care system. MediaLab Solutions LLC is the sole source distributor and
+      - generic [ref=e34]: service
+      - text: provider. Market research has determined that these items can only be obtained from a single source without an unacceptable duplication of cost or delay in the continuity of patient care. No solicitation documents are available, and telephone requests will not be accepted. However, any business that believes it can provide the MediaLab Solutions LLC Software as a Service (SaaS) document control system
+      - generic [ref=e35]: service
+      - text: may give written notice to Cherisse.Hall@va.gov by 08:00am EDT on 10/30/2026. Supporting evidence must be furnished in sufficient detail to demonstrate the ability to comply with the above requirement. Interested and capable respondents are requested to provide the information below. All responses to this notice shall include company name, address, point of contact, phone number, System for Award (SAMs) Unique Entity Id Number (UEI), capabilities statement, past performance, and authorized
+      - generic [ref=e36]: service
+      - text: "provider/distributor documentation. Responses will be considered by the Government; however, a determination by the Government not to compete the proposed acquisition based upon responses of this notice is solely within the discretion of the Government. NAICS Code: 518210 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services PSC: DA10 IT and Telecom Business Application/Application Development Software as a Service URL: <a href=\"https://sam.gov/opp/24386cf78f9949809bf2915cd00acfec/view?\">https://sam.gov/opp/24386cf78f9949809bf2915cd00acfec/viewa>"
+    - text: "OutreachSystems Article Number: 20261026/PROCURE/0002 Matching keyword(s): !IT; information; servic*; saas; software; as; a; service?;"

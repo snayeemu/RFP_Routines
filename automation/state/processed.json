@@ -1,0 +1,13 @@
+{
+  "processed": [
+    {
+      "doc_id": "8bb28212-d735-4550-a8aa-9fe6d6a28252",
+      "alert_date": "2026-10-23",
+      "alert_message_id": "1a17d10d1ce4babd",
+      "status": "sent-with-issues",
+      "sent_message_id": "1a17dc393f3002b7",
+      "run_dir": "runs/2026-10-23_8bb28212",
+      "sheet": "2026-10-23"
+    }
+  ]
+}

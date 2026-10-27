@@ -1,0 +1,198 @@
+=== Page 1 ===
+CONTRACT ADMINISTRATION PLAN (CAP) FOR FIXED PRICE, INDEFINITE DELIVERY, CONTRACTS
+
+In order to expedite the administration of this contract, the following delineation of duties is provided. The names,
+addresses and phone numbers for these offices or individuals are included elsewhere in the contract award
+document. The office or individual designated as having responsibility should be contacted for any questions,
+clarifications or information regarding the administration function assigned.
+
+1. The Procuring Contract Office (PCO) is responsible for:
+
+         a. All pre-award duties such as solicitation, negotiation and award of contracts.
+
+         b. Any information or questions during the pre-award stage of the procurement.
+
+         c. Freedom of Information inquiries.
+
+         d. Changes in contract terms and/or conditions.
+
+         e. Post award conference.
+
+2. The Contract Administration Office (CAO) is responsible for matters specified in FAR 42.302, except those
+areas otherwise designated as the responsibility of the Contracting Officer's Representative (COR) or someone else
+herein.
+
+3. The paying office is responsible for making payment of proper invoices after acceptance is documented.
+
+4. The Ordering Officer is responsible for:
+
+         a. Requesting, obtaining and evaluating proposals for orders to be issued.
+
+         b. Select the most advantageous offer to the Government for individual Task Orders in accordance with
+contract provisions. Determining that the price/estimated cost of the order is fair and reasonable for the effort
+proposed.
+
+         c. Obligating the funds by issuance of the delivery order/task order.
+
+         d. Authorizing the contractor to begin performance.
+
+         e. Providing subcontract approval.
+
+         f. Monitoring direct costs on orders issued.
+
+NOTE: The PCO and the Ordering Officer may be the same individual, but in no case shall the COR perform the
+duties of the Ordering Officer.
+
+5. The Contracting Officer's Representative (COR) is responsible for interface with the contractor and performance
+of duties such as those set forth below. It is emphasized that only the PCO/CAO has the authority to modify the
+terms of the contract. In no event will any understanding, agreement, modification, change order, or other matter
+deviating from the terms of the basic contract between the contractor and any other person be effective or binding on
+the government. If in the opinion of the contractor an effort outside the scope of the contract is requested, the
+contractor shall promptly notify the PCO in writing. No action may be taken by the contractor unless the PCO or
+CAO has issued a contractual change. The COR duties are as follows:
+
+         a. Technical Interface
+
+              (1) The COR is responsible for all Government technical interface concerning the contractor and
+furnishing technical istructions to the contractor. These instructions may include: technical
+
+=== Page 2 ===
+advice/recommendations/clarifications of specific details relating to technical aspects of contract requirements;
+milestones to be met within the general terms of the contract or specific subtasks of the contract; or, any other
+interface of a technical nature necessary for the contractor to perform the work specified in the contract or order.
+The COR is the point of contact through whom the contractor can relay questions and problems of a technical nature
+to the PCO.
+
+            (2) The COR is prohibited from issuing any instruction which would constitute a contractual change.
+The COR shall not instruct the contractor how to perform. If there is any doubt whether technical instructions
+contemplated fall within the scope of work, contact the PCO for guidance before transmitting the instructions to the
+contractor.
+
+         b. Contract Surveillance
+
+              (1) The COR shall monitor the contractor's performance and progress under the contract. In
+performing contract surveillance duties, the COR should exercise extreme care to ensure that he/she does not cross
+the line of personal services. The COR must be able to distinguish between surveillance (which is proper and
+necessary) and supervision (which is not permitted). Surveillance becomes supervision when you go beyond
+enforcing the terms of the contract. If the contractor is directed to perform the contract services in a specific
+manner, the line is being crossed. In such as situation, the COR's actions would be equivalent to using the
+contractor's personnel as if they were government employees and would constitute transforming the contract into
+one for personal services.
+
+               (2) The COR shall monitor the contractor's performance to see that inefficient or wasteful methods are
+not being used. If such practices are observed, the COR is responsible for taking reasonable and timely action to
+alert the contractor and the PCO to the situation.
+
+             (3) The COR will take timely action to alert the PCO to any potential performance problems. If
+performance schedule slippage is detected, the COR should determine the factors causing the delay and report them
+to the PCO, along with the contractor's proposed actions to eliminate or overcome these factors and recover the
+slippage. Once a recovery plan has been put in place, the COR is responsible for monitoring the recovery and
+keeping the PCO advised of progress.
+
+             (4) If the Contractor Performance Assessment Reporting System (CPARS) is applicable to the contract
+you are responsible for completing a Contractor Performance Assessment Report (CPAR) in the CPARS Automated
+Information System (AIS). The initial CPAR, under an eligible contract, must reflect evaluation of at least 180 days
+of contractor performance. The completed CPAR, including contractor comments if any, (NOTE: contractors are
+allowed 30 days to input their comments) should be available in the CPARS AIS for reviewing official (PCO)
+review no later than 270 days after start of contract performance. Subsequent CPARs covering any contract option
+periods should be ready at 1-year intervals thereafter.
+
+         c. Invoice Review and Approval/Inspection and Acceptance
+
+              (1) The COR is responsible for quality assurance of services performed and acceptance of the services
+or deliverables. The COR shall expeditiously review copies of the contractor's invoices or vouchers, certificate of
+performance and all other supporting documentation to determine the reasonableness of the billing. In making this
+determination, the COR must take into consideration all documentary information available and any information
+developed from personal observations.
+
+            (2) The COR must indicate either complete or partial concurrence with the contractor's
+invoice/voucher by executing the applicable certificate of performance furnished by the contractor.
+
+              (3) The COR will provide the PCO and the CAO with copies of acceptance documents such as
+Certificates of Performance.
+
+=== Page 3 ===
+              (4) Upon completion of all services under the contract, the COR shall work with the Contractor to
+obtain and execute a final invoice no more than 60 days after completion of contract performance. The COR shall
+ensure that the invoice is clearly marked as a “Final Invoice.”
+
+         d. Contract Modifications/Orders Under Indefinite Delivery Contracts.
+
+             (1) The COR is responsible (if necessary) for developing the statement of work for tasking orders,
+change orders, or modifications and for preparing an independent government cost estimate of the effort described in
+the proposed statement of work.
+
+           (2) The COR shall provide available and relevant Past Performance information with each request for
+new Task Orders. The COR shall review and evaluate the contractor’s proposal and furnish comments and
+recommendations
+
+         e. Administrative Duties
+
+              (1) The COR is responsible for taking appropriate action on technical correspondence pertaining to the
+contract and for maintaining files on each contract. This includes all modifications, government cost estimates,
+contractor invoices/vouchers, certificates of performance, DD 250 forms and contractor's status reports.
+
+              (2) The COR shall maintain files on all correspondence relating to contractor performance, whether
+satisfactory or unsatisfactory, and on trip reports for all government personnel visiting the contractor's place of
+business for the purpose of discussing the contract.
+
+              (3) The COR must take prompt action to provide the PCO with any contractor or technical code
+request for change, deviation or waiver, along with any supporting analysis or other required documentation.
+
+       f. Government Furnished Property. When government property is to be furnished to the contractor, the
+COR will take the necessary steps to ensure that it is furnished in a timely fashion and in proper condition for use.
+The COR will maintain adequate records to ensure that property furnished is returned and/or that material has been
+consumed in the performance of work.
+
+         g. Security. The COR is responsible for ensuring that any applicable security requirements are strictly
+adhered to.
+
+         h. Standards of Conduct. The COR is responsible for reading and complying with all applicable agency
+standards of conduct and conflict of interest instructions.
+
+         i. Written Report/Contract Completion Statement.
+
+               (1) The COR is responsible for timely preparation and submission to the PCO, of a written, annual
+evaluation of the contractors performance. The report shall be submitted within 30 days prior to the exercise of any
+contract option and 60 days after contract completion. The report shall include a written statement that services
+were received in accordance with the Contract terms and that the contract is now available for close-out. The report
+shall also include a statement as to the use made of any deliverables furnished by the contractor. For contracts
+where delivery orders are issued, one consolidated report which addresses all actions under the contract may be
+submitted.
+
+             (2) If the Contractor Performance Assessment Reporting System (CPARS) is applicable to the contract
+you are responsible for completing a final Contractor Performance Assessment Report (CPAR) in the CPARS with
+30 days of contract completion.
+
+             (3) The COR is responsible for providing necessary assistance to the Contracting Officer in performing
+Contract Close-out in accordance with FAR 4.804, Closeout of Contract Files.
+
+=== Page 4 ===
+7. The Technical Assistant (TA), if appointed, is responsible for providing routine administration and monitoring
+assistance to the COR. The TA does not have the authority to provide any technical direction or clarification to the
+contract. Duties that may be performed by the TA are as follows:
+
+         a. Identify contractor deficiencies to the COR.
+
+        b. Review contract/delivery order deliverables, recommend acceptance/rejection, and provide the COR
+with documentation to support the recommendation.
+
+         c. Assist in preparing the final report on contractor performance for the applicable contract/delivery order
+in accordance with the format and procedures prescribed by the COR.
+
+         d. Identify contract noncompliance with reporting requirements to the COR.
+
+        e. Evaluate the contractor's proposals for specific delivery orders and identify, for the COR, any potential
+problems, areas of concern, or issues to be discussed during negotiations.
+
+         f. Review contractor status and progress reports, identify deficiencies to the COR, and provide the COR
+with recommendations regarding acceptance, rejection, and/or Government technical clarification requests.
+
+         g. Review invoices for the appropriate mix of types and quantities of labor, materials, and other direct
+costs, and provide the COR with recommendations to facilitate COR certification of the invoice.
+
+         h. Provide the COR with timely input regarding technical clarifications for the statement of work, possible
+technical direction to provide the contractor, and recommend corrective actions.
+
+         i. Provide detailed written reports of any trip, meeting, or conversation to the COR subsequent to any
+interface between the TA and contractor.

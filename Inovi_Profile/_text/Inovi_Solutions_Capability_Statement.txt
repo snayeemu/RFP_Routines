@@ -1,0 +1,71 @@
+                                                                                                      Faiz Mannan
+                                                                                                      CTO
+                                                                                                      3412 Mark Twain Blvd.
+                                                                                                      Flower Mound, TX 75022
+                                                                                                      faiz@inovisolutions.com
+CAPABILITY STATEMENT                                                                                  (469) 815-4078
+                                                                                                      inovisolutions.com
+
+
+Modernizing Public Sector Missions with Expert Salesforce
+Implementation
+COMPANY DATA                                                            DIFFERENTIATORS
+Inovi Solutions is a Texas-based Minority-Owned Small Business          Proven Quality & Client Satisfaction
+specializing in complex, enterprise-scale Salesforce                    Our commitment to excellence is demonstrated by a
+transformations. With a 12-year history of success, we partner with     publicly veriﬁable 98% Client Satisfaction (CSAT)
+public and private sector clients to replace siloed systems, create a   score and a perfect 5-star rating on the Salesforce
+single source of truth for data, and implement modern CRM               AppExchange, reﬂecting consistent delivery of
+solutions that enhance operational efﬁciency and drive user             high-quality, successful outcomes.
+adoption. Our mission is to serve as a long-term strategic partner,
+leveraging the world's #1 CRM platform to help agencies transform       Disciplined Project Delivery
+how they engage with their communities, employees, and                  Our proven hybrid methodology balances agile
+stakeholders.                                                           ﬂexibility with waterfall governance, mitigating risk
+                                                                        and ensuring on-time, on-budget completion of
+Legal Name: Inovi Solutions                                             complex, multi-million dollar projects.
+SAM UEI: MK83YRZL1986
+CAGE: 84PQ3                                                             Deep Technical Expertise
+Contract Vehicles: Accepts government credit and purchase cards.        Our projects are led by senior-level, certiﬁed
+GSA Schedule: 47QTCA22D00BW                                             architects and developers with extensive experience
+Categories: 518210C, 54151, 54151S, OLM                                 (e.g., 14+ years, 11x Salesforce certiﬁcations) in
+                                                                        designing and deploying secure, scalable,
+                                                                        enterprise-level solutions.
+
+                                                                        Efﬁcient, Value-Driven Delivery
+                                                                        Our lean operational structure and commitment to
+CORE COMPETENCIES                                                       senior-level project stafﬁng maximizes value and
+                                                                        reduces risk. This expert-led approach avoids
+Inovi Solutions provides end-to-end services for government             common pitfalls, ensures efﬁcient problem-solving,
+agencies seeking to modernize their operations using the                and delivers a higher return on investment for public
+Salesforce platform.                                                    funds.
+Salesforce Implementation & Transformation: Full lifecycle
+implementation of Salesforce clouds, including Public Sector            PAST PERFORMANCE
+Solutions, Sales Cloud, and Service Cloud, to unify disparate
+systems and create a single, authoritative source for enterprise        Customer: Meridian Cooperative
+data.                                                                   Value: $112K | Timeframe: Sep 2024 - June 2025
+                                                                        Description: Migrated 300+ users from MS Dynamics
+Complex System Integration: Architecting and building robust            to Salesforce Service and Experience Cloud. The
+integrations between Salesforce and external systems, including         project included conﬁguration of Case Management,
+legacy government platforms, ERPs (e.g., SAP), and SQL databases        automation, chat, Omni Channel, and integrations
+using modern API and middleware solutions like MuleSoft and Dell        with Slack and Jira. This work demonstrates our
+Boomi.                                                                  ability to execute large-scale data migrations and
+Data Migration & Analytics: Executing complex data migrations           implement uniﬁed platforms to improve customer
+from legacy CRM systems (e.g., MS Dynamics) and deploying               experience.
+advanced analytics (CRM Analytics) to enable real-time reporting,
+predictive modeling, and data-driven decision-making.
+                                                                        Customer: EPIC (National Disaster Response
+                                                                        Company)
+Field Service & Mobile Workforce Optimization: Transforming
+                                                                        Value: $2.6M | Timeframe: Oct 2018 - Current
+ﬁeld operations by replacing manual processes with Salesforce
+                                                                        Description: Led a multi-year digital transformation
+Field Service to optimize scheduling, dispatching, resource
+                                                                        to modernize ﬁeld service operations for 100+ users
+allocation, and real-time mobile workforce management.
+                                                                        with Salesforce Field Service, Sales Cloud, and
+Agile Project Management & Governance: Managing multi-million           Service Cloud. The solution replaced manual tools
+dollar, multi-year projects using a proven hybrid delivery model        with an integrated, data-driven platform that uniﬁed
+that combines agile ﬂexibility with disciplined governance to           siloed systems, created a single source of truth for
+ensure on-time, on-budget delivery and successful user adoption.        customer and operational data, and improved
+                                                                        customer experience with real-time notiﬁcations and
+                                                                        tracking.
+

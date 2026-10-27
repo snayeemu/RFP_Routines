@@ -1,0 +1,37 @@
+{
+  "title": "MATLAB Software Subscription Renewal",
+  "solicitationNumber": "N00174-27-SIMACQ-W1-0006",
+  "type": "s",
+  "naics": [
+    {
+      "code": [
+        "513210"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": null,
+  "responseDeadline": "2026-11-04T10:00:00-05:00",
+  "postedDate": "2026-10-22T16:41:31.922+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+THIS IS A NOTICE OF INTENT TO SOLE SOURCE, NOT A REQUEST FOR A QUOTE (RFQ). A SOLICITATION WILL NOT BE ISSUED AND QUOTES WILL NOT BE REQUESTED. 
+
+ The Naval Surface Warfare Center Indian Head Division (NSWC IHD) intends to award a firm-fixed-price contract on a non-competitive basis to The MathWorks, Inc. (CAGE: 0C524), located at 3 Apple Hill Dr, Natick, MA 01760, for the acquisition of the following: 
+
+ Item Description: MATLAB Software Subscription and Associated Proprietary Toolboxes 
+
+ Manufacturer: The MathWorks, Inc. 
+
+ This action is being undertaken in accordance with FAR 13.106-1(b)(1) on the basis that The MathWorks, Inc. is the only known source capable of meeting the Government’s requirements, utilizing the simplified procedures for certain commercial items authorized under 41 U.S.C. 1901 (implemented by FAR Subpart 13.5). The MathWorks, Inc. is the sole owner, developer, and distributor of MATLAB software licenses and does not utilize third-party resellers for Department of Defense acquisitions. 
+
+ The North American Industry Classification System (NAICS) code for this requirement is 513210 (Software Publishers), and the Product Service Code (PSC) is DA10 (IT and Telecom - Business Application Software). 
+
+ This Notice of Intent is not a request for competitive proposals. However, interested parties may identify their interest and capability to respond to this requirement. All capability statements received by November 04, 2026, at 10:00 AM EST will be considered by the Government. A determination by the Government not to compete this proposed contract based upon responses to this notice is solely within the discretion of the Government. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement. 
+
+ Interested vendors must be registered in the System for Award Management (SAM) database at https://www.sam.gov prior to submission. 
+
+ Responses must be submitted electronically via email to Shannon Wooten, Acquisition Management Specialist, at shannon.d.cloud-wooten.civ@us.navy.mil no later than 10:00 AM EST on November 04, 2026.

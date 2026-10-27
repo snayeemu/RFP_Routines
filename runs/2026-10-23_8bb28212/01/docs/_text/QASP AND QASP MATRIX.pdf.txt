@@ -1,0 +1,505 @@
+=== Page 1 ===
+                   QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+               NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                Enterprise Cloud – Network Operations – Service Management
+
+
+1.0 PURPOSE
+
+This Quality Assurance Surveillance Plan (QASP) is a Government developed and applied document
+used to make sure that systematic quality assurance methods are used in the administration of the
+Performance Based Service Contract (PBSC) standards included in this contract. The intent is to ensure
+that the Contractor performs in accordance with performance metrics set forth in the contract documents,
+that the Government receives the quality of services called for in the contract and that the Government
+only pays for the acceptable level of services received.
+
+2.0 AUTHORITY
+
+Authority for issuance of this QASP is provided under FAR 52-212-4(a), Inspection/Acceptance, which
+provides for inspections and acceptance of the articles, services, and documentation called for in the
+contract to be accomplished by the Contracting Officer or their duly authorized representative.
+
+3.0 SCOPE
+
+The Contractor, and not the Government, is responsible for management and quality control actions
+necessary to meet quality standards set forth by the contract. The QASP is put in place to provide
+Government surveillance oversight of the Contractor’s quality control efforts to assure that they are
+timely, effective and are delivering the results specified in the contract. The QASP is not a part of the
+contract nor is it intended to duplicate the Contractor’s Management Plan. The Government may provide
+the Contractor an information copy of the QASP as an Attachment to the solicitation to support the
+Contractor’s efforts in developing its plan for maintaining the levels of quality anticipated to be delivered
+under the terms of the contract.
+
+4.0 RESPONSIBILITIES
+
+The Government resources shall have responsibilities for the implementation of this QASP as follows:
+
+    •   Contracting Officer – The Contracting Officer ensures performance of all necessary actions for
+        effective contracting, ensures compliance with the terms of the contract and safeguards the
+        interests of the United States in the contractual relationship. It is the Contracting Officer that
+        assures the Contractor receives impartial, fair and equitable treatment under the contract. The
+        Contracting Officer is ultimately responsible for the final determination of the adequacy of the
+        Contractor’s performance.
+
+    •   Contracting Officer’s Representative (COR) – An individual designated in writing by the
+        Contracting Officer to act as his authorized representative to assist in administering a contract.
+        The source and authority for the COR is the Contracting Officer. COR limitations are contained
+        in the written letter of appointment.
+
+    •   Procuring Contract Officer (PCO) – The PCO ensures performance of all necessary actions for
+        effective contracting compliance with the terms of the contract and safeguards the interests of the
+        United States in the contractual relationship. It is the PCO that assures the contractor receives
+        impartial, fair and equitable treatment under the contract. The PCO is ultimately responsible for
+        the final determination of the adequacy of the contractor’s performance.
+
+                                                Page 1 of 8
+
+=== Page 2 ===
+                   QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+              NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+               Enterprise Cloud – Network Operations – Service Management
+
+
+    •   Technical Lead (TL) – The TL serves as the front line technical assistant to the COR. The TL
+        provides detailed oversight of the contractors’ performance and reports monthly his or her
+        findings to the COR in a timely complete and impartial fashion. The TL may serve as a direct
+        conduit between the contractor and the COR. The TL cannot require additional work outside the
+        scope of the contract or task order, constitute a change that cause an increase or decrease in the
+        estimated cost of the contract or task order, alter the period of performance of the contract or task
+        order, or change any of the other terms or conditions of the contract or task order.
+
+5.0 METHODS OF QA SURVEILLANCE
+
+The below listed methods of surveillance shall be used in the administration of this QASP. The QASP
+Matrix (Attachment 1) describes the methods of surveillance that shall be used to monitor the services and
+deliverables to be provided under the contract.
+
+    •   Progress Reports – Contractor shall provide progress reports on deliverables per the
+        Performance Work Statement (PWS) to the COR and Technical Lead.
+
+    •   Customer Feedback – Customer feedback may be obtained either from the results of formal
+        customer satisfaction surveys or from random customer complaints. Customer complaints, to be
+        considered valid, must set forth clearly and in writing the detailed nature of the complaint, must
+        be signed and must be forwarded to the Contractor. The Contractor shall maintain a summary log
+        of all formally received customer complaints as well as a copy of each complaint in a
+        documentation file.
+
+    •   Random Checks/Inspections – Random checks will be conducted to ensure compliance with the
+        Standard Operating Procedures (SOP). The COR or Technical Point of Contact (TPOC) will
+        conduct the random monitoring.
+
+6.0 DOCUMENTATION
+The COR will maintain a complete Quality Assurance Surveillance file. The file shall contain such
+documents as copies of all receiving reports, evaluations, recommendations, and any other actions related
+to the Government’s performance of the quality assurance function. All such records will be retained for
+the life of this contract. At a minimum, the Quality Assurance Surveillance file shall contain:
+
+    •   Copies of letters of appointment for the COR.
+    •   A copy of the contract and all modifications.
+    •   A copy of the QASP and all subsequent revisions.
+    •   The names and titles of individuals on the contract administration team.
+    •   A record of all accepted receiving reports, required documentation with the submission of each
+        receiving report and reviews.
+    •   Memoranda for the record or minutes of any pre-performance meetings or conferences.
+    •   Memoranda for the record or minutes of any meetings or discussions with the contractor, or
+        others, pertaining to the contract or contract performance or changes to the PWS.
+
+7.0 ANALYSIS OF CONTRACTOR PERFORMANCE
+
+
+                                                Page 2 of 8
+
+=== Page 3 ===
+                                    QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+                              NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                               Enterprise Cloud – Network Operations – Service Management
+
+              The analysis of contractor performance shall be conducted at the end of each month and serves to provide
+              a summary of the Contractor’s performance to the Contracting Officer and the Contractor. Overall
+              performance is important in determining whether to increase, decrease or maintain the current level of
+              surveillance and/or whether to initiate corrective action to bring the Contractor’s work up to the standards
+              of the specification.
+
+
+                                                                 QASP MATRIX
+                                                                                                                                 Procedures to be
+ Performance                                                   Surveillance                            Acceptable Quality          taken when
+                        Performance Requirement                                      Frequency
+   Element                                                       Method                                   Level (AQL)             performance
+                                                                                                                              standards are not met
+                                      Program, Security, Financial, Technical, and Documentation Management
+                                                             Review by the                            95% of reports
+                    Reports must include the status of
+                                                             Technical Lead                           submitted on time and
+                    support provided in completion of
+                                                             and COR                                  without rework due to   FAR Clause 52.212-
+                    assigned missions (deployments and
+Progress Reports                                                                 Monthly              errors.                 4(a)
+                    sustainment) in support of operations
+                                                                                                                              Inspection/Acceptance
+                    and associated tasks prescribed in the
+                    PWS and/or Task Orders.
+                                                             Assessment by                            All performance         FAR Clause 52.212-
+                    Overall contract performance of a        Technical Lead.                          elements rated          4(a)
+                    sufficient quality to earn a             The COR to                               Satisfactory (or        Inspection/Acceptance
+Overall Contract
+                    Satisfactory (or higher) rating in the   review and          Annually             higher).
+Performance
+                    COR’s annual report on Contractor        submit in CPAR                                                   FAR Clause 42.1503
+                    Performance.                                                                                              Procedures
+
+                                                             Review by the                            95% of reports
+                    Contractor shall provide trip reports
+                                                             Technical Lead                           submitted on time and
+                    and shall include results of trip as                                                                      FAR Clause 31.205-
+                                                             and COR                                  without rework due to
+Trip Report         related to specific PWS tasks. Trip                          As needed                                    46(a)(7)
+                                                                                                      errors.
+                    reports due within 5 working days                                                                         Travel costs
+                    upon return from trip.
+                                                                                                      99% of reports
+                                                             Review and                               submitted on time and
+                                                                                                                              FAR Clause 52.212-
+                    Monthly invoices per contract            acceptance of                            without rework due to
+Invoicing                                                                        Monthly                                      4(g)
+                    procedures are timely and accurate.      invoice by the                           errors.
+                                                                                                                              Inspection/Acceptance
+                                                             COR
+
+                                                                                                      100% Compliance         Non-compliance will
+                                                                                                                              be immediately
+Combatting          Contractor shall ensure compliance                                                                        reported to the
+                                                             Inspection by the
+Trafficking in      with FAR 52.222-50 – Combatting                              Continuous                                   Contracting Officer.
+                                                             COR
+Persons (CTIP)      Trafficking in Persons                                                                                    Remedies in
+                                                                                                                              accordance with FAR
+                                                                                                                              52.222-50 (e).
+                                                                                                      98% of reports
+                    Contractor Quality Assurance Plan
+                                                                                                      submitted on time and
+Contractor          are submitted as prescribed in the       Review by the       Due within 30 days                           FAR Clause 52.212-
+                                                                                                      without rework due to
+Quality             PWS. Overall contract performance        Technical Lead      of POP start and                             4(a)
+                                                                                                      errors.
+Assurance Plan      of sufficient quality to earn a          and COR             updated annually                             Inspection/Acceptance
+                    satisfactory or higher rating.
+
+
+
+
+                                                                     Page 3 of 8
+
+=== Page 4 ===
+                                      QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+                                NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                                 Enterprise Cloud – Network Operations – Service Management
+
+                                                                                                                                       Procedures to be
+ Performance                                                       Surveillance                             Acceptable Quality           taken when
+                          Performance Requirement                                        Frequency
+   Element                                                           Method                                    Level (AQL)              performance
+                                                                                                                                    standards are not met
+                                                             Cloud Tenant Service Desk Operations
+Time to Resolution   Contractor shall acknowledge, diagnose,    100% automated     Monthly                 95% of tickets           Positive/Negative
+(TTR)                and resolve incoming service desk tickets  review of service                          resolved within the      CPARS entry. May be
+                     within the timeframes specified by the     desk ticketing                             specified TTR each       used as a factor in
+                     ticket's priority level.
+                                                                system data                                month.                   future Task Order
+                     Priority 1: < 4 hours,
+                     Priority 2: < 8 hours,                                                                                         award decisions.
+                     Priority 3: < 3 business days.
+
+
+First Contact        Contractor's T2 support staff shall         Automated           Monthly (calculated   FCR rate is >= 20%       Higher FCR rates can
+Resolution           resolve incoming tickets using              review of           over a 3-month        over a 3-month rolling   be highlighted in
+(FCR)                available knowledge and resources to        ticketing system    rolling average)      average.                 CPARS as a sign of
+                     prevent unnecessary escalation to T3,       data, tracking                                                     efficiency and may
+                     demonstrating technical proficiency         escalation paths                                                   influence future TO
+                     at the appropriate tier.                                                                                       awards.
+
+Customer             Contractor shall provide                    Random              Quarterly             Average CSAT score       Failure to meet it
+Satisfaction         professional, effective, and timely         sampling of post-                         is >= 4.5/5 for 90% of   requires a formal
+(CSAT)               customer service, resulting in a high       ticket surveys                            survey responses per     Corrective Action
+                     degree of end-user satisfaction, as         and direct user                           quarter.                 Report.
+                     measured by post-ticket surveys.            feedback
+                                                                 captured in BMC
+                                                                 Helix
+
+                                              Service Operations/Management & Collaborative Integration
+Seamless Ticket      Tickets requiring transfer between     Weekly ticket     Monthly              ≥ 95% of tickets                 1st occurrence:
+Handoff              contractors are complete, accurate,    sampling                               accepted on first                Contractor submits
+                     and accepted without rework.           (random + high-                        transfer (no bounce-             Root Cause +
+                                                            priority                               back).                           Corrective Action Plan
+                                                            incidents).                                                             (CAP) within 5
+                                                                                                   ≤ 2% of tickets                  business days.
+                                                            Automated                              missing required
+                                                            workflow                               fields/artifacts.                2nd occurrence (within
+                                                            tracking (handoff                                                       30 days): Mandatory
+                                                            timestamps,                            100% compliance                  process retraining +
+                                                            rejection rates).                      with Associate                   increased sampling
+                                                                                                   Contractor Agreement             (e.g., 20%).
+                                                                                                   (ACA) data-sharing
+                                                                                                   requirements.                    Chronic failure (3+
+                                                                                                                                    months):
+                                                                                                                                    Formal Performance
+                                                                                                                                    Improvement Plan
+                                                                                                                                    (PIP)
+                                                                                                                                    Consider withholds tied
+                                                                                                                                    to SLA degradation.
+
+                                                                                                                                    ACA violation:
+                                                                                                                                    Immediate escalation to
+                                                                                                                                    Contracting Officer
+                                                                                                                                    (CO) and legal review.
+
+
+
+
+                                                                         Page 4 of 8
+
+=== Page 5 ===
+                                    QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+                              NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                               Enterprise Cloud – Network Operations – Service Management
+
+
+                                                                                                                                 Procedures to be
+ Performance                                                  Surveillance                            Acceptable Quality           taken when
+                       Performance Requirement                                     Frequency
+   Element                                                      Method                                   Level (AQL)              performance
+                                                                                                                              standards are not met
+                                      Service Operations/Management & Collaborative Integration (continued)
+Joint Root Cause   For all Priority 1 (P1) incidents, all   Attendance         Monthly               ≥ 95% attendance for     Repeated Gaps:
+Analysis (RCA)     designated Associate Contractors         review of RCA                            required RCA events.     Assign named SME
+Participation      must actively participate in joint       meeting minutes,                                                  participation
+                   troubleshooting, attend all RCA          AAR reviews                              ≥ 90% of RCA             requirement
+                   meetings, and contribute required                                                 deliverables submitted   Government-directed
+                   analysis to the final after-action                                                on time.                 corrective actions for
+                   report.                                                                                                    RCA methodology.
+                                                                                                     Qualitative:
+                                                                                                     Contributions deemed     Systemic issue:
+                                                                                                     actionable in ≥ 85% of   Require formal RCA
+                                                                                                     reviews.                 training or tool
+                                                                                                                              standardization.
+Contribution to    Contractors shall create and/or          Report via         Monthly knowledge     ≥ 4–6 articles/month     Initial deficiency:
+Shared             update knowledge base articles with      KMDB or KEDB       base audits, usage    (adjust based on         Require backlog
+Knowledge          troubleshooting steps, "how-to"          (BMC Helix or      analytics, peer and   contract size).          submission within 10
+Bases              guides, and resolutions for issues and   FS Hub)            gov review                                     days.
+                   known errors related to their services                                            ≥ 90% of articles meet
+                   to enable faster resolution and higher                                            quality standards (no    Continued shortfall:
+                   FCR rates across the enterprise.                                                  major rework             Assign minimum
+                                                                                                     required).               quotas per team
+                                                                                                                              Require KB integration
+                                                                                                     ≥ 85% positive           into ticket closure
+                                                                                                     usability feedback (if   criteria.
+                                                                                                     rating system exists).
+                                                                                                                              Chronic failure: Tie
+                                                                                                                              deliverables to award
+                                                                                                                              fee or performance
+                                                                                                                              rating.
+Incident           Contractor shall meet initial response   ITSM Reporting     Monthly               ≥ 95% compliance         Repeated SLA
+Response Time      time for service level agreements        Dashboard                                with response time       breaches:
+& Success Rate     (SLA) for all incidents and                                                       SLAs.                    Shift coverage
+                   demonstrate successful                                                                                     adjustments.
+                   resolution. Response                                                              ≥ 90% resolution
+                   Time: Acknowledge Priority 1                                                      within SLA.              Critical incident
+                   incidents in < 15 mins, P2 in < 30                                                                         failure: Immediate
+                   mins. Success Rate: Measured by                                                   ≤ 3% reopen rate.        escalation + after-
+                   resolution within TTR and no                                                                               action RCA within 48
+                   incident recurrence within 72 hours.                                              ≥ 90% first-contact      hours.
+                                                                                                     resolution (for
+                                                                                                     applicable tiers).       Chronic
+                                                                                                                              underperformance:
+                                                                                                                              CPARS inputs.
+
+
+
+
+                                                                    Page 5 of 8
+
+=== Page 6 ===
+                                  QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+                            NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                             Enterprise Cloud – Network Operations – Service Management
+
+Performance     Performance Requirement                   Surveillance              Frequency           Acceptable Quality        Procedures to be
+  Element                                                 Method                                        Level (AQL)               taken when
+                                                                                                                                  performance
+                                                                                                                                  standards are not met
+                                   Service Operations/Management & Collaborative Integration (continued)
+Change          Changes are implemented with           Change records     Monthly             Success Rate: 98% of                Failed change:
+Management &    minimal disruption and proper          review,                                implemented changes                 Mandatory post-
+Deployment      authorization.                         CAB meeting                            do not cause a                      implementation review
+Success                                                minutes                                subsequent P1 or P2                 within 3 days.
+                                                                                              incident.
+                                                                                                                                  Trend in failures:
+                                                                                                        Authorization: 100%       Require change
+                                                                                                        of non-emergency          maturity assessment
+                                                                                                        changes possess an        Government approval
+                                                                                                        approved RFC and          required for higher-risk
+                                                                                                        CAB authorization         changes.
+                                                                                                        prior to deployment.
+                                                                                                                                  Unauthorized change:
+                                                                                                        Planning Maturity:        Immediate escalation to
+                                                                                                        10% of all monthly        CO and potential
+                                                                                                        changes are submitted     contract remedy.
+                                                                                                        as Emergency
+                                                                                                        Changes.
+Configuration   Contractor is responsible for             Cloud Environment         Monthly review      Operational Attribute     Failures directly impact
+Management      maintaining the operational accuracy      (e.g., Azure, AWS):       of automated        Accuracy: 95%             the metrics established
+Database        of all Configuration Items (CIs) under                              discrepancy         Accuracy. (95% of the     earlier (FCR and TTR),
+(CMDB)          their control within the CMDB. This       Automated State           reports generated   CIs discovered on the     because an inaccurate
+Accuracy        includes virtual servers, virtual         Verification: The         by ITSM tool        network/cloud have        CMDB causes help
+                devices, applications, and their inter-   Government will           suites.             matching operational      desk routing errors and
+                relationships to enable rapid incident    utilize automated                             attributes in the         delayed
+                resolution and safe and accurate          scripts or tools (e.g.,                       CMDB, such as IP          troubleshooting.
+                change execution..                        via APIs or cloud-                            address, active
+                                                          native tools) to pull                         OS/firmware, and          Tier 1 (First Issue /
+                                                          the current                                   correct Support Group     Minor Miss - e.g., 90-
+                                                          operational state of                          routing assignment).      94% accuracy):
+                                                          deployed cloud
+                                                          resources.                                    O&M Relationship          Action: Documented
+                                                                                                        Mapping: 90%              finding in the monthly
+                                                                                                        Accuracy. (90% of         performance review.
+                                                          Reconciliation                                critical infrastructure
+                                                          Focus: This data is                           CIs correctly show        Requirement:
+                                                          programmatically                              their                     Contractor must update
+                                                          compared against                              upstream/downstream       the inaccurate
+                                                          the enterprise                                operational               operational records
+                                                          CMDB to verify                                dependencies to           within 5 business days
+                                                          that operational                              enable accurate           at no additional cost.
+                                                          attributes (e.g.,                             Incident Impact
+                                                          Hostname, IP                                  Analysis).                Tier 2 (Repeat
+                                                          Address, current                                                        Occurence / Process
+                                                          OS/Image version,                             Change-Driven CI          Failure):
+                                                          operational status                            Updates: 100%
+                                                          [running/stopped],                            Compliance. (When         Action: Issuance of a
+                                                          and assigned                                  the contractor            formal Corrective
+                                                          Support Group)                                executes an approved      Action Request (CAR).
+                                                          match. It also                                Change Request [e.g.,
+                                                          checks for "rogue"                            a software patch or       Requirement:
+                                                          operational                                   VM resize], the           Contractor must deliver
+                                                          instances (systems                            corresponding CI          a formal Plan of Action
+                                                          running in the cloud
+
+                                                                    Page 6 of 8
+
+=== Page 7 ===
+   QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+ Enterprise Cloud – Network Operations – Service Management
+
+                   that have no                must be updated to      and Milestones
+                   operational CI              reflect the new state   (POA&M) detailing
+                   record).                    prior to closing the    why their O&M
+                                               Change ticket).         processes (specifically
+                   Network                                             Change Management)
+                   Environment (On-                                    are failing to update the
+                   Premises, Transport,                                CMDB, and implement
+                   HCI):                                               a process fix within 10
+                                                                       business days.
+                   Network Discovery
+                   Polling: The                                        Tier 3 (Systemic
+                   Government will                                     Failure impacting
+                   rely on outputs from                                Operations):
+                   enterprise network
+                   scanning and                                        Action: Negative past
+                   discovery tools                                     performance evaluation
+                   (e.g., ACAS,                                        (CPARS) entry
+                   SolarWinds,                                         specifically citing
+                   Forescout, or native                                "Failure to maintain
+                   CMDB probes).                                       operational baselines,
+                                                                       resulting in degraded
+                                                                       Incident Management
+                   Reconciliation                                      capabilities."
+                   Focus: The active
+                   scan data is                                        Impact: Documented
+                   compared against                                    failure to maintain the
+                   the CMDB to verify                                  operational CMDB will
+                   the logical presence                                be used as a negative
+                   and operational                                     evaluation factor for
+                   configuration of the                                future Task Order
+                   devices on the                                      awards within the IDIQ
+                   network. This                                       pool.
+                   verifies that if a
+                   device is pingable
+                   and routing traffic,
+                   its corresponding CI
+                   in the CMDB
+                   accurately reflects
+                   its current IP,
+                   firmware level, and
+                   operational state.
+
+
+
+
+                           Page 7 of 8
+
+=== Page 8 ===
+                                  QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
+                            NAVAL NETWORK WARFARE COMMAND (NETWARCOM)
+                             Enterprise Cloud – Network Operations – Service Management
+
+                                                                                                                        Request immediate
+                                                                                                                        corrective action from
+                New contract Instructors who are hired
+                                                                                                                        contractor in
+                prior to mobilization shall complete all
+                                                                                                                        accordance with
+                requirements for certification in the
+                                                                                                                        Quality Assurance Plan
+                lesson topic(s) assigned by the ECS
+                                                                                                                        and/or request
+                Training Officer within the
+                                                                                                                        notification of
+                Mobilization period utilizing the CUIT
+                                                                                                                        extenuating
+                process for the ECS COI.
+                                                                                                                        circumstances, and/or
+CUIT
+                                                           TA Reports/COR                                               COR reporting to
+Requirements    New replacement contract Instructors
+                                                           Assessment        As needed           100% Inspection        Contractor
+PWS Section     brought on post mobilization will be
+                                                                                                                        Performance
+5.2-1           required to complete all requirements
+                                                                                                                        Assessment Reporting
+                for certification in the lesson topic(s)
+                                                                                                                        System (CPARS),
+                assigned by the ECS Training Officer
+                                                                                                                        and/or
+                within 90 days of reporting to the
+                                                                                                                        Reject contractor
+                Detachment and full qualification
+                                                                                                                        invoice and request
+                attained in their assigned phase within
+                                                                                                                        new invoice that
+                9 Months.
+                                                                                                                        reflects decreased level
+                                                                                                                        of services delivered
+
+
+           If performance is within acceptable levels, it will be considered to be satisfactory. If not, overall performance may be
+           considered unsatisfactory.
+
+
+           INCENTIVES/DISINCENTIVES:
+
+           The COR makes an annual report on Contractor Performance (CPARS or other annual report). The Contractor’s
+           failure to achieve satisfactory performance under the contract, reflected in the COR’s annual report, may result in
+           termination of the contract and may also result in the loss of future Government contracts. Additionally, the
+           Contractor’s failure to achieve satisfactory performance under the contract may also result in the non-exercise of
+           available options.
+
+           For each item that does not meet acceptable levels, the Government may issue a Contract Discrepancy Report (CDR).
+           CDRs will be forwarded to the Contracting Officer with a copy sent to the Contractor. The Contractor must reply in
+           writing within 5 days of receipt identifying how future occurrences of the problem will be prevented. Based upon the
+           Contractor’s past performance and plan to solve the problem, the Contracting Officer will determine if any further
+           action will be taken.
+
+
+
+
+                                                                  Page 8 of 8

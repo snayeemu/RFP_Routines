@@ -1,0 +1,213 @@
+REQUEST FOR INFORMATION (RFI)
+Marine Corps Cyberspace Environment (MCCE) Operational Support Services (OSS) and Enterprise Artificial Intelligence (AI) Integration
+Solicitation Number: M67854-26-I-4208
+
+Issuing Agency: Department of the Navy, Marine Corps Systems Command (MARCORSYSCOM)
+Sponsoring Office: Portfolio Acquisition Executive Mission Systems (PAE MS)
+Location: Quantico, VA
+Primary NAICS Code: 541513 – Computer Facilities Management Services (Alternative: 541519 – Other Computer Related Services)
+Release Date: 11 September 2026
+Response Due Date:  at 1:00 P.M. EST
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.0 Disclaimer and Important Notes
+This Request for Information (RFI) is issued solely for information and planning purposes and does not constitute a Request for Proposal (RFP) or a promise to issue an RFP in the future. This request does not commit the Government to contract for any supply or service. Not responding to this RFI does not preclude participation in any future RFP, if any is issued. Vendors should appropriately mark all proprietary information.
+1.1 Non-Commitment & No Cost Disclaimer
+Participation in this market research is entirely voluntary. The Government will not reimburse any costs associated with the development, submission, or presentation of materials in response to this notice. All costs associated with responding are solely at the responding party's expense. A vendor’s response, or lack thereof, will not influence, favor, or prejudice any vendor in any subsequent competitive procurement.
+
+2.0 Purpose and Background
+The Marine Corps Systems Command (MARCORSYSCOM), Portfolio Acquisition Executive Mission Systems (PAE MS), is conducting market research to identify capable, innovative commercial partners to deliver comprehensive, enterprise-scale Information Technology (IT) Operational Support Services (OSS).
+This requirement represents the planned follow-on and evolution of the Marine Corps-specific operational and labor support elements currently performed under a task order issued against the Navy Service Management, Integration, and Transport (SMIT) Indefinite Delivery/Indefinite Quantity (IDIQ) contract.
+2.1 Operating Model
+OSS will operate within a Government-Owned, Government-Operated, Contractor-Supported (GOGOCS) model. The fundamental core of this requirement is a highly skilled, large-scale professional IT support services effort to maintain and defend the Marine Corps Cyberspace Environment (MCCE).
+While providing qualified, certified personnel remains the primary focus, the Government is simultaneously exploring the integration of commercial AI and automation technologies as a critical capability for our selected partner(s) to drive operational efficiencies. Consolidating professional services represents a strategic opportunity to optimize workflows and lower manual touch-labor costs over time by equipping the contractor workforce with advanced automation tools.
+2.2 Acquisition Phasing Strategy
+To align with projected funding profiles, the Government is considering structuring this procurement in a phased manner. Core touch-labor services will be stabilized during the initial base period(s) before pursuing subsequent, optional enterprise AI integrations in later option periods. The results of this RFI will be used to finalize the acquisition approach and select the most capable partner(s) to provide these critical support services.
+
+3.0 Problem Statement and Desired State
+3.1 The Core Problem
+Currently, the operational sustainment and defense of the MCCE relies heavily on a traditional, linearly scaling labor model. The contracted labor force operates directly alongside military and civilian personnel within the Government's secure Impact Level 5 (IL5) and Impact Level 6 (IL6) boundaries, accessing and defending the data and infrastructure of the Marine Corps Enterprise Network (MCEN).
+As the MCEN user base grows and the cyber threat landscape becomes more complex, the volume of IT service tickets, network alerts, and administrative workflows continues to rise. Under a traditional Level of Effort (LOE) labor-only construct, the only way to meet this rising demand is to incrementally add more contractor personnel. This linear approach is financially unsustainable and operationally inefficient.
+
+
+3.2 The Desired State and Constraints
+The Government requires a premier IT support services partner capable of providing the requisite highly skilled, DoD Cyber Workforce Framework (DCWF)-certified cyber personnel, but with a modernized approach to service delivery.
+This is not a software procurement. The Government will not fund or acquire new, third-party software licenses or proprietary IT tools. The onus is entirely on the vendor to deliver a tech-enabled workforce that drives operational efficiencies. The selected partner must achieve this by either:
+Leveraging Corporate Toolsets: Utilizing their own proprietary, internally funded corporate AI and automation tools as a corporate capability of the service provider, at no additional licensing cost to the Government; or
+Optimizing Existing Enterprise Tools: Actively maximizing and configuring existing Government-owned software, systems, and enterprise licenses (e.g., ServiceNow, Microsoft 365) already accredited within the MCEN IL5/IL6 boundaries to automate tasks.
+Ultimately, the Marine Corps seeks a partner whose workforce is equipped to deflect routine tickets and eliminate manual touch-labor—enabling the contractor footprint and overall program cost to decrease over the life of the contract, without introducing new software licensing overhead or non-enterprise technical debt.
+
+4.0 Scope and Objectives
+The primary objective is providing expert, cleared personnel, with the secondary objective of exploring how these personnel can leverage advanced automation as a tool to support the mission:
+Objective 1: Cyber Workforce & Operational Support (Core Requirement): Utilize cleared, certified DCWF professionals to provide comprehensive operational support, including the Enterprise Service Desk, End User Support, Datacenter/Network Operations, Cyberspace Defense, and specialized Engineering services.
+Objective 2: ITIL Framework Implementation: Implement and manage services aligned with the ITIL framework, including Service Strategy, Service Design, Service Transition, Service Operations, and Continual Service Improvement, within the Government's existing IT Service Management (ITSM) platform.
+Objective 3: Strategic AI Integration for Efficiency (Exploratory Capability): Explore the use of secure, enterprise-wide AI capabilities to streamline processes, automate administrative bottlenecks, reduce manual touch-labor, and deliver advanced analytical capabilities (e.g., predictive analytics, machine learning, and data synthesis) across all OSS service areas to benefit the blended joint workforce (contractor, civilian, and military). The core labor force should be paired with modern automation to lower total program costs while operating securely within FedRAMP Authorized (or DoD equivalent), IL5, and IL6 environments.
+Note: All proposed AI and automation tools must be designed to augment, not replace, final Government decision-making authority. The Government will retain all inherently governmental functions and final operational control over the MCCE.
+
+5.0 Capability Statements Required
+Interested respondents must submit a Capability Statement addressing the seven (7) primary evaluation areas detailed below. To facilitate structured evaluation, responses must also map direct answers to the questions below using Attachment 1 - Vendor Comment Matrix.
+Area A: Company Overview & Past Performance
+Corporate Information: Provide a brief overview of your company, including core competencies, CAGE Code, UEI, active GSA/GWAC/MAC contract vehicles, and business size/socioeconomic status under NAICS 541513.
+Past Performance References: Provide two (2) references for similar commercial or federal deployments focused on performing large-scale IT support services. Include case studies highlighting project scope, challenges, and quantitative outcomes (e.g., cost savings, MTTR reduction, personnel optimization through technology).
+Area B: AI Capabilities, Commercial Model & Intellectual Property (IP)
+AI Solution & Ticket Deflection Metrics: Describe the commercial or internally-developed AI/automation tools your workforce leverages and how they map to the technical objectives in Section 4.0. Specifically:
+What is your proven ticket deflection and resolution rate across support tiers (e.g., Tier 1 self-service/automated resolution vs. Tier 2/Tier 3 automated remediation and incident isolation) in DoD, federal, or large enterprise environments?
+How does your solution distinguish between simple deflection (e.g., self-service knowledge routing) and end-to-end automated remediation (e.g., automated script execution, configuration fixes)?
+Scale Context: The "As-Is" environment consists of approximately 170,000 NIPR and 25,000 SIPR users. The "To-Be" MCCE environment is projected to scale to approximately 250,000 NIPR and 35,000 SIPR users. Please describe the total user count, ticket volume scale, and incident complexity of your past performance references in relation to this environment.
+COTS vs. Custom Development: Are the automation tools your personnel use standard Commercial-Off-The-Shelf (COTS) products, or do they require custom development? Detail typical implementation timelines.
+Expanded Automation Capabilities: Beyond standard IT service desk tasks, what other administrative "touch-labor" areas (e.g., HR routing, finance workflows) can your workforce automate across the enterprise to drive down manual labor support hours?
+General AI Capabilities: Describe your platform's general AI capabilities (e.g., predictive analytics, machine learning for anomaly detection, natural language processing). How can your proposed personnel leverage these capabilities to support the broader MCCE mission beyond standard ITSM functions?
+Software Licensing & Cost Controls: Detail your recommended licensing model for any proposed tools (e.g., consumption-based, enterprise-wide flat-rate, or per-seat active users). Explain how your proposed model prevents the Government from paying for unused licenses ("shelfware") and how the licensing costs scale in proportion to actual automated ticket deflection and touch-labor reduction.
+Intellectual Property & Data Rights: If an AI solution is brought in and managed by your firm to support your personnel, how should the IP strategy be structured? Specifically, how should the contract address rights for data curation, fine-tuning, and model weights trained on Marine Corps data while protecting your commercial proprietary algorithms?
+Cost & Pricing Data: Provide a non-binding Rough Order of Magnitude (ROM) estimate for a typical enterprise deployment of your labor and technology solution. Break down your ROM into the following cost components across a 5-year ordering period:
+Labor (Core OSS Personnel)
+Implementation & Integration (Technology/AI)
+Platform Licensing/Subscription
+Variable/Consumption Costs
+Operations & Maintenance (O&M)
+Consumption Cost Controls: Regarding your pricing model, explain how you handle variable consumption costs. What mechanisms do you offer for the Government to monitor, cap, or forecast these costs to ensure budget predictability?
+Break-Even Model: Describe your predictive "break-even" model: at what point in the contract lifecycle (in months) would the Government's investment in your proposed automation tools be fully offset by hard cost savings from reduced manual labor requirements?
+AI Performance SLAs: How do you propose measuring the accuracy and reliability of the AI tools used by your staff? Provide examples of specific Service Level Agreements (SLAs) you would recommend to measure AI "hallucination" rates, automated resolution success, and the seamless hand-off from the AI to a human agent.
+Live Demonstration / Prototype Capability: Describe your ability to provide a prototype of your proposed AI solution, operating in a secure, sandboxed environment, to demonstrate its core capabilities (e.g., ticket deflection, RAG accuracy) during a down-select process.
+Transition & De-provisioning Costs: How does your architecture ensure that Marine Corps data, fine-tuning configurations, and historical transaction logs can be seamlessly migrated to a successor platform without incurring proprietary licensing or exit fees?
+Area C: AI Technical Architecture & Security
+Data Readiness & Curation: Our knowledge repositories may be outdated or contain conflicting information. Describe your methodology for assessing "data readiness" and your approach to initial data cleansing, curation, and ongoing knowledge base maintenance.
+IL5 & IL6 ATO Approach: Describe your approach to implementing AI/ML, Generative AI, or automated reasoning architectures within DoD IL5 and IL6 equivalent boundaries. How do you technically ensure CUI isolation, prevent data leakage for model training, and accelerate the Authority to Operate (ATO) process?
+Data Sovereignty & CONUS Operations: How do you ensure data sovereignty and technically prevent the use of Government data for training your commercial foundational models?
+Adversarial AI Defense: How does your platform specifically defend against adversarial AI attacks, such as prompt injection, data poisoning, or model evasion?
+Technical Scalability: Describe the technical scalability and elasticity of your AI platform. How does your architecture handle usage spikes and high levels of concurrent users without performance degradation? What are the platform's technical limits?
+Architectural Interoperability: Is your solution architected around proprietary, closed-source models, or does it utilize an open, API-first, modular design? Explain how your platform allows the Government to swap underlying foundational models in the future.
+Integration with Existing Enterprise Tools: Describe your approach to integrating your solution with existing Government-Owned platforms (e.g., ServiceNow, M365). Confirm that your solution acts as an overlay/service leveraging these platforms rather than requiring separate infrastructure.
+Prevention of Non-Enterprise Technical Debt: Detail any unique, third-party, or non-enterprise software components your solution requires, and provide a technical justification for why existing Navy/DoD enterprise tools cannot be leveraged instead.
+Area D: Staffing, Performance Metrics, & Incentives
+Defining & Measuring a "Quality Hour": In a cyber workforce labor staffing model, traditional LOE structures define success by "bodies in seats." How does industry define and measure a "quality hour" of professional cybersecurity/IT operational service? How can the Government objectively measure service quality, output, and success rather than mere attendance?
+Performance Metrics & Tracking Tools: What tools or frameworks does industry recommend using to capture, evaluate, and report real-time contractor labor performance? What and how should Service Level Requirements (SLRs) be linked to contractor performance to ensure long-term accountability?
+Incentivizing Early Automation: In a scenario where a large upfront AI investment is not possible during the initial periods of performance, how can the Government structure performance incentives to reward your firm for organically reducing touch-labor?
+Incentivizing Use of Existing Enterprise Tools: How can the Government structure contract incentives (e.g., share-in-savings, award fees, or performance bonuses) that reward your firm for maximizing the use of existing Government-owned enterprise tools to automate tasks, rather than deploying new, contractor-owned tools?
+Workforce Optimization & Labor Realignment: As routine manual tasks and tier-level workflows are automated, describe your management approach for realigning the contractor workforce to support higher-value, in-scope mission requirements (e.g., advanced cybersecurity operations, predictive maintenance, and complex systems integration). Specifically: How does your firm ensure contractor personnel maintain the continuous skill sets and required DoD Cyber Workforce Framework (DCWF) qualifications necessary to perform higher-tier tasks throughout the contract life cycle? What is your proposed model for shifting labor mix ratios over time (e.g., reducing routine transactional support FTEs while realigning effort toward advanced engineering/cyber requirements) without increasing total program cost?
+Organizational Change Management (OCM) & Joint Workforce Readiness: The MCCE is operated by a blended joint workforce of contractors, Government civilians, and active-duty Marines. If your firm introduces automation tools that fundamentally change operational workflows, how do you propose managing OCM, training, and driving adoption among Government and military personnel?
+Structural Labor Cost Reduction Strategy: Operating within our GOGOCS model, how does your firm propose to structurally and progressively reduce the total contractor labor footprint and overall program cost over the five-year contract performance period? Describe the specific methodologies, transition frameworks, and automation technologies your personnel will bring to systematically shift operations from high-density, manual touch-labor to optimized, tech-enabled support.
+Contractor-Provided vs. Government-Owned Tooling: To achieve these labor cost reductions, what specific software, automation tools, or AI platforms does your firm recommend bringing to the environment, and how do they integrate with existing Navy/DoD enterprise tools? Please clarify if your strategy relies on the deployment of proprietary contractor-owned software licenses or if your personnel can achieve these efficiencies utilizing existing Government-furnished software and capabilities.
+Gain-Sharing and Financial Alignment: Under a traditional LOE or Labor Hour contract, vendor revenue decreases as touch-labor headcount is reduced, creating a natural disincentive for contractor-driven automation. What alternative commercial pricing structures, gain-sharing models (e.g., share-in-savings), or value-engineering incentive clauses does industry recommend to align your firm’s financial profitability with the Marine Corps’ goal of reducing overall labor costs?
+Area E: Transition, Continuity of Operations (COOP), & Unplanned Contingencies
+Transition Risk Mitigation: What are the most significant risks you foresee in transitioning these high-consequence operational cyber services and personnel from an incumbent, and how would your transition plan mitigate them? What transition deliverables (e.g., Transition CDRL) and stakeholder workshops (e.g., Post-Award Kick-Off Workshop) are critical to success?
+COOP in Hazardous Environments: Cyber operations must remain continuous. How does your firm ensure operational continuity and maintain labor service delivery during in-extremis scenarios, hazardous environments, inclement weather, or wartime conditions? How do you identify and prepare "mission-essential" contractor personnel for high-stress operational cyber support?
+Unplanned Contingencies & Wartime Clauses: How should the Government prepare for unplanned contingencies or emergency operational personnel surges? What are industry’s recommendations for structuring flexible Contract Line Item Numbers (CLINs) (e.g., "break-glass" emergency surge CLINs) or wartime clauses to prevent excusable delays and maintain mission continuity?
+Infrastructure Boundaries: How should the contract define the boundary of contractor responsibility to ensure you are not financially penalized for labor performance failures caused by Government-owned infrastructure bottlenecks or legacy system limitations?
+Area F: DCWF Strict Compliance & Talent Supply Chain
+Zero-Day Certification Compliance: Under DoDM 8140.03, defense contractors cannot obtain the temporary operational or personnel certification "grace period" waivers available to federal civilians and military service members. Contracted support personnel must be fully, foundationally qualified (holding all required DCWF certifications) on day one. How does your firm guarantee that 100% of proposed and onboarded personnel are compliant with their designated DCWF Work Role codes from their first billable hour? If 100% Day One compliance drives significant cost premiums, what alternative phased-onboarding or risk-mitigation strategies does industry recommend while remaining compliant with DoDM 8140.03?
+Talent Bench Management: Describe your firm's methodology for establishing, maintaining, and managing a pre-vetted, highly qualified bench of cleared, DCWF-qualified personnel to prevent staffing shortages.
+DCWF Work Role Mapping: Describe your corporate process for mapping employees' skills and qualifications to the specific Work Role codes within the DCWF. What is your internal quality control process to ensure the accuracy of your mapping?
+Onboarding Acceleration: What are the primary drivers of onboarding delays from your perspective (e.g., CAC issuance, SAAR processing)? What innovative solutions or process improvements would you propose to accelerate onboarding of your labor force?
+Area G: Contracting Structure & Alternative Acquisition Strategies
+Optimal Contract Type: What contract type (e.g., Labor Hour with performance incentives, Firm-Fixed-Price, hybrid, or another type) does industry believe is best suited for this requirement to achieve both stable IT labor support and incentivized efficiencies? Please address how this contract type balances risk and performance.
+FAR Part 12 Commerciality: To what extent does your proposed solution (including both the AI platform and labor services) align with the definition of a “commercial service” under FAR 2.101, making it suitable for a FAR Part 12 acquisition?
+GSA Schedule / FAR Part 8 Availability: Is your proposed solution currently available on a GSA Federal Supply Schedule (FSS) or other pre-competed contract vehicle that could be used under FAR Part 8? If so, please provide the contract number.
+Alternative Vehicle Pivot Strategy: How would your firm's pricing, teaming arrangements, and overall strategy change if the Government were to pivot between various FAR-based or non-FAR based procurement strategies? Please describe your general pivot strategy.
+Prototype/Pilot Phase Structure: How would you propose structuring a paid or unpaid prototype/pilot phase under a future acquisition to allow the Government to assess your AI solution's real-world performance before committing to a full-scale enterprise deployment?
+Small Business Subcontracting Strategy: If you are a large business, describe your strategy for subcontracting with small businesses for labor support on a requirement of this scale. What functions or service areas are most suitable for small business partners?
+Small Business Participation: Regardless of your company's size, how could the Government structure or segment this labor requirement to increase opportunities for small businesses to participate meaningfully?
+Acquisition Lessons Learned: Based on your experience with similar federal requirements, what acquisition strategies or contract structures have you seen work well, and which have been problematic? Please provide specific (non-proprietary) examples or lessons learned.
+Standard Commercial Terms: Beyond your own model, what are the standard commercial terms, conditions, and performance metrics for services of this type? What are the typical CLINs and contract types used in the commercial sector for similar efforts?
+Commercial Warranties: What are the customary commercial warranties for the AI platform and the professional services components of your proposed solution?
+Phased Budgeting and Service Evolution: The Government anticipates that funding for large-scale AI modernization tools may not be available until later option periods of performance. Describe how you would structure a contract that begins with a baseline level of pure labor service for the initial phases before scaling into advanced technologies.
+
+6.0 Submission Instructions
+6.1 Format & Page Limitations
+Page Limit: The response should be divided into two sections:
+Section I - Capabilities Narrative: Shall not exceed five (5) pages. This includes text, tables, and graphics. Covers Company Overview, Past Performance, and general operational strategy.
+Section II - Attachment 1 (Vendor Comment Matrix): No page limit. Respondents must use the matrix to provide precise, direct answers to the 51 detailed questions listed under Section 5.0 (Areas A through G).
+Formatting: 12-point Times New Roman or Arial font, 1-inch margins, PDF format.
+6.2 Questions and Answers
+Questions regarding this RFI shall be submitted no later than [Thursday, 17 September 2026, 3:00 PM EST]. Vendors shall submit questions using Attachment 2 – Industry QA Matrix. Verbal questions will NOT be accepted. Questions should NOT contain proprietary or classified information. The completed Attachment 2 – Industry QA Matrix shall be emailed to the Primary Contracting Point of Contact listed in Section 6.4, with the subject line below.
+Subject Line Format: M67854-26-I-4208 MCCE OSS RFI Questions-[Vendor Name]
+6.3 Submission Content
+Each submission must include:
+Cover Page:
+Notice Number: M67854-26-I-4208
+Project Name: Marine Corps Cyberspace Environment (MCCE) Operational Support Services (OSS) and Enterprise Artificial Intelligence (AI) Integration
+Company Name, Address, CAGE Code, and UEI
+Point of Contact (Name, Title, Phone, and Email)
+Business Size and Socioeconomic Status (e.g., Large Business, 8(a), WOSB, SDVOSB)
+Capabilities Narrative (Section I)
+Completed Vendor Comment Matrix (Section II)
+6.4 Contact Information & Submission Delivery
+All questions regarding this notice and finalized response packages must be submitted electronically via email to the Primary Contracting Point of Contact listed below.
+Primary Point of Contact:
+Deborah O. Pickeral, Branch Head, PEO Digital, PAE-MS
+Deborah.Pickeral@usmc.mil
+Subject Line Format: M67854-26-I-4208 MCCE OSS RFI Response-[Vendor Name]
+NOTE: Telephone inquiries will not be accepted. All questions and submissions must be routed via email. 
+All responses must be received no later than [,1:00 PM EST]. Late submissions may not be reviewed.
+
+
+
+
+
+Appendix A: Acronyms and Abbreviations
+
+
+Acronym | Definition
+AI | Artificial Intelligence
+API | Application Programming Interface
+AQL | Acceptable Quality Level
+ATO | Authority to Operate
+CAC | Common Access Card
+CAGE | Commercial and Government Entity
+CDRL | Contract Data Requirements List
+CLIN | Contract Line Item Number
+COOP | Continuity of Operations
+CPARS | Contractor Performance Assessment Reporting System
+CUI | Controlled Unclassified Information
+CWF | Cyber Workforce
+DCWF | DoD Cyber Workforce Framework
+FFP | Firm-Fixed-Price
+FSS | Federal Supply Schedule
+GOGOCS | Government Owned, Government Operated, Contractor Supported
+GSA | General Services Administration
+GWAC | Government-Wide Acquisition Contract
+IDIQ | Indefinite Delivery/Indefinite Quantity
+IL5 | Impact Level 5
+IL6 | Impact Level 6
+IP | Intellectual Property
+ITIL | Information Technology Infrastructure Library
+ITSM | IT Service Management
+LCAT | Labor Category
+MAC | Multiple Award Contract
+MCCE | Marine Corps Cyberspace Environment
+MCEN | Marine Corps Enterprise Network
+ML | Machine Learning
+MTTR | Mean Time to Resolution
+NIPR | Non-Classified Internet Protocol Router
+O&M | Operations & Maintenance
+OCM | Organizational Change Management
+ODC | Other Direct Costs
+OSS | Operational Support Services
+OTA | Other Transaction Authority
+PAE MS | Portfolio Acquisition Executive Mission Systems
+PEO | Program Executive Office
+PMO | Program Management Office
+PWS | Performance Work Statement
+RAG | Retrieval-Augmented Generation
+RFI | Request for Information
+RFP | Request for Proposal
+ROM | Rough Order of Magnitude
+SAAR | System Authorization Access Request
+SIPR | Secret Internet Protocol Router
+SLA | Service Level Agreement
+SLR | Service Level Requirement
+SME | Subject Matter Expert
+SMIT | Service Management, Integration, and Transport
+SOP | Standard Operating Procedure
+UEI | Unique Entity Identifier

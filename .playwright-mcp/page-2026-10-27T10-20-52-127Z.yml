@@ -1,0 +1,422 @@
+- generic [ref=f4e1]:
+  - iframe [aria-hidden] [ref=f4e2]
+  - iframe
+  - generic [ref=f4e10]:
+    - generic [ref=f4e12]:
+      - generic [ref=f4e13]:
+        - link "Skip to content" [ref=f4e14] [cursor=pointer]:
+          - /url: ""
+        - link "Using Inovi Mail with screen readers" [ref=f4e15] [cursor=pointer]:
+          - /url: ""
+      - heading [level=1] [ref=f4e17]:
+        - banner [ref=f4e18]:
+          - generic [ref=f4e19]:
+            - generic [ref=f4e20]:
+              - button "Main menu" [expanded] [ref=f4e21] [cursor=pointer]
+              - link "Gmail" [ref=f4e26] [cursor=pointer]:
+                - /url: "#inbox"
+            - generic [ref=f4e28]:
+              - search "Search mail" [ref=f4e30]:
+                - heading "Search mail" [level=2] [ref=f4e31]
+                - table [ref=f4e33]:
+                  - rowgroup [ref=f4e34]:
+                    - row [ref=f4e35]:
+                      - cell [ref=f4e36]:
+                        - textbox "Ask Gmail" [ref=f4e37]
+                - button "Advanced search options" [ref=f4e38] [cursor=pointer]
+                - button "Search mail" [disabled] [ref=f4e41] [cursor=pointer]
+              - generic [ref=f4e44]:
+                - 'button "Status: Active, In a meeting" [ref=f4e45] [cursor=pointer]'
+                - button "Support" [ref=f4e55] [cursor=pointer]
+                - button "Settings" [ref=f4e60] [cursor=pointer]
+                - button "Studio" [ref=f4e65] [cursor=pointer]
+                - generic [ref=f4e68]:
+                  - generic:
+                    - button "Ask Gemini" [ref=f4e75] [cursor=pointer]
+                    - tooltip [aria-hidden] [ref=f4e78]: Ask Gemini
+            - generic [ref=f4e80]:
+              - button "Google apps" [ref=f4e84] [cursor=pointer]
+              - 'button "Google Account: Nayeem (nayeem@inovisolutions.com)" [ref=f4e88] [cursor=pointer]':
+                - 'button "Google Account: Nayeem (nayeem@inovisolutions.com)" [ref=f4e93]'
+      - alert [ref=f4e98]
+    - generic [ref=f4e101]:
+      - navigation [ref=f4e102]:
+        - generic [ref=f4e103]:
+          - link "Mail, 1418 unread messages" [ref=f4e104] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e106]: 99+
+          - heading "Mail" [level=2] [ref=f4e107] [cursor=pointer]
+        - generic [ref=f4e108]:
+          - link "Chat, 1 unread message" [ref=f4e109] [cursor=pointer]:
+            - button [ref=f4e111]:
+              - generic [aria-hidden] [ref=f4e112]: "1"
+          - heading "Chat" [level=2] [ref=f4e113] [cursor=pointer]
+        - generic [ref=f4e114]:
+          - link "Meet" [ref=f4e115] [cursor=pointer]
+          - heading "Meet" [level=2] [ref=f4e116] [cursor=pointer]
+      - generic [ref=f4e118]:
+        - button "Compose" [ref=f4e121] [cursor=pointer]
+        - generic [ref=f4e126]:
+          - generic [ref=f4e128]:
+            - heading "Labels" [level=2] [ref=f4e129]
+            - generic [ref=f4e130]:
+              - generic [ref=f4e131]:
+                - generic [ref=f4e133]:
+                  - generic [ref=f4e138]:
+                    - link "Inbox 1418 unread" [ref=f4e140] [cursor=pointer]:
+                      - /url: https://mail.google.com/mail/u/0/#inbox
+                      - text: Inbox
+                    - generic [ref=f4e141]: 1,418
+                  - link "Starred" [ref=f4e148] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#starred
+                  - link "Snoozed" [ref=f4e155] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#snoozed
+                  - link "Important" [ref=f4e162] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#imp
+                  - link "Sent" [ref=f4e169] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#sent
+                  - generic [ref=f4e174]:
+                    - link "Drafts 2 unread" [ref=f4e176] [cursor=pointer]:
+                      - /url: https://mail.google.com/mail/u/0/#drafts
+                      - text: Drafts
+                    - generic [ref=f4e177]: "2"
+                - generic [ref=f4e179]:
+                  - generic [ref=f4e182]:
+                    - 'link "Collapse label: Categories" [ref=f4e183] [cursor=pointer]'
+                    - link "Categories expanded" [ref=f4e187] [cursor=pointer]:
+                      - /url: https://mail.google.com/mail/u/0/
+                      - text: Categories
+                  - generic [ref=f4e192]:
+                    - link "Purchases 3 unread has menu" [ref=f4e194] [cursor=pointer]:
+                      - /url: https://mail.google.com/mail/u/0/#category/purchases
+                      - text: Purchases
+                    - generic [ref=f4e195]: "3"
+              - button "More labels" [ref=f4e197] [cursor=pointer]:
+                - generic [ref=f4e198]: More
+          - generic [ref=f4e201]:
+            - heading "Labels" [ref=f4e202]
+            - button "Create new label" [ref=f4e203] [cursor=pointer]
+          - generic [ref=f4e205]:
+            - heading "Labels" [level=2] [ref=f4e206]
+            - generic [ref=f4e207]:
+              - generic [ref=f4e210]:
+                - link "[Imap]/Drafts has menu" [ref=f4e217] [cursor=pointer]:
+                  - /url: https://mail.google.com/mail/u/0/#label/%5BImap%5D/Drafts
+                  - text: "[Imap]/Drafts"
+                - link "Related to Salesforce has menu" [ref=f4e224] [cursor=pointer]:
+                  - /url: https://mail.google.com/mail/u/0/#label/Related+to+Salesforce
+                  - text: Related to Salesforce
+              - button "More labels" [ref=f4e226] [cursor=pointer]:
+                - generic [ref=f4e227]: More
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - iframe
+      - generic [ref=f4e234]:
+        - generic [ref=f4e236]:
+          - generic [ref=f4e238]:
+            - button "Back to Inbox" [ref=f4e240] [cursor=pointer]
+            - generic [ref=f4e243]:
+              - button "Archive" [ref=f4e244] [cursor=pointer]
+              - button "Report spam" [ref=f4e247] [cursor=pointer]
+              - button "Delete" [ref=f4e250] [cursor=pointer]
+            - generic [ref=f4e253]:
+              - button "Mark as unread" [ref=f4e254] [cursor=pointer]
+              - button "Snooze" [ref=f4e259] [cursor=pointer]
+              - button "Add to Tasks" [ref=f4e262] [cursor=pointer]
+            - generic [ref=f4e265]:
+              - button "Move to" [ref=f4e266] [cursor=pointer]
+              - button "Labels" [ref=f4e269] [cursor=pointer]
+              - button "Automate" [ref=f4e272] [cursor=pointer]
+            - button "More email options" [ref=f4e277] [cursor=pointer]
+          - generic [ref=f4e280]:
+            - generic [ref=f4e282]:
+              - generic [ref=f4e283]: 3 of 2,082
+              - button "Newer" [ref=f4e284] [cursor=pointer]
+              - button "Older" [ref=f4e285] [cursor=pointer]
+            - generic [ref=f4e289]:
+              - button "Input tools on/off (Ctrl-Shift-K)" [ref=f4e290] [cursor=pointer]
+              - button "Select input tool" [ref=f4e292] [cursor=pointer]
+        - main [ref=f4e298]:
+          - generic [ref=f4e300]:
+            - generic [ref=f4e302]:
+              - generic [ref=f4e304]:
+                - generic [ref=f4e305]:
+                  - button "Print all" [ref=f4e306] [cursor=pointer]
+                  - tooltip [aria-hidden] [ref=f4e312]: Print all
+                - generic [ref=f4e313]:
+                  - button "In new window" [ref=f4e314] [cursor=pointer]
+                  - tooltip [aria-hidden] [ref=f4e320]: In new window
+              - generic [ref=f4e322]:
+                - 'heading "Fwd: mybidmatch.com for October 23, 2026 [14007.230196]" [level=2] [ref=f4e323]'
+                - generic [ref=f4e325] [cursor=pointer]:
+                  - generic [ref=f4e326]:
+                    - button "Search for all messages with label Inbox" [ref=f4e328]: Inbox
+                    - tooltip [aria-hidden] [ref=f4e329]: Search for all messages with label Inbox
+                  - generic [ref=f4e330]:
+                    - button "Remove label Inbox from this conversation" [ref=f4e332]: ×
+                    - tooltip [aria-hidden] [ref=f4e333]: Remove label Inbox from this conversation
+            - generic [ref=f4e335]:
+              - generic [ref=f4e337]:
+                - generic [ref=f4e338]:
+                  - button "AI Overview" [expanded] [ref=f4e339] [cursor=pointer]
+                  - list [ref=f4e355]:
+                    - listitem [ref=f4e356]:
+                      - text: 11 new bid opportunities available on
+                      - link "MyBidmatch" [ref=f4e357] [cursor=pointer]:
+                        - /url: https://www.google.com/url?source=gmail&sa=D&ust=1793180781569879&q=https://mybidmatch.outreachsystems.com/go%3Fsub%3D997FA735-B1CB-4747-8A7D-58069FD54198&usg=AOvVaw1Sc-Cn9UnEwpZk9ibcb49O
+                      - text: for Oct 23, 2026.
+                - generic [ref=f4e358]:
+                  - generic [ref=f4e359]:
+                    - text: By Gemini; there may be mistakes.
+                    - link "Learn more" [ref=f4e360] [cursor=pointer]:
+                      - /url: https://support.google.com/mail?p=gemini-summary-card&hl=en
+                  - generic [ref=f4e361]:
+                    - generic [ref=f4e362]:
+                      - button "Good suggestion" [ref=f4e363] [cursor=pointer]
+                      - tooltip [aria-hidden] [ref=f4e373]: Good suggestion
+                    - generic [ref=f4e374]:
+                      - button "Bad suggestion" [ref=f4e375] [cursor=pointer]
+                      - tooltip [aria-hidden] [ref=f4e385]: Bad suggestion
+                    - generic [ref=f4e386]:
+                      - button "Report abuse" [ref=f4e387] [cursor=pointer]
+                      - tooltip [aria-hidden] [ref=f4e397]: Report abuse
+              - list [ref=f4e398]:
+                - listitem [ref=f4e399]:
+                  - generic [ref=f4e404]:
+                    - generic [ref=f4e410]:
+                      - table [ref=f4e412]:
+                        - rowgroup [ref=f4e413]:
+                          - row [ref=f4e596]:
+                            - cell [ref=f4e415]:
+                              - table [ref=f4e416]:
+                                - rowgroup [ref=f4e417]:
+                                  - row [ref=f4e418]:
+                                    - cell [ref=f4e419]:
+                                      - heading [level=3] [ref=f4e420]:
+                                        - gridcell "Alimul Sarker" [ref=f4e421]
+                                      - heading [level=3]
+                            - cell [ref=f4e597]:
+                              - generic [ref=f4e424]:
+                                - gridcell "3:41 PM (39 minutes ago)" [ref=f4e598]
+                                - checkbox "Not starred" [ref=f4e427] [cursor=pointer]
+                            - cell
+                            - cell [ref=f4e429]:
+                              - generic [ref=f4e431]:
+                                - button "Add reaction" [ref=f4e432] [cursor=pointer]
+                                - tooltip [aria-hidden] [ref=f4e438]: Add reaction
+                              - generic [ref=f4e439]:
+                                - button "Reply" [ref=f4e440] [cursor=pointer]
+                                - tooltip [aria-hidden] [ref=f4e446]: Reply
+                              - generic [ref=f4e449]:
+                                - button "More message options" [ref=f4e450] [cursor=pointer]
+                                - tooltip [aria-hidden] [ref=f4e455]: More
+                          - row [ref=f4e456]:
+                            - cell [ref=f4e457]:
+                              - table [ref=f4e458]:
+                                - rowgroup [ref=f4e459]:
+                                  - row [ref=f4e460]:
+                                    - cell "to me Show details" [ref=f4e461]:
+                                      - generic [ref=f4e462]: to me
+                                      - button "Show details" [ref=f4e464]
+                      - generic [ref=f4e469]:
+                        - generic [ref=f4e473]:
+                          - paragraph [ref=f4e474]: Best regards,
+                          - paragraph [ref=f4e475]:
+                            - text: Alimul SarkerGovernment Contracts & Proposal Specialist
+                            - link "alimul@inovisolutions.com" [ref=f4e476] [cursor=pointer]:
+                              - /url: mailto:alimul@inovisolutions.com
+                          - paragraph [ref=f4e477]
+                          - generic [ref=f4e481]:
+                            - paragraph [ref=f4e482]: Inovi Solutions
+                            - link "www.inovisolutions.com" [ref=f4e483] [cursor=pointer]:
+                              - /url: http://www.inovisolutions.com/
+                        - generic [ref=f4e485]:
+                          - generic [ref=f4e486]:
+                            - text: "---------- Forwarded message ---------From:"
+                            - strong [ref=f4e487]: UTA Cross Timbers APEX Accelerator
+                            - generic [ref=f4e488]:
+                              - text: <
+                              - link "noreply@mybidmatch.com" [ref=f4e489] [cursor=pointer]:
+                                - /url: mailto:noreply@mybidmatch.com
+                              - text: ">"
+                            - text: "Date: Sat, Oct 24, 2026 at 3:09 AMSubject:"
+                            - link "mybidmatch.com" [ref=f4e490] [cursor=pointer]:
+                              - /url: http://mybidmatch.com
+                            - text: "for October 23, 2026 [14007.230196]To: <"
+                            - link "faiz@inovisolutions.com" [ref=f4e491] [cursor=pointer]:
+                              - /url: mailto:faiz@inovisolutions.com
+                            - text: ">, <"
+                            - link "alimul@inovisolutions.com" [ref=f4e492] [cursor=pointer]:
+                              - /url: mailto:alimul@inovisolutions.com
+                            - text: ">, <"
+                            - link "sabur@inovisolutions.com" [ref=f4e493] [cursor=pointer]:
+                              - /url: mailto:sabur@inovisolutions.com
+                            - text: ">"
+                          - generic [ref=f4e494]:
+                            - text: Dear Bid Match Customer,
+                            - paragraph [ref=f4e495]:
+                              - text: There are 11 new articles available for you on your personal
+                              - link "MyBidmatch" [ref=f4e496] [cursor=pointer]:
+                                - /url: https://mybidmatch.outreachsystems.com/go?sub=997FA735-B1CB-4747-8A7D-58069FD54198
+                              - text: Web site where you can view the bid opportunities and/or informational articles for
+                              - link "October 23, 2026" [ref=f4e497] [cursor=pointer]:
+                                - /url: https://mybidmatch.outreachsystems.com/go?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252
+                              - text: . You will receive an email notification each time new articles are posted to your personal Web site. You can also bookmark this page and return to it periodically to check for new articles. The notices will remain on the system for 30 days, after which time they will be purged. If you wish to save these articles please select File/Save As from your browser's menu.
+                          - text: Click this link
+                          - link "MyBidmatch" [ref=f4e498] [cursor=pointer]:
+                            - /url: https://mybidmatch.outreachsystems.com/go?sub=997FA735-B1CB-4747-8A7D-58069FD54198
+                          - text: "for your directory of output.The titles of the articles are listed below:"
+                          - list [ref=f4e499]:
+                            - listitem [ref=f4e500]: D -- Enterprise Cloud Support Services (DEPT OF DEFENSE)
+                            - listitem [ref=f4e501]: D -- MATLAB Software Subscription Renewal (DEPT OF DEFENSE)
+                            - listitem [ref=f4e502]: D -- Marine Corps Cyberspace Environment (MCCE) Operational Support Services (OSS) and Enterprise Artificial Intelligence (AI) Integration (DEPT OF DEFENSE)
+                            - listitem [ref=f4e503]: D -- Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development (DEPT OF DEFENSE)
+                            - listitem [ref=f4e504]: D -- DHS Network Operations Security Center (NOSC) Network, Cloud, and Cyber Services (NCCS) 2.0 (HOMELAND SECURITY)
+                            - listitem [ref=f4e505]: D -- Enterprise IT Support Services J&A (DEPT OF DEFENSE)
+                            - listitem [ref=f4e506]: D - (RFI) Enterprise Artificial Intelligence (AI) Platform Solutions (New Hampshire - Community College System of New Hampshire )
+                            - listitem [ref=f4e507]: D - AI-BASED ROADWAY AND MUNICIPAL ASSET CONDITION ASSESSMENT SOFTWARE SERVICES (New Jersey - New Jersey Purchasing Group )
+                            - listitem [ref=f4e508]: D - End User Computing (EUC) Services (Virginia - VBO/eVA-Virginia Business Opportunities )
+                            - listitem [ref=f4e509]: D - 2026 Retainer Contract Opportunity for Information Technology (I (Vermont - Department of Buildings and General Services )
+                            - listitem [ref=f4e510]: C -- Cloud Security Engineering Support for FedRAMP 20x Package Review (GSA Acquistion Gateway Forecasts )
+                            - listitem [ref=f4e511]:
+                              - text: Click this link
+                              - link "Mybidmatch" [active] [ref=f4e512] [cursor=pointer]:
+                                - /url: https://mybidmatch.outreachsystems.com/go?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252
+                              - text: to view all articles.
+                          - paragraph [ref=f4e514]:
+                            - text: "The government contract opportunities enclosed with this email are provided to you by the UTA Cross Timbers APEX Accelerator. This service is provided to our clients as part of government contracting assistance services. This contract opportunity notice is based upon your product/service profile. If you wish to revise your product/service profile or have questions concerning this contract opportunity, please contact the UTA Cross Timbers APEX Accelerator at: Tel:"
+                            - link "(817) 272-6000" [ref=f4e515] [cursor=pointer]:
+                              - /url: tel:(817)%20272-6000
+                    - toolbar "Suggested replies" [ref=f4e522]:
+                      - button "Suggested reply, Thank you!" [ref=f4e525] [cursor=pointer]:
+                        - generic [ref=f4e527]: Thank you!
+                      - button "Suggested reply, What is this?" [ref=f4e530] [cursor=pointer]:
+                        - generic [ref=f4e532]: What is this?
+                      - button "Suggested reply, Haha, thanks!" [ref=f4e535] [cursor=pointer]:
+                        - generic [ref=f4e537]: Haha, thanks!
+            - generic [ref=f4e543]:
+              - link "Reply" [ref=f4e544] [cursor=pointer]
+              - link "Forward" [ref=f4e545] [cursor=pointer]
+              - generic [ref=f4e547]:
+                - button "Add reaction" [ref=f4e548] [cursor=pointer]
+                - tooltip [aria-hidden] [ref=f4e554]: Add reaction
+              - link "Share in chat" [ref=f4e555] [cursor=pointer]
+      - generic [ref=f4e558]:
+        - tabpanel "Calendar" [ref=f4e564]:
+          - iframe [ref=f4e567]:
+            - main [ref=f17e2]:
+              - generic [ref=f17e3]:
+                - generic [ref=f17e4]:
+                  - heading "Calendar Tuesday, October 27, 2026" [level=2] [ref=f17e5]:
+                    - generic [ref=f17e6]: Calendar
+                    - button "Tuesday, October 27, 2026" [ref=f17e10] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f17e12]: Tue, Oct 27
+                      - generic [aria-hidden] [ref=f17e14]: arrow_drop_down
+                  - generic [ref=f17e15]:
+                    - generic [ref=f17e17]:
+                      - generic [ref=f17e18] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f17e20]: open_in_new
+                        - link "Open in new tab" [ref=f17e21]:
+                          - /url: https://calendar.google.com/calendar/u/0/r
+                      - tooltip [aria-hidden] [ref=f17e22]: Open in new tab
+                    - generic [ref=f17e24]:
+                      - button "Close" [ref=f17e25] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f17e27]: close
+                      - tooltip [aria-hidden] [ref=f17e29]: Close
+                - generic [ref=f17e31]:
+                  - generic [ref=f17e32]:
+                    - button "Today, Tuesday, October 27" [ref=f17e33] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f17e34]: Today
+                    - tooltip [aria-hidden] [ref=f17e35]: Tuesday, October 27
+                  - generic [ref=f17e36]:
+                    - button "Previous day" [ref=f17e37] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f17e39]: navigate_before
+                    - tooltip [aria-hidden] [ref=f17e41]: Previous day
+                  - generic [ref=f17e42]:
+                    - button "Next day" [ref=f17e43] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f17e45]: navigate_next
+                    - tooltip [aria-hidden] [ref=f17e47]: Next day
+                  - generic [ref=f17e50]:
+                    - button "Options" [ref=f17e51] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f17e53]: more_vert
+                    - tooltip [aria-hidden] [ref=f17e55]: Options
+                - grid [ref=f17e57]:
+                  - generic [ref=f17e58]:
+                    - row [ref=f17e61]:
+                      - gridcell [ref=f17e64]:
+                        - 'button "Working location: Office, Nayeem, October 27 – 30, 2026" [disabled] [ref=f17e66] [cursor=pointer]':
+                          - generic [ref=f17e67]: Office
+                    - heading [level=2] [ref=f17e72]: No all day events, Tuesday, October 27, today
+                  - generic [ref=f17e73]:
+                    - generic [ref=f17e74]:
+                      - generic [ref=f17e76]:
+                        - generic [ref=f17e78]: 1 AM
+                        - generic [ref=f17e80]: 2 AM
+                        - generic [ref=f17e82]: 3 AM
+                        - generic [ref=f17e84]: 4 AM
+                        - generic [ref=f17e86]: 5 AM
+                        - generic [ref=f17e88]: 6 AM
+                        - generic [ref=f17e90]: 7 AM
+                        - generic [ref=f17e92]: 8 AM
+                        - generic [ref=f17e94]: 9 AM
+                        - generic [ref=f17e96]: 10 AM
+                        - generic [ref=f17e98]: 11 AM
+                        - generic [ref=f17e100]: 12 PM
+                        - generic [ref=f17e102]: 1 PM
+                        - generic [ref=f17e104]: 2 PM
+                        - generic [ref=f17e106]: 3 PM
+                        - generic [ref=f17e108]: 4 PM
+                        - generic [ref=f17e110]: 5 PM
+                        - generic [ref=f17e112]: 6 PM
+                        - generic [ref=f17e114]: 7 PM
+                        - generic [ref=f17e116]: 8 PM
+                        - generic [ref=f17e118]: 9 PM
+                        - generic [ref=f17e120]: 10 PM
+                        - generic [ref=f17e122]: 11 PM
+                      - row [ref=f17e125]:
+                        - gridcell [ref=f17e126]:
+                          - heading "3 events, Tuesday, October 27" [level=2] [ref=f17e127]
+                          - generic [ref=f17e129]:
+                            - button "2pm to 2:30pm, IEH Product Internal, Nayeem, Accepted, No location, October 27, 2026" [ref=f17e130]:
+                              - generic [ref=f17e135]:
+                                - generic [ref=f17e136]: IEH Product Internal
+                                - generic [ref=f17e137]: ","
+                                - generic [ref=f17e138]: 2pm
+                            - button "3pm to 3:30pm, All Projects Daily Scrum, Nayeem, Accepted, No location, October 27, 2026" [ref=f17e140]:
+                              - generic [ref=f17e145]:
+                                - generic [ref=f17e146]: All Projects Daily Scrum
+                                - generic [ref=f17e147]: ","
+                                - generic [ref=f17e148]: 3pm
+                            - button "4pm to 4:30pm, Study for claude certification, Nayeem, Accepted, No location, October 27, 2026" [ref=f17e149]:
+                              - generic [ref=f17e154]:
+                                - generic [ref=f17e155]: Study for claude certification
+                                - generic [ref=f17e156]: ","
+                                - generic [ref=f17e157]: 4pm
+                    - generic [ref=f17e160]: GMT+06
+        - complementary "Side panel" [ref=f4e569]:
+          - tablist [ref=f4e571]:
+            - tab "Calendar" [selected]:
+              - generic [ref=f4e572] [cursor=pointer]
+            - tab "Keep":
+              - generic [ref=f4e573] [cursor=pointer]
+            - tab "Tasks":
+              - generic [ref=f4e574] [cursor=pointer]
+            - tab "Contacts":
+              - generic [ref=f4e575] [cursor=pointer]
+            - separator [disabled] [ref=f4e576]
+            - tab "Any.do":
+              - generic [ref=f4e577] [cursor=pointer]
+            - tab "Get Add-ons":
+              - generic [ref=f4e578] [cursor=pointer]
+          - generic:
+            - button "About":
+              - generic [ref=f4e579] [cursor=pointer]
+  - dialog "Pause mobile notifications while you're using this device" [ref=f4e583]:
+    - generic [ref=f4e586]:
+      - generic [ref=f4e587]: Pause mobile notifications while you're using this device
+      - generic [ref=f4e588]: To pause Chat mobile notifications while you’re active on this device, allow your browser to detect if you’re active or away. Click Continue and then Allow when prompted by your browser.
+      - generic [ref=f4e589]:
+        - button "Continue" [ref=f4e590] [cursor=pointer]
+        - button "No thanks" [ref=f4e591] [cursor=pointer]
+        - button "Close" [ref=f4e592] [cursor=pointer]

@@ -1,0 +1,2225 @@
+=== Page 1 ===
+DHS Network Operations Security Center
+(NOSC) Network, Cloud, and Cyber Services
+(NCCS) 2.0 Statement of Work (SOW)
+
+
+
+
+              September 16, 2026
+
+
+
+
+                  Version 1.3
+
+
+
+
+                       i
+
+=== Page 2 ===
+Record of Changes
+                                 A=Add
+  No.       Date    Reference   M=Modify            Description of Change
+                                D=Delete
+1.0     1/16/2026               A          Draft
+1.1     2/10/2026               A, M       Modify HSEN to OneNet
+1.2     2/20/2026               M          Added paragraph to Purpose
+                                           Modify Place of Performance
+1.3     8/19/2026               A          Updated sections to include additions for
+                                           component use.
+
+
+
+
+                                    i
+
+=== Page 3 ===
+Introduction
+The Department of Homeland Security (DHS) Office of the Chief Information Officer (OCIO)
+provides network, cloud/platform and system, and cybersecurity management services for the
+DHS Enterprise through the DHS Headquarters Network Operations and Service Center (NOSC)
+working in conjunction with the DHS Components. The NOSC serves as the central Information
+Technology (IT) service management monitoring and communications hub for network
+infrastructure, cloud platforms and systems, and cybersecurity (“cyber”) incidents and event
+management and coordination across the broader DHS information enterprise, including
+coordination with all DHS Components. The NOSC detects and identifies network service
+outages and cybersecurity threats and incidents and coordinates additional services and
+functions.
+DHS intends to continue to evolve its NOSC operational model and its constituent sub-capability
+elements— doctrine, policy, and procedure; organization and planning; test, training, and
+exercise; material (including technology and systems); leadership; personnel; facilities; and
+regulations and standards—in order to ensure, assure, and improve the confidentiality, integrity,
+availability, privacy, access to, accountability, authentication, authorization, and non-repudiation
+of the DHS information enterprise.
+Within those parameters of cyber and information security, the identification and detection of
+threats and risks to respond to, and the recovery of network infrastructure, cloud platform, and
+system and applications that comprise the DHS Headquarters (HQ) information enterprise from
+malicious actors or compromise is the central and necessary purpose of the DHS HQ NOSC and
+DHS component Network Operations Center/Security Operations Centers (NOC/SOCs). The
+evolution and continuous improvement of these capabilities and the capability elements must be
+performed in concert with an ever-increasing and rapidly evolving set file of requirements,
+including emerging requirements such as Zero Trust and expanded log file management and
+reporting requirements for cyber events.
+
+
+Background
+The DHS information enterprise core infrastructure includes data centers, colocation facilities,
+and commercial, private cloud, and Gov-cloud resources interconnected by the Homeland
+Security OneNet wide area network (WAN). The OneNet WAN environment is supported by the
+DHS OneNet Hybrid Computing Environment (HCE), which includes on- premises
+infrastructure, network, compute, storage, and application support from DHS Data Center 1
+(DC1) as well as multiple DHS Cloud Access Points (DCAPs) that leverage public cloud
+infrastructure for provisioning public cloud (i.e., Amazon Web Services (AWS); Microsoft
+Azure) support.
+DHS is comprised of Headquarters and various Components, Offices, and Directorates. Each
+Component has unique and separate mission requirements and operates in a specific mission
+space; all are supported by a common unclassified, general purpose local area network (LAN)
+for data transport, the A-LAN, that comprises the largest portion of the larger OneNet. Some
+operational Components and/or mission-specific Offices (e.g., Office of the Inspector General,
+the St. Elizabeth’s Campus, etc.) also operate component or location-specific networks or
+
+
+
+                                                 1
+
+=== Page 4 ===
+enclaves that are supported by the broader OneNet and A-LAN networks. The data traversing
+this network is typically considered Sensitive but Unclassified (SBU) or Controlled Unclassified
+Information ( CUI).
+Additional networks supporting HQ and comprising OneNet include: “B-LAN” (also known as
+Homeland Secure Data Network (HSDN)) at the secret classification level; and “C-LAN” which
+supports top secret classified data processing via the Joint Worldwide Intelligence
+Communications System (JWICS); and “D- LAN”, which supports information processing for
+Special Access Programs (SAP). SAP requirements are included in this Statement of Work
+(SOW) because the Network Operations and Security Center (NOSC) provides support for an
+SAP program.
+
+Purpose and Objectives
+The purpose of this Contract is to procure the full range of cybersecurity, network operations,
+management, and other professional support services described herein for the DHS HQ OCIO
+and select DHS Components. These services will enable DHS to provide network, cloud
+platform, system, application, and cybersecurity monitoring and analysis, incident management
+and coordination, and alert and notification functions in support of the broader DHS information
+enterprise and to provide other related cybersecurity services.
+The primary objective of this Contract is to evolve the DHS HQ NOSC to build a best-in-class
+service entity that meets DHS Cybersecurity Provider (CSP) Program, industrial, and other
+doctrinal Center of Excellence service maturity standards. The secondary objective is to redefine
+the DHS HQ NOSC as the central hub of IT Service Management—for network infrastructure
+(WAN and select LAN); platform (including cloud), system, and application; and
+cybersecurity—monitoring and analysis, event and incident management, and incident response
+and recovery for the DHS OneNet at all information processing and classification levels – open
+source, SBU and CUI, Classified (Secret and Top Secret), Sensitive Compartmented
+Information, and Special Access Program information.
+This contract is primarily intended to provide operational staffing for Tier 1 and Tier 2 network,
+cloud, and cybersecurity services in support of the DHS NOSC. Higher‑tier (Tier 3) engineering,
+architecture, and subject matter expert functions will generally remain Government‑led, except
+where this Statement of Work (SOW) explicitly identifies specific Tier 3 support requirements in
+defined task areas or individual Task Orders.
+Network infrastructure monitoring and analysis and event and incident management and
+response services are comprised of, but not limited to, pro-active and reactive monitoring of all
+network infrastructure comprising the OneNet WAN and all DHS HQ / Management Directorate
+LANs, including the up/down status of all circuits as well as edge infrastructure devices and
+boundary points for both HQ and DHS components.
+Cloud, platform, system, application monitoring and analysis and event and incident
+management and response services are similarly comprised of, but not limited to, pro-active and
+reactive monitoring of all tenant cloud, platform, FISMA system, and other applications.
+Cybersecurity services include but are not limited to the following general class of cybersecurity
+capabilities and functions: monitoring and analysis (M&A) support, log management support,
+incident handling and incident response support, asset visibility and monitoring, email security,
+cyber threat intelligence (CTI) support, intrusion defense, threat hunting; cyber forensics and
+
+
+                                                2
+
+=== Page 5 ===
+malware analysis (CFMA), evidence management and insider threat support, cybersecurity
+maturity analytic testing (blue, purple, and red teaming), and penetration testing. Additional
+cybersecurity services such as DHS CSP component Network Operations Center (NOC) /
+Security Operations Center (SOC) audits, the Information Security Vulnerability Management
+Program, Security Control Assessment Support, and reporting on Federal Information Security
+Modernization Act (FISMA) metrics are also included.
+All of this work—network infrastructure; cloud, platform, system, and application; and
+cybersecurity monitoring and analysis and event and incident management and response—
+includes coordination with other internal and external entities and vendors to coordinate service
+degradation/outage triage and root cause analysis; service restoration coordination, including
+some Tier 3 engineering and operations and maintenance activities for select edge devices; and
+end-to-end communication and coordination leveraging various technologies and
+communications methods.
+This scope of work also includes the establishment of a Program Management Office (PMO) to
+baseline, evaluate, and continuously improve all capability elements (doctrine and policy,
+organization and planning, test, training, and exercise, systems, leadership, personnel, facilities,
+and regulations and standards) of the DHS NOSC over time in accordance with industry
+standards and best practices, to include the Information Technology Infrastructure Library (ITIL)
+v4; the Capability Maturity Model Institute (CMMI) for Services; the Software Engineering
+Institute’s CERT Resilience Management Model; the National Institute of Standards and
+Technology (NIST) Cybersecurity Framework (CSF); other NIST guidance (including NIST SP
+800-53 Rev. 5), International Standards Organization / International Electrotechnical
+Commission (ISO/IEC) standards; and U.S. law and policy.
+Note: U.S. policy includes Executive Orders, and other relevant U.S. government Federal
+Civilian Executive Branch (FCEB) regulations and standards, including Office of Management
+and Budget (OMB), Government Accountability Office (GAO), DHS, and DHS Cybersecurity
+and Infrastructure Security Agency (CISA) directives and standards (including, e.g., OMB M-
+26-14; CISA BOD 22-01; and FCEB, OMB, and DHS Zero Trust guidance).
+In summary, the service provider shall be responsible for identifying, protecting against,
+detecting, responding to, and recovering from any malicious or disruptive Information
+Technology events and incidents, and ensuring that DHS OCIO is able to rapidly respond to
+circumstances that threaten DHS’s information enterprise and contributing to the increasing
+resilience of DHS OneNet and its evolving network infrastructure for an expanding user and
+subscriber base.
+
+
+Tasks
+Task 1: Contract Management
+Contract Management facilitates all services and operations management functions for the
+contract. It involves the development, implementation, and administration of the Contractor’s
+support services. The contractor shall provide program management oversight, reporting and
+other general contract management services needed to achieve the cost, schedule, performance,
+quality, and communication goals under the contract.
+
+
+
+                                                 3
+
+=== Page 6 ===
+1.1 Program Management Services
+Program Management Services include the following tasks:
+   1) Plan, organize, structure, and execute management of integrated IT services, projects, and
+       deliverables under this contract
+   2) Meet with and assist OCIO (and/or DHS Component) management staff to determine and
+       apply industry best practices (including ITIL v4, CMMI for Services, and NIST CSF) to
+       existing business operations and potential future operational improvements
+   3) Provide cost and budget management, billing/invoicing services, Rough Order of
+       Magnitude (ROM) responses for buildouts, projects, deployments, and special activities
+       (i.e., conference support)
+   4) Ensure continued service delivery in accordance with the service level requirements,
+       regardless of changing or fluctuating workload or personnel availability
+   5) Improve processes by facilitating performance planning and alignment
+   6) Drive business and operational process standardization
+   7) Document business and service operations processes, including reporting
+   8) Provide all contractor staffing support including the Entry on Duty (EOD) process
+       ensuring sufficient cleared staff (unclassified through top secret access) are available to
+       meet operational demands
+   9) Provide management oversight of all activities performed by Contractor personnel,
+       including the effective use of subcontractors to satisfy the objectives and service level
+       requirements identified at the order level
+   10) Develop, implement, and continuously improve all business functions required for
+       contract implementation, including: a Service and Performance Management Program,
+       Records Management Program, and a Communications Management Program.
+   11) Manage and maintain contract service catalog
+1.2 Transition Planning and Management
+The Contractor shall ensure that the transition of operational support services from predecessor
+contractors to successor contractors shall occur without disruption of DHS operations and service
+delivery and with full cooperation between incoming and outgoing contractors.
+The Contractor shall plan and manage the process of assuming operational responsibility from
+outgoing incumbent contractor(s) and for the eventual hand-off of operational responsibility to a
+successor contractor or the Government. The Contractor shall generate a Transition-In Plan for
+assuming responsibility and a Transition-Out plan for handing over operations to a successor
+contractor at contract end.
+1.3 Business Continuity and Disaster Planning
+The Contractor shall develop a Business Continuity Plan that includes critical information
+needed to continue operations during an unplanned event. The plan shall state essential functions
+and systems and processes that must be sustained; and details on how to maintain them.
+The Contractor shall develop a Disaster Recovery Plan to include a process for resuming normal
+business operations and reconstructing or salvaging vital and other important records and
+equipment. This plan will be a guide for all managers and employees during and after a disaster.
+
+
+
+
+                                                4
+
+=== Page 7 ===
+Task 2: Capability Delivery and Improvement
+The Contractor shall support the design, development, staffing, management, implementation,
+and continuous improvement of a PMO or similar structure (e.g., Center of Excellence) to define,
+measure, manage, and continuously improve and optimize IT service management and
+cybersecurity capabilities and services in accordance with ITIL v4, CMMI for Services, NIST
+CSF, DHS Systems Engineering Lifecycle (SELC), and other best practices relevant to the
+capabilities and services being delivered. This service management function shall be in support
+of developing all capability elements (doctrine, planning, and governance, organization, training,
+systems, tools, and technologies, leadership, personnel, facilities, regulations, and standards) that
+comprise DHS information enterprise network, cloud/platform/system/application, and
+cybersecurity services.
+Specifically regarding ITIL and the NIST CSF, the contractor shall be responsible for aligning
+all services and business processes under this contract to the 34 business practices identified in
+ITIL v4 and managing all of these practices and sub-processes for the NOSC as well as aligning
+these to the functions, categories, and sub-categories defined by the NIST CSF.
+In conjunction with NIST SP 800-53 Rev. 5, DHS 4300A/B, and the ITIL v4 service catalogue
+and service financial management practices, the contractor shall be responsible for proposing,
+documenting, baselining, and managing a NOSC service catalogue and common control
+catalogue that provides tiered service support models to potential subscribers with tailored
+security control levels for the FISMA system owner use at differing service levels and costs.
+2.1 Knowledge Management
+The Contractor shall maintain a Knowledge Management repository and ensure that the
+repository contents are complete and current, and that new content is added to the repository as it
+is created.
+The Contractor shall ensure that the Knowledge Management repository exists and resides on
+DHS-approved systems and infrastructure accessible by all DHS Components. The repository
+shall provide organized storage and access to the most current as well as historical cybersecurity
+and network operations policies, procedures, processes, and other documentation.
+Content of the Knowledge Management repository shall include all contract deliverables,
+operational reports, analyses, technical diagrams, as-designed and as-build diagrams, architecture
+specifications, policies, procedures, and other current operational information artifacts.
+2.2 Doctrine, Policy, Planning, and Standard Operating Procedures
+Development Support
+The Contractor shall provide policy support, including recommendations and guidance as
+needed, for the continuing evolution of DHS Policy Directive 4300A, Information Technology
+System Security Program, Sensitive Systems, DHS Policy Directive 4300B, and any other
+network resilience and cybersecurity policy program requirements across OCIO (and within
+select DHS components).
+The Contractor shall assist with policy creation, policy implementation planning, and the
+development of any and all policy, planning, and procedural documents to include briefings,
+
+
+
+
+                                                  5
+
+=== Page 8 ===
+trainings, and Standard Operating Procedures (SOPs) needed to finalize and promulgate policy
+and doctrine across the enterprise.
+The Contractor shall create, update, and maintain standard operating procedures such that those
+procedures maintain consistency with Policy Directive 4300A.
+2.3 Service Catalog, Relationship and Service Management Practices
+The Contractor shall develop, manage, and implement the NOSC’s IT Service Catalog listing the
+services provided by the NOSC and/or Component NOC/SOC.
+The Contractor shall manage relationships with NOSC subscribers and customer organizations,
+including coordinating with the NOSC, subscriber program offices, and the budget offices for all
+subscribers in accordance with NOSC’s IT Service Catalog and the DHS Cybersecurity Program
+requirements.
+The Contractor shall support and interface with all annual budget, finance, and acquisition
+processes (including Planning, Programming, Budgeting, and Execution and Capital Program
+Investment Committee processes).
+2.4 Communications Support
+The Contractor shall develop and tailor a Communications Plan to achieve the operational
+objectives and to improve operational outcomes.
+The Contractor shall design, develop, and continuously improve a NOSC Communications
+Strategy, to include strategic, operational, and tactical communications and outreach.
+The Contractor shall ensure that communications with DHS Stakeholders including OCIO
+Management, Component Management, Component NOCs and SOCs, programs, Subscribers,
+and other entities inside and outside of DHS are maintained to keep all interested parties apprised
+of the current operational status and the status of progress in restoring disrupted service and
+recovering from cybersecurity attacks.
+2.5 Project Management Support
+The Contractor shall manage and execute projects using agile approaches, methodologies, and
+best practices to implement and enhance key capabilities and services quickly and efficiently.
+2.6 Continuous Service Improvement Program (CSIP)
+The Contractor shall identify and implement Service performance improvements in the context
+of a Continuous Service Improvement Program (CSIP).
+The Contractor shall implement a program of periodic performance measurement to track
+maturity development and increases in operational efficiency.
+The Contractor shall propose a set of measures for measuring the overall maturity of operations
+and develop a baseline assessment of the maturity of DHS NOSC or component NOC/SOC
+operations based on approved measures. The Contractor shall design a performance
+measurement process based on the approved set of performance measures and assess the
+maturity of performance based on those measures on a semi-annual basis.
+The Contractor shall recommend operational improvements to maximize the efficiency and
+productivity of personnel working at each level in the Tier 1 through Tier 3 structure. The
+
+
+
+                                                 6
+
+=== Page 9 ===
+Contractor shall identify and recommend innovations in the application of automation that will
+reduce the amount of low-threat network traffic requiring personal attention and reduce
+unnecessary escalations to higher Tiers.
+The Contractor shall identify and recommend improvements in techniques and procedures and/or
+use of agentic AI, that improve the ability of personnel at each Tier level to resolve issues freeing
+personnel at higher levels to focus more on high-value analysis enabling the DHS NOSC to
+detect and deflect threats rather than having to engage in incident response.
+The Contractor shall develop and continuously improve NOSC doctrine (including policies,
+processes, and procedures) and documentation, including (but not limited to) a NOSC IT Service
+Management Process Register, NOSC Process Map, NOSC Service Catalog (including financial
+support models), Common Controls Catalog, and NOSC CSIP Implementation Plan.
+The Contractor shall define and manage all NOSC business processes consistent with ITIL v4,
+CMMI for Services, NIST CSF, DHS CSP, and other DHS regulations and standards.
+The Contractor shall ensure that NOSC structure and organization (as laid out in the NOSC
+Concept of Operations (CONOPS) and NOSC Operations Plan) evolves annually to lead to
+improved IT service management business process outcomes.
+The Contractor shall design and execute the program in accordance with Homeland Security
+Exercise Evaluation Program (HSEEP) principles and standards.
+2.7 Performance and Investment Metrics
+The Contractor shall propose, design, and implement a performance and investment metrics
+measurement process. The Contractor shall propose metrics for measuring performance and
+monitor those metrics across performance periods to identify areas where improvement is
+required. The Contractor shall implement analytical processes that project the results of proposed
+changes.
+The Contractor shall design and implement a performance metrics pilot project and deliver a
+Performance Metrics Pilot Plan to demonstrate the feasibility and value of proposed metrics,
+measurement processes, and analyses. The Contractor shall also develop Program Deployment
+Plan to implement the overall performance metrics plan.
+2.8 Capability Test, Training, and Exercise
+The Contractor shall implement a Capability Test, Training, and Exercise (TT&E) Program
+(including continuous improvement program) that is chartered, designed, staffed, and managed
+to evaluate and continuously improve the DHS NOSC, Chief Information Security Officer
+Directorate (CISOD), and partner organization capabilities and coordination. The Contractor
+shall establish and monitor a training program to develop and maintain skill levels among all
+staff in cybersecurity, network management, and software tools used in service delivery.
+Software tools training shall include training in the use and administration of vulnerability
+assessment tools, penetration testing tools, and incident tracking tools.
+This test, training, and exercise program shall be in support of both OCIO operational personnel
+(NOSC Federal and contract employees) as well as executives, end-users, implementers, and
+other roles required to implement full lifecycle IT service management.
+
+
+
+
+                                                  7
+
+=== Page 10 ===
+2.9 Data Call and Data Acquisition Support
+The Contractor shall acknowledge and fulfill data requests (data calls) regardless of origin.
+Sources may include DHS Headquarters Offices and Directorates; DHS Management; DHS
+Components; and other non-DHS customers to include Freedom of Information Act (FOIA),
+Office of Inspector General (OIG), Office of General Counsel (OGC), Congress, and Federal,
+State, and Local law enforcement agencies.
+The Contractor shall utilize standard (e.g., Microsoft Office) and other IT applications for data
+manipulation. The Contractor shall recommend use cases for agentic AI to automate recurring
+data calls.
+The Contractor shall provide the Government with regular status updates for their requests and
+inform customers and CIO and OGC management of any outages or disruptions in service that
+could negatively affect resolution time of data acquisition requests.
+2.10 Cybersecurity Services Provider Program
+The Contractor shall ensure that the NOSC operations continuously increase maturity as assessed
+by the maturity levels described for individual metrics in the CSP Evaluator Scoring Metrics.
+The Contractor shall ensure that the NOSC maintains continuous Cybersecurity Services CSP
+Program Center of Excellence (COE) accreditation for providing both NOC and SOC services.
+The Contractor shall ensure that the NOSC complies with changes to the CSP Evaluator Scoring
+Metrics as those changes are promulgated by CISOD and is prepared for the next re-accreditation
+assessment under the changed CSP metrics.
+The Contractor shall develop, maintain, and enhance SOPs such that those SOPs satisfy
+requirements for NOSC re-accreditation as a COE under the CSP Program Evaluator Scoring
+Metrics in force at the time of re-accreditation.
+The Contractor shall conduct preparatory assessments of the NOSC and each Subscriber to
+NOSC services in preparation for NOSC re-accreditation to ensure that the NOSC and its
+Subscribers qualify for re-accreditation.
+
+Task 3: Network, Cloud, and Cybersecurity Monitoring and
+Analysis, Event and Incident Management and Response, and
+Associated Support Services
+The Contractor shall be responsible for planning, organizing, developing, managing,
+implementing, and continuously improving all network, cloud/platform and system/application,
+and core cybersecurity M&A and event and incident management (including alert and
+notification and event remediation) services in accordance with ITIL v4, CMMI for Services, the
+NIST CSF, the DHS SELC, DHS CSP, and FCEB and DHS requirements.
+3.1 M&A and Incident Response
+The Contractor shall monitor the DHS information enterprise—including all of OneNet and
+constituent WAN entities and select HQ and component LAN and circuit infrastructures—for
+network, cloud, platform, system and application, and cybersecurity events 24x7x365 to pro-
+actively identify threats, risks, outages, and service degradations.
+
+
+
+                                                 8
+
+=== Page 11 ===
+The Contractor shall ensure that the DHS NOSC demonstrates seamless continuity across
+network infrastructure, cloud platform, system and application, and cybersecurity monitoring and
+analysis and incident coordination and response workloads across multiple NOSC locations and
+geographically distributed teams.
+The Contractor shall monitor the NOSC scope including Trusted Internet Connections (TICs) to
+the Internet, OneNet circuits, Points of Presence or Policy Enforcement Points where HQ and
+Component networks connect to the OneNet, and Subscriber systems and networks.
+The Contractor shall provide immediate, real-time monitoring of DHS systems and networks
+belonging to DHS, cloud service providers, and contractors 24x7x365.
+The Contractor shall initiate response to events that negatively affect service delivery. The
+Contractor shall respond immediately to all network and any potential cyber incidents.
+The Contractor shall support a typical ITIL-based Service Desk structure (organized from Tier 0
+to Tier 4), including all Tier 0, Tier 1, and Tier 2 functions, and select Tier 3 functions. With
+some variations, a typical IT service desk is organized in such manner where: Tier 0 is user self-
+help (including, in this instance, interactive portals for user reporting of events and incidents);
+Tier 1 is basic event/incident triage, classification, and ticketing, and immediate IT service
+restoration if possible; Tier 2 is in-depth technical support for most technical issue types; Tier 3
+is subject matter expert service and product support, including trouble-shooting for advanced
+network service degradation issues; and Tier 4 is external vendor support.
+The Contractor shall support a typical ITIL-based Service Desk structure (organized from Tier 0
+to Tier 4) and shall:
+   •   Provide full operational coverage for Tier 0, Tier 1, and Tier 2 functions, including user
+       self-help, initial triage and classification, ticketing, and in-depth technical support for
+       most incident types; and
+   •   Provide only those Tier 3 functions that are expressly identified in this SOW or in
+       individual Task Orders.
+All other Tier 3 and Tier 4 activities, including strategic architecture, major design changes, and
+enterprise-level engineering, will remain the responsibility of DHS or other designated providers.
+The Contractor shall ensure that incidents are escalated from Tier 1 to Tier 2, and from Tier 2 to
+designated Tier 3 resources, in accordance with established NOSC procedures and service level
+requirements.
+The Contractor shall escalate events and incidents that cannot be resolved at Tier 1 to Tier 2 for
+the more advanced technical expertise required for resolution is available.
+The Contractor shall ensure that unresolved networking and cybersecurity incidents are escalated
+from Tier 1 to Tier 2 according to established protocols.
+The Contractor shall escalate to Tier 2 network management, cloud, and cybersecurity issues that
+cannot be resolved by Tier 1 analysts within the time limit stipulated by NOSC management for
+Tier 1 action. The Contractor shall provide Tier 2 response for escalated incidents and continue
+and expand response activities initiated by Tier 1.
+The Contractor shall provide Tier 2 levels of effort and technical expertise beyond those
+available at Tier 1 as required for incident response, resolution, and recovery.
+
+
+
+                                                  9
+
+=== Page 12 ===
+The Contractor shall track and report all network component failures and escalations from Tier 1
+to Tier 2 continuously to resolution and restoration of service. Contractor response shall be
+measured and compared to established service level agreements.
+The contractor shall provide only those Tier 3 functions that are expressly identified in this SOW
+or in individual Task Orders.
+3.2 Network Operations Services
+The Contractor shall monitor and manage DHS Networks 24x7x365 including monitoring
+network availability and troubleshooting and resolving network outage incidents.
+The Contractor shall monitor network traffic, utilization, and trends to characterize network
+traffic volume, bottlenecks, and points of failure.
+The Contractor shall analyze findings to ensure that sufficient bandwidth capacity is planned and
+implemented to ensure network infrastructure to accommodate current and forecasted customer
+traffic.
+The Contractor shall coordinate, manage, and report on all access, asset and configuration,
+availability, capacity, change, demand, information security, IT service continuity, release and
+deployment, request fulfilment, service level, and service validation and testing processes.
+3.3 Cloud, Platform, and System Operations Services
+The Contractor shall manage, optimize, and troubleshoot issues for DHS’s cloud compute,
+storage, and application hosting platforms, and for all other platforms, systems, and applications
+that comprise the OneNet, including troubleshooting of connectivity, latency, degraded
+performance, or unavailability issues.
+The Contractor shall monitor and analyze cloud computing statistics and systems using Cloud
+Service Provider statistical feeds (e.g., Amazon Web Services; Microsoft Azure) and monitoring
+tool alert captures (e.g., Dynatrace) to determine possible points of failure and work with both IT
+Operations Cloud Computing Tier 2 Team, OCIO Solution Development Directorate (SDD)
+Cloud Tier 3 Teams, and stakeholders, and recommend modifications to cloud-based
+environments and configurations to avoid or remediate unscheduled outages.
+3.4 Core Cybersecurity Services
+3.4.1 Log Management and Analysis
+The Contractor shall provide log file analysis to identify attack vectors used, targets of attacks,
+incident root causes, impacts to subscriber networks, and trends.
+The Contractor shall process incoming log files by the NOSC Security Information and Event
+Management (SIEM) application upon receipt. The Contractor shall receive and store incoming
+log files for time periods established for log file analysis.
+The Contractor shall ensure that all required logs that feed into the NOSC SIEM (and other file
+repositories) are active 24x7x365 and devise and implement solutions to ensure immediate
+escalation to Tier 3 Security Engineering upon any log feed outage.
+The Contractor shall archive stored log files when reaching prescribed age thresholds. The
+Contractor shall retrieve archived log files for analysis within a prescribed retrieval timeframe.
+
+
+
+
+                                                 10
+
+=== Page 13 ===
+3.4.1 Email Security
+The Contractor shall identify the scope of infections resulting from email containing malicious
+content, notify affected users, and coordinate recovery across DHS.
+The Contractor shall redirect incoming email messages exhibiting characteristics of malicious
+content, spam, or other undesirable incoming traffic to designated mailboxes and quarantine.
+The Contractor shall evaluate suspicious email messages and analyze malicious payloads.
+The Contractor shall block email addresses responsible for messages exhibiting characteristics of
+malicious content, spam, phishing, or other undesirable incoming traffic.
+3.4.2 Cybersecurity Threat Intelligence
+The Contractor shall collect information on emerging cyber threats at different classification
+levels from Internet security firms, Government organizations, private industry, and foreign
+Governments, and assess, evaluate, and use to develop cyber defense measures.
+The Contractor shall identify strategic risks through working with Security Control Assessors
+(Information System Security Managers (ISSMs), Information System Security Officers
+(ISSOs), system owners, and other applicable teams to collect data contributing to the full picture
+of strategic cyber risks facing DHS.
+The Contractor shall identify Tactical cybersecurity risks in concert with SOCs, other CTI teams,
+vulnerability assessment teams (VATs), and other applicable teams to create a full picture of
+risks facing DHS.
+The Contractor shall determine the intentions of adversary groups to conduct computer network
+exploitation (CNE) and computer network attacks (CNA) against U.S. private sector and
+Government networks and information systems.
+The Contractor shall identify common gaps in information system security using methods such
+as the MITRE Adversarial Tactics, Techniques, and Common Knowledge® (ATT&CK®)
+framework to focus recommendations to the Government for funding in support of remediating
+security gaps for multiple systems.
+The Contractor shall distribute cyber threat information across DHS to provide situational
+awareness to DHS SOCs, NOCs, and enterprise level decision makers.
+3.4.3 Vulnerability Assessments
+The Contractor shall conduct Vulnerability Assessment scans for Headquarters and Subscriber
+systems and networks to identify potential computer security vulnerabilities, risks, and threats.
+The Contractor shall conduct, operate, and maintain assessments and the resulting Vulnerability
+Assessment data and reports.
+The Contractor shall support the NOSC enclave, OneNet, and Redundant TICs through the
+conduct of scheduled and ad-hoc vulnerability assessment scanning. Scanning shall include:
+   •   Host-based and vulnerability assessments
+   •   Network vulnerability assessments
+   •   Database vulnerability assessments
+   •   Web-based vulnerability assessments
+
+
+
+                                                11
+
+=== Page 14 ===
+   •   Cloud-based vulnerability assessments
+The Contractor shall employ ad-hoc or emergency vulnerability scanning to support targeted
+incident investigation, escalation, and emergency response to security events in accordance with
+documented procedures.
+The Contractor shall coordinate with Component security staff to explain findings, provide
+recommendations on mitigations, and advocate for mitigation of vulnerabilities.
+3.4.5 Attack Sensing and Warning
+The Contractor shall detect and identify advanced, persistent, and coordinated cybersecurity
+threats across multiple networks. The Contractor shall detect threats characterized by
+distributed, long term, coordinated, low visibility network-based attacks and develop and
+implement courses of action to remediate or mitigate those threats.
+The Contractor shall correlate threat intelligence with hardware and software assets potentially
+impacted by those threats. The Contractor shall assess the potential resulting impacts to
+operations and shall communicate threats, countermeasures, and courses of action across DHS to
+Components and subscribers for implementation.
+3.4.6 Content Development
+The Contractor shall analyze data feeds and event logs, and correlate the results with known
+threats, vulnerabilities, and incidents to create new security content and updates to Enterprise
+NOSC dashboards.
+The Contractor shall develop, disseminate, and implement new security content such as Intrusion
+Detection Systems (IDS), Intrusion Prevention Systems (IPS), Data Loss Prevention (DLP)
+correlation rules and cyber threat indicators.
+3.4.7 Threat Hunting
+The Contractor shall manage all aspects of the cyber-Threat Hunt lifecycle, including creation
+and improvement of enterprise-specific Threat Models and threat hypotheses, plan and scope
+Threat Hunt campaigns, missions, and activities against a variety of threat types and identify
+enterprise defense gaps and propose potential mitigation activities.
+The Contractor shall perform cyber-Threat Hunt missions by identifying and investigating
+patterns and anomalies in data, suspicious network activities, including access from Outside the
+Continental United States (OCONUS) or utilization of non-standard credentials, anomalous or
+suspicious telemetry, and other Cyber Threat Intelligence.
+The Contractor shall proactively search networks to detect and isolate advanced cybersecurity
+threats that evade in-place security solutions.
+The Contractor shall regularly perform advanced analysis and adversary hunting activities to
+proactively uncover evidence of adversary presence on DHS networks.
+The Contractor shall follow incident response procedures for detected insider threat activity.
+3.4.7 Cyber Forensics and Malware Analysis Support
+The Contractor shall analyze digital media devices and media to identify, reverse engineer, and
+de-obfuscate malware and other content causing cybersecurity incidents.
+
+
+
+
+                                                 12
+
+=== Page 15 ===
+The Contractor shall operate cyber forensics and malware analysis laboratory facilities that are
+accessible and available where malware can be identified, analyzed, and reverse engineered. All
+such facilities shall be isolated from DHS networks to ensure that malware threats under
+investigation pose no potential threat to the DHS Enterprise.
+3.4.8 Penetration Testing
+The Contractor shall conduct High Value Asset (HVA) assessments and penetration tests and
+conduct or assist with penetration tests as requested by Components, System Owners,
+Information System Security Managers, or Information System Security Officers in support of
+Security Controls Assessments, continuous monitoring, and FISMA requirements.
+The Contractor shall provide penetration testing summary reports, in accordance with the signed
+Rules of Engagement (ROE) document, to the appropriate System Owner/ISSM/ISSO,
+Government lead, DHS Program Manager and document the findings.
+
+The Contractor shall prepare and submit security testing Rules or Engagement (ROE) for High
+Value Assets (HVA), Internal & External Threat Assessments, prior to conducting penetration
+testing and ensure that the ROE provides the operational security controls to protect both the
+system and network.
+3.4.8 SOC Maturity Analytic Testing Program – Blue, Purple, and Red Teaming and
+Adversary Emulation
+The Contractor shall develop an analytic testing program to assess the NOSC’s cybersecurity
+capabilities via the use of blue, purple, and red teams. This program shall include the design,
+development, and execution of table-top exercises and authorized tests (i.e., Red Teaming) that
+emulate a potential adversary’s attack or exploitation capabilities against the DHS enterprise’s
+security posture. The Contractor shall also conduct or participate in exercises defending against
+real or simulated attacks (i.e., Blue Teaming) launched by mock attackers (i.e., Red Teams). The
+Contractor shall also engage in Purple Team table-top and actual tests conducted jointly by mock
+network attackers (Red Teams) and network defenders (Blue Teams). The Contractor shall
+support teaming exercises with ad-hoc Vulnerability Assessments.
+3.4.9 Evidence Management
+The Contractor shall preserve information and data encountered in the course of incident
+response and recovery efforts or in the course of malware analysis for law enforcement purposes.
+The Contractor shall follow proper chain of custody, storage, handling, and transmission
+procedures for various evidence categories including but not limited to SBU, For Official Use
+Only (FOUO), Law Enforcement Sensitive (LES), Confidential, Secret, Top Secret and Top
+Secret/Sensitive Compartmented Information (TS/SCI).
+3.4.10 Cloud Security
+The Contractor shall conduct real-time (when possible, based on tools) monitoring and triaging
+of security alerts from SIEM, System, Network Appliance (Firewalls, IDS, etc.), Cloud Service
+(AWS, Azure, IBM, etc.), email (Microsoft Office 365,), and Endpoint (including Endpoint
+Detection and Response Solutions (EDR)) systems.
+The Contractor shall monitor voice (phone) and electronic (email) and other sources designated
+by the Government for notification of network and cloud incidents, outages, and service
+degradations involving network services, Cloud Service Provider environments, Mission
+
+
+                                               13
+
+=== Page 16 ===
+Essential Systems (MES) hosted in data centers and cloud environments, or DHS Component
+entities.
+3.5 Program Web and Tool Support and System Administration
+The Contractor shall implement, configure, maintain, and operate Government furnished
+network, cybersecurity, and systems management software applications, dashboard applications,
+and hardware appliances. The Contractor shall provide recommendations regarding new tools
+and services that can be integrated into NOSC and/or Component NOC/SOC operations and
+regarding decommissioning of obsolete tools and services. The Contractor shall conduct
+24x7x365 cybersecurity, network, system, enclave, and cloud management monitoring and
+analysis operations. Monitoring shall include Enterprise and NOSC dashboards. The Contractor
+shall apply various antivirus, intrusion detection, and vulnerability assessment tools, techniques,
+and procedures. The Contractor shall configure Forensic and Log Management tools in support
+of identifying rogue and malicious software and suspicious and unapproved activities.
+The Contractor shall assist as required in the administration of tools used in the course of
+fulfilling Contractor responsibilities. The Contractor shall assist in the administration of incident
+tracking tools and in training Contractor and Government personnel in the use of the supporting
+tool suites.
+The Contractor shall develop, integrate, manage, and maintain monitoring tools and dashboards
+(e.g., system and application monitoring software, AWS Dashboards, Azure Dashboards). The
+Contractor shall maintain a cyber incident dashboard, update as incident status changes, and
+provide continuous management updates. The Contractor shall support the content development
+and updates to Enterprise NOSC dashboards. The Contractor shall support the content
+development and updates to Enterprise NOSC dashboards.
+The Contractor shall ensure that tool licenses and maintenance agreements are tracked and
+projections for license expirations are continuously maintained for a minimum of twelve (12)
+months into the future.
+The Contractor shall assist the Government in generating communications to applicable
+stakeholders regarding cyber risk management, developing, and managing a holistic risk
+management dashboard to provide senior management a near real-time visual representation of
+cyber risks.
+The Contractor shall support troubleshooting network problems by providing technical support
+associated with new or revised hardware or software installations. The Contractor shall support
+coordination of new OneNet connections including direct links with other agencies.
+3.6 Service Delivery Implementation
+The Contractor shall establish a full lifecycle process to triage, manage, monitor, analyze, track,
+and close all OneNet service requests, including coordination with GSA Enterprise Infrastructure
+Solutions (EIS) or other contract vehicles such as Data Center and Cloud Optimization (DCCO)
+Support Services, for coordination with various entities and Local Exchange Carriers for circuit
+installation across the United States and territories.
+
+
+
+
+                                                  14
+
+=== Page 17 ===
+Task 4: OneNet Network Infrastructure Operations and
+Maintenance Support Services
+The Contractor shall provide operations and maintenance (O&M) support primarily at the Tier 1
+and Tier 2 levels for OneNet edge or Component network infrastructure. This includes
+day-to-day monitoring, basic and intermediate troubleshooting, implementation of approved
+configuration changes, and support for incident response activities as directed by DHS.
+The Contractor’s Tier 3 support for OneNet edge infrastructure shall be limited to configuration,
+troubleshooting, and engineering activities explicitly directed by DHS and defined in this SOW
+or in individual Task Orders. Higher Tier 3 and other strategic engineering responsibilities,
+including major design changes and enterprise-wide architecture decisions, will remain under
+Government control or other contracts, as designated by DHS.
+This infrastructure consists of: Layer 2 switches, Layer 3 switches, routers, hubs/concentrators,
+gateways, bridges, and repeaters; modems, wireless LAN controllers and wireless access points;
+load balancers; forward and reverse proxy servers and devices; network, application, database,
+and web application firewalls; intrusion detection and prevention devices; network sandbox
+devices (including honeynets); encryption and decryption devices (including TACLANE®); and
+all other networking elements and cybersecurity devices at points where Component sub-
+networks and Local Area Networks connect to the OneNet and where the OneNet connects to
+TICs or Policy Enforcement Points or Points of Presence.
+The Contractor shall configure edge infrastructure devices and update those configurations under
+the Enterprise Configuration Control process. The Contractor shall monitor edge devices to
+assess device health and correct operation and shall assist in responding to cybersecurity and
+network outage incidents. Edge infrastructure will be located at DC1in Stennis Mississippi, at all
+DCAPs, and at various locations within the National Capital Region (NCR).
+Network Infrastructure Operations and Maintenance support shall include participating DHS
+Component network infrastructures, operational environments, locations, processes, and
+supporting toolsets, where incorporated by Component Task Orders, in addition to DHS OneNet
+enterprise infrastructure.
+4.1 IT Service Management
+Configuration, Change, and Release Management
+The Contractor shall develop, manage, and implement a cradle-to-grave configuration, change,
+and release management program for all OneNet or Component network and edge infrastructure
+in conjunction with all DHS network policies, including the OneNet Enterprise Configuration
+Control process or similar Component change management process. The Contractor shall
+implement all proposed network infrastructure modifications under the approval of the DHS
+change control governance process, including by supporting approval of all changes via the DHS
+OneNet Change Control Board or the Component Change Control Board.
+Configuration, Change, and Release Management shall support participating DHS Component-
+specific configuration baselines, change management procedures, approval authorities,
+governance requirements, and release procedures where incorporated by Component Task
+Orders, in addition to DHS OneNet enterprise governance.
+
+
+
+
+                                                15
+
+=== Page 18 ===
+Task 5: Field Engineering Technical Services
+The Contractor shall station Field Engineering support personnel regionally throughout the
+Continental United States (CONUS) to provide IT support requiring hands-on intervention at
+DHS facilities and sites lacking local IT support. The Contractor shall post Field Engineering
+support personnel at select CONUS locations from which they may be dispatched to facilities
+requiring support. Field Engineering support personnel shall be qualified to determine the nature
+of a service outage at a location and shall initiate response activity to restore service. Field
+Engineering support personnel shall be capable of determining whether an outage is the result of
+a commercial circuit failure or if it is due to some internal failure at a facility. For failures
+determined to have occurred within a facility, Field Engineering support personnel shall be
+capable of identifying the failed network or system components and be capable of either
+restoring the failed components to an operational status or of replacing those components as
+circumstances require. Failing components may include routers, switches, firewalls, servers, and
+desktop computing devices.
+
+Task 6: Other Cybersecurity Services
+6.1 Cybersecurity Services Provider (CSP) Program
+All DHS FISMA systems are required to obtain NOC or SOC services from a DHS accredited
+NOC or SOC. DHS Component NOCs and SOCs must pass a formal assessment and receive a
+designation of either Accredited or Center of Excellence (COE). COEs are authorized to provide
+NOC and SOC services to other DHS Components. Accredited organizations are authorized to
+provide services only to their own Components and associated systems. Components that fail to
+achieve Accredited or COE designations are unaccredited and must subscribe to the services of a
+COE NOC or SOC from within DHS. Each accredited NOC and SOC will undergo a periodic
+reaccreditation and will be inspected at least every three (3) years or when Providers or
+Subscribers revise their service agreements. Component Subscribers will be assessed on their
+Provider’s anniversary date to ensure services received meet the required maturity level.
+The Contractor shall conduct Cybersecurity Accreditation Audits of all DHS organizations
+providing NOC or SOC services and their associated Subscribers.
+The Contractor shall administer the Cybersecurity Services Provider Program.
+6.2 Information Security Vulnerability Management (ISVM) Program
+The Contractor shall support and manage the Information Security Vulnerability Management
+(ISVM) Programs. The Contractor shall:
+   • Conduct vulnerability research
+   • Discover assets requiring vulnerability scanning
+   • Determine the scope of vulnerability assessments
+   • Schedule and conduct vulnerability scans
+   • Issue notices of scanning results
+   • Coordinate with CISA) for follow-up to issued notices
+The Contractor shall create and publish security related alerts, bulletins, and notifications
+(ISVMs) to all DHS Components based on identified software and hardware vulnerabilities and
+monitor for compliance.
+
+
+
+                                               16
+
+=== Page 19 ===
+The Contractor shall continuously perform and distribute research on emerging threats to the
+environment in order to disseminate the information to all stakeholders, immediately assess the
+known environment for presence of vulnerabilities, and work with the DHS NOSC and
+enterprise networking teams to proactively block exploitation within the DHS environment.
+6.3 Information System Security Control Assessment Support
+All DHS systems undergo the Security Authorization (SA) process in the course of
+obtaining the formal Authority to Operate (ATO) memo authorizing system operation in
+DHS production environments. The ATO process includes an assessment of critical
+system security controls before a new system is placed in production. New systems
+require a full security control assessment one (1) year after receiving an ATO. Systems
+in production are subject to recurring security control assessments. Systems in the
+Ongoing Authorization (OA) program are assessed annually. Systems not in the OA
+program are assessed every three (3) years at a minimum or when major system changes
+occur.
+The Contractor shall conduct Information System Security Control Assessments. The
+Contractor shall:
+    •   Develop and maintain an overall Security Assessment Schedule.
+    •   Develop testing artifacts for each system including as appropriate Rules of
+        Engagement, a technical assessment plan, Security Requirements Traceability
+        Matrix, Security Assessment Report, and other necessary documentation.
+    •   Schedule and perform technical assessments of systems and applications to
+        determine the severity of security control weaknesses.
+    •   Execute assessments through reviewing system security documentation,
+        vulnerability scan results, audit logs, configuration guides, and any other
+        additional material provided by the system and system stakeholders.
+    •   Document results of assessments in the compliance tool utilizing a standard
+        reporting format for recording assessment results and findings along with
+        recommended mitigations.
+    •   Update and maintain all testing templates and standard operating procedures.
+    •   Collect and store all final materials and media.
+6.4 Intrusion Defense Chain FISMA Metrics Tracking
+The Contractor shall test DHS Component’s ability to properly classify malicious logic
+investigations using the Intrusion Defense Chain (IDC) Framework.
+  • The Contractor shall create example malicious logic and disseminate to all DHS
+    Components.
+  • The Contractor shall track and report DHS Components’ compliance and accuracy in
+    classifying malicious logic using the IDC Framework.
+
+
+
+
+                                                17
+
+=== Page 20 ===
+  • The Contractor shall create and maintain IDC Metrics for the annual Information Security
+    Performance Plan.
+6.5 DHS Industry Cyber Hygiene Assessment (CHA) Operations
+The Contractor shall run all elements of the DHS Industry Cyber Hygiene Data Assessment
+Program. The Contractor shall:
+    •   Establish, document, and continually refine CONOPS and standard operating
+        procedures documentation for the DHS Industry Cyber Hygiene Assessment
+        (CHA) Team.
+    •   Develop and maintain a management schedule for all CHA data analysis and
+        assessment activities.
+    •   Coordinate with DHS Industry CHA personnel to collect artifacts, define scope
+        and establish governance functions for assessments and analysis of industry
+        cyber hygiene data.
+    •   Establish performance metrics and process improvement criteria stemming
+        from the results of industry cyber hygiene assessments and analysis.
+    •   Evaluate results and provide recommendations in determination of industry
+        cyber hygiene maturity.
+    •   Create both draft and final deliverable reports stemming from industry
+        assessments and analysis for Federal CHA program personnel consumption and
+        review.
+    •   Develop, maintain, and update any additional program documentation on an
+        ongoing basis.
+6.6 Zero Trust
+The Contractor shall provide Zero Trust expert support that is available to engage and
+collaborate with IT Operations, systems architecture, and engineering groups in developing and
+implementing Zero Trust cybersecurity principles, policies, and requirements for the DHS NOSC
+and for OneNet edge infrastructure equipment.
+
+Task 7: Surge Support
+The Contractor shall provide surge support for additional Subject Matter Experts (SMEs) and
+support personnel for these previous tasks upon request. This support includes unforeseen
+priorities, legislative or organizational policy changes, or mission changes that are within the
+scope of this contract to meet the expanding DHS mission, performing disaster recovery analysis
+for potential Government facilities, and development of contract Transition-Out Plan and
+transition-out implementation activities. More information will be defined at the task order level.
+Surge support will be project-specific and temporary.
+
+
+
+
+                                                18
+
+=== Page 21 ===
+Contract Personnel
+The Contractor shall provide and manage all staff and operations required to achieve contract
+task requirements, to include the following:
+   •   Develop and implement a Staffing Plan that emphasizes operational staffing for Tier 1
+       and Tier 2 functions across NOSC operations, network operations, cloud/platform
+       support, and cybersecurity monitoring and response;
+   •   Clearly identify the proportion of staff by Tier level, demonstrating that the majority of
+       Contractor personnel are assigned to Tier 1–2 roles;
+   •   Limit Tier 3 and senior subject matter expert roles to functions specifically identified in
+       this SOW (for example, selected OneNet edge infrastructure support, vulnerability
+       assessments, penetration testing, Cybersecurity Services Provider (CSP) Program
+       support, and other specialized tasks); and
+   •   Ensure that senior personnel (such as the Program Manager, Deputy Program Manager,
+       and designated Tier 3 subject matter experts) focus on oversight, escalation support,
+       mentoring, and institutional knowledge transfer to Tier 1 and Tier 2 staff, rather than
+       performing routine operational tasks.
+   •   The Contractor shall provide necessary staff at DHS operating locations throughout the
+       Continental United States, including the NCR and DC1, in accordance with Task Order
+       requirements.
+   •   The Contractor shall maintain operational staffing levels at each operating location in
+       accordance with Task Order requirements.
+   •   The Contractor shall provide staffing for technical positions in accordance with the
+       certification standards promulgated via U.S. Department of Defense (DoD) Directive
+       8140.01 and manual DoD 8570.01-M.
+   •   The Contractor shall maintain staff with the requisite security clearances, compartment
+       accesses, and DHS suitability statuses to perform the work required at each NOSC
+       location.
+   •   The Contractor shall provide the mix of staff expertise at each NOSC location necessary
+       in the absence of communication with other NOSC locations as may be required in
+       emergency or natural disaster situations.
+   •   The Contractor shall provide deployment teams (Fly-away teams) that are prepared for
+       short notice deployment to locations within the Continental United States to oversee and
+       assist in response and recovery efforts from cybersecurity attacks and coordinate with
+       vendors, external service providers, DHS system owners, system administrators, ISSOs,
+       and other parties as circumstances require.
+   •   The Contractor shall maintain deployment kits (aka Fly-away kits) in a state of readiness
+       for deployment. These kits shall consist of laptop computers pre-loaded with software
+       applications, SOPs, emergency response procedures, and other associated resources that
+       may be of use during cyber incident response and recovery efforts.
+
+
+
+
+                                                19
+
+=== Page 22 ===
+   •   The Contractor shall ensure that additional surge staff are made available on a limited-
+       time basis in response to requests to deal with fluctuations in cybersecurity and network
+       management workloads and to support various categories of projects through concept,
+       planning, execution, and completion stages.
+   •   Participating Component Task Orders may define Component-specific operational
+       staffing mix; Tier 1/Tier 2 predominance; Tier 3 oversight responsibilities; certification
+       and clearance requirements, deployment readiness, and surge staffing and Key Personnel
+       requirements as necessary to support Component specific operations.
+Each Task Order issued under this contract shall specify the required mix of Tier 1–2 and Tier 3
+resources and shall justify any recurring Tier 3 staffing, ensuring that Tier 3 roles are limited to
+defined specialized functions.
+
+Key Personnel
+The Contractor shall provide qualified personnel to fill the following Key Personnel positions:
+   •   Program Manager
+   •   Deputy Program Manager
+Contractor Key personnel shall not be assigned by the Contractor to more than one key position.
+These key personnel positions apply at the Indefinite Delivery Indefinite Quantity (IDIQ) and
+Task Order (T.O.) level (Note: there may be additional key personnel positions identified at the
+individual T.O. level on a case-by-case basis).
+The following describe the minimum qualifications and certifications required for the identified
+Key Personnel positions:
+                               Table 1. Key Personnel Qualifications
+
+                     Area of                      Minimum                    Certifications
+        Title        Responsibility              Qualifications
+  Program            All SOW Areas 10 years of cybersecurity               • Project Management
+  Manager                          management experience with                Professional (PMP)
+                                   managing contracts or programs of         certification
+                                   similar size, scope, and
+                                   complexity, with relevant               • Certified Information Systems
+                                   experience overseeing technical           Security Professional (CISSP)
+                                   and management teams
+                                                                             certification
+
+
+  Deputy Program     All SOW Areas Minimum of 5 years overall              • CISSP Certification
+  Manager                          cybersecurity management
+                                   experience
+
+
+
+
+                                                 20
+
+=== Page 23 ===
+Staffing Plan
+The contractor shall:
+•        Develop and implement a staffing plan outlining the overall concept of staffing for all
+         phases of work required under this SOW.
+•        Address the ability to realign personnel in response to a changing or fluctuating
+         workload.
+•        Provide the ability to reach back to team members, vendors, and SMEs for ad-hoc
+         consulting services to respond to emergent or technically challenging assignments.
+
+
+Deliverables
+Deliverables shall be submitted via email on or before the due date specified in Table 1,
+Deliverables, or submitted in accordance with a later scheduled date mutually agreed upon by the
+Government and the Contractor. A deliverable is considered timely if submitted on or before the
+date specified in Table 1. If the Government provides any written notifications of deficiencies
+regarding the deliverable, the Contractor must correct the deficiencies within five (5) business
+days.
+The Contractor shall submit suggestions for improved grouping of deliverables or reduced
+numbers of deliverables to avoid duplication or unnecessary re-work. The Contractor shall store
+key information and Work Products in a centrally located, updated, managed, and version –
+controlled repository.
+The table below provides a description of required deliverables, due dates, and the section of the
+SOW where referenced.
+
+
+                                        Table 2. Deliverables
+
+         Item                                                                 Due                  Distributio
+                        SOW Section           Deliverable/Event
+                                                                              Date                 n
+
+     1              11.3.1               Post Award Conference       Within ten (10)           Contracting
+                                         (Kick-off)                  calendar days after       Officer’s
+                                                                     contract award            Representative
+                                                                                               (COR),
+                                                                                               Contracting
+                                                                                               Officer (CO),
+                                                                                               Chief
+                                                                                               Information
+                                                                                               Security
+                                                                                               Officer
+                                                                                               Division,
+                                                                                               (CISOD)
+                                                                                               Management
+
+
+
+
+                                                  21
+
+=== Page 24 ===
+    Item                                                         Due                 Distributio
+               SOW Section      Deliverable/Event
+                                                                 Date                n
+
+2          11.3.1            Program Management         Ten (10) calendar days      COR, CO,
+                             Plan                       after Post Award            CISOD
+                                                        Conference (Kick-off)       Management
+
+                                                        Update: Semi-annually
+3          3.2.4.3           Communications Plan        Draft: Thirty (30)          COR, CO,
+                                                        calendar days after         CISOD
+                                                        contract award              Management
+
+                                                        Final: Fifteen (15)
+                                                        calendar days after
+                                                        Government comments
+
+4          3.1.3             Disaster Recovery Plan     Draft: 30 calendar days     COR and
+                                                        after contract award        Government
+                                                                                    Leads
+                                                        Final: 45 calendar days
+                                                        after contract award
+                                                        Update: Annually
+5          4.2               Staffing Plan              Within twenty (20)          COR, CO,
+                                                        calendar days of contract   CISOD
+                                                        award                       Management
+
+
+6          3.1.2             Transition-In Plan         Draft: 10 calendar days     COR, CO,
+                                                        after contract award        CISOD
+                                                                                    Management
+                                                        Final: 30 calendar days
+                                                        after contract award
+
+7          3.1.2             Transition-Out Plan        90 calendar days from       COR, CO,
+                                                        notification by the         CISOD
+                                                        Government                  Management
+
+
+
+8          8                 Continuity of Operations   Draft: 30 calendar days     COR, CO,
+                             Plan (COOP)                after contract award        CISOD
+                                                                                    Management
+                                                        Final: 45 calendar days
+                                                        after contract award
+                                                        Update: Annually
+
+
+
+
+                                    22
+
+=== Page 25 ===
+     Item                                                       Due                 Distributio
+              SOW Section      Deliverable/Event
+                                                                Date                n
+
+9           3.1.3           Business Continuity Plan   Draft: 30 calendar days    COR, CO,
+                                                       after contract award       CISOD
+                                                                                  Management
+                                                       Final: 60 calendar days
+                                                       after contract award
+
+
+10          3.2.7           Performance and            Draft: Thirty (30)         NOSC
+                            Investment Metrics         calendar days after        Branch
+                            Program Pilot Plan         award                      Chief or as
+                                                                                  defined by
+                                                       Final: Fifteen (15)
+                                                                                  Task
+                                                       calendar days after
+                                                                                  Order
+                                                       receipt of Government
+                                                       comments on the Draft
+11          3.2.7           Performance and            Draft: Sixty (60)          NOSC
+                            Investment                 calendar days after        Branch
+                            Metrics Program            contract award             Chief or as
+                            Deployment Plan                                       defined by
+                                                       Final: Fifteen (15)
+                                                                                  Task
+                                                       calendar days after
+                                                                                  Order
+                                                       Government comments
+                                                       on the Draft
+
+12          11.1.1          Performance and            Monthly, not later than    NOSC
+                            Investment Metrics         the 15th of each month     Branch
+                            Monthly Summary                                       Chief or as
+                            Report                                                defined by
+                                                                                  Task
+                                                                                  Order
+
+14          3.2.6           Continuous Service         9 months after contract    COR. NOSC
+                            Implementation Plan        award, with updates as     Branch Chief
+                            (CSIP)                     required by the            or as defined
+                                                       Government                 by Task Order
+
+
+
+15          11.1.1          Monthly Progress           Monthly Status Report      COR, CO,
+                            Reports                    (not later than the 15th   CISOD
+                                                       of each month),            Management
+
+                                                       Meeting – 3rd Friday of
+                                                       the Month
+
+
+
+
+                                  23
+
+=== Page 26 ===
+          Item                                                              Due                   Distributio
+                     SOW Section            Deliverable/Event
+                                                                            Date                  n
+
+     16           11.1.1                 Monthly Financial         Monthly, not later than      NOSC Branch
+                                         Report                    the 15th of each month       Chief or as
+                                                                                                defined by
+                                                                                                Task Order
+
+
+
+     17                                  Yearly Lifecycle Report   Annually, not later than 5   COR, CO,
+                                                                   calendar days before end     CISOD
+                                                                   of Task Order Period of      Management
+                                                                   Performance
+
+
+
+
+Government Furnished Items
+The Government will provide the workspace, equipment and supplies necessary to perform the
+on-site portion of Contractor services required in this contract, unless specifically stated
+otherwise in this SOW.
+DHS Component Task Orders may identify Component-specific GFE, GFI, operational
+documentation, network and security policies and procedures, facility access requirements, and
+other Government-furnished resources necessary to support Component operations.
+All full-time contract employees and those requiring access to DHS information will be provided
+a government-furnished laptop computer to perform contract duties; matrixed or non-full-time
+employees may be provided other solutions at the discretion of the government.
+The Contractor shall use Government furnished facilities, property, equipment and supplies only
+for the performance of work under this contract and shall be responsible for returning all
+Government furnished facilities, property, and equipment in good working condition, subject to
+normal wear and tear.
+The Government will provide all necessary information, data, and documents to the Contractor
+for work required under this contract.
+The Contractor shall use Government furnished information, data, and documents only for the
+performance of work under this contract and shall be responsible for returning all Government
+furnished information, data, and documents to the Government at the end of the period of
+performance. The Contractor shall not release Government furnished information, data, and
+documents to outside parties without the prior and explicit consent of the Contracting Officer.
+
+
+
+
+                                                24
+
+=== Page 27 ===
+Travel
+Local travel and travel time, located within 50 miles of the standard operating locations, will not
+be reimbursed. Non-local travel shall be approved in writing in advance by the CO and the travel
+shall be funded on the contract via modification of the contract by the Contracting Officer. No
+travel may be accomplished until such time as the travel is approved in writing by the CO and
+funded via modification. All travel will be reimbursed in accordance with the Federal Travel
+regulations. Specific information on travel will be included at the Task Order level.
+
+
+Place of Performance
+The services provided under this contract will be performed primarily at Department of
+Homeland Security (DHS) facilities identified in individual Task Orders. These locations include
+DHS offices and facilities in the Washington, DC metropolitan area, Stennis, Mississippi,
+Chandler, Arizona, and other sites within the continental United States as specified by DHS.
+
+Work will generally be conducted on-site at DHS locations to ensure the highest standards of
+security and operational effectiveness. Remote work may be permitted for certain unclassified
+tasks at the discretion of the Government, but is generally discouraged. Most mission
+requirements will require a full-time on-site presence, or hybrid onsite/telework at the discretion
+of the DHS, as identified by task orders.
+
+DHS Component Task Orders may define Component specific places of performance, telework
+limitations, alternate operating locations, disaster recovery operating locations, and continuity-
+of-operations requirements necessary to support Component operations.
+
+Contractors are authorized to access classified information/materials only at DHS facilities
+and at the contractor’s site within an accredited SCIF. Contractors are authorized to access
+only unclassified and sensitive but unclassified information at their site outside of the
+accredited SCIF. Location details will be provided at the order level.
+
+Field Engineering Technical Support Services will be provided at DHS facilities and designated
+sites throughout the continental United States, as identified in Task Orders.
+
+Alternate DHS facilities may be designated as needed to support continuity of operations or
+mission requirements.
+
+The following DHS facilities and/or designated sites are included and subject to change as part
+of this SOW and in task order. DHS sites and designated sites are subject to change as required.
+
+DHS HQ – Springfield Site
+
+
+
+
+                                                 25
+
+=== Page 28 ===
+6595 Springfield Center Drive
+Springfield, VA 20598
+
+DHS HQ - Lorton Site
+10501 Furnace Road
+Lorton, VA 22079
+
+Mt W, Stennis, St E’s and Ashburn:
+
+Stennis Site
+9325 Cypress Loop Road
+Stennis Space Center, MS 39529
+
+Mt Weather EOC Site
+19844 Blue Ridge Mountain Rd
+Bluemont, VA 20135
+
+Ashburn Site
+22001 Loudoun County Parkway
+Ashburn, VA 20147
+
+St Elizabeths
+2701 Martin Luther King Jr Ave SE
+Washington DC 20032
+
+ICE Facility Chandler
+5710 W Chandler Blvd
+Chandler, AZ 85226
+
+Additional sites will be identified as other components utilize this IDIQ for support, as needed.
+Components may designate their own facilities and alternate sites at the time of task order
+execution.
+
+
+Period of Performance
+The period of performance will consist of one (1) 12-month Base Period and four (4) 12-month
+Optional Ordering Periods as listed below:
+
+
+ Base Period                                         1 year
+
+
+
+                                                26
+
+=== Page 29 ===
+ Optional Ordering Period 1                          1 year
+ Optional Ordering Period 2                          1 year
+ Optional Ordering Period 3                          1 year
+ Optional Ordering Period 4                          1 year
+
+
+Hours of Operation
+The Contractor shall provide 24x7x365 Cybersecurity and Network Management services for the
+DHS Enterprise through the Headquarters NOSC.
+The specific hours of operation will be specified at the Task Order level.
+
+
+Planned Reports and Meetings
+Recurring Reports
+The Contractor’s Program Manager shall provide regular reporting to the Government on a
+recurring basis.
+Progress Reports
+The Program Manager shall provide a Monthly Progress Report and a Monthly Financial Report
+to the Contracting Officer and COR via electronic mail. These reports shall include a summary
+of all Contractor work performed, including a breakdown of labor hours by labor category for
+time-and-materials and labor-hour tasks, all direct costs by line item at the individual service or
+resource level, an assessment of technical progress, schedule status, any travel conducted and
+any Contractor concerns or recommendations for the previous reporting period. The Progress and
+Financial reports shall be delivered as two (2) separate documents.
+The Monthly Financial Report shall provide the program financial status including the status of
+the overall Program and each Task Order. The report shall include all of the information needed
+to describe financial status of each Task Order as well as a summary of invoices across all Task
+Orders. Information shall include but not be limited to actual vs. planned costs, purchases by
+Contract Line Item Number (CLIN) and Category, obligations by Component and Task Order,
+expenses, trends, and OMB Circular No. A-11 data elements. The Monthly Financial Report
+shall also include a report of Other Direct Cost (ODC) purchases detailing the specific items
+purchased and the cost of each purchase. The report shall be delivered monthly.
+The Monthly Progress Report shall accompany the Monthly Financial report. The Monthly
+Progress Report shall provide status information for DHS operations and program, technical,
+and other types of activities for the previous month. As required, the Monthly Progress Report
+shall include but not be limited to the following:
+   •   Incident management and associated trends,
+   •   Problem management and associated trends,
+
+
+
+
+                                                27
+
+=== Page 30 ===
+   •   Configuration Report,
+   •   Asset Management Reports reflecting Configuration Management Database (CMDB) adds,
+       changes, and deletes for all FISMA Systems during the month,
+   •   Service Management Reports,
+   •   Performance and investment Metrics Reports,
+   •   Planning and Engineering (P&E) Progress Reports,
+   •   Hardware Inventory Data,
+   •   Lost/Damaged equipment,
+   •   Software Licenses Inventory including application or system owner, software type,
+       description, type of license (e.g., enterprise, single site), version, cost, date of acquisition,
+       date of installation, and anticipated end of software assurance date,
+   •   Change Management Monthly Statistical Reports,
+   •   Statistical Availability Management Monthly Reports,
+   •   Inventory Validation Status Reports.
+The information shall be formally delivered via email to the CO and COR on a monthly basis.
+Contractor Personnel Summary
+The Contractor shall provide a monthly staffing report identifying all Contractor support
+personnel having been granted Entry on Duty (EOD).
+Quarterly Capacity Management Report
+The Contractor shall provide a Quarterly Capacity Management Report to the Government IDIQ
+COR. The report shall display information (network components, fiber and Ethernet
+capacity/availability, routers, switches, IDS, Firewall, etc.) on current state as well as 12-month
+forecast of capacity trended by month.
+
+General Report Requirements
+The Contractor shall provide all written reports in electronic format with read/write capability
+using applications that are compatible with DHS workstations (e.g., Windows 10/11, Microsoft
+Office Applications, Adobe PDF).
+
+Meetings - Formal and Informal
+The Contractor shall provide agendas, take attendance, record, and distribute minutes of all
+formal meetings and informal informational meetings as appropriate. Agendas shall be provided
+twenty-four (24) hours in advance (at a minimum). A draft of the meeting minutes shall be
+provided to the CO and COR not later than 48 hours of the conclusion of the meeting.
+Post Award Conference
+The Contractor shall attend a Post Award Conference with the Contracting Officer and the COR
+no later than ten (10) business days after the date of contract award. The purpose of the Post
+
+
+
+                                                  28
+
+=== Page 31 ===
+Award Conference, which will be chaired by the Contracting Officer, is to discuss technical and
+contracting objectives of this contract and review the Contractor's draft Program Management
+Plan. The Post Award Conference will be held at a Government facility, located at an address to
+be specified at the time of contract award or via teleconference. Post Award briefing slides shall
+be provided to the CO and COR, two (2) business days prior to the Post Award Conference. Any
+changes or updates to the briefing slides shall be updated and delivered five (5) days after Post
+Award Conference.
+Monthly Program Management Review Meetings
+The Contractor’s Program Manager and appropriate staff shall meet with the COR on a monthly
+basis to conduct a formal status progress review meeting. These meetings shall take place via
+teleconference. The Progress review meeting shall review critical items in the Monthly Financial
+Report.
+Weekly Progress Meetings
+The Contractor’s Program Manager and appropriate staff shall meet with the COR weekly and
+upon request to discuss progress, exchange information and resolve emergent technical problems
+and issues. These meetings shall take place via teleconference.
+
+
+Compliance with DHS Security Policy
+All unclassified hardware, software, and services provided under this contract shall be compliant
+with DHS Sensitive System Policy Directive 4300A.
+All classified collateral hardware, software, and services provided under this contract shall be
+compliant with DHS National Security Systems Policy Directive.
+
+Sensitive But Unclassified Systems Requirements
+OCIO has determined that performance of this contract requires the Contractor access to SBU
+information. SBU is unclassified information for official use only. Contractor employees that do
+not have a security clearance and require access to SBU information will be given a suitability
+determination.
+   •   Data Security - SBU systems shall be protected from unauthorized access, modification,
+       and denial of service. The Contractor shall ensure that all aspects of data security
+       requirements (i.e., confidentiality, integrity, and availability) are included in the
+       functional requirements and system design and ensure that they meet the minimum
+       requirements as set forth in the DHS IT and cybersecurity policies and procedures. These
+       requirements include:
+           o Integrity - The computer systems used for processing SBU data shall have data
+             integrity controls to ensure that data is not modified (intentionally or
+             unintentionally) or repudiated by either the sender or the receiver of the
+             information. A risk analysis and vulnerability assessment shall be performed to
+             determine what type of data integrity controls (e.g., cyclical redundancy checks,
+             message authentication codes, security hash functions, and digital signatures, etc.)
+             shall be used.
+
+
+
+                                                 29
+
+=== Page 32 ===
+            o Confidentiality - Controls shall be included to ensure that SBU information
+              collected, stored, and transmitted by the system is protected against compromise.
+              A risk analysis and vulnerability assessment shall be performed to determine if
+              threats to the SBU information or data exist. If it exists, data encryption shall be
+              used to mitigate such threats.
+            o Availability - Controls shall be included to ensure that the system is continuously
+              working and that all services are fully available within a timeframe commensurate
+              with the availability needs of the user community and the criticality of the
+              information processed.
+     •   Data Labeling - The Contractor shall ensure that documents and media are labeled
+         consistent with the DHS Sensitive Systems Policy for systems and services delivered and
+         operated by the Contractor.
+
+TS/SCI SCIF Requirements
+The Contractor shall cooperate and comply with Government regulations to maintain the security
+posture of NOSC SCIF to meet the Department’s TS and SCI requirements. The Contractor shall
+support DHS efforts to maintain SCI accreditation as required. This task includes but is not
+limited to the following:
+     1. Coordination with the facilities provider
+     2. Support in compliance with DHS and Government Security Directives
+
+
+Supply Chain Risk Management
+Contractors supplying the Government with hardware and software items shall provide the
+manufacturer’s name, address, state and/or domain of registration and the Unique Entity ID
+(UEI) for each item. If subcontractors or subcomponents are used, the Contractor shall supply the
+name, address, state and/or domain of registration for each subcontractor or subcomponent
+manufacturer and the UEI for each subcomponent.
+a.       Definitions
+         i.      Component: a unit defined by the supplier that connects to and functions as part
+         of the product. For software products, a component is a unit of software defined by a
+         supplier at the time the component is built, packaged, or delivered. For hardware, a
+         component is one hardware unit designed to connect to and function as part of a larger
+         product.
+         ii.    End-of-Life (EOL): means that an ICT product has reached the final stage of the
+         product life cycle in which that version of the ICT product will no longer be supported
+         nor manufactured (e.g., no patches will be developed, no security improvements will be
+         made, and, sometimes, no troubleshooting technical assistance will be offered).
+         iii.    End-of-Support (EOS): means that an ICT product will no longer be supported
+         (e.g., no patches will be developed, no security improvements will be made, and,
+         sometimes, no troubleshooting technical assistance will be offered).
+
+
+
+
+                                                    30
+
+=== Page 33 ===
+      iv.     Information and Communications Technology (ICT): encompasses the capture,
+      storage, retrieval, processing, display, representation, presentation, organization,
+      management, security, transfer, and interchange of data and information; includes all
+      categories of ubiquitous technology used for the gathering, storing, transmitting,
+      retrieving, or processing of information (e.g., microelectronics, printed circuit boards,
+      computing systems, software, signal processors, mobile telephony, satellite
+      communications, and networks).
+      v.      Product: part of the equipment (hardware, software and materials) for which
+      usability is to be specified or evaluated.
+b.    Original Equipment Manufacturer (OEM) End-use Information and Communications
+Technology (ICT) Product
+      i.      The contractor shall provide new equipment unless otherwise formally approved
+      by the Government, in writing. The contractor shall provide only Original Manufacturer
+      (OEM) end-use products to the Government. In the event that a shipped OEM product, or
+      part or component of that product, fails, all replacements must be new (i.e., non-
+      refurbished, not previously used) OEM.
+      ii.    The contractor may provide previously-used OEM products only with written
+      Government approval. Such parts shall be procured from their original source and
+      shipped only from the manufacturer’s authorized shipment points.
+c.    Accounting of Components in ICT Products
+      i.      The contractor shall provide and maintain a list of components for each product
+      used in performance of the contract, including through subcontracts or other
+      arrangements. This list for each product shall provide the component manufacturer’s
+      name, address, state, and/or domain of registration, and, where applicable, the Unique
+      Entity Identifier (UEI) number, for all components comprising the ICT products.
+      ii.    The contractor shall notify the Government when a new
+      contractor/subcontractor/service provider is introduced to the ICT provided on this
+      contract, or when suppliers of components or products are changed. If a software
+      component used in the performance of the contract is updated with a new build or release,
+      the contractor must update the list provided in accordance with (i) above to reflect the
+      new version of the software. This includes software builds to integrate an updated
+      component or dependency.
+      iii.   For software products, the contractor shall provide all OEM software updates, and
+      patches to correct defects, for the life of the product [i.e., until the “End of Life” (EoL) or
+      “End of Support” (EoS)]. Software updates and patches shall be made available to the
+      government for all products procured under this Contract, and replaced when End of
+      Support (EoS) is reached.
+      iv.    A contractor using team members in performance of the contract (e.g.,
+      subcontractors or other service providers) shall ensure that the standards for the
+      accounting of components in this subsection are met by team members.
+d.    Supply-Chain Transport
+
+
+
+
+                                                31
+
+=== Page 34 ===
+       i.      The contractor shall use formal, documented and accountable transit, storage, and
+       delivery procedures (i.e., the possession of the end-use product to be delivered is
+       documented at all times from initial shipping point to final destination, and every transfer
+       of the product from one custodian to another is fully documented and accountable) for all
+       information and communication technology (ICT) shipments to fulfill this contract.
+       ii.    The contractor shall maintain all records pertaining to the transit, storage, and
+       delivery of ICT deliverables under this contract through at least 6 months after
+       acceptance, and make available for inspection upon request of the Government.
+       iii.    The contractor shall make use of tamper-proof or tamper-evident packaging for
+       all shipments.
+       iv.    The contractor shall provide a packing slip for each container or package with the
+       information identifying the contract or order number, a description of the
+       hardware/software enclosed (Manufacturer name, model number, serial number), and the
+       customer point of contact.
+       v.      The contractor shall provide a shipping notification to the intended government
+       recipient; with a copy transmitted to the Contracting Officer, or other designated
+       representative. This shipping notification shall be provided electronically and identify the
+       contract or order number, a description of the hardware/software being shipped
+       (manufacturer name, model number, serial number), initial shipper, shipping date and
+       identifying (tracking) number.
+e.     Changes to Ownership and Control
+The Contractor shall immediately notify the Contracting Officer and Contracting Officer’s
+Representative regarding any significant changes to corporate ownership or control from contract
+award through final delivery or the end of the period of performance. A significant change would
+be one in which a change occurs in the individuals or entities who, directly or indirectly, either
+(1) exercises substantial control over an entity, or (2) owns or controls at least 25 percent of the
+ownership interests of an entity.
+
+
+Handling or Processing of Classified Information
+Contractor access to classified information is required under this procurement. The maximum
+level of classification is TS/SCI/SAP.
+Additional Access: Contractors will have access to National Intelligence Information, Sensitive
+Compartmented Information (SCI), Special Access Program (SAP) information, and For Official
+Use Only (FOUO) materials.
+To ensure the Contractor is approved for access to classified information, the Contractor must
+possess an active Top Secret facility clearance granted by the Defense Counterintelligence and
+Security Agency (DCSA) at the time of proposal submission.
+The Government and/or Program Management Officer (PMO) cannot provide the exact number
+of positions, FTEs, clearance levels (e.g., Secret), access levels (e.g., SCI, NATO, COMSEC), or
+classifications (e.g., Unclassified, Sensitive but Unclassified, or CUI) at the IDIQ level. These
+details will be specified at the Task Order level.
+
+
+
+                                                 32
+
+=== Page 35 ===
+Details will be provided in a Department of Defense Contract Security Classification
+Specification DD Form 254.
+The Contractor shall abide by the requirements set forth in the DD Form 254, Department of
+Defense Contract Security Classification Specification, an attachment to the contract, and the
+National Industrial Security Program Operating Manual (NISPOM) for protection of classified
+information at its cleared facility, if applicable, as directed by the Defense Security Service.
+Classified information is Government information, which requires protection in accordance with
+Executive Order 12958, National Security Information as amended and supplemental directives.
+If the Contractor has access to classified information at a DHS owned or leased facility, it shall
+comply with the security requirements of DHS and the facility.
+The Contractor shall comply with all Government facility and security requirements while on
+Government property, including obtaining and displaying identification badges, obtaining
+vehicle decals and proper vehicle operation.
+The Contractor shall have a facility security clearance up to TS/SCI level. All personnel
+supporting this procurement shall be required to obtain and maintain a TS/SCI level clearance.
+Personnel may begin supporting this procurement with a lower clearance and may be submitted
+for an upgrade. The Government reserves the right to approve or deny suitability of the
+Contractor’s individual employees based on security risks, unsatisfactory performance, or
+disruptive influence on mission accomplishment.
+
+
+Accessibility Requirements (Section 508)
+Section 508 of the Rehabilitation Act (classified to 29 U.S.C. § 794d) requires that when Federal
+agencies develop, procure, maintain, or use information and communications technology (ICT),
+it shall be accessible to people with disabilities. Federal employees and members of the public
+with disabilities must be afforded access to and use of information and data comparable to that of
+Federal employees and members of the public without disabilities.
+All products, platforms and services delivered as part of this work statement that, by definition,
+are deemed ICT shall conform to the revised regulatory implementation of Section 508
+Standards, which are located at 36 C.F.R. § 1194.1 & Appendixes A, C & D, and available at
+https://www.ecfr.gov/cgi-bin/text-
+idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5. In the
+revised regulation, ICT replaced the term electronic and information technology (EIT) used in
+the original 508 standards. ICT includes IT and other equipment.
+Exceptions for this work statement have been determined by DHS and only the exceptions
+described herein may be applied. Any request for additional exceptions shall be sent to the
+Contracting Officer and a determination will be made according to DHS Directive 139-05,
+Office of Accessible Systems and Technology, dated November 12, 2018 and DHS Instruction
+139-05-001, Managing the Accessible Systems and Technology Program, dated November 20,
+2018, or any successor publication.
+
+
+
+
+                                                33
+
+=== Page 36 ===
+Personnel Requirements
+Security Requirements
+The Contractor shall comply with the administrative, physical, and technical security controls to
+ensure that the Government’s security requirements are met. During the course of this contract,
+the Contractor may not use, disclose, or reproduce data that bears a restrictive legend, other than
+as required in the performance of this SOW.
+The highest level of security required under this contract is Top Secret/Sensitive Compartmented
+Information (TS/SCI) and Special Access Program (SAP). Contractors will have access to
+information ranging from Unclassified up to Top Secret//SCI//SAP in support of this contract,
+including National Intelligence Information, Sensitive Compartmented Information (SCI),
+Special Access Program (SAP) information, and For Official Use Only (FOUO) materials. The
+Contractor must possess an active Top Secret facility clearance granted by the Defense
+Counterintelligence and Security Agency (DCSA) at the time of proposal submission.
+All Government furnished information must be protected to the degree and extent required by
+local rules, regulations, and procedures. The Contractor must conform to all security policies
+contained in the Security Policies and Procedures documentation. All services provided under
+this contract must be compliant with Information Security Policy, identified in MD 140-01,
+Information Technology Systems Security and DHS Sensitive Systems Policy Directive 4300A.
+
+Personnel Security Background Check Data
+All personnel employed by and/or responsible to the Contractor for work performed hereunder
+must either currently possess or be able to favorably pass a full field five (5) year background
+investigation required by Department policies and procedures for employment. This policy
+applies to any new personnel hired as replacement(s) during the term of this contract.
+The information must be correct and reviewed by the designated Security Official for
+completeness. Normally, information requested for a background investigation consists of SF-
+85P, “Questionnaire for Public Trust Positions” or SF-86, “Questionnaire for Sensitive Positions
+(For National Security)” TDF 67-32.5, “U.S.USCS Authorization for Release of Information”,
+FD-258, “Fingerprint Chart” and a Financial Statement. This policy also applies to any personnel
+hired as replacements during the term of the SOW.
+The Contractor shall ensure a minimum DHS full Background Investigation. SOC personnel
+supporting the Security Operations Center, to include CLASSIFIED and COMSEC tasks must
+also possess or must be able to obtain a Top-Secret Single Scope Background Investigation
+clearance with SCI. Upon award and when applicable, the DHS assigned COR of record will be
+responsible for processing the Department of Defense, Contract Security Classification
+Specification Form 254 (DD254) on behalf of the Contractor. The DD254 will authorize the
+Contractor to conduct additional background investigations for assigned contractor personnel
+required to access SCI facilities and/or classified National Security information and applies to
+any and all personnel hired as replacements during the term of the contract.
+The Contractor shall immediately notify the CO and COR of any Key Personnel changes.
+Written approval and confirmation are required for phone notification. This includes, but is not
+limited to, resignations, terminations, and reassignments.
+
+
+
+                                                 34
+
+=== Page 37 ===
+The Contractor is responsible for ensuring that contractor employees separating from the agency
+complete the appropriate documentation. This requirement covers all contractor employees who
+depart during the period of performance (including resignation, termination, etc.) or prior to
+expiration of the contract. Failure of the contractor to properly comply with these requirements
+must be documented and will be considered when completing Contractor Performance
+Assessment Reports.
+The contractor shall submit within ten (10) working days after award a list containing the full
+name, social security number, and date of birth of those people who require background
+investigation by the Department and submit such information and documentation as may be
+required by the Government to have a background investigation (BI) performed. The information
+provided must be correct and reviewed by the contractor for completeness. Failure of any
+contractor personnel to pass a BI is cause for the candidate’s dismissal from the contract and
+replacement by a similar and equally qualified candidate. This policy also applies to any
+personnel hired as replacements during the term of the contract.
+The Contractor must notify the COR and the Department of any changes in access requirements
+for its personnel no later than one (1) day after any personnel changes occur. This includes name
+changes, resignations, terminations, and transfers to another contract. The Contractor’s Program
+Manager is responsible for the completion and timely submission to the COR of appropriate
+documentation for all departing contractor personnel.
+Contractor Identification
+All Contractor employees shall wear Department approved identification badges at all times
+when working in Government facilities.
+The Contractor shall ensure that their personnel use the following format signature on all official
+e-mails generated by DHS computers:
+       [Name]
+       [Position or Professional Title] Supporting the XXX Division/Office
+       US Department of Homeland Security (DHS) [Phone]
+       [Other contract information as desired]
+
+Contractor Personnel
+Qualified Personnel
+The Contractor shall provide qualified personnel to perform all of the requirements specified in
+this SOW.
+Key Personnel Replacement
+Before replacing any individual designated as Key by the Government, the Contractor shall
+notify the Contracting Officer no less than fifteen (15) business days in advance, submit written
+justification for replacement, and provide the name and qualifications of any proposed
+substitute(s). All proposed substitutes shall possess qualifications equal to or superior to those of
+the Key person being replaced, unless otherwise approved by the Contracting Officer. The
+
+
+
+
+                                                 35
+
+=== Page 38 ===
+Contractor shall not replace Key Contractor personnel without prior written approval from the
+Contracting Officer.
+Continuity of Support
+The Contractor shall ensure that the contractually required level of support for this requirement is
+maintained at all times. The Contractor shall ensure that all contractor support personnel are
+present for all hours of the workday. If for any reason the Contractor staffing levels are not
+maintained due to vacation, leave, appointments, etc., and replacement personnel will not be
+provided, the Contractor shall provide email notification to the COR prior to employee absence.
+Otherwise, the Contractor shall provide a fully qualified replacement.
+Employee Identification
+Contractor employees visiting Government facilities shall wear an identification badge that, at a
+minimum, displays the Contractor name, the employee’s photo, name, clearance-level, and badge
+expiration date. Visiting Contractor employees shall comply with all Government escort rules
+and requirements. All Contractor employees shall identify themselves as Contractors when their
+status is not readily apparent and display all identification and visitor badges in plain view above
+the waist at all times. Contractor employees working on-site at Government facilities shall wear
+a Government issued identification badge. All Contractor employees shall identify themselves as
+Contractors when their status is not readily apparent (in meetings, when answering Government
+telephones, in e-mail messages, etc.) and display the Government issued badge in plain view
+above the waist at all times.
+Employee Conduct
+Contractor’s employees shall comply with all applicable Government regulations, policies, and
+procedures (e.g., fire, safety, sanitation, environmental protection, security, “off limits” areas,
+wearing of parts of DHS uniforms, and possession of weapons) when visiting or working at
+Government facilities. The Contractor shall ensure Contractor employees present a professional
+appearance at all times and that their conduct shall not reflect discredit on the United States or
+the Department of Homeland Security. The Program Manager shall ensure Contractor employees
+understand and abide by Department of Homeland Security established rules, regulations and
+policies concerning safety and security.
+Removing Employees for Misconduct of Security Reasons
+The Government may, at its sole discretion (via the Contracting Officer*), direct the Contractor
+to remove any Contractor employee from DHS facilities for misconduct or security reasons.
+Removal does not relieve the Contractor of the responsibility to continue providing the services
+required under the contract. The Contracting Officer will provide the Contractor with a written
+explanation to support any request to remove an employee.
+Employee Eligibility
+The Contractor shall ensure that each employee and potential employee provides his/her name
+and social security number (not card) so that the Government may verify the validity of the
+number. If the number is not valid, that employee will not be allowed to work on the contract
+until the problem is resolved. The Contractor shall be responsible to the Government for acts and
+omissions of their employees as well as Sub-contractor(s) and their employees.
+
+
+
+                                                 36
+
+=== Page 39 ===
+Subject to existing law, regulations, and/or other provisions of this contract, illegal or
+undocumented aliens shall not be employed by the Contractor or allowed to perform on this
+contract. The Contractor shall ensure this provision is expressly incorporated into any and all
+sub-contracts or subordinate agreements issued in support of this contract.
+Continued Eligibility
+If a prospective employee is found to be ineligible for access to DHS facilities or information,
+the COR will advise the Contractor that the employee shall not continue to work or be assigned
+to work under the contract.
+DHS reserves the right to deny and/or restrict entrance to Government facilities, prohibit
+employees from assigned work under the contract, or deny and/or restrict handling of classified
+documents/material to any Contractor employee who DHS determines to present a risk of
+compromising sensitive Government information.
+The Contractor shall report to the appropriate Government Security Office(er) and to the COR
+any and all adverse information brought to their attention concerning employees performing
+under this contract. Reports based on rumor or innuendo shall not be included. The subsequent
+termination of employment of an employee does not obviate the requirement to submit this
+report. The report shall include the employee’s name and social security number, along with the
+adverse information being reported.
+Termination
+During the period of performance of the contract, the rights of ingress and egress to and from any
+office for Contractor’s personnel shall be made available, as deemed necessary by the
+Government. All Contractor employees, whose duties under this contract require their presence
+at any Government facility, shall be clearly identifiable by a distinctive badge furnished by the
+Government. In addition, corporate identification badges shall be worn on the outer garment at
+all times. Obtaining the corporate identification badge is the sole responsibility of the Contractor.
+All prescribed information shall immediately be delivered to the appropriate Government
+Security Office(er) for cancellation or disposition upon the termination of employment of any
+Contractor personnel. All on-site Contractor personnel shall abide by security regulations
+applicable to that site.
+The Contractor shall return to the COR all DHS issued identification cards and building passes
+that have either expired or have been collected from terminated employees. If an identification
+card or building pass is not available to be returned, a report shall be submitted to the COR,
+referencing the pass or card number, name of individual to whom it was issued and the last
+known location and disposition of the pass or card.
+Suitability Determination
+DHS shall exercise full control over granting, denying, withholding, or terminating unescorted
+government facility access and/or access to or handling of both classified and sensitive
+Government information to Contractor employees based upon the results of a background
+investigation. DHS may, as it deems appropriate, authorize, and grant a favorable entry on duty
+(EOD) decision based on preliminary security checks. The favorable EOD decision would allow
+the employees to commence work temporarily prior to the completion of the full investigation.
+The granting of a favorable EOD decision shall not be considered as assurance that a full
+
+
+                                                 37
+
+=== Page 40 ===
+employment suitability authorization will follow as a result thereof. The granting of a favorable
+EOD decision or a full employment suitability determination shall in no way prevent, preclude,
+or bar the withdrawal or termination of any such access by DHS, at any time during the term of
+the contract. No employee of the Contractor shall be allowed unescorted access to a DHS facility
+without a favorable EOD decision or suitability determination by the Office of Security and
+Integrity (OSI).
+Information Technology Security Clearance
+When sensitive Government information is processed on DHS telecommunications and
+automated information systems, the Contractor shall provide for the administrative control of
+sensitive data being processed and adhere to the procedures governing such data as outlined in
+“DHS IT Security Program - Publication DHS MD 4300.Pub.” Contractor personnel shall have
+favorably adjudicated background investigations commensurate with the defined sensitivity
+level.
+Contractors who fail to comply with DHS security policy are subject to having their access to
+DHS IT systems and facilities terminated, whether or not the failure results in criminal
+prosecution. Any person who improperly discloses sensitive information is subject to criminal
+and civil penalties and sanctions under a variety of laws (e.g., Privacy Act).
+Information Technology Security Training and Oversight
+All Contractor employees using DHS automated systems or processing DHS sensitive data shall
+be required to receive Security Awareness Training.
+Contractors involved with management, use, or operation of any IT systems that handle sensitive
+information within or under the supervision of OCIO, shall receive periodic training at least
+annually in security awareness and accepted security practices and systems rules of behavior.
+DHS Contractors with significant security responsibilities shall receive specialized training
+specific to their security responsibilities annually. The level of training shall be commensurate
+with the individual’s duties and responsibilities and is intended to promote a consistent
+understanding of the principles and concepts of telecommunications and IT systems security.
+All personnel who access OCIO information systems will be continually evaluated while
+performing these duties. Supervisors shall be aware of any unusual or inappropriate behavior by
+personnel accessing systems. Any unauthorized access, sharing of passwords, or other
+questionable security procedures shall be reported to the NOC, Information Security Official, or
+OSI.
+
+
+FAR Clauses
+52.240-92 Security Requirements (DEVIATION 25-23) (AUG 2025)
+
+(a) This clause applies to the extent that this contract involves access to information classified
+Confidential, Secret, or Top Secret.
+(b) The Contractor shall comply with—
+(1) The Security Agreement (DD Form 441), including the National Industrial Security Program
+Operating Manual (32 CFR part 117); and
+
+
+                                                 38
+
+=== Page 41 ===
+(2) Any revisions to that manual, notice of which has been furnished to the Contractor.
+(c) If, after the date of this contract, the security classification or security requirements under this
+contract are changed by the Government and if the changes cause an increase or decrease in
+security costs or otherwise affect any other term or condition of this contract, the contract must
+be subject to an equitable adjustment as if the changes were directed under the Changes clause of
+this contract
+(d) The Contractor agrees to insert terms that conform substantially to the language of this
+clause, including this paragraph (d) but excluding any reference to the Changes clause of this
+contract, in all subcontracts under this contract that involve access to classified information.
+
+(e) A subcontractor requiring access to classified information under a contract shall be identified
+with a CAGE code on the DD Form 254. The Contractor shall require a subcontractor requiring
+access to classified information to provide its CAGE code with its name and location address or
+otherwise include it prominently in the proposal. Each location of subcontractor performance
+listed on the DD Form 254 is required to reflect a corresponding unique CAGE code for each
+listed location unless the work is being performed at a Government facility, in which case the
+agency location code shall be used. The CAGE code must be for that name and location address.
+Insert the word “CAGE” before the number. The CAGE code is required prior to award. The
+contractor shall ensure that subcontractors maintain their CAGE code(s) throughout the life of
+the contract.
+
+
+Other Applicable Conditions
+Requests for Exception to U.S. Citizenship Requirement
+Special procedures apply for exception to the requirement that persons accessing DHS systems
+be U.S. citizens. Under normal circumstances, only U.S. citizens are allowed access to DHS
+systems and networks; but there is a need at times to grant access to foreign nationals. Access for
+foreign nationals is normally a long-term commitment, and exceptions to citizenship
+requirements are treated differently from security policy waivers. Exceptions to the U.S.
+citizenship requirement should be requested by completing a Foreign National Visitor Access
+Request, DHS Form 11052-1, which is available online or through the DHS Office of the Chief
+Security Officer (OCSO).
+Components who have access may file their request via the Foreign National Vetting
+Management System (FNVMS), a part of the DHS OCSO Integrated Security Management
+System (ISMS). For further information regarding the citizenship exception process, contact the
+DHS OCSO. The DHS Sensitive Systems Policy 4300A applies to all DHS employees,
+contractors, detailees, others working on behalf of DHS, and users of DHS information systems
+that collect, generate, process, store, display, transmit, or receive DHS information unless an
+approved waiver has been granted. This includes prototypes, telecommunications systems, and
+all systems in all phases of the Systems Engineering Lifecycle.
+    •   .
+
+
+
+
+                                                   39
+
+=== Page 42 ===
+Post-Award Instructions Regarding Security
+Requirements for Contracts/Orders
+The procedures outlined below shall be followed for the DHS Security Office to process
+background investigations and suitability determinations, as required, in a timely and efficient
+manner.
+   •   Carefully read the security clauses in the Order. Compliance with the security clauses in
+       the contract is not optional.
+   •   Contract employees (to include applicants, temporaries, part-time and replacement
+       employees) under the contract, requiring access to sensitive information, shall undergo a
+       position sensitivity analysis based on the duties each individual will perform on the
+       contract. The results of the position sensitivity analysis shall identify the appropriate
+       background investigation to be conducted. All background investigations will be
+       processed through the DHS Security Office. Prospective Contractor employees shall
+       submit the following completed forms to the DHS Security Office: The Standard Form
+       85P shall be completed electronically through the Office of Personnel Management's e-
+       QIP SYSTEM. The completed forms shall be given to the DHS Security Office no less
+       than thirty (30) days before the start date of the contract or thirty (30) days prior to entry
+       on duty of any employees, whether a replacement, addition, subcontractor employee, or
+       vendor:
+           o Standard Form 85P, "Questionnaire for Public Trust Positions"
+           o Standard Form 85P Certification
+           o Standard Form 85P Authorization for Release of Information
+           o FD Form 258, "Fingerprint Card" (2 copies)
+           o DHS Form 11000-6 "Conditional Access To Sensitive But Unclassified
+             Information Non-Disclosure Agreement"
+           o DHS Form 11000-9, "Disclosure and Authorization Pertaining to Consumer
+             Rep01is Pursuant to the Fair Credit Reporting Act"
+   •   Only complete packages will be accepted by the DHS Security Office. Specific
+       instructions on submission of packages will be provided upon award of the contract. DHS
+       may, as it deems appropriate, authorize, and grant a favorable entry on duty (EOD)
+       decision based on preliminary suitability checks. The favorable EOD decision would
+       allow the employees to commence work temporarily prior to the completion of the full
+       investigation. The granting of a favorable EOD decision shall not be considered as
+       assurance that a full employment suitability authorization will follow. A favorable EOD
+       decision or a full employment suitability determination shall in no way prevent, preclude,
+       or bar DHS from withdrawing or terminating access to government facilities or
+       information, at any time during the period of performance of the contract. No employee
+       of the Contractor shall be allowed unescorted access to a Government facility without a
+       favorable EOD decision or suitability determination by the Security Office. No employee
+       of the Contractor shall be allowed to access sensitive information or systems without a
+       favorable EOD decision or suitability determination.
+
+
+                                                 40
+
+=== Page 43 ===
+   •   Limited access to Government buildings is allowable prior to the EOD decision if the
+       Contractor is escorted by a Government employee. This limited access is to allow
+       Contractors to attend briefings and non-recurring meetings in order to begin transition
+       work or activities.
+   •   The DHS Security Office shall be notified of all terminations /resignations within five (5)
+       calendar days of occurrence. The Contractor shall return to the COR all DHS issued
+       identification cards and building passes that have either expired or have been collected
+       from terminated employees. If an identification card or building pass is not available to
+       be returned, a report shall be submitted to the COR, referencing the pass or card number,
+       name of individual to whom it was issued and the last known location and disposition of
+       the pass or card.
+   •   When sensitive Government information is processed on Department telecommunications
+       and automated information systems, the Contractor shall provide for the administrative
+       control of sensitive data being processed. Contractor personnel must have favorably
+       adjudicated background investigations commensurate with the defined sensitivity level.
+       Contractors who fail to comply with Department security policy are subject to having
+       their access to Department IT systems and facilities terminated, whether or not the failure
+       results in criminal prosecution. Any person who improperly discloses sensitive
+       information is subject to criminal and civil penalties and sanctions under a variety of laws
+       (e.g., Privacy Act).
+   •   Failure to follow these instructions may delay the completion of suitability
+       determinations and background checks. Note that any delays in this process that are not
+       caused by the government do not relieve a contractor from performing under the terms of
+       the contract.
+   •   Your POC at the Security Office is:
+               DHS OCSO/PSD Security Customer Service Center
+               Telephone: (202) 447-5010
+               E-mailbox: officeofsecurity@dhs.gov
+
+
+Contract Management
+Contracting Officer
+This contract will be administrated by: Contracting Officer
+       Name: Tisha Blue-Warren
+       Email: tisha.blue-warren@hq.dhs.gov
+Contract Specialists
+       Name: Mike Lipperini
+       Email: Michael.Lipperini@hq.dhs.gov
+
+       Name: Nicole Belanger
+       Email: Nicole.Belanger@hq.dhs.gov
+
+
+
+
+                                                41
+
+=== Page 44 ===
+Contracting Officer’s Representative
+The COR for this contract is:
+       Name: Selina A. Green
+       Email: Selina.Green@hq.dhs.gov
+
+Task Monitors
+Task Monitors will be assigned by the COR to assist the COR in the administration of this
+contract. The Task Monitors will be appointed at the time of contract award.
+
+
+
+
+                                               42
+
+=== Page 45 ===
+List of Acronyms
+
+
+  Acronym          Definition
+
+  3DES             Triple Data Encryption Standard
+
+  AES              Advanced Encryption Standard
+
+  ATT&CK®          MITRE Adversarial Advanced Tactics, Techniques, & Common
+                   Knowledge®
+
+  BI               Background Investigation
+
+  CFMA             Cyber Forensics and Malware Analysis
+
+  CHA              Cyber Hygiene Assessment
+
+  CISA             Cybersecurity and Infrastructure security Agency
+
+  CISOD            Chief Information Security Officer Directorate
+
+  CISSP            Certified Information Systems Security Professional
+
+  CMDB             Configuration Management Database
+
+  CMMI             Capability Maturity Model Institute
+
+  CNA              Computer Network Attack
+
+  CNE              Computer Network Exploitation
+
+  CO               Contracting Officer
+
+  COE              Center of Excellence
+
+  CONOPS           Concept of Operations
+
+  CONUS            Continental United States
+
+  COOP             Continuity of Operations
+
+  COR              Contracting Officer’s Representative
+
+  CSF              National Institute of Standards and Technology (NIST) Cybersecurity
+                   Framework
+
+
+
+
+                                               i
+
+=== Page 46 ===
+Acronym   Definition
+
+CSIP      Continuous Service Improvement Program
+
+CSP       Cybersecurity Service Provider
+
+CTI       Cyber Threat Intelligence
+
+CUI       Controlled Unclassified Information
+
+DC1       DHS Data Center 1
+
+DCAP      DHS Cloud Access Point
+
+DD254     Department of Defense Contract Security Classification Specification Form
+          254
+
+DHS       Department of Homeland Security
+
+DLP       Data Loss Prevention
+
+DoD       Department of Defense
+
+EIT       Electronic and Information Technology
+
+EOD       Entry on Duty
+
+FISMA     Federal Information Security Management Act
+
+FNVMS     Foreign National Vetting Management System
+
+FOIA      Freedom of Information Act
+
+FOUO      For Official Use Only
+
+GAO       Government Accountability Office
+
+HCE       Hybrid Computing Environment
+
+HQ        DHS Headquarters
+
+HSEEP     Homeland Security Exercise Evaluation Program
+
+IDS       Intrusion Detection System
+
+IETC      International Electrotechnical Commission
+
+
+
+
+                                       ii
+
+=== Page 47 ===
+Acronym   Definition
+
+IPS       Intrusion Prevention System
+
+IPv6      Internet Protocol Version 6
+
+ISA       Interconnection Security Agreement
+
+ISMS      Integrated Security Management System
+
+ISO/IEC   International Standards Organization / International Electrotechnical Commission
+
+ISO       International Standards Organization
+
+ISSM      Information System Security Manager
+
+ISSO      Information System Security Officer
+
+ITIL      Information Technology Infrastructure Library
+
+ITO       Information Technology Operations Directorate
+
+JWICS     Joint Worldwide Intelligence Communications System
+
+LES       Law Enforcement Sensitive
+
+M&A       Monitoring and Analysis
+
+MES       Mission Essential System
+
+NCCIC     National Cyber Security and Communications Integration Center
+
+NCR       National Capital Region
+
+NISPOM    National Industrial Security Program Operating Manual
+
+NIST      National Institute of Standards and Technology
+
+NLT       Not Later Than
+
+NOC       Network Operations Center
+
+NOSC      Network Operations and Security Center
+
+NSA       National Security Agency
+
+O&M       Operations and Maintenance
+
+
+
+
+                                      iii
+
+=== Page 48 ===
+Acronym   Definition
+
+OAST      Office of Accessible Systems and Technology
+
+OCIO      Office of the Chief Information Officer
+
+OCONUS    Outside the Continental United States
+
+OCSO      Office of the Chief Security Officer
+
+ODC       Other Direct Cost
+
+OEM       Original Equipment Manufacturer
+
+OGC       Office of General Counsel
+
+OIG       Office of the Inspector General
+
+OMB       Office of Management and Budget
+
+OneNet    OneNet Enterprise Network
+
+OSI       Office of Security Integrity
+
+P&E       Planning and Engineering
+
+PKI       Public Key Infrastructure
+
+PMO       Program Management Office
+
+PMP       Project Management Professional
+
+SAP       Special Access Program
+
+SBU       Sensitive but Unclassified
+
+SCA       Security Control Assessor
+
+SCI       Sensitive Compartmented Information
+
+SCIF      Sensitive Compartmented Information Facility
+
+SDD       Solutions Development Directorate
+
+SELC      Systems Engineering Life Cycle
+
+SIEM      Security Information and Event Management
+
+
+
+
+                                       iv
+
+=== Page 49 ===
+Acronym   Definition
+
+SOC       Security Operations Center
+
+SOP       Standard Operating Procedures
+
+TIC       Trusted Internet Connection
+
+TS/SCI    Top Secret/Sensitive Compartmented Information
+
+TT&E      Test, Training, and Exercise
+
+WAN       Wide Area Network
+
+
+
+
+                                       v

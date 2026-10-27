@@ -1,0 +1,2508 @@
+=== Page 1 ===
+                                        QUESTIONS RECEIVED
+                 Retainer Contract Opportunity for Information Technology (IT) Services
+
+
+
+1. Our existing contract is scheduled to expire on January 31, 2027. Are there any plans to renew or
+   extend the existing contract?
+
+Answer: Yes. See RFP Section 1.1.2.
+
+2. If there are plans to renew or extend the existing contract, could you please advise when we can
+   expect the renewal or extension process to begin?
+
+Answer: See response to Question #1.
+
+3. The RFP states that responses will be accepted "anytime after responses to questions are posted,
+   through September 2, 2026 at 4:30 PM," with the question period closing August 6, 2026. Could you
+   please conﬁrm whether bids submitted prior to the Q&A posting will be accepted and processed, or
+   whether we should hold our submission until after that posting?
+
+Answer: Reference RFP Addendum #2 posted online at http://www.bgs.state.vt.us/pca/bids/bids.php .
+
+4. For New Retainer Suppliers, is Vermont Secretary of State registration required before proposal
+   submission, or only before contract award/execution?
+
+Answer: Registration is not required before proposal submission. See RFP Section 3.8.1.
+
+5. Response-due year / current dates: Conﬁrm the current questions-due and responses-due dates for
+   this cycle.
+
+Answer: QUESTIONS DUE BY: August 6, 2026 at 4:30 PM (EST)
+
+        RFP RESPONSES DUE BY: RFP RESPONSES WILL BE ACCEPTED ANYTIME AFTER RESPONSES TO
+        QUESTIONS ARE POSTED THROUGH November 3, 2026 at 4:30 PM EST.
+
+6. Can we do an Odyssey Discovery on your network prior to the bid?
+
+Answer: N/A
+
+7. Could the State please clarify whether proof of business registration with the Vermont Secretary of
+   State’s Oﬃce and registration with the Vermont Department of Taxes is required as part of the
+   initial proposal submission, or if this requirement applies solely to the awarded bidder(s) prior to
+   contract execution?
+
+Answer: See response to Question #4.
+
+8. Would it be possible to consider a 1–2 week extension to the proposal submission deadline?
+
+=== Page 2 ===
+Answer: Yes. See response to Question #5.
+
+9. Is there a projected contract award date and anticipated start date?
+
+Answer: Awards will begin as soon as possible once evaluated and as applicable. Anticipated start date
+is February 1, 2027.
+
+10. The link provided on page 2 of the RFP under Section 1.1.2, “IT Retainer Contracts listed online
+    here,” does not appear to be working. Could you please conﬁrm the correct link?
+
+Answer: Current retainer contracts can be found online at:
+https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+technology under Retainer Master List (revised 7-22-2026)
+
+11. Can the State conﬁrm that vendors do not need to register with the Vermont Secretary of State or
+    obtain a Vermont Department of Taxes Business Account Number before proposal submission, and
+    that these registrations are required only before contract award?
+
+Answer: See response to Question 4, and reference RFP Section 3.8.1.
+
+12. To provide the most thorough and comprehensive response, will the State consider extending the
+    proposal submission deadline by one week?
+
+Answer: Yes, See response to Question #5.
+
+13. Proposal Deadline Extension. Would the State consider extending the September 2, 2026 proposal
+    submission deadline by at least two weeks following the publication of responses to bidder
+    questions? An extension would provide bidders adequate time to review the State’s clariﬁcations
+    and incorporate them into complete and responsive proposals.
+
+Answer: See response to Queston #5.
+
+14. Our understanding is that the State of Vermont is eligible to utilize Massachusetts ITS86. What is the
+    overlap or diﬀerence with this Retainer Contract? Is there a beneﬁt to being on this contract over
+    Mass ITS86?
+
+Answer: The ITS86 portfolio is for software and related services. Vermont’s IT Retainer portfolio, by
+contrast, is for services only, which are the Information Technology Service Categories listed in the RFP.
+
+15. We have an existing State of Vermont Retainer Contract for Information Technology (IT) Services,
+    Contract # XXXXX, and are not planning to pre-qualify for any new IT Services categories. In this case,
+    are we still required to submit a response to the 2026 Retainer Contract Opportunity for Information
+    Technology (IT) Services RFP?
+
+Answer: Yes, Active Retainer Suppliers (current contract holders) do not need to submit a Technical
+Response for existing awarded services categories (see RFP Section 1.1.2.a) but must submit a bid that
+responds to all other aspects of the RFP (see RFP Section 1.1.2.c).
+
+=== Page 3 ===
+16. Section 1.1.2.a states: “Active Retainer Suppliers do not need to submit a technical response for
+    existing awarded IT service categories”. Could you please clarify whether existing Active Retainer
+    Suppliers are still required to submit Attachment A1: IT Service Categories, Roles, and Rates?
+
+Answer: Yes, see response to Question #15.
+
+17. 4.7, pg. 6: As a current contract holder, do we need to respond to any of the requirements in Section
+    4.7, such as details concerning form of business organization, company size and resources,
+    references, etc.?
+
+Answer: Only if you are seeking to pre-qualify for new IT service categories. See RFP section 1.1.2(b).
+Also see response to Question #15.
+
+18. Can you conﬁrm that Active Retainer Suppliers only need to submit a cover letter and a certiﬁcate of
+    compliance? Can you list any other submission requirements?
+
+Answer: See RFP section 1.1.2 and responses to Questions #15 and #17.
+
+19. We are currently a Retainer Vendor and do not intend to bid for any new categories. However, we
+    would like to include additional position titles under the previously awarded IT service categories.
+    Could you please conﬁrm whether we can add the new position titles in Attachment A1 and propose
+    the corresponding rates? Or would such changes require a technical response for that category?
+
+Answer: See response to Question #15
+
+20. Categories E, J, and N include updated position titles with former titles listed in brackets and
+    revised/enhanced scopes compared to the current Retainer Contract. If a supplier was previously
+    awarded the corresponding categories, is a new technical response required for these categories?
+
+Answer: See response to Question #15.
+
+21. If a current Retainer Vendor does not intend to bid for any new IT service categories, could you
+    please conﬁrm whether it is suﬃcient to state this in the Technical Response section and skip the
+    remaining technical response subsections?
+
+Answer: See response to Question #15.
+
+22. Section 1.1.2(a) states that Active Retainer Suppliers do not need to submit a technical response for
+    existing awarded IT service categories, while Sections 4.5 and 4.7 and the Bid Submission Checklist
+    refer generally to a Technical Response. If we seek requaliﬁcation only for its existing awarded
+    categories, can we omit the Technical Response entirely?
+
+Answer: Yes, see response to Question #15.
+
+23. If we may omit category-speciﬁc technical narratives for its existing awarded categories, must it
+    nevertheless submit a general response addressing Sections 4.7.1 through 4.7.4, including business
+
+=== Page 4 ===
+    organization, company size and resources, relevant experience, Vermont projects, and
+    subcontractors?
+
+Answer: See response to Question #17.
+
+24. Where an existing awarded category has been renamed or its scope has been expanded in the 2026
+    Attachment A1, will that category remain exempt from a technical response under Section 1.1.2(a),
+    or must we address the revised or expanded requirements?
+
+Answer: Yes.
+
+25. If we add new labor roles or position titles within an existing awarded category, will those additions
+    trigger a technical-response requirement for that category, or is a technical response required only
+    when an Active Retainer Supplier seeks an entirely new service category?
+
+Answer: No. Adding new titles to existing awarded categories will not trigger a requirement to submit a
+Technical Response. An Active Retainer Supplier does not need to submit a Technical Response for any
+existing awarded categories. An Active Retainer Supplier will only need to submit a Technical Response if
+it seeks to pre-qualify for new service categories that are not currently awarded.
+
+26. As an Active Retainer Supplier seeking requaliﬁcation for its currently awarded service categories,
+    must we resubmit Attachment A1 listing all existing awarded categories, position titles, and on-site
+    and remote rates, including those for which we propose no change?
+
+Answer: Yes, see response to Question #15. Please ﬁll out the Attachment A1 Dated April 30, 2025
+entirely as this will replace your existing Attachment A1. Please put “N/A” in the category you will not be
+bidding on where the $ sign is.
+
+27. Our current Retainer Contract includes speciﬁc position titles within its awarded service categories.
+    During this requaliﬁcation, may we add additional labor roles or position titles within those existing
+    awarded categories without the category being treated as a new service category?
+
+Answer: Yes. See response to Question #25.
+
+28. Must we complete Attachment A1 for all existing awarded categories and roles, including those for
+    which we propose no change, or only for categories and roles for which we propose additions or
+    rate revisions? If an existing awarded category is left blank, will the State interpret that as our
+    declining requaliﬁcation for that category?
+
+Answer: See response to Question #26.
+
+29. Since we are currently pre-qualiﬁed in all IT service categories and are not requesting any
+    additional categories, can you please conﬁrm that we are not required to submit a Technical
+    Response and that only the remaining required submission components (Cover Letter, Attachment
+    A1, Certiﬁcate of Compliance, etc.) are required?
+
+Answer: Yes.
+
+=== Page 5 ===
+30. Section 1.1.2(c) states that Active Retainer Suppliers are invited to propose lower labor costs. If an
+    Active Retainer Supplier does not wish to revise its currently awarded labor rates, should
+    Attachment A1 simply reﬂect the existing rates, or is there a preferred method to indicate that the
+    current awarded rates remain unchanged?
+
+Answer: Attachment A1 should reﬂect the proposed rates for the new IT Retainer Contract.
+
+31. Is Attachment A1 required to be completed and submitted by all Active Retainer Suppliers, even if
+    there are no changes to service categories or pricing?
+
+Answer: Yes. See response to Question #30.
+
+32. Aside from the Technical Response exemption for existing awarded categories, are there any
+    additional submission requirements or forms that diﬀer for Active Retainer Suppliers compared to
+    new suppliers?
+
+Answer: No. See RFP Section 1.1.2.
+
+33. We were awarded an IT Retainer Contract in June 2026. Can the State conﬁrm whether recently
+    awarded Active Retainer Suppliers are also required to submit a response to this RFP to maintain
+    their pre-qualiﬁed status through January 31, 2032, or are those recent awards automatically carried
+    forward?
+
+Answer: Active Retainer Suppliers must submit a response to this RFP if they wish to maintain their pre-
+qualiﬁed status. See RFP Section 1.1.2.
+
+34. In section 1.1.2, the following is stated: "a) Active Retainer Suppliers do not need to submit a
+    technical response for existing awarded IT service categories." Could the State please conﬁrm if
+    active retainer suppliers are required to submit a technical response considering that the current
+    contract expires in Jan 2027 and this new contract begins in Feb 2027?
+
+Answer: See response to Question #15 and #25.
+
+35. In section 1.1.2, the following is stated: "a) Active Retainer Suppliers do not need to submit a
+    technical response for existing awarded IT service categories." Could the State please conﬁrm if
+    Active Retainer Suppliers awarded all categories under the current contract would submit only the
+    Cover Letter, Attachment A1, and the Certiﬁcate of Compliance?
+
+Answer: Yes.
+
+36. As per the revision of Attachment A1 and as Active Retainer Suppliers, we have noticed some
+    categories have changed names and capabilities. Considering ﬁrms are required to provide a
+    technical response only for new categories we would like to incorporate in the contract, should we
+    treat these categories that changed as new categories?
+
+=== Page 6 ===
+Answer: No. See response to Question #24.
+
+37. Existing Category Conﬁrmation. The Retainer Master List revised July 22, 2026 identiﬁes XXXX
+    Contract No. XXXX, as awarded in Categories A through BB. Please conﬁrm that XXXX is an Active
+    Retainer Supplier with no new service categories requiring a technical response.
+
+Answer: If the Supplier is listed on the Retainer Master List revised July 22, 2026, then they are
+considered an Active Retainer Supplier.
+
+38. Technical Response Applicability. For an Active Retainer Supplier currently awarded in Categories A
+    through BB and seeking no new categories, please conﬁrm that no category-speciﬁc technical
+    response is required under RFP Section 1.1.2(a), and that a brief statement identifying the technical
+    response as not applicable is suﬃcient.
+
+Answer: See response to Question #15 and #37.
+
+39. Attachment A1 for Existing Categories. Must an Active Retainer Supplier seeking renewal of all
+    existing categories complete Attachment A1 for every existing category, including all currently
+    approved position titles and onsite and remote rates?
+
+Answer: Yes. See response to Question #26.
+
+40. Existing Rates Versus New Rate Schedule. If an Active Retainer Supplier does not intend to reduce
+    its existing rates, may it resubmit its currently approved roles and maximum rates, or must it
+    complete a new Attachment A1 using the form issued with this RFP?
+
+Answer: See response to Question #26.
+
+41. We understand from RFP Section 1.1.2a, that “Active Retainer Suppliers do not need to submit a
+    technical response for existing awarded IT service categories.” To conﬁrm speciﬁcally what this
+    statement means, are Active Retainer Suppliers allowed to omit all of RFP Section 4.7 TECHNICAL
+    RESPONSE? Or is it only RFP Section 4.7.2 that we do not need to submit?
+
+Answer: Yes, per RFP Section 1.1.2.a, it is ﬁne to omit all of RFP Section 4.7 Technical Response. See
+Response to Question #15.
+
+42. Are Active Retainer Suppliers previously qualiﬁed under Category J, DBA/SQLDBA/Relational
+    Database Support, required to reapply for qualiﬁcation under the renamed Category J, Database
+    Management and Engineering?
+
+Answer: No.
+
+43. Are Active Retainer Suppliers previously qualiﬁed under Category E, Enterprise GIS Services,
+    required to reapply for qualiﬁcation under the renamed Category E, GIS Services?
+
+Answer: No.
+
+=== Page 7 ===
+44. The RFP requires a single digitally searchable PDF attachment for email submission. Should
+    Attachment A1 be included inside that single PDF only, or should bidders also submit the completed
+    Attachment A1 in its original editable format?
+
+Answer: Attachment A1 should be included inside the single PDF. See RFP Section 5.2.1.
+
+45. Page limit: Is there a hard page limit on the Technical Response, or only the "discourages overly
+    lengthy" guidance?
+
+Answer: No. The State encourages concise submittals as applicable and there is an attachment size limit
+as identiﬁed in Section 5.2.2 of the RFP.
+
+46. Copies vs. electronic: The Bid Submission Checklist lists "Required Number of Copies," but
+    submission is a single email with a single PDF. Is any copy count applicable?
+
+Answer: RFP Section 6 does not indicate required number of copies. RFP Section 5.2 requires submission
+of a single digitally searchable PDF attachment.
+
+47. Regarding the required Cover Letter: Is there a page limit? Should speciﬁc items be included?
+
+Answer: No page limit. Items to address in the cover letter are speciﬁed in RFP Section 4.6.
+
+48. Does the State have a preferred or required format, template, or response structure for the
+    Technical Proposal, or may bidders organize their technical responses in a manner that best
+    demonstrates their qualiﬁcations and capabilities?
+
+Answer: Providing the bidder addresses requirements of RFP Section 4.7, bidders may organize their
+technical response in a manner that best demonstrates their qualiﬁcations and capabilities.
+
+49. Conﬁdentiality and public records: Given the RFP’s prohibition on submitting conﬁdential materials,
+    may bidders submit redacted past performance summaries (redacted client names) and
+    non-conﬁdential metrics for technical experience references? If so, are there format preferences?
+    (Ref: Section 4.1–4.4)
+
+Answer: Yes, however Bidders should avoid including speciﬁc details of their proprietary technologies or
+methodologies they consider conﬁdential, and any references to client engagements should be
+presented in a manner that does not disclose client's conﬁdential information. There are no format
+preferences.
+
+50. Format and size of ﬁnal submission: Please conﬁrm whether the State will accept an attached Excel
+    ﬁle for Attachment A1 inside the single searchable PDF, or whether Attachment A1 must be
+    embedded as searchable tables within the single PDF. Also conﬁrm the 40 MB total-attachment limit
+    applies to the single searchable PDF only. (Ref: Section 5.2.1–5.2.2)
+
+Answer: Attachment A1 must be embedded as searchable tables within the single PDF. The 40 MB
+total-attachment limit applies to the single searchable PDF.
+
+=== Page 8 ===
+51. Could the State please clarify if Adobe Sign, DocuSign, or other certiﬁed electronic/digital signatures
+    are acceptable on the submission documents and Certiﬁcate of Compliance, or if the State requires
+    handwritten ("wet") physical signatures?
+
+Answer: Yes, electronic signatures are acceptable.
+
+52. Could the State please clarify whether the Worker Classiﬁcation Compliance Requirement Form
+    must be completed and submitted with this master Retainer RFP response, or if that form is
+    required only when bidding on subsequent, speciﬁc Statement of Work (SOW) RFPs issued under
+    the retainer contract?
+
+Answer: There are two aspects to the Worker Classiﬁcation Compliance Requirement section within the
+Certiﬁcate of Compliance. Section 3.4.1 Self Reporting must be completed at time of bid and
+incorporated in the Certiﬁcate of Compliance; Section 3.4.2 Subcontractor Reporting Form is only
+required upon award of contract, and would need to be completed prior to contract signing. See RFP
+Section 3.4.
+
+53. Is there a page limit or preferred format for the Technical Response?
+
+Answer: No. See response to Question #48.
+
+54. The RFP includes the “Worker Classiﬁcation Compliance Requirement for Use with SOW-RFPs Under
+    the IT Retainer Program” among the attachments; however, it is not listed in the Bid Submission
+    Checklist. Could the State of Vermont please clarify whether this attachment is required to be
+    submitted as part of the proposal?
+
+Answer: See response to Question #52.
+
+55. Are electronic signatures allowed?
+
+Answer: Yes.
+
+56. The solicitation prohibits the inclusion of conﬁdential information; however, we consider customer
+    references and certain past performance details to be conﬁdential. Could you please clarify whether
+    this information may be included if marked as conﬁdential along with an explanation on why this is
+    considered conﬁdential, or whether a redacted version may be provided for public release?
+
+Answer: See response to Question #49.
+
+57. Required Signatures. Please conﬁrm which proposal documents require an authorized signature and
+    whether electronic or digital signatures are acceptable for Attachment A1 and the Certiﬁcate of
+    Compliance.
+
+Answer: Both the Certiﬁcate of Compliance and Attachment A1 require signature. Electronic signatures
+are acceptable.
+
+=== Page 9 ===
+58. Single-PDF Submission. For an email submission, please conﬁrm that the cover letter, technical-
+    response applicability statement, completed Attachment A1, signed Certiﬁcate of Compliance, and
+    any addenda acknowledgment must be combined into one digitally searchable PDF attachment.
+
+Answer: Correct.
+
+59. If proposals are submitted through VTBuys, are there any submission requirements that diﬀer from
+    email submission?
+
+Answer: No.
+
+60. "Please conﬁrm whether the following required proposal components—(1) Cover Letter, (2)
+    Technical Response, (3) Attachment A1: IT Service Categories, Roles and Rates, and (4) Signed
+    Certiﬁcate of Compliance—should be submitted as a single combined ﬁle or as separate ﬁles.
+
+    Additionally, given the size and length of Attachment A1, may Oﬀerors submit Attachment A1 as a
+    separate ﬁle from the Technical Response and other required proposal documents?"
+
+Answer: See response to Questions ##50 and 58.
+
+61. Are resumes required at the time of proposal submission? If yes, do we need to submit the actual
+    resumes for proposed candidates, or can we submit the sample resumes?
+
+Answer: Not mandatory but may be submitted if/as necessary to demonstrate capabilities relative to the
+speciﬁcations set out for any IT service category(s) of interest to the Bidder.
+
+62. For New Retainer Suppliers, should the technical response address only the service categories for
+    which the bidder is seeking pre-qualiﬁcation, or should it address all categories listed in Attachment
+    A1?
+
+Answer: The technical response should address only the service categories for which the bidder is
+seeking pre-qualiﬁcation.
+
+63. Should bidders include sample resumes or representative resource proﬁles with the technical
+    response, or should resumes be provided only in response to future SOW-RFP requests?
+
+Answer: See response to Question #61.
+
+64. For vendors seeking qualiﬁcation in multiple service categories, does the State prefer separate
+    category-speciﬁc technical responses, or may vendors provide a consolidated response that
+    addresses common corporate qualiﬁcations with category-speciﬁc experience and capabilities
+    identiﬁed within the document?
+
+Answer: Bidders may organize their technical response in a manner that best demonstrates their
+qualiﬁcations and capabilities across service categories they are seeking qualiﬁcation for.
+
+=== Page 10 ===
+65. Should technical responses focus primarily on ﬁrm qualiﬁcations and experience, or does the State
+    expect identiﬁcation of speciﬁc proposed personnel, certiﬁcations, and resumes for each category?
+
+Answer: See response to Question #64.
+
+66. If a vendor submits responses for multiple IT service categories, may a single technical narrative be
+    used where capabilities overlap, or does the State expect a separate response for each category?
+
+Answer: See response to Question #64.
+
+67. Could the State please clarify regarding Section 7.2 whether vendors must provide separate, distinct
+    descriptions of capabilities and experience for each individual IT Service Category bid, or if a single,
+    overarching organizational capability description addressing all selected categories is acceptable?
+
+Answer: Question unclear because RFP Section 7.2 is the Certiﬁcate of Compliance. As to capabilities
+and experience for each individual service category, see response to Question #64.
+
+68. Could the State please clarify whether a detailed Staﬃng Approach (e.g., recruitment, resource
+    allocation, onboarding, and retention methodology) is required within the initial RFP response, and
+    if so, which section of the proposal it should be included under?
+
+Answer: See response to Question #64.
+
+69. For any category requiring a technical response, should bidders include representative resumes or
+    personnel biographies, or will individual personnel qualiﬁcations and resumes be evaluated only
+    during future SOW-RFP competitions?
+
+Answer: See response to Question #64.
+
+70. Are vendors required to submit resumes with the proposal? If resumes are required, should vendors
+    submit actual candidate resumes or sample resumes?
+
+Answer: See response to Question #64.
+
+71. May vendors provide resumes or bios to demonstrate service category expertise?
+
+Answer: See response to Question #61.
+
+72. Are references required with the initial proposal submission, or will references only be requested
+    later during evaluation if needed?
+
+Answer: References are not required at time of bid. See RFP Section 4.8.
+
+73. References window: Section 4.3.4 asks for three references "in the last 12 months." Are relevant
+    references older than 12 months acceptable if more comparable?
+
+Answer: Question unclear as RFP Section 4.3.4 is Unsolicited Conﬁdential Materials.
+
+=== Page 11 ===
+74. Will experience working speciﬁcally with the State of Vermont receive greater consideration than
+    comparable experience supporting other state governments or public-sector organizations? If so,
+    please explain how this experience will be evaluated.
+
+Answer: Evaluation Criteria is identiﬁed under RFP Section 3.6.1.
+
+75. For existing active retainer suppliers seeking requaliﬁcation, will past performance under prior
+    Vermont IT Retainer Contracts be considered during proposal evaluation, and if so, how will that
+    information be incorporated into the evaluation process?
+
+Answer: Evaluation Criteria is identiﬁed under RFP Section 3.6.1.
+
+76. For the requested State of Vermont project experience list, may vendors limit submissions to
+    projects completed within the past ﬁve (5) years?
+
+Answer: No. See RFP Section 4.7.
+
+77. Vermont experience descriptions. Section 4.7.3 instructs bidders to describe Vermont project
+    experience but prohibits "references or statements from State of Vermont agencies or employees."
+    Does this prohibition apply only to formal reference letters, or does it also restrict describing speciﬁc
+    project outcomes and deliverables in the technical response?
+
+Answer: Do not include references or statements from State of Vermont employees.
+
+78. Could the State please clarify if reference letters or client contact details should be included within
+    the initial proposal submission, or if references will only be requested on an as-needed basis during
+    the evaluation process?
+
+Answer: See response to Question #72.
+
+79. Could the State please clarify whether commercial/private sector client references and past
+    performance examples are permitted to demonstrate experience and similar placements, or if the
+    State strictly prefers public sector / government references?
+
+Answer: No preference. See response to Question #64.
+
+80. For any new category requiring a technical response, is there a preferred number, timeframe, or
+    format for projects used to demonstrate relevant experience?
+
+Answer: No
+
+81. Will vendors with prior State of Vermont experience receive extra preference or evaluation points?
+
+Answer: See response to Question #74.
+
+=== Page 12 ===
+82. Will similar experience with federal, state, local government, or commercial clients be considered
+    equally?
+
+Answer: Yes. See response to Question #74.
+
+83. Should vendors include client references with the initial proposal, or provide them only when
+    requested by the State?
+
+Answer: See response to Question #72.
+
+84. Should vendors include client references with the initial proposal, or provide them only when
+    requested by the State?
+
+Answer: See response to Question #72.
+
+85. May vendors exclude contact information for references in the response and provide email/phone
+    upon written request from the state?
+
+Answer: See response to Question #72.
+
+86. Please conﬁrm bidders are not required to provide information for Section 4.8. References as part of
+    their proposals.
+
+Answer: See response to Question #72.
+
+87. Section 4.7.3 requests that bidders identify current or previous State of Vermont projects. Will prior
+    State of Vermont experience be a separately scored evaluation factor or receive additional
+    consideration during the evaluation?
+
+Answer: No.
+
+88. For bidders without previous State of Vermont experience, will comparable experience supporting
+    other state, local, or federal government agencies be considered equally relevant, provided that the
+    projects are similar in scope, complexity, and service category?
+
+Answer: Yes.
+
+89. May the same past performance project be used to demonstrate qualiﬁcations for multiple
+    proposed service categories?
+
+Answer: Yes.
+
+90. If references are requested, will the State specify which service category they should support?
+
+Answer: Yes.
+
+91. It's our understanding that we don't have to provide references as part of our proposal. Please
+    conﬁrm.
+
+=== Page 13 ===
+Answer: Correct.
+
+92. Will the State accept enterprise and federal past performance as evidence of relevant experience
+    where a bidder has limited or no prior State of Vermont engagements?
+
+Answer: Yes.
+
+93. Can we provide hourly rate ranges in the price proposal?
+
+Answer: Hourly rate ranges are not acceptable. An hourly rate must be speciﬁed for each On-Site and/or
+Remote role associated with each Title of Position identiﬁed on Attachment A1. Multiple role titles are
+permitted within a single category. Hourly rate ranges are not acceptable.
+
+94. For Attachment A1, should bidders enter one all-inclusive hourly rate per IT service category, or may
+    bidders list multiple role titles and rates under a single category where more than one role may
+    apply?
+
+Answer: See response to Question #93.
+
+95. Attachment A1 includes separate columns for On-Site and Remote hourly rates. If a bidder proposes
+    the same rate for both on-site and remote work, is that acceptable?
+
+Answer: Yes.
+
+96. Are bidders permitted to propose “No Bid” for categories they do not wish to pursue in Attachment
+    A1, while providing rates only for the categories they are seeking pre-qualiﬁcation for?
+
+Answer: Yes.
+
+97. Remote rate: Attachment B references invoicing remote hours "at the appropriate remote rate."
+    How is the remote rate set relative to the on-site A1 rate?
+
+Answer: Rates are as identiﬁed by the Bidder in Attachment A1.
+
+98. Please conﬁrm that Attachment A1: IT Service Categories, Roles and Rates, dated April 30, 2025 and
+    presented separately from the contract, is the ﬁnal and governing price schedule for this July 23,
+    2026 RFP.
+
+Answer: Correct.
+
+99. May bidders propose multiple position titles and corresponding on-site and remote hourly rates
+    within a single Attachment A1 service category?
+
+Answer: See response to Question #93.
+
+=== Page 14 ===
+100. May a bidder submit diﬀerent labor role titles within a service category so long as the proposed
+   services align with the category requirements, or should bidders use the role titles reﬂected in
+   Attachment A1 exactly as written?
+
+Answer: See response to Question #93.
+
+101. For service categories in Attachment A1 that include multiple roles or subcategories, should
+   bidders enter a separate on-site and remote rate for each listed role/subcategory, or provide one
+   on-site and one remote rate for the overall service category?
+
+Answer: See response to Question #93.
+
+102. Attachment B references separate on-site and remote rates. Does a bidder need to supply rates
+   for both categories to become a qualiﬁed Supplier?
+
+Answer: See response to Question #93.
+
+103. Attachment A1 formatting: Please conﬁrm the preferred ﬁle format and template for
+   Attachment A1 (e.g., Excel vs PDF). Must bidders provide separate on-site and remote hourly rates
+   for every listed role, or are blended/tiered rates acceptable? (Ref: Attachment A1 / Section 4.9)
+
+Answer: See response to Questions #50 and #93.
+
+104. Attachment A1 role ﬂexibility: May bidders propose equivalent role titles or additional role tiers
+   not explicitly listed in Attachment A1, provided duties map to the category descriptions? If yes, is
+   there a preferred way to present those mappings? (Ref: Attachment A1)
+
+Answer: Yes. See response to Question #93.
+
+105. Rate structure within categories. Category A shows separate rate lines for Business Analysis and
+   Project Management, and Category L shows three separate rate lines. For other categories that
+   describe multiple distinct roles — such as Category F, which covers both security auditing and
+   penetration testing — may vendors submit separate rates for each role, or is a single rate expected
+   per category?
+
+Answer: See response to Question #93.
+
+106. Attachment A1 format. Will the State provide an editable version of Attachment A1 for vendors
+   to complete and submit? Or should we just recreate it?
+
+Answer: A ﬁllable Attachment A1 was posted with the RFP at
+http://www.bgs.state.vt.us/pca/bids/bids.php . The ﬁllable Attachment A1 is available at
+https://view.oﬃceapps.live.com/op/view.aspx?src=http%3A%2F%2Fwww.bgs.state.vt.us%2Fpca%2Fbids
+%2Fpdf%2FA1%2520IT%2520Service%2520Categories-Roles-Rates%2520-%252004-30-25%2520-
+%2520FINAL%2520-%2520LOCKED.docx&wdOrigin=BROWSELINK .
+
+=== Page 15 ===
+107. Could the State please clarify if vendors are permitted to include specialized labor sub-
+   categories, expanded role descriptions, or additional labor tiers within a given IT Service Category
+   beyond the standard deﬁnitions provided in the RFP?
+
+Answer: Yes.
+
+108.    Please conﬁrm if a same position title can be added in more than 1 IT service category?
+
+Answer: Yes. See response to Question #93.
+
+109. For categories in Attachment A1 that list multiple roles or sub-categories (e.g., Category A,
+   Category L), should bidders propose a single blended hourly rate per category, or separate rates by
+   role? If separate, may bidders add rows?
+
+Answer: Yes, Separate rates by role, additional rows are ﬁne.
+
+110. May we retain current rates for some existing roles, revise rates for other existing roles, and
+   establish new rates for newly proposed roles within the same Attachment A1 submission?
+
+Answer: Yes, but you will need a technical response for any new service categories.
+
+111. Can we list multiple position titles and experience levels within a service category, such as
+   junior, intermediate, senior, lead, manager, architect, consultant, or specialist roles?
+
+Answer: See response to Question #93.
+
+112. Attachment B states that roles not speciﬁed in Attachment A1 are not authorized under an SOW
+   Agreement. Please conﬁrm that each additional role we may wish to propose under a future SOW
+   must ﬁrst be expressly listed in vendor’s Attachment A1.
+
+Answer: Correct.
+
+113. For each Attachment A1 service category, can we propose separate on-site and remote hourly
+   rates for each position title, seniority level, or labor level, consistent with the structure of its current
+   contract, or does the State expect one blended on-site rate and one blended remote rate for the
+   entire category?
+
+Answer: See response to Question #93.
+
+114.    Can we revise rates for some roles and adding rates for newly proposed roles?
+
+Answer: Yes. See response to Question #93.
+
+115. Attachment A1 Rate Structure. For each IT service category, may a vendor propose multiple
+   named roles (e.g., Senior Consultant, Principal Consultant, Architect, Analyst) with separate rates, or
+   is the State expecting a single role and rate per category?
+
+=== Page 16 ===
+Answer: See response to Question #93.
+
+116. Will the State provide the minimum education, certiﬁcations, or years of work experience
+   required for each role so we can propose properly qualiﬁed resources and prepare accurate pricing?
+
+Answer: Speciﬁc resource requirements will be deﬁned in each individual SOW RFP.
+
+117. Could the State please conﬁrm if additional job roles can be added at a Statement of Work level
+   once requirements have been deﬁned?
+
+Answer: See response to Question #112.
+
+118. Position Title Changes. May an Active Retainer Supplier add, modify, or remove position titles
+   within an existing awarded category without the change being treated as a request for a new service
+   category?
+
+Answer: Yes.
+
+119. Attachment A1 Formatting. May bidders add rows or continuation pages to Attachment A1 to
+   accommodate multiple position titles, provided the State-issued category descriptions and onsite
+   and remote rate columns remain unchanged?
+
+Answer: Yes.
+
+120. Several categories contain broad capability descriptions but do not identify speciﬁc experience
+   levels. May bidders provide separate rates for junior, mid-level, senior and principal resources, or
+   must one on-site and one remote rate be proposed for each category?
+
+Answer: Bidders can propose diﬀerent levels as long as those levels have remote and on-site rates. See
+response to Question #93.
+
+121.    When pricing at the service category level, may vendors provide tiered labor rate pricing?
+
+Answer: Yes
+
+122.    When pricing at the service category, may vendors include multiple roles/labor categories?
+
+Answer: Yes.
+
+123. Regarding Attachment A1, will the State allow bidders to add headers and footers that are
+   consistent with their proposal template to this attachment?
+
+Answer: No.
+
+124. Regarding Attachment A1, will the State allow bidders to remove the automatic page numbering
+   and the date (April 30, 2025) from this attachment?
+
+=== Page 17 ===
+Answer: No.
+
+125. If an SOW requires a labor role not identiﬁed in Attachment A1, what process will the State use
+   to authorize that role?
+
+Answer: See response to Question 112.
+
+126.   Must pricing be provided for every listed position within each proposed service category?
+
+Answer: Yes.
+
+127. If Attachment A1 is amended during the contract term, will those amendments automatically
+   apply to existing Retainer Contracts or only to future solicitations?
+
+Answer: Question unclear.
+
+128. Please conﬁrm whether providing hourly rate ranges, rather than ﬁxed hourly rates, is
+   acceptable.
+
+Answer: See response to Question #93. Hourly rate ranges are not acceptable.
+
+129. Please conﬁrm that Attachment A1 dated April 30, 2025 is the required category and pricing
+   form for this 2026 procurement. May bidders add multiple position titles or experience levels, with
+   separate on-site and remote rates, within Categories A, G, J, N, O, and U? If not, how should
+   diﬀerently priced roles be entered?
+
+Answer: Attachment A1 dated April 30, 2025 is the required form for this procurement. See response to
+Question #93.
+
+130. Attachment A1: IT Service Categories, Roles and Rates is referenced as a separate attachment.
+   Can the State conﬁrm where Attachment A1 can be obtained, and whether the categories, roles,
+   and maximum allowable rates for this solicitation are unchanged from the prior retainer cycle or
+   have been revised?
+
+Answer: See response to Queston #106. Service Categories remain unchanged by the State. Roles and
+Rates are set by the bidders.
+
+131. Does Attachment A1 establish distinct on-site and remote rate structures, or is the remote rate
+   negotiated at the SOW level?
+
+Answer: See response to Question #93. Lower rates may be proposed in response to an SOW RFP.
+
+132. Will the County allow mid-contract price adjustments (e.g., for agency fees or wage rates), and if
+   so, under what conditions?
+
+Answer: No.
+
+=== Page 18 ===
+133. If adjustments are permitted, is there a speciﬁed mechanism (e.g., annual review, CPI-based
+   increase, or mutual negotiation) that governs such changes?
+
+Answer: See response to Question #132.
+
+134. Should the initial proposal reﬂect ﬁxed pricing for the entire term, or can adjustments be
+   proposed in advance as part of the contract?
+
+Answer: Reference RFP Section 3.1.1.
+
+135. The RFP states that rates will remain ﬁrm for the contract term ending January 31, 2032. Will
+   the State permit annual rate adjustments or other modiﬁcations to account for wage inﬂation,
+   changes in statutory employment costs, or material changes in market conditions?
+
+Answer: No.
+
+136. Given the contract term extends through January 31, 2032, will vendors have an opportunity to
+   request rate adjustments during the contract period, or will awarded rates remain ﬁxed for the
+   duration of the contract?
+
+Answer: See RFP Section 3.1.1.
+
+137. Do the hourly rates proposed in Attachment A1 become ﬁxed maximum rates for the full
+   contract term through January 31, 2032, with no escalation mechanism, even for future SOWs
+   awarded several years after contract execution?
+
+Answer: See response to Question #136.
+
+138. May vendors oﬀer project-based ﬁxed pricing during individual SOW solicitations even if
+   Attachment A1 contains hourly rates?
+
+Answer: Yes.
+
+139. Will there be an opportunity to revise labor rates during the ﬁve-year contract term in response
+   to market conditions or inﬂation?
+
+Answer: No.
+
+140. The RFP indicates that awarded labor rates will remain in eﬀect for the duration of the contract
+   term. Assuming the State continues to open the retainer contract to additional vendors or
+   categories through future annual solicitations, will existing retainer suppliers have an opportunity to
+   submit updated Price Schedules through those solicitations? If not, would the State accept a rate
+   schedule that reﬂects anticipated escalation over the ﬁve-year contract period?
+
+Answer: See response to Question #139.
+
+=== Page 19 ===
+141. Rate re-opener / escalation: Given the multi-year ﬁrm-rate requirement, does the State permit
+   any narrowly deﬁned rate re-opener for extraordinary statutory changes (e.g., legislatively
+   mandated wage increases) or material regulatory changes? If yes, describe the process and
+   approvals required. (Ref: Section 3.1 Pricing / Section 3.8 Contract Terms)
+
+Answer: No.
+
+142. Could the State please clarify if there are maximum allowable rate caps or speciﬁc pricing
+   thresholds established for the hourly rates submitted in Attachment A1, or will market-rate
+   competitiveness be evaluated solely across vendor submissions?
+
+Answer: There are no rate caps.
+
+143. The RFP states that Active Retainer Suppliers are invited to propose lower labor costs. Are Active
+   Retainer Suppliers limited to retaining or reducing their existing rates, or may they propose justiﬁed
+   increases based on changes in market wages, employee beneﬁts, inﬂation, and other labor costs
+   since the current rates were established?
+
+Answer: See RFP Section 1.1.2 (c). The RFP does not require the Active Retainer Suppliers to propose
+lower labor costs. See response to Question #15.
+
+144. Can we revise the rates currently included in our current retainer contract which is expiring next
+   year when submitting the 2026 Attachment A1?
+
+Answer: Yes. See response to Question #15.
+
+145. The RFP states that Active Retainer Suppliers are invited to propose lower labor costs. Are
+   suppliers limited to retaining or reducing their existing rates, or may they propose justiﬁed increases
+   based on changes in market wages, employee beneﬁts, inﬂation, and other labor costs since the
+   current rates were established?
+
+Answer: See response to Question #143.
+
+146. For newly added roles within an existing awarded category, can we propose new rates that
+   diﬀer from, or are higher than, the rates currently approved for other roles in that category?
+
+Answer: Yes. See response to Question #15.
+
+147. Could the State please conﬁrm that all rates provided in Attachment A1 must be all-inclusive
+   hourly bill rates?
+
+Answer: Correct.
+
+148. The resulting contract extends through January 31, 2032, and the RFP states that rates will
+   remain ﬁrm for the contract term. Will the State permit an annual rate adjustment based on CPI, an
+   established escalation percentage, or another approved index?
+
+=== Page 20 ===
+Answer: See response to Question #139.
+
+149. Can the state conﬁrm that the on-site and remote rates proposed in Attachment A1 represent
+   maximum ceiling rates and that vendors may propose lower rates or ﬁxed-price deliverables in
+   response to individual SOW-RFP?
+
+Answer: Correct.
+
+150.    Are the rates submitted in Attachment A1 considered maximum allowable rates?
+
+Answer: Correct.
+
+151.    May contractors propose lower project-speciﬁc pricing during SOW competitions?
+
+Answer: Yes.
+
+152. Given the contract term extends through January 31, 2032, is there any mechanism for adjusting
+   rates during the contract period?
+
+Answer: See response to Question #139.
+
+153.    Can agencies require rates below those established in the retainer agreement?
+
+Answer: Yes
+
+154. During future SOW competitions, may contractors propose rates below their awarded maximum
+   rates?
+
+Answer: Yes
+
+155. May agencies negotiate labor rates below the awarded maximum rates during individual SOW
+   competitions?
+
+Answer: Yes
+
+156. For ﬁxed-price SOWs, will Attachment A1 labor rates be used only to develop the ﬁxed price, or
+   will those rates also be evaluated separately?
+
+Answer: Question unclear.
+
+157. It's our understanding that we are required to provide fully burdened hourly bill rates in
+   Attachment A1, please conﬁrm.
+
+Answer: Correct.
+
+158. Does the State impose any category- or role-speciﬁc maximum rate ceiling separate from a
+   bidder's proposed Attachment A1 rates? If so, please provide the ceilings for Categories A, G, J, N, O,
+
+=== Page 21 ===
+    and U. Also, does 'best pricing' mean the bidder's most competitive oﬀer for this procurement, or a
+    certiﬁcation that the rates are the lowest rates oﬀered to any commercial or government customer?
+
+Answer: The State does not impose any category- or role-speciﬁc maximum rate ceiling separate from a
+bidder's proposed Attachment A1 rates. Best pricing means most competitive oﬀer for this procurement.
+See RFP Section 3.6.
+
+159. Given that rates are ﬁrm for the contract term (February 1, 2027 – January 31, 2032), does
+   Attachment A1 or the resulting Retainer Contract include any mechanism for periodic rate review or
+   adjustment over the ﬁve-year term?
+
+Answer: See answer to Question #139.
+
+160.    What is the intended number of awards (approximate number)?
+
+Answer: N/A
+
+161.    Please provide the evaluation criteria.
+
+Answer: See RFP Section 3.6.1.
+
+162. Will the State evaluate and award vendors by individual IT service category, or will the State
+   make one overall qualiﬁcation decision for each bidder?
+
+Answer: The State will evaluate and award by IT service category.
+
+163. Evaluation weighting: The RFP lists "pricing" and "qualiﬁcations and experience" as criteria with
+   no points or weights. Can the State indicate the relative importance of price vs. qualiﬁcations?
+
+Answer: RFP Section 3.6.1 lists more than just the two criteria noted in this question. All listed criteria
+will be considered when making a decision to pre-qualify a Supplier for an IT service category.
+
+164. Number of awards: Will the State cap the number of pre-qualiﬁed vendors per category, and if
+   so how?
+
+Answer: Unknown.
+
+165. Please provide the anticipated number of suppliers the State expects to award within each IT
+   service category and clarify whether there is a maximum number of awards available within each
+   category.
+
+Answer: Unknown.
+
+
+166. Please provide the evaluation methodology, including the relative weighting assigned to pricing,
+   technical capabilities, relevant experience, prior State of Vermont experience, and incumbent
+   performance.
+
+=== Page 22 ===
+Answer: See response to Question #163.
+
+167. Since Active Retainer Suppliers are not required to submit a technical response for their
+   currently awarded categories, how will the State evaluate their current technical capabilities against
+   those of New Retainer Suppliers submitting complete technical responses?
+
+Answer: See response to Question #163. Active Retainer Suppliers will be re-qualiﬁed in their existing
+awarded services categories to the extent they submit a response that complies with all applicable RFP
+requirements.
+
+168. Does the State anticipate awarding vendors in all service categories, or will there be a limit on
+   the number of vendors per category?
+
+Answer: See response to Question #164.
+
+169. Will the State make awards in every service category listed in Attachment A1, or only in those
+   categories where qualiﬁed responses are received?
+
+Answer: The State anticipates awarding in every category based on qualiﬁed responses.
+
+170. The RFP states that the State reserves the right to limit the number of pre-qualiﬁed Suppliers for
+   each IT service category. Can the State provide additional information regarding the factors that will
+   be used to determine any category-speciﬁc limitation?
+
+Answer: The State has no information responsive to the question.
+
+171. Evaluation weighting: Please provide the evaluation weighting or relative priorities for scoring
+   (e.g., price vs technical qualiﬁcations vs resident bidder preference vs climate considerations) or tell
+   us whether the State will provide an evaluation matrix. (Ref: section 3.6 Evaluation Criteria)
+
+Answer: See response to Question #163.
+
+172. Resident bidder preference and climate scoring: Please clarify how resident bidder preference
+   and the Executive Order 05-16 climate considerations will be applied and weighted during
+   evaluation, and what documentation the State expects to substantiate climate-related claims. (Ref:
+   Section 3.6.1 and Section 3.5)
+
+Answer: RFP Section 3.6 explains how preferences may be applied. The Certiﬁcate of Compliance
+included with the RFP solicits information from bidders relative to Executive Order 05-16.
+
+173. BAFOs and presentations: Under what circumstances will the State request Best and Final Oﬀers
+   or presentations, will those be scored, and what logistic/format expectations (in-person vs webinar,
+   time limits) should bidders anticipate? (Ref: Section 3.2.1–3.2.2)
+
+Answer: Any BAFOs and/or demonstrations associated with this RFP would be after an award is made,
+and then speciﬁc to an SOW RFP engagement. Generally an in-person or webinar demonstration by a
+
+=== Page 23 ===
+Bidder may be required by the State if it will help the State’s evaluation process. The State will factor
+information presented during demonstrations into the evaluation.
+
+174. Could the State please clarify if there are any speciﬁc scoring preferences, quantitative point
+   allocations, or local vendor advantages applied during evaluation for Vermont-based businesses or
+   Small/Disadvantaged Business Enterprises (SBE/DBE)?
+
+Answer: See RFP Section 3.6.
+
+175.    Is this contract intended for a single vendor or for multiple vendors?
+
+Answer: Multiple vendors.
+
+176.    How many vendors does the State expect to select for each IT service category?
+
+Answer: Unknown.
+
+177.    Are there any scores for the evaluation criteria? If so, could you please share them.
+
+Answer: See response to Question #163.
+
+178. What are the anticipated number of vendors the State expects to prequalify within each IT
+   service category and whether a maximum number of awards may be established for any category?
+
+Answer: Unknown.
+
+179. Will each IT service category be evaluated and awarded independently, such that a bidder may
+   be selected for some proposed categories but not others?
+
+Answer: Correct. See response to Question #162.
+
+180.    How many vendors does the State anticipate awarding in each category?
+
+Answer: Unknown.
+
+181. Resident Bidder Preference. The RFP indicates that preference may be provided to Vermont
+   resident bidders when all other considerations are equal. Please clarify how the resident bidder
+   preference will be applied during the evaluation process and whether non-resident vendors will
+   receive equal consideration when they demonstrate comparable qualiﬁcations, experience,
+   technical capabilities, and pricing.
+
+Answer: See response to Question #172.
+
+182. Detailed Evaluation Criteria and Weighting. Section 3.6.1 identiﬁes pricing, qualiﬁcations,
+   relevant experience, technical strengths, successful project performance, and acceptance of
+   contract terms as evaluation considerations. Will the State provide a detailed evaluation matrix
+
+=== Page 24 ===
+    showing the scoring methodology, point allocation, or relative weighting assigned to each evaluation
+    factor?
+
+Answer: See response to Question #163.
+
+183. Evaluation by Individual Service Category. Will bidders be evaluated and scored separately for
+   each IT service category proposed, or will the State conduct a single overall evaluation of the
+   bidder’s complete response?
+
+Answer: See response to Question #162.
+
+184. Minimum Qualiﬁcations and Award Thresholds. Is there a minimum technical score, minimum
+   experience requirement, or other qualiﬁcation threshold that a bidder must meet to be awarded a
+   contract in a particular IT service category?
+
+Answer: No. At a minimum, Bidders must meet requirements of the RFP and demonstrate qualiﬁcations
+and capabilities across service categories they are seeking pre-qualiﬁcation for.
+
+185. Anticipated Number of Awards. Does the State have an anticipated minimum or maximum
+   number of vendors that it intends to prequalify within each IT service category?
+
+Answer: N/A
+
+186.    Is there a limit to the number of vendors that can be on this Retainer Contract?
+
+Answer: N/A.
+
+187. If the number of qualiﬁed responses exceeds the State's desired limit, what criteria will be used
+   to determine which suppliers are awarded a retainer contract?
+
+Answer: The State does not have a desired limit.
+
+188. Will the State publish or otherwise disclose the relative weighting of qualiﬁcations, technical
+   capability, and pricing for this procurement?
+
+Answer: No. See response to Question #163.
+
+189. The RFP states that the State may award one or more contracts and may make additional
+   awards if it is in the State's best interest. Can the State describe the process and evaluation criteria
+   that would be used for making additional awards after the initial award?
+
+Answer: Additional awards would be subject to the RFP evaluation criteria.
+
+190. Will the State provide the relative importance of pricing, qualiﬁcations, and experience, or
+   conﬁrm that these factors are evaluated qualitatively without predeﬁned weights?
+
+Answer: See response to Question #162.
+
+=== Page 25 ===
+191. If clariﬁcation requests are issued during evaluation, may bidders provide additional supporting
+   documentation when requested?
+
+Answer: Yes, but only to the clariﬁcation(s) requested.
+
+192. Will each selected IT service category be evaluated and awarded independently, so that a bidder
+   may receive some but not all requested categories? Please identify any category-speciﬁc minimum
+   qualiﬁcations, scoring weights, qualifying thresholds, or anticipated limits on the number of
+   awardees.
+
+Answer: See response to Questions #162, #163 and #164.
+
+193. Section 1.1.3 reserves the right to limit the number of pre-qualiﬁed suppliers per category. Can
+   the State describe how that limit is determined and applied, and whether a cap is anticipated for
+   this cycle?
+
+Answer: See response to Question #164.
+
+194. For evaluation, how will the State weight pricing relative to qualiﬁcations and experience, and is
+   pre-qualiﬁcation scored competitively or assessed against a minimum threshold?
+
+Answer: See response to Question #163.
+
+195. Because Active Retainer Suppliers may re-qualify existing categories without submitting a
+   technical response, will New Suppliers be evaluated against the same standard, and are new
+   entrants and incumbents pooled within the same per-category supplier limit?
+
+Answer: See response to Questions #167 and #164.
+
+196. Has the State oﬃcially selected Documentum and OnBase statewide for ECM, and that is why
+   those are listed speciﬁcally in the “Enterprise Content Management” section, or does the State not
+   take a position on which ECM providers agencies utilize? If the State is software agnostic on ECM,
+   can a vendor be responsive if they oﬀer these services for other ECM platforms instead of those that
+   are listed?
+
+Answer: Yes.
+
+197. Attachment A1: Please conﬁrm which service category or categories cover GIS and UAS/drone
+   work, and provide the current Attachment A1 roles-and-rates form to be completed.
+
+Answer: GIS Services (formerly Enterprise GIS Services). See response to Question #106.
+
+198. For vendors awarded under the Independent Review category, how will the State evaluate
+   potential organizational conﬂicts of interest when those same vendors may also hold awards under
+   project management, ERP advisory, strategic planning, or other consulting-related categories?
+
+Answer: This would be reviewed and addressed at SOW RFP stage.
+
+=== Page 26 ===
+199. Could you please conﬁrm will future SOWs include emerging technologies such as Artiﬁcial
+   Intelligence, Generative AI, Machine Learning, Data Engineering, Data Governance, Cloud
+   Modernization, and Data Analytics?
+
+Answer: Yes.
+
+200. Will additional service categories be introduced during the ﬁve-year retainer period, and if so,
+   will existing vendors have an opportunity to qualify for them?
+
+Answer: New or additional service categories are not anticipated at this time.
+
+201. How many of these services can be isolated to bid on? For example, if we can do most of the
+   work here but do not due web services for example, will we be discluded?
+
+Answer: See RFP Section 1.1. A Bidder can seek to pre-qualify in any one or more categories of services.
+There is no limit.
+
+202.    Do we have access to your 3rd party vendors, ie: PeopleSoft?
+
+Answer: No.
+
+203. Independent review subcategories: For the “Standard” and “Complex” Independent Review
+   subcategories, please conﬁrm the State’s deﬁnitions/criteria for classifying a review as Standard vs
+   Complex and whether vendors should cap proposals at the $25k/$0k maxima listed. (Ref:
+   Independent Review section / Attachment A1)
+
+Answer: A larger project may require a more complex review while smaller projects may require a
+smaller standard review. The IR SOW RFP will clarify if the review is considered complex or standard.
+
+204. Category H (Independent Review) is deﬁned by project maximums ($25,000 / $50,000) but
+   includes On-Site/Remote hourly rate columns. Should bidders enter hourly rates, the ﬁxed
+   maximums, or leave the rate columns blank?
+
+Answer: See response to Questions #138 and #149.
+
+205. Security Category Overlap. Can the State clarify the distinction between Category F
+   (Hardware/Software/Application Security Support), Category T (Security Engineer Services), and
+   Category Y (Cyber Security Incident Response and Management), and whether vendors may qualify
+   for all three categories using overlapping subject matter experts?
+
+Answer: Requirements and capabilities are laid out within each Service Category in Attachment A1,
+bidders could receive awards for any one or all three categories.
+
+=== Page 27 ===
+206. Incident Response Availability. For Category Y, does the State expect vendors to provide
+   24x7x365 incident response coverage directly through their organization, or is an escalation model
+   supported by partners and subcontractors acceptable?
+
+Answer: Dependent on the project and agency need.
+
+207. Vulnerability Management Deliverables. For Categories F and Y, can the State clarify whether
+   vulnerability management, security operations, and continuous monitoring services may include
+   vendor-provided technology platforms, or whether the State is seeking professional services and
+   advisory support only?
+
+Answer: This RFP is for IT professional services only.
+
+208. Attachment A1 references AWS, Microsoft Azure, Google Cloud and other infrastructure-as-a-
+   service providers. Does the State have a preferred strategic cloud platform, or will the required
+   platform and hosting model be identiﬁed separately within each SOW-RFP?
+
+Answer: Requirements will be identiﬁed separately within each SOW-RFP.
+
+209. Will future cloud and DevOps SOWs require infrastructure to be provisioned and managed
+   through Infrastructure as Code? If so, does the State have preferred tools, standards or repositories,
+   such as Terraform, GitHub or Azure DevOps?
+
+Answer: Unknown at this time. Requirements will be identiﬁed in an SOW RFP.
+
+210. For DevOps engagements, will the State deﬁne required CI/CD, container orchestration,
+   conﬁguration management, monitoring and logging technologies in each SOW, or should vendors
+   propose a recommended toolchain and reference architecture?
+
+Answer: See answer to Question #209.
+
+211. For technical architecture engagements, does the State expect vendors to align with an
+   established statewide enterprise architecture, cloud governance framework or approved technology
+   standards? If so, will those standards be made available with each SOW-RFP?
+
+Answer: Standards be made available with each SOW-RFP
+
+212. For cybersecurity incident-response services, does the State expect vendors to provide
+   continuous 24/7 coverage under the retainer, or will staﬃng levels, response times, escalation
+   procedures and service-level requirements be established within each individual SOW?
+
+Answer: See answer to Question #209.
+
+=== Page 28 ===
+213. For Data Management and Engineering engagements, will each SOW specify whether the
+   solution must use State-standard platforms such as AWS RDS, Azure SQL, Snowﬂake, Redshift,
+   Synapse, Databricks or another approved data platform?
+
+Answer: See answer to Question #209.
+
+
+214. The Digital Analytics, BI and Data Science category includes machine learning and cloud AI/ML
+   platforms. Does the State anticipate SOWs involving generative AI, large language models,
+   responsible AI, AI governance or model-security services under this category?
+
+Answer: Unknown at this time. There is a possibility.
+
+215. For application-development SOWs, will the State prescribe required development frameworks,
+   API standards, accessibility standards and deployment platforms, or may vendors propose the most
+   appropriate modern architecture based on the business need?
+
+Answer: Standards be made available with each SOW-RFP
+
+216. Are equivalent project management certiﬁcations acceptable in lieu of PMI certiﬁcation where
+   referenced?
+
+Answer: PMI certiﬁcation will be needed for some SOW RFPs.
+
+217. Does the Certiﬁed Scrum Trainer requirement apply only to formal certiﬁcation training or to all
+   Agile coaching services?
+
+Answer: All Agile coaching services
+
+218. May vendors propose multidisciplinary teams for service categories that encompass multiple
+   technical disciplines?
+
+Answer: Yes
+
+219.    May a contractor be awarded both the Standard and Complex Independent Review categories?
+
+Answer: Yes
+
+220.    Are the Independent Review maximum values inclusive of all expenses or labor only?
+
+Answer: Yes
+
+221.    Are the listed technology frameworks representative examples or mandatory qualiﬁcations?
+
+Answer: Bidders should be familiar with working with these technology frameworks for the associated IT
+category.
+
+=== Page 29 ===
+222. How will future Salesforce products not listed in Attachment A1 be evaluated under future
+   SOWs?
+
+Answer: Requirements will be listed in each individual SOW RFP.
+
+223. Would holding an active retainer contract under Category H – Independent Review, including
+   the Standard Independent Review subcategory, preclude a vendor from bidding to requalify for
+   other service categories under which it currently holds an active retainer contract?
+
+Answer: No.
+
+224. Must a bidder demonstrate every capability listed within a selected category, or may the State
+   qualify a bidder for a deﬁned subset? Speciﬁcally, may Category A be awarded for Business Analysis
+   and/or Project Management separately, and may a bidder qualify under Category N for BI, data
+   visualization, data science/AI/ML, data integration, and governance without providing GA4, SEM,
+   SEO, or CRO services? If subsets are permitted, how should they be shown in Attachment A1 and the
+   resulting contract?
+
+Answer: Subset limitations may be noted in a bidder’s response. See response to Questions #48 and #64.
+The SOW RFP will outline requirements explaining what services the agency is seeking. Bidders should
+respond with their rates and titles listed in their Attachment A1 form that they believe could best
+perform the work.
+
+225. Please conﬁrm that Category G includes enterprise data strategy, data governance and
+   operating-model planning, cloud data-platform roadmaps, and AI strategy/governance when
+   provided as planning and advisory services rather than implementation services.
+
+Answer: Dependent on the project and the need of the agency.
+
+226. Must a bidder demonstrate every Category J capability, including traditional RDBMS
+   administration, lifecycle management, IaC, monitoring, cloud data warehouses, and data lakes?
+   Alternatively, may a bidder qualify based on a deﬁned subset such as Snowﬂake/cloud data
+   warehouse, data engineering, and data-lake services, and if so, how should that scope be identiﬁed?
+
+Answer: See response to Question #224.
+
+227. Do the selected categories include generative AI and large-language-model use cases such as
+   natural-language analytics, AI assistants or agents, and AI-enabled data products? Please clarify
+   whether AI strategy/governance belongs under Category G, AI/ML implementation and data science
+   under Category N, and architecture or proof-of-concept work under Category U, or whether bidders
+   should select more than one category for these services.
+
+Answer: Bidders should select more than one category for these services.
+
+228. For Category U, does 'manager' require formal project or personnel-management responsibility,
+   or may senior enterprise, solution, data, and cloud architects qualify through technical leadership
+
+=== Page 30 ===
+    and ownership of solution architecture? Please also conﬁrm that the named technologies are
+    illustrative and that modern cloud/data architectures using platforms such as Snowﬂake, AWS or
+    Azure, APIs, IaC, CI/CD, and AI services are within scope.
+
+Answer: This is correct.
+
+229. Please identify the appropriate category or categories for professional services involving
+   enterprise or corporate performance management platforms such as OneStream, including strategy,
+   implementation/conﬁguration, integration, analytics, optimization, and technical architecture. May
+   these services be procured under Categories G, J, N, and/or U when no software license is being
+   purchased through the vehicle?
+
+Answer: Requirements and capabilities are laid out within each category in Attachment A1. SOW RFPs
+may solicit services from multiple IT categories.
+
+230. Will individual SOW solicitations require vendors to submit resumes and identify speciﬁc
+   proposed personnel, or will resumes only be requested after vendor selection?
+
+Answer: See response to Question #61.
+
+231. Will the State evaluate future SOW responses primarily based on best value, lowest cost, or a
+   combination of technical qualiﬁcations and pricing?
+
+Answer: Unknown. Evaluation criteria will be noted in the SOW-RFP.
+
+232. Once Retainer Contracts are awarded, will every qualiﬁed supplier within the applicable service
+   category receive each relevant SOW opportunity, or may the State invite only selected suppliers to
+   respond? If opportunities are distributed selectively, please explain the supplier selection process.
+
+Answer: Refer to the Information Technology Retainer Contract webpage at
+https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+technology . All pre-qualiﬁed retainer suppliers within the applicable service category(ies) identiﬁed in
+the SOW-RFP will be notiﬁed of the opportunity.
+
+233. Once vendors are awarded a retainer contract, how will future SOW solicitations be evaluated
+   among pre-qualiﬁed vendors? Will evaluations be based primarily on price, technical qualiﬁcations,
+   experience, or a weighted combination of factors?
+
+Answer: See response to Question #231.
+
+234. May vendors propose resources and capabilities from multiple awarded service categories in
+   response to future SOW opportunities, or will participation be limited strictly to the category under
+   which the SOW is issued?
+
+Answer: Limited strictly to the category, or categories, under which the SOW is issued.
+
+=== Page 31 ===
+235. Could you please conﬁrm will future SOWs permit vendors to propose alternative technical
+   solutions, architectures, or implementation methodologies where appropriate?
+
+Answer: Yes.
+
+236. Could you please conﬁrm Will all pre-qualiﬁed vendors within a service category be invited to
+   respond to each applicable SOW, or will the State use a secondary selection process?
+
+Answer: See answer to Question #232.
+
+237. Will future SOWs include separate evaluation criteria and scoring methodologies, or will a
+   standard evaluation framework be used across all Agencies?
+
+Answer: See answer to Question #231.
+
+238. Could you please conﬁrm are vendors permitted to propose innovative technologies or
+   alternative implementation approaches during SOW competitions?
+
+Answer: Yes.
+
+239. How are SOW opportunities communicated to pre-qualiﬁed vendors (email, VTBuys, or another
+   procurement portal)?
+
+Answer: An email will be sent to the Supplier contact on ﬁle as identiﬁed on the Master Retainer List
+notifying them of the SOW opportunity.
+
+240. Will every pre-qualiﬁed vendor within a service category automatically receive invitations to
+   submit SOW proposals?
+
+Answer: See answer to Questions #232 and #239.
+
+241.    Can multiple vendors be awarded the same SOW if additional capacity is required?
+
+Answer: Yes.
+
+242. Will incumbent vendors receive any preference during future SOW competitions, or will all pre-
+   qualiﬁed vendors compete on equal terms?
+
+Answer: No. All will compete on equal terms.
+
+243. Can the State conﬁrm whether all future SOW-RFP opportunities issued under an awarded
+   category will be distributed to all pre-qualiﬁed suppliers in that category, or whether the State may
+   limit participation based on project-speciﬁc criteria?
+
+Answer: See response to Question #232.
+
+=== Page 32 ===
+244. SOW RFP / ordering process for Additional Purchasers: For Additional Purchasers (municipalities,
+   school districts), please clarify whether the Agency of Digital Services ordering restriction applies or
+   whether Additional Purchasers will use their own ordering procedures under the awarded Retainer
+   Contracts. (Ref: Section 1.2 & Attachment A 4)
+
+Answer: Ordering restrictions for State Purchasers do not apply to Additional Purchasers. Additional
+Purchasers will utilize their own ordering procedures under the awarded Retainer Contracts.
+
+245. In the event of multiple contract awards, could the agency please clarify how task orders, job
+   orders, or staﬃng requests will be distributed among the awarded vendors? For example, will
+   assignments be made on a rotational basis, based on vendor ranking, performance metrics, or
+   another methodology?
+
+Answer: See response to Question #232.
+
+246. Will awarded vendors have the opportunity to directly market their services and capabilities to
+   hiring managers or end-user departments, or will all staﬃng requests be managed exclusively
+   through a centralized procurement or program oﬃce?
+
+Answer: All requests for services will be managed exclusively by ADS. Direct marketing of services is not
+allowed.
+
+247. Following retainer award, will every vendor prequaliﬁed in the applicable service category
+   receive each related SOW-RFP, or may the State invite only a subset of qualiﬁed vendors? If a subset
+   may be selected, what criteria will be used?
+
+Answer: See answer to Question #232.
+
+248. Will all awarded vendors in a category receive all SOW opportunities, or may agencies
+   selectively invite vendors?
+
+Answer: See answer to Question #232.
+
+249.    What is the typical response timeline for SOW solicitations?
+
+Answer: Dependent on the timeline of the project, but typically has been 4-8 weeks.
+
+250. Will every SOW be competed among all contractors awarded in the applicable service category,
+   or may participation be limited to a subset?
+
+Answer: See answer to Question #232.
+
+251.    May a single SOW include work from multiple awarded service categories?
+
+Answer: Yes.
+
+252.    Will Additional Purchasers follow the same SOW competition process used by State Agencies?
+
+=== Page 33 ===
+Answer: No. See answer to Question #244.
+
+253. When an SOW combines duties from overlapping categories, such as Category U architecture
+   with Category N data/AI work or Category O delivery management, will the SOW identify every
+   applicable category and require the contractor to hold all of them, or may a bidder respond based
+   on one awarded category that covers the predominant scope?
+
+Answer: A bidder may respond based on one awarded category that covers the predominant scope.
+
+254.    What are the candidate reporting requirements?
+
+Answer: This information will be included in SOW RFPs that are released for individual projects.
+
+255. Will the Statements of Work (SOWs) issued under this retainer primarily be for staﬀ
+   augmentation, project-based professional services with deﬁned deliverables, or a combination of
+   both?
+
+Answer: It would depend on the project and agency need.
+
+256. For project-based SOWs, will the selected contractor be responsible for managing the project,
+   resources, schedules, and deliverables, or will the State provide project management and oversee
+   contractor resources?
+
+Answer: It would depend on the project and agency need.
+
+257. For staﬀ augmentation engagements, will the assigned personnel work under the day-to-day
+   direction and supervision of State personnel, or will the contractor be expected to manage the
+   assigned resources?
+
+Answer: See Attachment A, Section 7.A “Contractor Resources”, of the Retainer Contract included with
+the RFP.
+
+258. Will most SOWs require dedicated full-time resources, or will part-time and task-based
+   assignments also be common?
+
+Answer: It would depend on the project and agency need.
+
+259. Will future SOWs generally be awarded on a time-and-materials, ﬁxed-price, or hybrid pricing
+   basis?
+
+Answer: It would depend on the project and agency need.
+
+260. Will future SOWs generally deﬁne measurable project deliverables and acceptance criteria, or
+   will engagements primarily be based on resource hours and level of eﬀort?
+
+Answer: It would depend on the project and agency need.
+
+=== Page 34 ===
+261. Does the State anticipate that agencies will issue SOWs requiring complete project teams
+   managed by the contractor, or will most SOWs request individual resources to supplement existing
+   State teams?
+
+Answer: It would depend on the project and agency need.
+
+262. Will there be any minimum or maximum contract value, duration, or staﬃng level applicable to
+   individual SOWs issued under this retainer contract?
+
+Answer: It would depend on the project and agency need. There is a $500,000.00 per SOW threshold on
+all categories except for a few Security categories (Category D – Network Consulting LAN/WAN Support
+Services, Category F – Hardware/Software/Application Security Support, Category T – Security Engineer
+Services and Category Y – Cyber Security Incident Response and Management) that have a $1M
+threshold per SOW.
+
+263. The Retainer Contract references category-speciﬁc SOW limits maintained online. Can the State
+   identify where the current SOW dollar thresholds by category are published and describe how
+   suppliers will be notiﬁed if those thresholds change during the contract term?
+
+Answer: See response to Question #262. Service Category thresholds are identiﬁed on line one of the
+Retainer Master List listed here Retainer Master List 7-22-26_0.xlsx
+
+264. Attachment B references separate on-site and remote rates. Can the State conﬁrm how hybrid
+   work arrangements will be invoiced when personnel perform services both remotely and on-site
+   during the same reporting period?
+
+Answer: They will be billed at the applicable remote and on-site rates depending on where they work
+during that reporting period.
+
+265. Will Category-speciﬁc SOW limits: Where are the “category-speciﬁc SOW limits” published
+   online? Please provide the exact URL or list of limits and conﬁrm whether those limits are hard
+   ceilings per SOW. (Ref: Attachment A5 / Attachment A1 note)
+
+Answer: See response to Question #263.
+
+266. SOW value thresholds and approvals: Besides the independent review triggers noted (e.g.,
+   $1,000,000 per statute), are there additional approval or certiﬁcation requirements for SOWs above
+   speciﬁc dollar thresholds (e.g., internal State agency approvals, Attorney General certiﬁcation
+   levels)? Please list thresholds and required approvals. (Ref: Attachment A 6 & Independent Review
+   section)
+
+Answer: See response to Question #262.
+
+267. SOW deliverable acceptance criteria: Will the State provide a sample SOW template with
+   standard acceptance criteria and invoicing requirements prior to award so bidders can align delivery
+   and QA processes? If not, please conﬁrm any mandatory elements SOWs must include beyond those
+   listed in Attachment A 5. (Ref: Attachment A 5 & Attachment B)
+
+=== Page 35 ===
+Answer: SOW Templates are available online the Information Technology Retainer Contract Webpage
+at https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+technology . Requirements are identiﬁed in an SOW RFP prior to release of solicitation.
+
+268. Post-award reporting templates: Please conﬁrm the preferred format and delivery mechanism
+   for the monthly SOW reporting required by Attachment A 7 G/H (ﬁelds, ﬁle format, and whether
+   automated reporting feeds are supported). (Ref: Attachment A 7 G/H)
+
+Answer: Email with an excel spreadsheet or a pdf is acceptable.
+
+269. Could the State please clarify if future Statements of Work (SOWs) issued under this retainer
+   contract will be structured strictly as Time and Materials / Staﬃng engagements, or if agencies will
+   also issue Firm Fixed Price (FFP) deliverable-based SOW RFPs?
+
+Answer: It could be either and will depend on the project and agency need. .
+
+270. Attachment A references category-speciﬁc SOW limits maintained online. Could the State
+   conﬁrm the current location or values of these limits?
+
+Answer: See response to Question #263.
+
+271. Category-Speciﬁc SOW Limits. Attachment A references category-speciﬁc SOW limits
+   maintained online. Can the State provide the current limits applicable to each service category?
+
+Answer: See response to Question #263.
+
+272. Can the state provide or conﬁrm the current maximum SOW value applicable to each service
+   category and indicate whether those limits may be revised during the retainer contract term?
+
+Answer: See response to Question #263.
+
+273. For cloud implementation SOWs, will the State provide an existing landing zone, network
+   architecture, identity services, security tooling and CI/CD environment, or should vendors expect to
+   design and implement these foundational capabilities as part of the SOW?
+
+Answer: This will be established at the SOW RFP stage.
+
+274. For data platform SOWs, will the State deﬁne data-volume estimates, availability requirements,
+   recovery objectives, retention periods, data classiﬁcations and integration sources as part of the
+   solicitation?
+
+Answer: Requirements will be established at the SOW RFP stage.
+
+275. Will individual SOW-RFPs deﬁne measurable technical acceptance criteria, including
+   performance, availability, security, accessibility, data quality and operational-readiness
+   requirements, before vendors submit their proposals?
+
+=== Page 36 ===
+Answer: Yes.
+
+276. For software-development and cloud-modernization engagements, will the State require
+   vendors to deliver source code, Infrastructure as Code, automated tests, architecture
+   documentation, runbooks and knowledge-transfer materials as State-owned deliverables?
+
+Answer: Requirements will be established at the SOW RFP stage.
+
+277.    Is there a minimum project size or dollar threshold for SOW opportunities?
+
+Answer: See response to Question #263.
+
+278. Can agencies require ﬁxed-fee engagements, or may contractors choose to pursue only time-
+   and-materials opportunities?
+
+Answer: Suppliers are encouraged to bid on all SOW RFP opportunities, but it is their decision on what is
+best to bid on for their company.
+
+279. Where are the category-speciﬁc SOW value limits published, and may they change during the
+   contract term?
+
+Answer: See answer to Question #263. These are not scheduled to be changed during the contract term.
+
+280. How should hybrid on-site/remote work be invoiced when personnel work in both
+   environments during the same billing period?
+
+Answer: See answer to Question #264.
+
+281. The Retainer Contract distinguishes between onsite and remote services but does not deﬁne
+   how those terms are applied for billing purposes. Can the State clarify how 'onsite' and 'remote'
+   work will be determined, whether hybrid work arrangements are permitted, and how hours should
+   be reported when personnel work both onsite and remotely during the same billing period?
+
+Answer: Requirements will be established at the SOW RFP stage. See answer to Question #264 for how
+hours are reported.
+
+282. Can the State clarify the acceptance process and expected timeframe for reviewing and
+   accepting deliverables or invoices under future SOW Agreements?
+
+Answer: Requirements will be established at the SOW RFP stage. The State is on a NET 30 payment
+schedule from the day they receive an error-free invoice.
+
+283. If overnight or extraordinary travel is speciﬁcally authorized in an SOW, will those costs be
+   reimbursable?
+
+Answer: Rates should be fully loaded. See Attachment B of the Retainer Contract included with the RFP.
+
+=== Page 37 ===
+284. Will the State maintain any standard statewide performance measures applicable across all
+   SOWs?
+
+Answer: Performance measures will be based on the services being delivered within the requirements
+and timeline stated in the SOW Agreement.
+
+285. Please provide or identify the current maximum SOW values for Categories A, G, J, N, O, and U.
+   Does each limit apply per SOW, per project, per State ﬁscal year, or in the aggregate, and are the
+   limits ﬁxed at contract award or subject to change during the retainer term?
+
+Answer: See response to Question #263.
+
+286.    What is the work location of the proposed candidates?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+287.    Is the work entirely onsite, or is there a possibility for remote operations and performance?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+288. Are vendors permitted to propose remote resources for future SOWs where the agency's
+   operational requirements allow, or should vendors assume onsite performance unless otherwise
+   speciﬁed?
+
+Answer: This will depend on the requirements and needs of the project.
+
+289.    Does the State have a preference for remote or on-site work?
+
+Answer: No, this will depend on the requirements and needs of the project.
+
+290. Is State open to an oﬀshore-blended delivery model, and are there any data residency or US-
+   only staﬃng restrictions?
+
+Answer: Any oﬀshore proposal is subject to the prior written approval of the State. .
+
+291. Remote work approval & rates: What is the State’s process for pre-approving remote work and
+   remote rates for Assigned Personnel? Will Agencies accept remote hours retroactively if not
+   pre-approved? (Ref: Attachment B 4)
+
+Answer: All work, including remote work, will need to be approved by the State before an SOW is
+awarded for that speciﬁc project.
+
+292.    Will the work be performed onsite or remotely?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+=== Page 38 ===
+293. Does the permit the use of oﬀshore resources for any phase of this project, including design,
+   development, migration, or 24/7 technical support? It should be noted that incorporating oﬀshore
+   development and support can provide substantial value through cost optimization and the ability to
+   oﬀer "round-the-sun" (24/7) support. This ensures that system maintenance and technical
+   troubleshooting can occur outside of standard business hours, minimizing downtime for users.
+
+Answer: See response to Question #290.
+
+294. Please conﬁrm whether any work, system access, software development, technical support, or
+   processing, storage, or transmission of State Data may be performed from outside the United
+   States. If not, please conﬁrm that all contractor and subcontractor personnel performing such
+   activities must be located within the United States.
+
+Answer: See response to Question #290.
+
+295. Remote vs. On-Site Delivery. Can the State provide guidance regarding the anticipated mix of
+   remote versus on-site work for future SOW opportunities within the awarded categories?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+296.    Does the State expect assignments under this contract to be onsite, remote, or hybrid?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+297. We see in Attachment A1 that both On-Site and Remote Hourly Rates are requested. What
+   percentage of work does the State anticipate to be on-site versus remote over the course of the
+   contract term? What percentage of work during the previous 5 years was on-site versus remote?
+
+Answer: Unknown, that would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+298. Does the State anticipate that most future SOWs will permit remote or hybrid delivery, and will
+   each SOW-RFP clearly identify required on-site presence, work location and travel expectations
+   before pricing is submitted?
+
+Answer: Many SOWs are currently remote, but that would really depend on the project-speciﬁc
+requirements set forth in a SOW-RFP.
+
+299. Can agencies require statewide onsite support, or may contractors decline opportunities that
+   require travel or onsite presence outside their normal service area?
+
+Answer: Suppliers are encouraged to bid on all SOW RFP opportunities, but it is their decision on what is
+best to bid on for their company. Any Supplier limitations relative to SOW RFP requirements would need
+to be outlined in the bid proposal that is submitted for the individual SOW RFP.
+
+300.    Are there requirements for personnel to be physically located within Vermont?
+
+Answer: That would depend on the project-speciﬁc requirements set forth in a SOW-RFP.
+
+=== Page 39 ===
+301. We understand from those provisions that remote performance is available at the SOW stage
+   with Agency approval. Our question concerns the pre-qualiﬁcation decision itself: will a bidder be
+   considered for pre-qualiﬁcation under this RFP if it intends to perform services remotely and,
+   accordingly, submits pricing in the Remote rate cells of Attachment A1? Put diﬀerently, is a bidder's
+   ability or willingness to perform on-site in Vermont a factor in the State's determination of whether
+   to pre-qualify that bidder in a given service category?
+
+Answer: No, this will not impact the State’s pre-qualiﬁcation determination. However, it could be a
+determination factor depending on project-speciﬁc requirements set forth in an SOW-RFP.
+
+302. Onsite, Hybrid, and Remote Work Expectations. The RFP states that project work will generally
+   be performed in Vermont unless otherwise speciﬁed in an individual SOW. Based on the State’s
+   anticipated requirements, what approximate percentage of future assignments is expected to
+   require fully onsite, hybrid, or fully remote resources?
+
+Answer: Unknown.
+
+303. Out-of-State Vendors and Resource Availability. Can an out-of-state vendor satisfy the State’s
+   requirements by providing qualiﬁed remote or hybrid resources when permitted under an SOW, or
+   should vendors maintain personnel who currently reside in Vermont or within a reasonable
+   commuting distance of the State?
+
+Answer: Yes.
+
+304. Will each SOW identify whether positions are expected to be on-site, remote, or hybrid before
+   proposals are submitted?
+
+Answer: Yes.
+
+305. The Retainer Contract distinguishes between onsite and remote services but does not state
+   whether remote work may be performed from locations outside the United States. Can the State
+   clarify whether oﬀshore resources are permitted under the Retainer Contract or future SOWs and, if
+   so, whether any security, residency, or data-access restrictions apply?
+
+Answer: See response to Question #290.
+
+306. May an SOW authorize remote-ﬁrst or hybrid performance for Categories A, G, J, N, O, and U by
+   personnel located elsewhere in the United States? Is approval in the executed SOW suﬃcient, or is
+   separate approval required for each person or remote-work period?
+
+Answer: Work is expected to be performed remotely. Occasional onsite presence may be required
+depending on SOW-speciﬁc needs which would be identiﬁed at the time of the SOW RFP
+
+307. Attachment A, Section I sets Vermont on-site as the default work location unless a SOW speciﬁes
+   otherwise. Over the prior retainer period, what share of SOW work has been performed remotely
+   versus on-site?
+
+=== Page 40 ===
+Answer: See response to Question #306.
+
+308. Do agencies express a preference for, or requirement of, a physical vendor presence in
+   Vermont, and does establishing a Vermont business location factor into the resident-bidder
+   preference under the Method of Award?
+
+Answer: Work is expected to be performed remotely. Occasional onsite presence may be required
+depending on SOW-speciﬁc needs which would be identiﬁed at the time of the SOW RFP.
+
+309. Is there any mandatory subcontracting requirement for this contract? If yes, is there a speciﬁc
+   goal for the subcontracting?
+
+Answer: No. However, subcontractors must be approved by the State.
+
+310.   Can we submit good faith eﬀorts if we are unable to ﬁnd a subcontractor?
+
+Answer: Yes.
+
+311. If the resources we provide at the time of proposal submission are unavailable at the time of a
+   potential contract award, could vendors replace them with equally qualiﬁed resources?
+
+Answer: This would be dependent on the State agency/department requesting services.
+
+312. Could you please provide the list of holidays? Are there any mandated Paid Time Oﬀ, Vacation,
+   etc.?
+
+Answer: The State’s holiday calendar is available on the Department of Human Resources website at
+https://humanresources.vermont.gov/beneﬁts-wellness/holiday-schedule.
+
+313. The RFP states that, unless otherwise indicated in a SOW-RFP, assigned personnel must be
+   employees of the Contractor before State work is performed. If a future SOW-RFP permits
+   subcontractors, may the Contractor use approved subcontractor personnel subject to State approval
+   and required subcontractor reporting?
+
+Answer: Assigned personnel must be W-2 employees of the Supplier who was awarded the work.
+
+314. Will subcontractor personnel be permitted to fulﬁll resource requirements under future SOWs,
+   provided the prime contractor remains fully responsible for contract management and
+   performance?
+
+Answer: This will depend on the project and requirements within the SOW.
+
+315. The Retainer Contract states that Assigned Personnel are expected to be employees of the
+   Contractor and reported on W-2 forms unless otherwise indicated in a future SOW-RFP. Please
+   conﬁrm whether personnel employed as W-2 employees of an approved subcontractor may be
+   proposed for work under a future SOW when subcontracting is permitted by the applicable SOW-
+   RFP.
+
+=== Page 41 ===
+Answer: Assigned personnel must be W-2 employees of the Supplier who was awarded the work.
+
+316.   Can we subcontract out any of these services and bill you as it is all coming from us?
+
+Answer: Yes, but subcontractors will need to be W-2 employees of the Supplier.
+
+317. Assigned Personnel employment status: RFP indicates Assigned Personnel should be employees
+   (W-2). Please conﬁrm whether (a) subcontracting ﬁrms may provide personnel as W-2 employees of
+   the subcontractor, and (b) whether any limited use of bona ﬁde independent contractors is allowed
+   for non-client-facing, short-term tasks. (Ref: Attachment A 7.A1 Employment Status)
+
+Answer: See response to Questions #315.
+
+318. Background checks and disqualifying convictions: Please conﬁrm the exact scope of required
+   criminal background checks (national criminal database) and whether the State will provide
+   guidance on convictions that would disqualify an individual for speciﬁc sensitive roles. (Ref:
+   Attachment A 7.A Criminal Background Check)
+
+Answer: No. The State will not provide guidance beyond what is referenced in Contract reference A.7.A
+Criminal Background Check.
+
+319. Subcontractor reporting (Act 54): For SOWs exceeding $250,000, please conﬁrm the required
+   subcontractor reporting template, the deadline for submission (award vs SOW execution), and
+   whether any subcontractor ﬁelds may be redacted for public posting. (Ref: Certiﬁcate of Compliance
+   / Page 28)
+
+Answer: See response to Question #52. Suppliers are welcome to submit a redacted bid proposal, along
+with a non-redacted copy, with explanation as to why each redaction was made.
+
+320. Section 4.7.4 asks bidders to identify any subcontractors they intend to use, and other
+   provisions contemplate the use of subcontractors, independent contractors, or agents when
+   permitted by an individual SOW-RFP. Section 7.A1, however, states that unless otherwise indicated
+   in an SOW-RFP, personnel assigned by a contractor must be W-2 employees of that contractor.
+
+   a. Would you please clarify when an awarded retainer contractor may use a subcontractor that is a
+      separate business entity to perform services under an SOW?
+
+   b. Additionally, is the W-2 requirement primarily intended for individual resources presented for
+      staﬀ-augmentation or resource-request engagements? In that case, would a separate business
+      entity be permitted to perform a deﬁned portion of the work when subcontracting is allowed
+      under the SOW-RFP?
+
+Answer: When proposing roles in Attachment A1, a bidder may propose subcontracted resources if that
+is the only way it provides certain roles. However, subcontracted resources may be prohibited from
+performing certain projects and this will be noted in the applicable SOW-RFP.
+
+=== Page 42 ===
+321.    Are there any mandatory subcontracting goals associated with this contract?
+
+Answer: No.
+
+322. May an Active Retainer Supplier identify and request approval of additional subcontractors after
+   Retainer Contract award in response to a speciﬁc SOW-RFP, or may the contractor use only those
+   subcontractors identiﬁed in its initial retainer proposal?
+
+Answer: Yes. Suppliers may identify and request approval of additional subcontractors after Retainer
+Contract award in response to a speciﬁc SOW-RFP.
+
+323. Security Clearance and Screening Requirements. Beyond the criminal background checks
+   identiﬁed in the retainer contract, are there any service categories or anticipated SOW opportunities
+   that may require CJIS access, law enforcement screening, ﬁngerprinting, or other enhanced
+   personnel vetting requirements?
+
+Answer: Yes, there is a possibility, but it will be dependent on each project and SOW.
+
+324.    Are the vendors allowed to subcontract at the Task Order Level?
+
+Answer: Question unclear, but see response to Question #320.
+
+325. RFP ATTACHMENT A: GENERAL SCOPE OF WORK (p 15) A1 Employment Status – We feel this
+   condition will be seen as biased and ask that the State reconsider this requirement. We build our
+   teams based on skillset and do not discriminate based on how our resources choose to be paid. Our
+   IT Professionals who choose to provide their services through 1099 employment are integral
+   members of our internal and project teams. This condition would require us to treat certain team
+   members diﬀerently by denying them opportunities on State of Vermont projects.
+
+Answer: The State declines to reconsider this requirement.
+
+326. Can proposed personnel be substituted with equivalent resources if staﬃng changes occur
+   during the contract term?
+
+Answer: See Contract Section 7.A Contractor Resources.
+
+327. Will personnel be required to undergo background checks, security clearances, or agency-
+   speciﬁc screening?
+
+Answer: Yes. See Contract Section 7.A Criminal Background Check.
+
+328.    If background investigations are required, who is responsible for the associated costs?
+
+Answer: Supplier.
+
+329. We are a single-member limited liability company that is a disregarded entity for federal tax
+   purposes. Under that structure the company cannot issue its owner-member a Form W-2, and the
+
+=== Page 43 ===
+    owner-member is neither an employee nor an independent contractor of the company. Where the
+    owner-member of such a company personally performs the services under a SOW Agreement, does
+    that individual satisfy the Assigned Personnel employment-status requirement of Section 7.A1?
+
+Answer: Assigned Personnel may not be engaged or treated directly or indirectly by Contractor as an
+independent contractor.
+
+330. If a proposed subcontractor changes after award but before an SOW is issued, may the
+   contractor substitute another subcontractor with comparable qualiﬁcations?
+
+Answer: Yes.
+
+331.    Is there any subcontracting goal for this RFP?
+
+Answer: No.
+
+332. When an SOW-RFP permits subcontracting, may assigned personnel be W-2 employees of an
+   approved subcontractor, or must they become W-2 employees of the prime Retainer Contractor?
+   May subcontractor qualiﬁcations and experience be used to establish the prime bidder's
+   qualiﬁcation for a category?
+
+Answer: See response to Question #320.
+
+333. Please clarify the intended scope of the 25-business-day no-charge replacement requirement.
+   Does it apply to departures caused by resignation, disability, death, illness, FMLA, or National Guard
+   duty, or only to Agency-directed removal for deﬁcient performance? For a part-time resource, is the
+   period 25 elapsed business days, 25 days actually worked, or 200 hours, and does it apply if the
+   Agency eliminates the role or ends the SOW?
+
+Answer: It is for Contractor Resources removed for any reason not just deﬁcient performance. The same
+is applied whether they are full time or part time. Twenty-ﬁve (25) business days total is the expectation,
+regardless of hours allocated. It does not apply to ending the SOW or elimination of the role, only the
+departure of the contractor resource assigned.
+
+334. Because the Retainer Contract has no guaranteed dollar value, how should bidders apply the
+   $250,000 worker-classiﬁcation and subcontractor-reporting thresholds and the $25,000 climate-
+   certiﬁcation threshold? Please also reconcile whether subcontractor reporting is due before
+   Retainer Contract execution, before any SOW using subcontractors, or only before an SOW
+   exceeding $250,000.
+
+Answer: See response to Question #52.
+
+335. May a bidder propose subcontractors or a teaming arrangement to satisfy category capabilities
+   at the pre-qualiﬁcation stage, given the requirement that Assigned Personnel be W-2 employees
+   before performing State work?
+
+=== Page 44 ===
+Answer: See response to Question #320.
+
+336. The RFP submission checklist does not list a Certiﬁcate of Insurance as a required proposal
+   attachment. Please conﬁrm whether bidders are required to submit a Certiﬁcate of Insurance with
+   the initial RFP response, or whether insurance certiﬁcates and required coverage limits will be
+   requested only from selected vendors prior to contract execution or speciﬁc SOW execution.
+
+Answer: Certiﬁcate(s) of insurance are required upon award of the Retainer Contract, and would need to
+be provided prior to contract signing. Vermont State Insurance Speciﬁcations can be found online at
+https://aoa.vermont.gov/Risk-Claims-COI
+
+337. If insurance is required prior to contract execution, please conﬁrm the minimum required
+   coverage types and limits for the IT Retainer Contract, including General Liability, Professional
+   Liability / Errors & Omissions, Cyber Liability, Workers’ Compensation, Auto Liability, and Umbrella /
+   Excess Liability, if applicable.
+
+Answer: See response to Question #336.
+
+338. Breach-notiﬁcation insurance: Attachment D leaves the ﬁrst-party Breach Notiﬁcation Coverage
+   dollar amount blank. What is the required limit?
+
+Answer: Question unclear. Attachment D in the Retainer Contract included with the RFP does not
+address insurance coverage. See response to Question #336.
+
+339. Security evidence at proposal stage: What speciﬁc security artifacts will the State accept at the
+   proposal stage to demonstrate alignment with “NIST SP 800-53 / FIPS 200” (for example: controls
+   mapping, SSP, SOC 2 Type II, penetration test summary, FedRAMP authorization)? Which items may
+   be provided later at SOW execution? (Ref: Attachment D section 3.1–3.2)
+
+Answer: These security reports are not required at the time of solicitation. Reports would only be
+required when a vendor is awarded an SOW Agreement and requested by the State.
+
+340. Cyber insurance / ﬁnancial responsibility: Does the State require minimum cyber-liability
+   insurance limits or other insurance thresholds to be disclosed with the proposal or prior to contract
+   award? If so, please state required coverage amounts and policy types. (Ref: Attachment D Security
+   / Indemnity provisions)
+
+Answer: No. See response to Question #336.
+
+341. Security breach procedures: Please conﬁrm the preferred format and minimum content for a
+   Security Breach notiﬁcation and the State’s expectations regarding vendor responsibilities for
+   consumer notice and remediation costs. (Ref: Attachment D Section 3.2)
+
+Answer: See Attachment D, Section 3.2. of the Retainer Contract included with the RFP.
+
+342. Insurance Requirements. Can the State conﬁrm the minimum insurance requirements for
+   awarded vendors, including Professional Liability (E&O) and Cyber Liability insurance requirements?
+
+=== Page 45 ===
+Answer: See answer to Question #336.
+
+343. For cybersecurity services, will each SOW identify the applicable security and compliance
+   frameworks, such as NIST, HIPAA, IRS 1075, CJIS or FISMA, as well as the required system-impact or
+   data-classiﬁcation level?
+
+Answer: Yes.
+
+344. For security testing and penetration-testing engagements, will the State provide formal rules of
+   engagement, testing authorization, scope boundaries, test environments and remediation-validation
+   requirements within the SOW?
+
+Answer: Yes.
+
+345. For AI and machine-learning SOWs, will the State establish requirements regarding approved
+   models, data residency, use of State data for model training, human review, explainability, bias
+   testing, model monitoring and retention of prompts and outputs?
+
+Answer: This will be outlined in the SOW RFP and resulting SOW Agreement.
+
+346. Can the state clarify whether Section 508 and the Vermont Accessibility Standard will apply to all
+   user-facing applications and digital services delivered under the retainer, and whether accessibility
+   testing and documentation will be required as formal acceptance deliverables?
+
+Answer: Yes, as per Attachment C, Section 14.B, of the Retainer Contract included with the RFP.
+
+347. What cybersecurity, regulatory, or compliance frameworks may be required under future SOWs
+   (e.g., NIST, CJIS, HIPAA, IRS Publication 1075, etc.)?
+
+Answer: All of the above.
+
+348. Please identify the required NIST SP 800-53 control baseline and the evidence of compliance
+   expected from a contractor. Does 24-hour monitoring mean automated monitoring or a
+   continuously staﬀed security operations center? If personnel access State data only through State-
+   managed systems, which contractor endpoints, networks, or systems are within scope?
+
+Answer: Answers are reﬂected in bold red lettering below.
+
+Please identify the required NIST SP 800-53 control baseline NIST 800-53 Moderate baseline and the evidence of
+compliance expected from a contractor SOC 2 or other independent NIST security audit. Does 24-hour monitoring
+mean automated monitoring or a continuously staffed security operations center for this scope of contract
+automated monitoring would be sufficient? If personnel access State data only through State-managed systems,
+which contractor endpoints, networks, or systems are within scope any where potential state data could move to
+or if solely using state devices NIST controls around personnel security, training, access control, etc. would still
+apply?
+
+349.    Is there an administrative fee on the resulting contract?
+
+=== Page 46 ===
+Answer: No.
+
+350. Will the State consider exceptions to the contract language or terms and conditions?
+   If yes, how should bidders include proposed exceptions with their submissions?
+
+Answer: No. The state will not consider any exceptions.
+
+351. 3.8.4 (Retainage): This section provides that the State may withhold a percentage of amounts
+   otherwise payable under a resulting Statement of Work. Would the State be willing to limit any
+   retainage to a reasonable and mutually agreeable amount and provide for release of such retainage
+   upon acceptance of the applicable deliverables?
+
+Answer: Retainage will be determined by the Project Team based on SOW-RFP requirements and will be
+outlined in the speciﬁc SOW.
+
+352. General: Would the State be willing to negotiate a reasonable and mutually agreeable equitable
+   adjustment?
+
+Answer: This question is unclear.
+
+353. General: Would the State be willing for Termination for Convenience provision to apply mutually
+   to both parties in this Agreement?
+
+Answer: No.
+
+354. General: To the extent permissible by law, would the State be willing to negotiate a reasonable
+   and mutually agreeable Limitation of Liability provision?
+
+Answer: No. See response to Question # 350.
+
+355. Contract terms acceptance: Please conﬁrm that acceptance of the Retainer Contract and
+   Attachments C and D is strictly pass/fail and that the State will not consider any proposed exceptions
+   during evaluation. If any limited clariﬁcations are permitted, please specify the process. (Ref: Section
+   3.8)
+
+Answer: See response to Question # 350.
+
+356. Deliverable acceptance and retainage: Does the State typically apply a standard retainage
+   percentage on SOWs? If so, please state typical retainage ranges and the conditions for release of
+   retainage. (Ref: Attachment B 8 and Section 3.8.4)
+
+Answer: See response to Question #351.
+
+357. Use of Contractor Intellectual Property: Attachment D assigns Work Product to the State while
+   allowing Contractor IP license grants. Please conﬁrm whether the State expects the license to
+   Contractor IP incorporated into Deliverables to permit Contractor reuse across other clients, or
+
+=== Page 47 ===
+    whether any limitations should be assumed when drafting Attachment A1 pricing. (Ref: Attachment
+    D Section 1.1–1.3)
+
+Answer: Reuse across clients is ﬁne. If it's speciﬁc to state data, then no.
+
+358. If awarded a contract under this RFP, would the awarded vendor be permitted to reference the
+   contract award and list the agency as a client in its marketing materials, proposals, capability
+   statements, and past performance references, subject to any applicable conﬁdentiality
+   requirements?
+
+Answer: Reference Section 26 of Attachment C of the Retainer Contract included with the RFP.
+
+359. With regards to RFP Section 3.8, would the State consider permitting negotiation, on a case-by-
+   case basis, during the SOW formation process, of limitations of liability, perhaps similar to the
+   limitation of liability in Contract #45517?
+
+Answer: No. See response to Question # 350.
+
+360. The RFP requires vendors to remain current with State policies and standards that may change
+   during performance. When a material policy or security-standard change aﬀects an active SOW’s
+   scope, schedule or cost, will the State permit an equitable adjustment through the SOW change-
+   control process?
+
+Answer: Correct.
+
+361. May agencies add agency-speciﬁc terms, conditions, reporting requirements, security
+   requirements, or insurance requirements beyond those contained in the master retainer
+   agreement?
+
+Answer: Yes. See Attachment A, Section 6, of the Retainer Contract included with the RFP.
+
+362.    What limitation of liability provisions apply under the retainer agreement?
+
+Answer: See response to Question #354.
+
+363. Are consequential damages, lost revenue, business interruption, or data loss excluded from
+   contractor liability?
+
+Answer: See response to Question #354.
+
+364. To what extent can individual SOWs modify liability, indemniﬁcation, insurance, or risk allocation
+   provisions contained in the master agreement?
+
+Answer: SOW Agreements are executed subject to the terms and conditions of the retainer supplier’s
+Retainer Contract with the State. The process for procuring a SOW Agreement neither invites nor allows
+re-negotiation of the terms and conditions of the master IT Retainer Contracts.
+
+=== Page 48 ===
+365.    What indemniﬁcation obligations will contractors be required to assume?
+
+Answer: See the Retainer Contract included with the RFP.
+
+366. How is liability handled for issues arising from State-controlled systems, end-user actions, third-
+   party software vendors, cloud providers, or telecommunications providers?
+
+Answer: See response to Question #365.
+
+367. If awarded a retainer contract, may a contractor decline to respond to or participate in a
+   particular SOW opportunity for business, technical, staﬃng, compliance, geographic, proﬁtability, or
+   scope-ﬁt reasons without penalty?
+
+Answer: Yes.
+
+368. Is there a minimum participation requirement, minimum response rate, or other expectation
+   regarding the number of SOW opportunities a contractor must pursue?
+
+Answer: No.
+
+369. Could a contractor be removed from the retainer program for declining multiple SOW
+   opportunities?
+
+Answer: No.
+
+370. Does award of a retainer contract guarantee any minimum amount of work, revenue, project
+   opportunities, or contract value?
+
+Answer: No.
+
+371. Can a contractor limit participation to only those service categories for which it is awarded and
+   decline opportunities outside its area of expertise?
+
+Answer: Yes.
+
+372. If awarded in a category, may the contractor further limit participation to speciﬁc services or
+   technologies within that category?
+
+Answer: This will be dependent on the project and what type of work the Supplier is currently doing on
+the project.
+
+373. May contractors decline projects that require support for technologies, platforms, or
+   environments outside their expertise?
+
+Answer: Yes.
+
+374. May a contractor voluntarily withdraw from the IT Retainer Program during the contract term if
+   business conditions change?
+
+=== Page 49 ===
+Answer: See responses to Questions #367 and #368.
+
+375.   What notice period would be required to terminate participation in the program?
+
+Answer: See responses to Questions #367 and #368.
+
+376.   If a contractor exits the program, may active SOWs continue through completion?
+
+Answer: See responses to Questions #367 and #368. SOWs shall continue in accordance with their
+terms.
+
+377. Can a contractor temporarily suspend participation in SOW opportunities due to staﬃng or
+   capacity constraints without risking removal from the program?
+
+Answer: Yes. See responses to Questions #367 and #368.Yes
+
+378. May a prequaliﬁed supplier decline an individual SOW-RFP without breach, suspension, or
+   adverse eﬀect on its Retainer Contract? Are there any minimum participation, response-rate, or
+   activity requirements during the ﬁve-year term?
+
+Answer: See responses to Questions #367 and #368.
+
+379.   What are the estimated funds allocated for this contract?
+
+Answer: Unknown. This is dependent on the speciﬁc project and State agency/department budget.
+
+380. Please provide the incumbent's name and pricing and conﬁrm whether the incumbent is eligible
+   to resubmit the proposal.
+
+Answer: Question unclear. Current retainer contracts can be found online at:
+https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+technology
+
+381.   Are there any pain points or issues with the current vendor(s)?
+
+Answer: N/A
+
+382.   What Could you please share the previous spending on this contract, if any?
+
+Answer: Approximate overall contract spend under the IT Retainers for the past two years has been
+$12,000,000.00.
+
+383.   How many positions were used in the previous contract (approximate)?
+
+Answer: Unknown.
+
+384.   How many positions will be required per year or throughout the contract term?
+
+=== Page 50 ===
+Answer: Unknown. This is dependent on the project and the State’s needs.
+
+385. Could the State provide the current incumbent vendors for each IT service category, along with
+   any available information regarding historical utilization, such as the number of Statements of Work
+   (SOWs) issued and approximate spend by category during the current retainer contract term?
+
+Answer: Current retainer contracts can be found online at:
+https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+technology. Approximate overall spend under the IT Retainer Contracts for the past two years has been
+$12,000,000.00.
+
+386. Please provide historical utilization information for the current contract period, including the
+   number of active Retainer Suppliers, the number of suppliers that received at least one SOW award,
+   and the percentage of total contract spending awarded to incumbent suppliers.
+
+Answer: See response to Question #385.
+
+387. Can the State provide historical utilization information from the current IT Retainer program,
+   including the number of SOWs issued, approximate spend, and average SOW value by service
+   category?
+
+Answer: Unknown.
+
+388. Are there speciﬁc service categories the State anticipates utilizing more heavily during the
+   upcoming contract term (2027-2032)?
+
+Answer: Unknown.
+
+389. Can the State share whether any major statewide modernization initiatives, enterprise
+   technology programs, ERP-related eﬀorts, or strategic transformation projects are anticipated to
+   utilize this vehicle during the upcoming contract term?
+
+Answer: Unknown, but this would be consistent with the State’s intent for the retainer portfolio.
+
+390. Regarding the previous contract for these services: How many vendors were on the previous
+   contract? How many projects were conducted through the previous contract? Would the State
+   describe or list the projects that resulted from the previous contract? What is the total dollar value
+   of the projects conducted through the previous contract?
+
+Answer: See responses to Questions #382 and 386.
+
+391. Could the State share projects or scopes of work anticipated under the resulting contract? We
+   are interested in learning about the more speciﬁc objectives and drivers for this contract.
+
+Answer: This information is not available at this time.
+
+=== Page 51 ===
+392. Can the State conﬁrm the estimated number of SOW opportunities expected to be released
+   annually under this retainer contract?
+
+Answer: Unknown.
+
+393. Which IT service categories are expected to have the highest demand during the initial years of
+   the contract?
+
+Answer: Unknown.
+
+394. Is there an anticipated annual or total spending value for the IT Retainer Program over the
+   2027–2032 contract term?
+
+Answer: Unknown.
+
+395.   Could you please share the detail of historical usage of previous contract.
+
+Answer: See response to Question # 382.
+
+396. Could the State please share any speciﬁc overarching agency pain points, strategic priorities, or
+   key technical challenges across state departments that this IT retainer aims to address?
+
+Answer: Unknown.
+
+397.   Could you please share the estimated budget for this RFP?
+
+Answer: Unknown. There is no estimated budget associated with this RFP. It would depend on the
+individual projects solicited and awarded under the IT Retainer Contracts.
+
+398. Could you please provide the annual spending details for similar contracts from the past three
+   years?
+
+Answer: See response to Question #382.
+
+399. Could you please share the incumbent vendor’s name, their previous response, and associated
+   pricing for a similar contract?
+
+Answer: See response to Question #380.
+
+400.   What was the annual spend under the previous contract for these services?
+
+Answer: Approximate overall spend under the IT Retainer Contracts for the past two years has been
+$12,000,000.00.
+
+401.   If this is a new contract, what is the estimated annual budget?
+
+Answer: See response to Question #397.
+
+=== Page 52 ===
+402.    Who is the current or previous incumbent vendor for these services?
+
+Answer: See response to Question #380.
+
+403. Are there any challenges, gaps, or pain points with the current solution or contractor that the
+   agency is looking to address through this procurement?
+
+Answer: Unknown.
+
+404. Does the State have an estimated annual budget, total contract value, or maximum spending
+   limit for this contract?
+
+Answer: See response to Question #397.
+
+405. If no budget has been ﬁxed, can the State provide the total spending under the current IT
+   Retainer Program for the past two years, broken down by service category?
+
+Answer: See response to Question #400.
+
+406. If available, please provide the amount paid to each current vendor during the past two years,
+   broken down by service category.
+
+Answer: Unknown.
+
+407. Can the State provide the number of SOWs issued during the past two years under each IT
+   service category?
+
+Answer: Unknown.
+
+408.    Which IT service categories had the highest demand during the past two years?
+
+Answer: Independent Review and Project Management/Business Analyst.
+
+409. Historical Contract Usage and Expenditures. Can the State provide historical usage information
+   for the current IT Retainer Contracts, including the approximate annual expenditures, total number
+   of Statements of Work issued, and total value of work awarded during the most recent three to ﬁve
+   years?
+
+Answer: See answer to Question #385.
+
+410. Usage by Service Category. Can the State provide information regarding which IT service
+   categories have historically received the highest number and value of Statements of Work? If
+   available, please also identify the State agencies or departments that have most frequently utilized
+   the IT Retainer Contracts.
+
+=== Page 53 ===
+Answer: See response to Question #408. Each IT retainer category has been utilized in the past, however,
+we do not have detailed information regarding utilization.
+
+411. Number of Vendors Receiving Work. How many vendors have received at least one Statement
+   of Work during the existing contract period? Is work generally distributed among multiple qualiﬁed
+   vendors, or concentrated among a smaller number of vendors?
+
+Answer: The count of vendors who have received Statement of Work Agreements is not available. Work
+is generally distributed across multiple vendors depending on the State project.
+
+412. Can the State share historical SOW utilization or spend by IT service category over the current
+   retainer period to help bidders assess demand?
+
+Answer: Please see the response to Question # 382.
+
+                                        END OF QUESTIONS

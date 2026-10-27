@@ -1,0 +1,41 @@
+{
+  "opportunity_id": "47acc0637a3944399b7908548c83e227",
+  "sam_url": "https://sam.gov/opp/47acc0637a3944399b7908548c83e227/view",
+  "notice": {
+    "title": "Enterprise Cloud Support Services",
+    "solicitationNumber": "N0018926RL011",
+    "type": "o",
+    "naics": [
+      {
+        "code": [
+          "518210"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": "SBA",
+    "responseDeadline": "2026-11-12T14:00:00-05:00",
+    "postedDate": "2026-10-22T18:19:59.582+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": "zip",
+  "expected_files": 12,
+  "files": [
+    "N0018926RL0110002.pdf",
+    "N0018926RL0110001.pdf",
+    "Attachment I-Pricing Spreadsheet.xlsx",
+    "WD 2015-4341 REV 36 DATED 8.22.26.pdf",
+    "Solicitation - N0018926RL011.pdf",
+    "Performance Work Statement.pdf",
+    "Past Performance Report Form.pdf",
+    "QASP AND QASP MATRIX.pdf",
+    "Contract Administration Plan.pdf",
+    "Contractor Discrepancy Report.pdf",
+    "Past Performance Information Form.pdf",
+    "DRAFT DD 254.pdf"
+  ],
+  "links": [],
+  "errors": [],
+  "status": "ok"
+}

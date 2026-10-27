@@ -1,0 +1,435 @@
+Company Profile
+1. Company Overview
+
+Inovi Solutions is a Texas-based minority-owned and women-owned business
+specializing in enterprise Salesforce solutions, artificial intelligence (AI), cloud
+ERP, data engineering, and enterprise systems integration. Founded in 2011
+(subject to confirmation), Inovi helps organizations modernize business
+processes, connect disparate systems, automate workflows, and improve
+operational efficiency.
+
+Inovi combines expertise in Salesforce implementation and development
+with AI-enabled applications, ERP solutions, data management, and
+enterprise integration. Its multidisciplinary team supports projects from
+requirements analysis and solution design through implementation, testing,
+deployment, and ongoing support.
+
+2. Corporate Information
+
+Information                     Details
+
+Year Established                2011
+
+Legal Name                      Inovi Solutions
+
+Key Contact Person              Faiz Mannan
+
+Role                            Chief Technology Officer
+
+Email                           faiz@inovisolutions.com
+
+Phone                           (469) 815-4078
+
+Headquarters                    3412 Mark Twain Blvd., Flower Mound, TX
+                                75022, USA
+Website                         inovisolutions.com
+
+Ownership /                     Minority-Owned and Women-Owned
+Socioeconomic Status            Business – State of Texas Certified.
+ SAM.gov UEI                       MK83YRZL1986
+
+ CAGE Code                         84PQ3
+
+ GSA Schedule                      47QTCA22D00BW
+
+ GSA Categories / SINs             518210C, 54151, 54151S, OLM
+
+ Contract / Payment                Government Credit Cards and Purchase
+ Methods                           Cards
+ Salesforce Experience             Enterprise-scale Salesforce
+                                   transformations
+ Client Satisfaction               98% CSAT
+
+ Salesforce AppExchange            5-Star Rating
+ Rating
+
+
+3. Salesforce Capabilities & Technical Expertise
+
+Inovi provides consulting, solution architecture, implementation,
+development, integration, data migration, testing, deployment, and support
+across applicable Salesforce products and related enterprise technologies.
+
+3.1 Technical & Professional Services
+
+ Capability Area             Key Services
+
+ Consulting &                Requirements analysis, business process
+ Architecture                assessment, solution design, technical architecture,
+                             and implementation planning
+
+ Salesforce                  Configuration, customization, Apex, Lightning Web
+ Implementation &            Components (LWC), Salesforce Flow, custom
+ Development                 applications, and platform enhancements
+
+ AI & Agentic                Salesforce Agentforce, Anthropic Claude
+ Solutions                   integrations, large language model applications,
+                             intelligent assistants, and AI-enabled workflows
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 2
+ CRM & Customer              Sales Cloud, Service Cloud, Experience Cloud, case
+ Experience                  management, customer portals, and CRM
+                             automation
+
+ Field Service &             Field Service, scheduling, dispatching, work orders,
+ Workforce                   service appointments, and mobile workforce
+ Operations                  management
+
+ CPQ & Revenue               Salesforce CPQ, product configuration, pricing
+ Processes                   rules, quote generation, and approval workflows
+
+ ERP & Financial             Accounting Seed, Rootstock, and Goldfinch-related
+ Applications                solutions, financial workflows, ERP integration, and
+                             financial data migration
+
+ Enterprise                  MuleSoft, Dell Boomi, REST/SOAP APIs, EDI,
+ Integration                 middleware, legacy systems, databases, and third-
+                             party applications
+
+ Data Engineering &          Data migration, ETL pipelines, data mapping,
+ Analytics                   reconciliation, data modeling, Tableau, CRM
+                             Analytics, and reporting
+
+ Marketing                   Marketing Cloud Engagement, Journey Builder,
+ Automation                  Data Extensions, automated communications, and
+                             campaign reporting
+
+ Cloud & Application         Cloud-based applications, backend services,
+ Development                 databases, AWS, Azure, Google Cloud, and third-
+                             party integrations
+
+ Quality Assurance &         Functional and integration testing, UAT, defect
+ Release                     management, deployment, release coordination,
+ Management                  and production validation
+
+ Managed Services &          Administration, troubleshooting, maintenance,
+ Support                     enhancements, optimization, and ongoing
+                             technical support
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 3
+ Project Management Agile/Scrum, hybrid delivery, scope and schedule
+ & Governance       management, risk management, stakeholder
+                    coordination, and project reporting
+
+
+
+3.2 Salesforce Product Portfolio
+
+Inovi provides services across applicable Salesforce products and solutions,
+based on each engagement's requirements.
+
+   ●   Core CRM & Platform: Salesforce Platform, Sales Cloud, Service Cloud,
+       Experience Cloud, Revenue Cloud, Salesforce CPQ, and Field Service.
+
+   ●   AI, Data & Analytics: Agentforce, Data Cloud/Data 360, Tableau, CRM
+       Analytics, and AI-enabled applications.
+
+   ●   Marketing & Commerce: Marketing Cloud Engagement and
+       Commerce Cloud.
+
+   ●   Integration & Collaboration: MuleSoft, Slack, Heroku, APIs, and third-
+       party integration platforms such as Dell Boomi.
+
+   ●   Industry Solutions: Nonprofit, Education, Financial Services, Health,
+       Manufacturing, Automotive, Communications, Consumer Goods,
+       Energy & Utilities, Media, Life Sciences, Public Sector Solutions, and
+       other applicable industry solutions.
+
+Across applicable products, Inovi provides consulting, implementation,
+configuration, customization, development, integration, data migration,
+testing, deployment, optimization, training, managed services, maintenance,
+and ongoing support.
+
+3.3 AI, ERP & Enterprise Integration
+
+Inovi’s AI capabilities include Salesforce Agentforce, agentic AI development,
+large language model integration, and AI-enabled business workflows.
+Depending on project requirements, solutions may incorporate Anthropic
+Claude, OpenAI models, Google Gemini, and related technologies.
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 4
+For service operations, relevant capabilities include Service Cloud, Agentforce
+Voice, Field Service, and automated service workflows.
+
+In ERP and financial applications, Inovi supports solutions involving
+Accounting Seed, Rootstock, and Goldfinch, including financial workflows,
+data migration, reporting, and system integration. Inovi identifies itself as an
+Accounting Seed Elite Partner; this designation should be confirmed against
+current partner documentation before submission.
+
+For enterprise integration, Inovi uses technologies such as MuleSoft and Dell
+Boomi, along with APIs and custom integration components, to connect
+Salesforce with legacy systems, ERP platforms, databases, and third-party
+applications.
+
+4. Highlighted Experience
+Inovi's project experience includes Salesforce transformation, customer
+service, field operations, marketing automation, nonprofit services, financial
+operations, data migration, and enterprise integration. The following selected
+engagements are listed from most recent to oldest.
+
+   1. 2026–Present - Human Development Fund: Accounting Seed
+      implementation on Salesforce, Chart of Accounts configuration,
+      financial data migration, Financial Report Hub, dashboards, financial
+      reports, testing, and training.
+
+   2. 2026–Present - One Mission Society: Accounting Seed data migration,
+      data dictionary development, financial data mapping, Chart of
+      Accounts alignment, transaction migration, and data validation.
+
+   3. 2025–2026 - AngioDynamics: Salesforce Marketing Cloud
+      Implementation: Marketing Cloud Engagement implementation,
+      automated communications, data integration, Data Extensions, SQL
+      Query Activities, Journey Builder, campaign reporting, testing, and
+      post-launch support.
+
+   4. 2025 - Ranch Hands Rescue: Salesforce Nonprofit Success Pack
+      implementation and managed services, including case management,
+      intake automation, duplicate checking, notifications, task assignment,
+      caseload management, dashboards, and reporting.
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 5
+   5. 2025–Present - Keys Non Profit: Accounting Seed implementation on
+      Salesforce, financial data migration, workflow automation, access
+      controls, approvals, inventory management, and financial reporting.
+
+   6. 2024–2025 - Meridian Cooperative: Migration of 300+ users from
+      Microsoft Dynamics to Salesforce Service Cloud and Experience Cloud,
+      including Case Management, automation, chat, Omni-Channel, Slack,
+      and Jira integrations.
+
+   7. 2023–Present - AngioDynamics: Salesforce Managed Services:
+      Salesforce support and enhancements across Sales Cloud, Service
+      Cloud, Field Service, Experience Cloud, CRM Analytics, integrations,
+      automation, access management, and release governance.
+
+   8. 2023–2025 - Loxo @ Lilly: Salesforce Sales Cloud enhancements for
+      clinical protocols, escalations, site-level information, workflow
+      automation, external data integration, dashboards, reporting, and
+      ongoing support.
+
+   9. 2023–2024 - RigUPATL: Salesforce Field Service implementation to
+      digitize field operations, improve scheduling and dispatching, and
+      provide visibility into field activities.
+
+   10. 2023 - Nana Grants: Salesforce and Experience Cloud enhancements
+       supporting application forms, automated notifications, scholarship
+       eligibility management, and waiting-list processes.
+
+   11. 2022 - Quality Care for Children: Salesforce Nonprofit Success Pack
+       implementation supporting program and family records, eligibility
+       verification, scholarship management, workflow automation, reports,
+       and dashboards.
+
+   12. 2018–Present - EPIC, National Disaster Response Company: Multi-
+       year Salesforce transformation for 100+ users using Field Service, Sales
+       Cloud, and Service Cloud to replace manual processes with an
+       integrated operational platform.
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 6
+5. Key Personnel
+Inovi’s team includes professionals in project management, Salesforce
+architecture and development, AI solutions, ERP applications, enterprise
+integration, data engineering, and quality assurance. The following order
+reflects the preferred proposal staffing hierarchy. Proposed assignments and
+availability should be confirmed for each solicitation.
+
+ Name / Role            Total / Relevant              Primary Areas / Skills
+                        Experience
+ Ben Smith -            25+ years of experience       Project and program
+ Project Manager        in Information                management, Agile/Scrum,
+                        Technology and 15+            hybrid delivery, governance,
+                        years in project and          risk management, stakeholder
+                        program delivery              coordination
+ Corey DeBoer -         20+ years in Salesforce;      Salesforce architecture,
+ Salesforce             14 years in dedicated         solution design, enterprise
+ Solutions              Salesforce consulting,        implementations, Service
+ Architect              subject to résumé             Cloud, Experience Cloud, data
+                        confirmation                  migration
+
+ Md. Arshad             20+ years in software    Enterprise architecture,
+ Hossain - Senior       development; 12+ years   Salesforce development, AI
+ Director of            in Salesforce            and agentic solutions, Claude,
+ Development                                     OpenAI, Gemini, technical
+                                                 leadership
+ Kishore Menta -        20+ years in specialized Salesforce development, Apex,
+ Senior Salesforce      software experience      LWC, API integration, CI/CD,
+ Developer /                                     MuleSoft, deployment
+ DevOps Engineer
+
+ Sagar                  20+ years in software         Salesforce architecture, Apex,
+ Chakraborty -          development; 10 years         LWC, MuleSoft, Dell Boomi,
+ Technical Lead         in Salesforce                 REST/SOAP APIs, CI/CD
+ Sajjad Ahmed -         10+ years in Salesforce       MuleSoft, Dell Boomi,
+ Enterprise             and integration               Salesforce architecture,
+ Architect /            architecture, subject to      Agentforce, Accounting Seed,
+                        résumé confirmation           Apex, LWC, REST APIs
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 7
+ Integration
+ Specialist
+
+
+ Md. Nazim Ul      15+ years in industry              Quality assurance, UAT,
+ Islam - QA /      experience, Salesforce             Salesforce implementations,
+ Project Delivery  solutions, and project             Accounting Seed, Field
+ Lead              delivery, subject to               Service, data migration,
+                   résumé confirmation                release management
+ Md. Tahzeeb       12+ years in finance               Accounting Seed-related
+ Rasheed -         and accounting,                    financial solutions, financial
+ Accounting Seed / subject to confirmation            reporting, financial modeling,
+ Financial Systems                                    process automation, budget
+ Specialist                                           management, financial
+                                                      analysis
+ Allen Irle -           8+ years in Salesforce        Salesforce consulting, Field
+ Salesforce                                           Service, Sales Cloud, Service
+ Functional                                           Cloud, CPQ, Accounting Seed,
+ Consultant /                                         business analysis
+ Business Analyst
+ Mohim Ahmad -          8+ years in software          Accounting Seed, Field
+ Senior Salesforce      development; 6+ years         Service, CPQ, Apex, LWC,
+ Developer /            in Salesforce                 Service Cloud, Agentforce,
+ Technical Lead                                       integrations
+
+ Md. Nafis              7+ years in technology        Apex, LWC, CPQ, Experience
+ Siddique - Senior      and software                  Cloud, Marketing Cloud,
+ Salesforce             development                   Accounting Seed, third-party
+ Developer /                                          integrations
+ Technical Lead
+ Md. Razwanul           6+ years in software      MuleSoft, EDI, Marketing
+ Ghani - Senior         development; 3+ years Cloud, API integration,
+ Salesforce             in Salesforce, subject to QuickBooks, automation
+ Developer              résumé confirmation
+
+ Rowshanara             4+ years in software          Salesforce CPQ, Apex, LWC,
+ Sadia - Salesforce     development                   Flow, Agentforce, pricing
+ Developer                                            automation, API integration
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 8
+ Aumit Hasan -          4+ years in data              ETL pipelines, Python, SQL,
+ Data Engineer /        engineering and               PySpark, AWS, Azure, Google
+ Analyst                analytics                     Cloud, data warehousing,
+                                                      machine learning, dashboards
+
+
+
+6. Certifications & Qualifications
+Inovi's team includes Salesforce-certified architects, developers,
+administrators, consultants, and technical specialists. Relevant qualifications
+should be selected for each proposal based on the actual requirements and
+verified against current credentials.
+
+ Qualification         Relevant Certifications / Expertise
+ Area
+
+ Salesforce            Application Architect, Data Architecture & Management
+ Architecture          Designer, Sharing & Visibility Designer, Development
+                       Lifecycle & Deployment Designer
+
+ Salesforce            Platform Developer I and II, Platform App Builder,
+ Development           JavaScript Developer I
+
+ Salesforce            Salesforce Administrator, Advanced Administrator,
+ Administration        Platform Administrator II
+
+ Salesforce            Service Cloud Consultant, Sales Cloud Consultant,
+ Cloud                 Experience Cloud Consultant, Field Service Consultant
+ Consulting
+
+ AI & Agentforce       Agentforce Specialist and documented Salesforce AI
+                       credentials
+
+ Integration           MuleSoft certifications, integration architecture,
+                       REST/SOAP APIs, EDI, middleware
+
+ Data &                Tableau Data Analyst, data engineering, ETL, reporting,
+ Analytics             and data migration
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 9
+ Project               Professional Scrum Master I (PSM I), Agile/Scrum,
+ Management            Waterfall, hybrid delivery, and program governance
+
+ ERP & Financial       Accounting Seed implementation, financial workflows,
+ Applications          ERP integration, and financial data migration
+
+
+7. Delivery, Quality & Governance
+Inovi uses a structured delivery approach to manage requirements, technical
+execution, quality, and stakeholder expectations throughout the project
+lifecycle.
+
+ Delivery Area          Approach / Capability
+
+ Project                Scope, schedule, budget, resource planning, risk
+ Management             management, dependencies, and status reporting
+ Architecture &         Requirements analysis, solution design, data modeling,
+ Design                 integration architecture, and technical standards.
+ Development &          Configuration, custom code, APIs, middleware, ERP
+ Integration            integration, and data migration
+ Quality                Test plans, functional and integration testing, UAT,
+ Assurance              defect tracking, validation, and issue resolution
+ Release &              Release planning, CI/CD practices, deployment
+ Deployment             coordination, production validation, and hypercare
+ Training &             User training, documentation, knowledge transfer, and
+ Adoption               adoption support
+ Ongoing Support Maintenance, troubleshooting, enhancements,
+                 managed services, and performance improvement
+
+8. Corporate Differentiators
+
+Broad Technical Coverage: Inovi combines Salesforce, AI-enabled
+applications, ERP solutions, integration engineering, data services, and
+quality assurance within one technical delivery organization.
+Experienced Technical Team: The team includes professionals with
+experience in enterprise architecture, Salesforce implementation, technical
+leadership, integration, data engineering, and project delivery.
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 10
+AI & Enterprise Modernization: Inovi's documented team capabilities
+include Salesforce Agentforce, large language model integrations, and AI-
+enabled workflows, alongside legacy-system integration and cloud-based
+business applications.
+Structured Delivery: A combination of project governance, technical design,
+testing, and release management supports controlled implementations and
+ongoing improvement.
+Reported Client Satisfaction: Inovi reports a 98% CSAT score and a 5-star
+Salesforce AppExchange rating. Supporting evidence should be retained for
+proposals when requested.
+
+
+
+
+Inovi Solutions • info@inovisolutions.com • 469.815.4078 • inovisolutions.com • Page: 11
+

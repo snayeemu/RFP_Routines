@@ -1,0 +1,83 @@
+
+
+
+Department of Defense Defense Health Agency Statement of Objectives
+
+
+Data Exchange Platform Operations, Modernization, & Development
+Portfolio Acquisition Executive, Medical Digital Solutions Enterprise Intelligence & Data Solutions Program Management Office
+
+Solicitation Number: HT003826SC005 Version: 2.0
+Date: 15 October 2026
+
+BACKGROUND AND PURPOSE
+
+The Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO) serves as the premier data and analytics provider for the Military Health System (MHS). Central to this role is the Data Exchange Platform (DxP), which enables interoperability across the Defense Health Agency (DHA), the Department of Veterans Affairs (VA), and external federal partners.
+
+The Government is assessing potential approaches to modernize the EIDS DxP infrastructure while sustaining critical legacy data exchange systems. Through this effort, the Government seeks industry input on technical solutions, delivery methodologies, and implementation strategies that can provide an innovative, agile, and scalable approach to enhancing enterprise data exchange capabilities.
+
+This Statement of Objectives (SOO) describes the Government’s high-level objectives and
+desired outcomes. Industry responses will help inform the Government’s understanding of available technical capabilities, associated risks, recommended implementation approaches, and the acquisition strategy best suited to meet the requirement.
+
+The desired solution should support the sustainment of the current data exchange environment while enabling iterative modernization of DxP capabilities. The Government seeks a comprehensive, standards-based solution that can be validated, matured, and scaled across the enterprise, as appropriate. Any future acquisition approach, including the selection of the appropriate instrument and potential follow-on actions, will be determined based on Government requirements, applicable authorities, market research, and evaluation of industry input.
+
+PROGRAM OBJECTIVES
+The overall goal of this effort is to demonstrate a superior model for managing the DxP lifecycle. The vendor shall propose a solution to achieve the following primary objectives:
+
+Objective 1. Maintain Operational Continuity: Ensure 24x7 operational availability, reliability, and performance of critical production systems (Data Exchange Services (DES), Access Control Services Data Access Layer (ACS-DAL)) in alignment with established Service Level Agreements (SLAs).
+
+Objective 2. Modernize Data Exchange Architecture: Transition legacy data exchange flows to high-performance, containerized, RESTful microservices and modern Application Programming Interface (API) Gateway patterns.
+
+Objective 3. Advance Healthcare Standards Adoption: Implement Fast Healthcare Interoperability Resources (FHIR) R4 compliant APIs and OMOP CDM transformations to align with national healthcare interoperability and research standards.
+
+Objective 4. Enable Real-Time Interoperability: Establish robust event-driven architectures (EDA) and streaming pipelines to support near real-time clinical data exchange and decision-support systems.
+
+Objective 5. Integrate AI/ML & Intelligent Automation: Establish standardized data preparation pipelines, feature stores, and inference endpoints to support AI-driven analytics, natural language processing (NLP), and automated workflows.
+
+Objective 6. Improve Developer & Partner Experience: Create self-service developer portals, automated onboarding workflows, and comprehensive sandboxes to accelerate external partner integration.
+
+Objective 7. Ensure End-to-End Security and Compliance: Maintain continuous Authority to Operate (ATO) postures under the Risk Management Framework (RMF) and implement a Zero Trust security architecture utilizing advanced authentication, authorization, and data encryption.
+
+SCOPE OF WORK
+
+Platform Operations: Ensuring the 24x7 availability of production environments (DES, ACS-DAL) through proactive monitoring, performance tuning, and scheduled maintenance.
+Cloud Infrastructure Management: Administering the AWS GovCloud environments hosting DxP components, managing cloud resources, and optimizing costs.
+Service Management: Providing Tier 2/3 incident resolution, root cause analysis for systemic problems, and coordinating changes through the EIDS Configuration Control Board (CCB).
+Legacy Interface Support: Managing and troubleshooting existing data exchange connections with external partners like VA and MHS GENESIS.
+
+
+
+API-Centric Development: Developing and demonstrating a modern architecture centered on RESTful APIs that are well-documented (OpenAPI), secure, and adhere to FHIR R4 standards.
+Standards-Based Integration: Demonstrating the ability to map disparate data sources into the OMOP Common Data Model and convert legacy formats (e.g., HL7v2) to FHIR.
+Event-Driven Architecture: Developing and demonstrating a high-throughput event streaming capability to enable real-time data exchange use cases.
+AI/ML Enablement: Engineering the data pipelines, feature stores, and model-serving infrastructure necessary to integrate AI/ML into the data exchange lifecycle.
+Self-Service Capabilities: Developing and demonstrating a self-service developer portal with automated onboarding workflows and sandboxes to improve the partner integration experience.
+Phased Modernization: Developing and demonstrating a migration strategy to transition from legacy SOAP services to the new REST/FHIR architecture while ensuring backward compatibility and zero downtime.
+
+
+Continuous Security: Implementing a Zero Trust security model and maintaining a continuous ATO readiness posture through automated scanning, STIG compliance, and IAVM remediation.
+Knowledge Management: Creating and maintaining all necessary technical documentation, including runbooks, architecture diagrams, and Interface Control Documents (ICDs).
+
+KEY OUTCOMES & MEASURES OF SUCCESS
+
+
+
+Demonstrated Stability: The sustainment of legacy systems remains stable and secure throughout the period of performance, as measured by system uptime and security compliance metrics.
+Successful Modernization: Modernization effort successfully demonstrates the transition from legacy SOAP-based architecture to a modern, RESTful API-driven model that is performant and scalable.
+
+Standards Conformance: The effort successfully implements FHIR R4 and OMOP CDM standards, validated through a series of interoperability tests.
+Improved Partner Integration: The effort includes a functional self-service developer portal that measurably reduces the time and effort required for external partner onboarding.
+
+Scalability and Viability: The final products are assessed to be technically sound, secure, scalable, and viable for transition to a production-level solution for the entire enterprise.
+
+CONSTRAINTS, CONSIDERATIONS, AND SECURITY REQUIREMENTS
+Cybersecurity Compliance: All operational and modernization systems must adhere to DoD Instruction 8510.01 (RMF), the DHA Cloud Computing Security Requirements Guide (SRG), and DHA cybersecurity rules.
+
+Personnel Clearances: Contractor personnel must be U.S. citizens and possess and maintain the required security clearances (Tier 1,2, or 3 or equivalent) and favorable Personnel Security Investigations (IT-Level designations) required for access to DoD environments.
+Intellectual Property: All software code, configuration scripts, database structures, and documentation developed under this contract shall be delivered with Government Purpose Rights (GPR).
+
+Period of Performance:  For planning purposes, the Government anticipates a 12-month base period and a 30-day transition period. Subsequent periods, if any, may be exercised by the Government based on successful completion of milestones defined within Program Increment (PI) planning cycles. Specific transition requirements and support will be addressed in subsequent phases with selected vendors and, as applicable, in any resulting award.
+
+Place of Performance: Contractor facilities (remote work authorized).
+
+Contract Type: Firm-Fixed-Price (FFP) is the Government’s anticipated pricing structure.  The Government reserves the right to select the award instrument and terms most appropriate to the maturity and nature of the proposed approach.

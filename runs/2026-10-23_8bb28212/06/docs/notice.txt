@@ -1,0 +1,21 @@
+{
+  "title": "Enterprise IT Support Services J&A",
+  "solicitationNumber": "W9124J-27-F-A001 ",
+  "type": "u",
+  "naics": [
+    {
+      "code": [
+        "541513"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": null,
+  "responseDeadline": null,
+  "postedDate": "2026-10-22T19:33:25.807+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+This is a non-personal services requirement to support the US ARMY OTSG, USA HQ MEDCOM, DRUs, and other authorized Army organizations within OCONUS/CONUS. The purpose of this contract is to sustain current IM/IT infrastructure and deliver future IM/IT enhancements. The scope encompasses enterprise-level IT services—including network engineering and operations, database administration, system sustainment, and secure cloud operations—in strict compliance with federal, Department of War, and DoD cybersecurity standards.

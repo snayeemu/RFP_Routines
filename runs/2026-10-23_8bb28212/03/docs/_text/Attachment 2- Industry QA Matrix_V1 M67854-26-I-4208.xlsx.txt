@@ -1,0 +1,27 @@
+=== Sheet Instructions ===
+Attachment 2 - Instructions for Submitting Industry Questions
+1. General Guidelines:
+Purpose: The Government will utilize this Q&A period to gather feedback on the clarity, accuracy, and completeness of the RFI document. All submitted questions must serve to clarify the requirements or contracting strategy of the upcoming MCCE OSS procurement.
+Email-Only Submission: All questions must be submitted electronically via email to the Contracting Officer, Deborah O. Pickeral, APM-CT (Deborah.Pickeral@usmc.mil). Telephone or in-person inquiries will not be accepted.
+Due Date: All questions must be received no later than 5 calendar days post-release of the RFI. Late submissions may not be reviewed or answered by the Government.
+2. Mandatory Formatting Rules:
+Standardized Template: Questions MUST be submitted using this Excel template on Tab 2 ("Q&A Submission Matrix"). Questions submitted in the body of an email, in PDF format, or in modified versions of this template will not be reviewed.
+Citations Required: For every question submitted, the vendor MUST cite the exact RFI Section, page number, and question/paragraph number (e.g., "Section 3.0, Part B, Question 10"). General or uncited questions may be ignored.
+Context/Rationale: The "Vendor Context / Rationale" column is mandatory. Vendors must explain why the question is being asked (e.g., "We require clarification on IL6 isolating boundaries to ensure our proposed personnel holds the correct clearances in our pricing model").
+No Marketing or Proprietary Information: Do not include proprietary, confidential, or trade-secret language in your questions. All questions and Government answers will be posted publicly to SAM.gov. Do not use the Q&A period to pitch specific corporate products or capabilities.
+3. Government Processing (Triage Policy):
+Consolidation: The OSS PMO will compile all compliant questions into a single master sheet. To protect procurement integrity, vendor names and identifying information will be completely scrubbed prior to review.
+Scrubbing of Duplicates: If multiple vendors ask identical or highly similar questions, the Government will consolidate them into a single question for public response.
+Public Release: The final Q&As will be published to SAM.gov as a formal amendment to the RFI.
+=== Sheet Q&A Submission Matrix ===
+Q# | RFI Section / Page # | Vendor Question | Vendor Context / Rationale (Why is this question being asked?) | Government Response (Leave Blank) |  |  | 
+1 |  |  |  |  |  |  | 
+2 |  |  |  |  |  |  | 
+3 |  |  |  |  |  |  | 
+4 |  |  |  |  |  |  | 
+5 |  |  |  |  |  |  | 
+6 |  |  |  |  |  |  | 
+7 |  |  |  |  |  |  | 
+8 |  |  |  |  |  |  | 
+9 |  |  |  |  |  |  | 
+10 |  |  |  |  |  |  | 

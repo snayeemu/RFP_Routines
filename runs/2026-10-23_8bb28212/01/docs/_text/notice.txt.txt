@@ -1,0 +1,21 @@
+{
+  "title": "Enterprise Cloud Support Services",
+  "solicitationNumber": "N0018926RL011",
+  "type": "o",
+  "naics": [
+    {
+      "code": [
+        "518210"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": "SBA",
+  "responseDeadline": "2026-11-12T14:00:00-05:00",
+  "postedDate": "2026-10-22T18:19:59.582+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+Please see attached, N0018926RL011 and attachments, for Enterprise Cloud and Network Operations and Management Support  Services.

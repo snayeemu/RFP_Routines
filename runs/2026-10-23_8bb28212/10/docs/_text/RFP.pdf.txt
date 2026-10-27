@@ -1,0 +1,2282 @@
+=== Page 1 ===
+Department of Buildings and General Services                                       Agency of Administration
+Office of Purchasing & Contracting
+133 State Street, 5th Floor | Montpelier VT 05633-8000
+802-828-2211 phone |802-828-2222 fax
+http://bgs.vermont.gov/purchasing
+
+
+
+
+                                               SEALED BID
+                              REQUEST FOR PROPOSAL
+    Retainer Contract Opportunity for Information Technology (IT) Services
+ISSUE DATE:                      July 23, 2026
+
+QUESTIONS DUE BY:                August 6, 2026 at 4:30 PM (EST)
+
+RFP RESPONSES DUE BY:            RFP RESPONSES WILL BE ACCEPTED ANYTIME AFTER RESPONSES TO
+                                 QUESTIONS ARE POSTEDTHROUGH September 2, 2026 at 4:30 PM
+
+BIDS MAY BE SUBMITTED THROUGH VERMONT’S EPROCUREMENT SYSTEM, VTBUYS, LINK
+TO THE SYSTEM CAN BE
+FOUND: https://vtbuys.suppliers.vermont.gov/page.aspx/en/usr/login?ReturnUrl=%2fpage.aspx%2fen%
+2fbuy%2fho mepage
+
+BIDS MAY ALSO BE SUBMITTED THROUGH OTHER ELECONTRIC MEANS IDENTIFIED WITHIN
+THIS RFP. IF USING OTHER MEANS IDENTIFIED, PLEASE BE ADVISED THAT ALL
+NOTIFICATIONS, RELEASES, AND AMENDMENTS ASSOCIATED WITH THIS RFP WILL BE
+POSTED AT:
+
+                                    http://www.bgs.state.vt.us/pca/bids/bids.php
+
+THE STATE WILL MAKE NO ATTEMPT TO CONTACT INTERESTED PARTIES WITH UPDATED
+INFORMATION. IT IS THE RESPONSIBILITY OF EACH BIDDER TO PERIODICALLY CHECK THE
+ABOVE WEBPAGEFOR ANY AND ALL NOTIFICATIONS, RELEASES AND AMENDMENTS
+ASSOCIATED WITH THIS RFP.
+
+
+PURCHASING AGENT:                  Kevin Cooke
+E-MAIL:                            SOV.ThePathForward@vermont.gov
+
+
+
+
+                                                                                                    Page 1 of 28
+                                                                                          Revised: July 23, 2026
+
+=== Page 2 ===
+1. OVERVIEW:
+  1.1.   SCOPE AND BACKGROUND: Through this Request for Proposal (RFP) the State of Vermont, through
+         its Office of Purchasing & Contracting (hereinafter the “State”) seeks to pre-qualify information technology
+         (IT) vendors to provide IT professional services in one or more categories of services described in
+         Section 2 of this RFP. Bidders deemed qualified by the State in any one or more service categories under
+         this RFP shall execute the State’s Retainer Contract for IT Professional Services, which is attached to
+         this RFP. The State maintains multiple retainer contracts with vendors in each of the several categories of
+         IT services. The retainer contract establishes (1) the process for a State Agency/Department to engage
+         IT vendors for services in any of their awarded categories (2) the terms and conditions applicable to the
+         vendor’s provision of services when engaged by a State Agency/Department, and (3) the roles and
+         maximum allowable rates applicable to each category of service. As structured, the retainer contract
+         enables State Agencies/Departments to efficiently obtain competitive pricing proposals to meet a
+         business need from multiple vendors that have been pre-qualified in the applicable category of service. At
+         least every two years the State issues this RFP to qualify and/or re-qualify IT vendors in the IT service
+         categories.
+         1.1.1. New Retainer Suppliers: Vendors without an active IT Retainer Contract with the State of
+                Vermont IT Retainer Contracts listed online here are invited to submit a full response to this RFP
+                to be considered for pre-qualification of IT services in one or more desired categories.
+         1.1.2. Active Retainer Suppliers: All active IT Retainer Contracts IT Retainer Contracts listed online
+                here expire in January 2027. Therefore, Active Retainer Suppliers are invited to re-qualify and
+                extend their contract by submitting a response to this RFP in accordance with the following:
+                    a) Active Retainer Suppliers do not need to submit a technical response for existing awarded
+                       IT service categories.
+                    b) However, Active Retainer Suppliers seeking to pre-qualify for new IT service categories
+                       must submit a technical response addressing each new category.
+                    c) Active Retainer Suppliers must submit a response that complies with all other
+                       requirements of this RFP and are invited to propose lower labor costs.
+         1.1.3. The State reserves the right limit the number of pre-qualified Suppliers for each IT service
+                category.
+         1.1.4. This RFP pertains to IT services only. The State will not be purchasing hardware or software via
+                this RFP.
+         1.1.5. All responses to this RFP must conform to the detailed and general RFP requirements set forth
+                herein.
+  1.2.   Purchasing Entities: Resulting Contract(s) may be used by (a) all departments, offices, institutions, and
+         other agencies of the State of Vermont and counties (each a “State Purchaser”) according to the process
+         for ordering and other restrictions applicable to State Purchasers set forth herein; and (b) political
+         subdivisions of the state (including, but not limited to, cities, towns, and school districts) and any
+         institution of higher education chartered in Vermont and accredited or holding a certificate of approval
+         from the State Board of Education as authorized under 29 V.S.A. § 902 (each an “Additional Purchaser”).
+         Issues concerning interpretation and eligibility for participation are solely within the authority of the State
+         of Vermont Chief Procurement Officer. The State of Vermont and its officers and employees shall have
+         no responsibility or liability for Additional Purchasers. Each Additional Purchaser is to make its own
+         determination whether Contract(s) are consistent with its procurement policies and regulations.
+  1.3.   CONTRACT TERM: Contracts arising from this RFP will be for a term ending January 31, 2032. This
+         end date coincides with all existing IT Retainer agreements at which time a complete refresh is
+         anticipated.
+  1.4.   SINGLE POINT OF CONTACT: All communications concerning this RFP are to be addressed in writing
+         to the State Contact listed on the front page of this RFP. Actual or attempted contact with any other
+         individual from the State concerning this RFP is strictly prohibited and may result in disqualification.
+  1.5.   BIDDERS’ CONFERENCE CALL: A bidders’ conference call will NOT be held.
+
+
+                                                                                                                Page 2 of 28
+                                                                                                      Revised: July 23, 2026
+
+=== Page 3 ===
+  1.6.     QUESTION AND ANSWER PERIOD: Any bidder requiring clarification of any section of this RFP or
+           wishing to comment on any requirement of the RFP must submit specific questions in writing no later than
+           the deadline for question indicated on the first page of this RFP. Questions may be e-mailed to the point
+           of contact on the front page of this RFP. Questions or comments not raised in writing on or before the last
+           day of the question period are thereafter waived. At the close of the question period a copy of all
+           questions or comments and the State's responses will be posted on the State’s web site
+           http://www.bgs.state.vt.us/pca/bids/bids.php . Every effort will be made to post this information as soon as
+           possible after the question period ends, contingent on the number and complexity of the questions. All
+           information provided by vendors during this process will be public and bidders shall not provide
+           confidential information, except as specifically permitted in this RFP.
+  1.7.     CHANGES TO THIS RFP: Any modifications to this RFP will be made in writing by the State through the
+           issuance of an Addendum to this RFP and posted online at http://www.bgs.state.vt.us/pca/bids/bids.php .
+           Modifications from any other source are not to be considered.
+2. DETAILED REQUIREMENTS:
+  2.1. Specific Bid Requirements: The State’s service specifications for contracted IT Services are set forth at
+       Attachment A1: IT Service Categories, Roles and Rates, which is attached separately to this RFP and will
+       become part of the resulting Retainer Contract for IT Professional Services awarded from this RFP. In
+       responding to this RFP, a Bidder’s Technical Response shall address its capabilities relative to these
+       specifications for any and each category of service for which the Bidder would like to be considered for
+       pre-qualification by the State. Additionally, a Bidder must indicate the service categories it intends to bid on
+       by completing Attachment A1: IT Service Categories, Roles and Rates attached separately to this RFP.
+3. GENERAL REQUIREMENTS:
+  3.1. PRICING: Bidders must price the terms of this solicitation at their best pricing. Any and all costs that
+       Bidder wishes the State to consider must be submitted for consideration. If applicable, all equipment
+       pricing is to include F.O.B. delivery to the ordering facility. No request for extra delivery cost will be
+       honored. All equipment shall be delivered assembled, serviced, and ready for immediate use, unless
+       otherwise requested by the State.
+         3.1.1.Prices and/or rates shall remain firm for the term of the contract. The pricing policy submitted by Bidder
+               must (i) be clearly structured, accountable, and auditable and (ii) cover the full spectrum of materials
+               and/or services required.
+  3.2. STATEMENT OF RIGHTS: The State shall have the authority to evaluate Responses and select the
+       Bidder(s) as may be determined to be in the best interest of the State and consistent with the goals and
+       performance requirements outlined in this RFP. The State of Vermont reserves the right to obtain
+       clarification or additional information necessary to properly evaluate a proposal. Failure of bidder to
+       respond to a request for additional information or clarification could result in rejection of that bidder's
+       proposal. The State reserves the right to accept or reject any and all bids, in whole or in part, with or
+       without cause, and to waive technicalities in submissions. The State also reserves the right to make
+       purchases outside of the awarded contracts where it is deemed in the best interest of the State.
+         3.2.1.Best and Final Offer (BAFO). At any time after submission of Responses and prior to the final
+               selection of Bidder(s) for Contract negotiation or execution, the State may invite Bidder(s) to provide a
+               BAFO. The state reserves the right to request BAFOs from only those Bidders that meet the minimum
+               qualification requirements and/or have not been eliminated from consideration during the evaluation
+               process.
+         3.2.2.Presentation. An in-person or webinar presentation by the Bidder may be required by the State if it
+               will help the State’s evaluation process. The State will factor information presented during
+               presentations into the evaluation. Bidders will be responsible for all costs associated with providing
+               the presentation.
+  3.3. CONFLICTS OF INTEREST:
+
+         3.3.1.Organizational Conflict of Interest (OCOI): An OCOI arises when a bidder as a business entity has
+               interests (for example, customers, partners, contracts) that could undermine, or reasonably be
+               perceived to undermine, its faithful and unbiased performance of a contract with the State that may
+               result from this solicitation.
+
+                                                                                                                  Page 3 of 28
+                                                                                                        Revised: July 23, 2026
+
+=== Page 4 ===
+    3.3.2.Personal Conflict of Interest (PCOI): A PCOI arises when an interest held by an individual, agent or
+          employee of a bidder could undermine, or reasonably be perceived to undermine, its faithful and
+          unbiased performance of a contract with the State that may result from this solicitation.
+
+    3.3.3.Requirements: The State does not seek to contract with any individual or business entity having a
+          conflict of interest which cannot be mitigated to the State’s satisfaction. To ensure the State’s
+          awareness of actual, potential, or reasonably perceived PCOIs and OCOIs, bidders shall:
+            d) Prior to submitting a proposal, conduct an internal review of its current affiliations and activities
+               and identify actual, potential, or reasonably perceived PCOIs or OCOIs relative to a contract
+               with the State that may result from this solicitation.
+            e) Disclose in your proposal any actual or potential PCOI or OCOI or the existence of any facts
+               that may cause a reasonably prudent person to perceive a PCOI or OCOI with respect to a
+               contract with the State that may result from this solicitation. Disclose, also, any actions
+               proposed to mitigate the PCOI or OCOI.
+
+    3.3.4.The State shall have sole discretion to determine whether a PCOI or OCOI can be mitigated to the
+          State’s satisfaction and may discuss the conflict with the bidder if and to the extent the State deems
+          discussion necessary to its determination. The State reserves the right to (a) reject from further
+          consideration any proposal having a PCOI or OCIO that cannot be mitigated to the State’s full
+          satisfaction and (b) terminate a contract upon discovery that a contractor failed to disclose facts
+          pertaining to a PCOI or OCOI in its proposal, or otherwise misrepresented relevant information to the
+          State.
+3.4. WORKER CLASSIFICATION COMPLIANCE REQUIREMENTS: In accordance with Section 32 of The
+     Vermont Recovery and Reinvestment Act of 2009 (Act No. 54), Bidders must comply with the following
+     provisions and requirements.
+    3.4.1.Self Reporting: For bid amounts exceeding $250,000.00, Bidder shall complete the appropriate
+          section in the attached Certificate of Compliance for purposes of self-reporting information relating to
+          past violations, convictions, suspensions, and any other information related to past performance
+          relative to coding and classification of workers. The State is requiring information on any violations
+          that occurred in the previous 12 months.
+    3.4.2.Subcontractor Reporting: For bid amounts exceeding $250,000.00, Bidders are hereby notified that
+          upon award of contract, and prior to contract execution, the State shall be provided with a list of all
+          proposed subcontractors and subcontractors’ subcontractors, together with the identity of those
+          subcontractors’ workers compensation insurance providers, and additional required or requested
+          information, as applicable, in accordance with Section 32 of The Vermont Recovery and
+          Reinvestment Act of 2009 (Act No. 54). This requirement does not apply to subcontractors providing
+          supplies only and no labor to the overall contract or project. This list MUST be updated and provided
+          to the State as additional subcontractors are hired. The subcontractor reporting form is not
+          required to be submitted with the bid response.
+3.5. EXECUTIVE ORDER 05-16: CLIMATE CHANGE CONSIDERATIONS IN STATE PROCUREMENTS:
+    For bid amounts exceeding $25,000.00 Bidders are requested to complete the Climate Change
+    Considerations in State Procurements Certification, which is included in the Certificate of Compliance for
+    this RFP.
+    After consideration of all relevant factors, a bidder that demonstrates business practices that promote
+    clean energy and address climate change as identified in the Certification, shall be given favorable
+    consideration in the competitive bidding process. Such favorable consideration shall be consistent with
+    and not supersede any preference given to resident bidders of the State and/or products raised or
+    manufactured in the State, as explained in the Method of Award section. But, such favorable
+    consideration shall not be employed if prohibited by law or other relevant authority or agreement.
+3.6. METHOD OF AWARD: Awards will be made in the best interest of the State. The State may award one or
+     more contracts and reserves the right to make additional awards to other compliant bidders at any time if
+     such award is deemed to be in the best interest of the State. All other considerations being equal,
+     preference will be given first to resident bidders of the state and/or to products raised or manufactured in
+
+
+                                                                                                             Page 4 of 28
+                                                                                                   Revised: July 23, 2026
+
+=== Page 5 ===
+           the state, and then to bidders who have practices that promote clean energy and address climate change,
+           as identified in the applicable Certificate of Compliance.
+           3.6.1.Evaluation Criteria: Consideration shall be given to the Bidder’s pricing and to its qualifications and
+                 experience, as demonstrated by, among other things, technical strengths and success in completing
+                 projects involving relevant services. Bidder acceptance of contract terms and conditions included
+                 with this RFP will be evaluated on a pass/fail basis.
+    3.7. COST OF PREPARATION: Bidder shall be solely responsible for all expenses incurred in the preparation
+         of a response to this RFP and shall be responsible for all expenses associated with any presentations or
+         demonstrations associated with this request and/or any proposals made.
+    3.8. CONTRACT TERMS: The selected bidder(s) will be expected to sign a contract with the State in the form
+         of the Retainer Contract for IT Professional Services and its associated Attachments, which is attached to
+         this RFP. Bidder and its legal counsel are expected to carefully review and be prepared to be bound by
+         the terms of the Retainer Contract for IT Professional Services and its associated Attachments, including
+         without limitation, Attachment C: Standard State Provisions for Contracts and Grants. The State will not
+         consider exceptions to contract terms and conditions included with this RFP.
+           3.8.1.Business Registration. Although not required at time of bid submission, to be awarded a contract by
+                 the State of Vermont a bidder (except an individual doing business in his/her own name) must be
+                 registered with the Vermont Secretary of State’s office Business Filings - Vermont Secretary of State
+                 and must register accounts for all tax types (income, sales and use, payroll withholding, etc.) for
+                 which they anticipate a liability with the Vermont Department of Taxes at https://tax.vermont.gov/ .
+           3.8.2.The contract will obligate the bidder to provide the services and/or products identified in its bid, at the
+                 prices listed as determined during the SOW process.
+           3.8.3.Payment Terms. Percentage discounts may be offered for prompt payments of invoices; however,
+                 such discounts must be in effect for a period of 30 days or more in order to be considered in making
+                 awards.
+           3.8.4.Retainage. In the discretion of the State, a Statement of Work (SOW) Agreement resulting from
+                 Contract awarded as a result of this RFP, may provide that the State withhold a percentage of the
+                 total amount payable for some or all deliverables, such retainage to be payable upon satisfactory
+                 completion and State acceptance in accordance with the terms and conditions of the contract.
+    3.9.     PERFORMANCE MEASURES: In accordance with current State of Vermont policy and procedures, a
+             Statement of Work (SOW) Agreement resulting from Contract awarded as a result of this RFP may
+             include performance measures. The specific performance measures will be determined during the SOW
+             process.
+
+4. CONTENT AND FORMAT OF RESPONSES: The content and format requirements listed below are the
+   minimum requirements for State evaluation. However, the State discourages overly lengthy and costly
+   proposals, and Bidders are advised to include only such information in their response as may be relevant to the
+   requirements of this solicitation.
+    4.1. Unsolicited Bidder-Confidential Information Prohibited. Bidders are hereby expressly directed not to
+         include any confidential information in their proposal submissions. By submitting a proposal in response to
+         this RFP, vendors acknowledge and agree to abide by the terms and conditions outlined in this document,
+         including the prohibition on submitting confidential information. This prohibition reduces the burden on the
+         State while preventing vendor-confidential information from entering the public record.
+    4.2. Disclosure under Public Records Act. All information received by the State in response to this
+         solicitation will become part of the contract file and subject to public disclosure in accordance with the
+         State’s Public Records Act, 1 V.S.A. § 315 et seq. The State may also choose to publicly post responses to
+         this solicitation and the resulting agreement(s), following conclusion of this procurement process.
+    4.3. Unsolicited Confidential Materials. This RFP does not solicit or require bidder confidential information
+         and bidders are expressly prohibited from providing confidential information in response to this RFP. All
+         materials furnished by bidders in response to this RFP, including those marked as confidential by bidders,
+         are subject to disclosure if requested under the Public Records Act, or public posting.
+    4.4. State Not Responsible for Disclosure of Unmarked Vendor-Confidential Information. It is the
+         sole responsibility of the bidder to ensure that, other than where specifically directed or permitted by this
+                                                                                                                     Page 5 of 28
+                                                                                                           Revised: July 23, 2026
+
+=== Page 6 ===
+     RFP and accordingly marked as described below, no information that should not be publicly disclosed is
+     included in their proposal materials, including any 1) trade secrets or intellectual property, 2) proprietary
+     financial or business information, 3) personal information, or 4) any other information that should not be
+     disclosed to the public. For example, bidders should avoid including specific details of their proprietary
+     technologies or methodologies that they consider confidential, and any references to previous client
+     engagements should be presented in a manner that does not disclose the client's confidential information.
+  4.5. The bid should include a Cover Letter and Technical Response and Price Schedule.
+  4.6. COVER LETTER:
+     4.6.1.The cover letter must state whether the bidder is a New or Active Retainer Supplier.
+     4.6.2.If bidder is an Active Retainer Supplier, the cover letter must list any new IT service categories the
+           bidder seeks to pre-qualify for.
+  4.7. TECHNICAL RESPONSE: In response to this RFP, and subject to the special requirements pertaining to
+       Active Retainer Suppliers, a Bidder shall:
+     4.7.1.Provide details concerning your form of business organization, company size and resources.
+     4.7.2.Describe your capabilities and particular experience relevant to the RFP requirements.
+     4.7.3.If you have experience working with the State of Vermont, identify all current or past State projects.
+           Provide the name of the Vermont department or agency and the project title or a brief description of
+           the work. Do not include references or statements from State of Vermont agencies or employees.
+     4.7.4.Identify the names of all subcontractors you intend to use, the portions of the work the subcontractors
+           will perform, and address the background and experience of the subcontractor(s), in response to the
+           questions described above in this section.
+  4.8. REFERENCES: The State may, during evaluation of responses, request references from any one or more
+       bidders. Any such request will be made in writing directly to the bidder(s).
+  4.9. PRICE SCHEDULE: Bidders shall submit their pricing information in Attachment A1: IT Service Categories,
+       Roles and Rates attached to the RFP.
+  4.10. CERTIFICATE OF COMPLIANCE: This form must be completed and submitted as part of the response
+        for the proposal to be considered valid.
+
+5. SUBMISSION INSTRUCTIONS:
+
+  5.1. CLOSING DATE: Bids must be received by the State by the due date specified on the front page of this
+       RFP. Late bids will not be considered.
+
+     5.1.1.The State may, for cause, issue an addendum to change the date and/or time when bids are due. If a
+           change is made, the State will inform all bidders by posting at the webpage indicated on the front
+           page of this RFP.
+
+     5.1.2.There will not be a public bid opening. However, the State will record the name, city and state for any
+           and all bids received by the due date. This information will be posted as promptly as possible
+           following the due date online at: https://bgs.vermont.gov/content/opc-bid-tabulation-sheets-0 .
+           Bidders are hereby notified to review the information posted after the bid opening deadline to confirm
+           receipt of bid by the State. Any bidder that submitted a bid, and is not listed on the bid tabulation
+           sheet, shall promptly notify the State Contact listed on the front page of this RFP.
+
+  5.2. ELECTRONIC BIDS ONLY: All bids under this RFP must be submitted electronically in accordance with
+       the submission requirements herein. Electronic bids will be accepted via email submission to
+       SOV.ThePathForward@vermont.gov. The email submission must reference the procurement name “2026
+       Retainer Contract Opportunity for Information Technology (IT) Services”.
+
+     5.2.1.Bids must consist of a single email with a single, digitally searchable PDF attachment containing all
+           components of the bid. Multiple emails and/or multiple attachments will not be accepted.
+
+
+                                                                                                             Page 6 of 28
+                                                                                                   Revised: July 23, 2026
+
+=== Page 7 ===
+       5.2.2.There is an attachment size limit of 40 MB. It is the Bidder’s responsibility to compress the PDF file
+             containing its bid if necessary to meet this size limitation. It is also the Bidder's responsibility to ensure
+             that their own email system can send and receive messages up to this size.
+
+   5.3 Bids may also be submitted through Vermont’s eProcurement System, VTBuys, link to the system can be
+       found: https://vtbuys.suppliers.vermont.gov/page.aspx/en/usr/login?ReturnUrl=%2fpage.aspx%2fen%2fbu
+       y%2fho mepage
+
+6. BID SUBMISSION CHECKLIST:
+      Cover Letter
+      Technical Response (subject to the special requirements pertaining to Active Retainer Suppliers)
+      A1: IT Service Categories, Roles and Rates
+      Signed Certificate of Compliance
+
+7. ATTACHMENTS:
+   7.1. Retainer Contract for IT Professional Services, with its associated attachments (A-D)
+   7.2. Certificate of Compliance
+   7.3. Attachment A1: IT Service Categories, Roles and Rates (note: this information will be included in the
+        resulting Retainer Contract as Attachment A1 consistent with any award under this RFP)
+   7.4. Worker Classification Compliance Requirement; Subcontractor Reporting Form for Use With SOW-RFPs
+        Under the IT Retainer Program
+
+
+
+
+                                                                                                                  Page 7 of 28
+                                                                                                        Revised: July 23, 2026
+
+=== Page 8 ===
+2026 Retainer Contract Opportunity for Information Technology (IT) Services
+                                                                                                           Page 1 of 3
+
+
+
+                                    CERTIFICATE OF COMPLIANCE
+
+For your bid to be considered valid, this form must be completed in its entirety, executed by a duly
+authorized representative of the bidder, and submitted as part of the response to the proposal.
+
+   A. NON COLLUSION: Bidder hereby certifies that the prices quoted have been arrived at without collusion
+      and that no prior information concerning these prices has been received from or given to a competitive
+      company. If there is sufficient evidence to warrant investigation of the bid/contract process by the Office of
+      the Attorney General, bidder understands that this paragraph might be used as a basis for litigation.
+
+   B. CONTRACT TERMS: Bidder hereby acknowledges that it has read, understands and agrees to the terms of
+      this RFP, including Attachment C: Standard State Contract Provisions, and any other contract attachments
+      included with this RFP.
+
+   C. WORKER CLASSIFICATION COMPLIANCE REQUIREMENT: In accordance with Section 32 of The
+      Vermont Recovery and Reinvestment Act of 2009 (Act No. 54), the following provisions and requirements
+      apply to Bidder.
+
+       Self-Reporting. Bidder hereby self-reports the following information relating to past violations, convictions,
+       suspensions, and any other information related to past performance relative to coding and classification of
+       workers, that occurred in the previous 12 months.
+
+              Summary of Detailed                  Date of Notification                   Outcome
+                 Information
+
+
+
+
+       Subcontractor Reporting. Bidder hereby acknowledges and agrees that if it is awarded an IT Retainer
+       Contract, then, prior to signing of any SOW Agreement where subcontractors are permitted to perform
+       services, Bidder will provide to the State a list of all proposed subcontractors and subcontractors’
+       subcontractors, together with the identity of those subcontractors’ workers compensation insurance providers,
+       and additional required or requested information, as applicable, in accordance with Section 32 of The Vermont
+       Recovery and Reinvestment Act of 2009 (Act No. 54), and Bidder will provide any update of such list to the
+       State as additional subcontractors are hired. Bidder further acknowledges and agrees that the failure to
+       submit subcontractor reporting in accordance with Section 32 of The Vermont Recovery and Reinvestment
+       Act of 2009 (Act No. 54) will constitute non-compliance and may result in cancellation of contract and/or
+       restriction from bidding on future state contracts.
+
+
+
+
+                                                                                                              Page 8 of 28
+                                                                                                    Revised: July 23, 2026
+
+=== Page 9 ===
+                            2026 Retainer Contract Opportunity for Information Technology (IT) Services
+                                                                                            Page 2 of 3
+
+D. Executive Order 05 – 16: Climate Change Considerations in State Procurements Certification
+
+   Bidder certifies to the following (Bidder may attach any desired explanation or substantiation.
+   Please also note that Bidder may be asked to provide documentation for any applicable claims):
+
+   1. Bidder owns, leases or utilizes, for business purposes, space that has received:
+       Energy Star® Certification
+       LEED®, Green Globes®, or Living Buildings Challenge℠ Certification
+       Other internationally recognized building certification:
+
+   ____________________________________________________________________________
+
+   2. Bidder has received incentives or rebates from an Energy Efficiency Utility or Energy Efficiency
+      Program in the last five years for energy efficient improvements made at bidder’s place of business.
+      Please explain:
+
+   _____________________________________________________________________________
+
+   3. Please Check all that apply:
+       Bidder can claim on-site renewable power or anaerobic-digester power (“cow-power”). Or bidder
+          consumes renewable electricity through voluntary purchase or offset, provided no such claimed
+          power can be double-claimed by another party.
+       Bidder uses renewable biomass or bio-fuel for the purposes of thermal (heat) energy at its place of
+          business.
+       Bidder’s heating system has modern, high-efficiency units (boilers, furnaces, stoves, etc.), having
+          reduced emissions of particulate matter and other air pollutants.
+       Bidder tracks its energy consumption and harmful greenhouse gas emissions. What tool is used to
+          do this? _____________________
+       Bidder promotes the use of plug-in electric vehicles by providing electric vehicle charging, electric
+          fleet vehicles, preferred parking, designated parking, purchase or lease incentives, etc..
+       Bidder offers employees an option for a fossil fuel divestment retirement account.
+       Bidder offers products or services that reduce waste, conserve water, or promote energy efficiency
+          and conservation. Please explain:
+
+
+   ____________________________________________________________________________
+
+   ____________________________________________________________________________
+
+
+   4. Please list any additional practices that promote clean energy and take action to address climate
+      change:
+
+   _____________________________________________________________________________
+
+   _____________________________________________________________________________
+
+   _____________________________________________________________________________
+
+
+
+
+                                                                                                       Page 9 of 28
+                                                                                             Revised: July 23, 2026
+
+=== Page 10 ===
+                                2026 Retainer Contract Opportunity for Information Technology (IT) Services
+                                                                                                Page 3 of 3
+
+
+
+
+Bidder Name:                                         Contact Name:
+
+Address:                                             Fax Number:
+
+                                                     Telephone:
+
+                                                     E-Mail:
+
+By:                                                  Name:
+       Signature of Bidder (or Representative)                 (Type or Print)
+
+
+
+                                  END OF CERTIFICATE OF COMPLIANCE
+
+
+
+
+                                                                                                   Page 10 of 28
+                                                                                           Revised: July 23, 2026
+
+=== Page 11 ===
+Retainer Contract for IT Professional Services                                                  Contract # _______
+Insert Vendor Name
+
+
+                                            STANDARD CONTRACT
+
+    1. Parties. This is a contract (hereinafter “Retainer Contract”) between the State of Vermont, through its
+       Department of Buildings and General Services, Office of Purchasing & Contracting (“State”), and INSERT
+       VENDOR NAME, with principal place of business at INSERT ADDRESS (“Contractor”). Contractor’s form
+       of business organization is INSERT ENTITY TYPE. It is the Contractor’s responsibility to contact the
+       Vermont Department of Taxes to determine if, by law, the Contractor is required to have a Vermont
+       Department of Taxes Business Account Number.
+
+    2. Subject Matter. This Retainer Contract authorizes and establishes requirements for State Agencies to procure
+       from Contractor certain information technology professional services in the categories set forth in Attachment
+       A1 hereto. Contractor services shall only be provided pursuant to Statement of Work (SOW) Agreement
+       executed with a State Agency. Contractor agrees to provide its services at or below the established rates and
+       subject to and in accordance with all requirements of this Retainer Contract, and Contractor understands and
+       agrees that the terms and conditions of this Retainer Contract shall apply to the Contractor’s performance of
+       services under any SOW Agreement.
+
+    3. Contract Term. The term of this Retainer Contract shall begin on February 1, 2027, and end on January 31,
+       2032. Upon the termination of this Retainer Contract, no new SOW Agreements may be issued, any
+       outstanding SOW Agreements shall continue unless or until terminated in accordance with the terms of the
+       SOW Agreement, and the Parties acknowledge and agree that the terms of this Retainer Contract shall survive
+       and apply to each outstanding SOW Agreement.
+
+    4. Prior Approvals. In accordance with current State law, bulletins, and interpretations, this Retainer Contract
+       shall not be binding until it has been approved by the Vermont Attorney General’s Office, the Secretary of
+       Administration, and the State’s Chief Information Officer.
+
+    5.    Amendment. No changes, modifications, or amendments in the terms and conditions of this Retainer
+         Contract shall be effective unless reduced to writing, numbered and signed by the duly authorized
+         representative of the State and Contractor. The parties acknowledge and agree that the SOW Agreement
+         process set forth herein shall not be used to effectuate any changes, modifications, or amendments in the
+         terms and conditions of this Retainer Contract, and that any provision in a SOW Agreement purporting to
+         modify the terms and conditions established by this Retainer Contract shall be null and void.
+
+    6. Termination for Convenience. This Retainer Contract may be terminated by the State at any time by giving
+       written notice at least thirty (30) days in advance.
+
+    7. Attachments. This Retainer Contract consists of      pages including the following attachments which are
+       incorporated herein and shall apply to each SOW Agreement executed pursuant to this Retainer Contract:
+           • Attachment A: General Scope of Work
+           • Attachment A1: IT Service Categories, Roles and Rates
+           • Attachment B: Payment Provisions
+           • “Attachment C: Standard State Provisions for Contracts and Grants” a preprinted form (02/13/2026).
+               The term “Agreement” as used in Attachment C shall be deemed to refer to this Retainer Contract
+
+                                                                                                           Page 11 of 28
+                                                                                                   Revised: July 23, 2026
+
+=== Page 12 ===
+               and each SOW Agreement entered into by Contractor hereunder. The term “State” as used in
+               Attachment C shall be deemed refer to the State and any Agency of the State that enters into a SOW
+               Agreement with Contractor.
+           •   Attachment D: Information Technology Professional Services Terms and Conditions (12/09/2025).
+               The term “State” as used in Attachment D shall be deemed refer to the State and any Agency of the
+               State that enters into a SOW Agreement with Contractor.
+
+  8. Order of Precedence. Any ambiguity, conflict or inconsistency among the documents comprising this Master
+     Agreement shall be resolved according to the following order of precedence:
+        1. Standard Contract (Pages 1 and 2 of this document)
+        2. Attachment C (Standard Contract Provisions for Contracts and Grants)
+        3. Attachment D (Technology Terms and Conditions)
+        4. Attachment A
+        5. Attachment A1
+        6. Attachment B
+  9. Purchasing Entities. This Contract may be used by:
+         (a) State Purchasers, meaning all departments, offices, institutions, and other agencies of the State of
+     Vermont and counties (each a “State Purchaser”) subject to the purchasing procedure and documentation
+     required by this Agreement; and
+         (b) Additional Purchasers, meaning all political subdivisions of the State of Vermont (including, but not
+     limited to, cities, towns, and school districts) and any institution of higher education chartered in Vermont
+     and accredited or holding a certificate of approval from the State Board of Education as authorized under 29
+     V.S.A. § 902 (each an “Additional Purchaser”). The State of Vermont and its officers and employees shall
+     have no responsibility or liability for Additional Purchasers. An Additional Purchaser must make its own
+     determination whether this Agreement is consistent with its procurement policies and regulations and may
+     identify and utilize its own appropriate purchasing procedure and documentation.
+
+WE THE UNDERSIGNED PARTIES AGREE TO BE BOUND BY THIS MASTER AGREEMENT.
+
+
+  State of Vermont                                      [Insert Contractor Name]
+
+  By:                                                   By:
+
+
+  Name:                                                 Name:
+
+  Title:                                                Title:
+
+  Date:                                                 Date:
+
+
+
+
+                                                                                                        Page 12 of 28
+                                                                                                Revised: July 23, 2026
+
+=== Page 13 ===
+                         ATTACHMENT A: GENERAL SCOPE OF WORK
+
+
+1. This Retainer Contract is executed pursuant to the State’s IT retainer services program under which
+   Contractor has been pre-qualified by the State to provide professional services in one or more of the
+   categories identified and described in Attachment A1 of this agreement (the “Services”).
+2. Contractor agrees to provide, when requested by an agency, department, office, commission, board or
+   other authority of the State of Vermont (“Agency”), its Services subject to and consistent with all
+   requirements set forth herein.
+3. Contractor Services shall only be performed if and to the extent required in a Statement of Work
+   (SOW) Agreement executed directly with an Agency. Services performed under a SOW Agreement
+   shall be subject to and governed by the terms and conditions of this Retainer Contract.
+4. Requirements for Ordering Applicable to State Purchasers Only. The following requirements apply
+   as between Contractor and State Purchasers only and are not applicable to Additional Purchasers. An
+   Additional Purchaser may adopt procedures for purchasing under this Agreement as necessary to
+   comply with its procurement policies and regulations.
+        A. The State’s Agency of Digital Services is the only entity authorized to place orders on behalf of
+           State Agencies. SOW Agreements placed from any other source shall not be binding against the
+           State, or the State Agency. Contractor can verify orders for State Agencies by contacting
+           sov.itcontractingandprocurement@vermont.gov . Contractor agrees that it will not accept SOW
+           Agreements placed on behalf of State Agencies from any other source. Contractor’s failure to meet
+           this requirement may result in suspension or termination of this Retainer Contract.
+        B. The State’s process for an Agency to procure IT retainer services from pre-qualified vendors is
+           set forth online at
+           https://bgs.vermont.gov/purchasing%20and%20contracting/current%20contrats/information-
+           technology , which information is hereby incorporated by reference as if set forth fully herein.
+           Contractor agrees that it must follow the State’s process to obtain and execute SOW
+           Agreements against this Retainer Contract.
+5. SOW Agreements executed against this Retainer Contract shall specify, at a minimum:
+    A. The detailed description of the Service(s) necessary to meet the Agency’s business requirements,
+       consistent with any one or more of the categories of service authorized by this Retainer Contract;
+    B. The place and time period for performance;
+    C. The Contractor roles and rates, or other pricing elements consistent with this Retainer Contract;
+    D. The Agency’s billing address;
+    E. The name and contact information for the Agency’s primary contact and the Contractor’s primary
+       contact for the project;
+    F. The maximum amount payable by the Agency to Contractor under the SOW Agreement, which
+       shall be subject to the category-specific SOW limits, as established by the State and maintained
+       online at the website listed in section 4, above;
+    G. A unique identifier for the SOW Agreement; and
+    H. The State of Vermont Contract Number.
+6. SOW Agreements may include additional terms as necessary to comply with local, state or federal laws
+   or regulations applicable to the Agency. By way of information, and without limitation:
+    A. When required in a SOW Agreement, Contractor’s security controls shall conform to the Health
+       Insurance Portability and Accountability Act of 1996 (“HIPAA”) including the Standards for the
+       Privacy of Individually Identifiable Health Information at 45 CFR Parts 160 and 164 (“Privacy
+                                                                                                       Page 13 of 28
+                                                                                               Revised: July 23, 2026
+
+=== Page 14 ===
+       Rule”), the Security Standards at 45 CFR Parts 160 and 164 (“Security Rule”), as amended by
+       subtitle D of the Health Information Technology for Economic and Clinical Health Act and the
+       Federal Information Security Management Act (“FISMA”), 44 U.S.C. 3541 et seq. and Family
+       Education Rights and Privacy Act, 20 U.S.C. § 1232g (FERPA), as applicable.
+   B. When required in a SOW Agreement, the terms and conditions of the State of Vermont Business
+      Associate Agreement, revised May 23, 2019 (available online at:
+      https://bgs.vermont.gov/purchasing-contracting/forms) will be executed by Contractor and Agency
+      and will be incorporated and apply to Contractor Services provided under the SOW Agreement.
+   C. When required in a SOW Agreement, the State of Vermont Agency of Human Services’
+      Customary Contract Provisions dated September 2, 2025 (available online at:
+      https://bgs.vermont.gov/purchasing-contracting/forms) shall be apply to a SOW Agreement.
+   D. The State may elect to enter into a non-standard SOW Agreement that requires the selected
+      Contractor to have access to the State’s information, equipment and systems. Service categories
+      where this may apply, but aren’t limited to, are Project Managers, Business Analysts, Quality
+      Assurance Lead, Testing Lead, Enterprise Architect and Systems Developer. If a service category
+      with one of these defined roles is awarded, or access to the State’s information, equipment and
+      systems will be required to perform the contracted services, the Contractor and their Assigned
+      Personnel must also sign and adhere to the requirements of Exhibit 1, Use of State Information,
+      Equipment and Systems, of the non-standard SOW Agreement (available online at: D2A SOW
+      Agreement - 04-25-25.docx).
+   E. Any additional assurances required by federal or state law, such as, but not limited to, the above,
+      shall be noticed in the Agency’s SOW-RFP and required by the SOW Agreement resulting
+      therefrom.
+7. General Requirements: The following requirements shall apply to all Contractor Services performed in any
+   SOW Agreement executed against this Retainer Contract.
+
+   A. CONTRACTOR RESOURCES: Contractor shall obtain approval in advance from the Agency, of all
+      Contractor employees proposed for each SOW-RFP Project, and all independent contractors or agents
+      proposed for each SOW-RFP Project when such are permitted by the SOW-RFP (“Contractor
+      Resources”). Contractor Resources shall be identified in each SOW Agreement. Contractor shall use
+      reasonable efforts to make available all Contractor Resources for the entire life of the project.
+      Contractor shall not change Contractor Resources without providing the Agency written justification
+      and obtaining prior written approval of the Agency. The State acknowledges that Contractor Resources
+      may become unavailable due to termination of employment for any reason, through disability or death,
+      illness, or through leave of absence such as FMLA or National Guard duty for example. In such
+      circumstances, Contractor shall promptly notify the Agency in writing of the impending or actual
+      departure of Contractor Resources and of the qualifications and identity of proposed replacement
+      Contractor Resources. Agency approvals for replacement of Contractor Resources will not be
+      unreasonably withheld. The replacement of Contractor Resources shall have comparable or greater
+      skills and applied experience than being replaced and be subject to reference and background checks
+      described below.
+       The Agency shall have the right to reasonably disapprove of any replacement Contractor Resources.
+       If Contractor Resources does not perform up to acceptable or professional standards as required in this
+       Retainer Contract and the SOW Agreement, Contractor shall, when notified by the Agency, either replace
+       the employees, independent contractors or agents with approved employees, independent contractors or
+       agents or take remedial action agreed by Agency to ensure that Contractor Resources are acceptable to the
+       Agency for the SOW Agreement. An Agency’s right to request replacement of Contractor personnel
+       hereunder relates solely to the removal of individuals from work on the particular SOW Agreement and
+       does not create any employment or principal-agent relationship with the Agency or the State. Nothing in
+       this Retainer Contract or any SOW Agreement entered into hereunder authorizes the Agency or the State
+                                                                                                       Page 14 of 28
+                                                                                               Revised: July 23, 2026
+
+=== Page 15 ===
+to direct the Contractor’s termination of, or other adverse action related to, the employment of any
+individual.
+If Contractor Resources are removed for any reason, Contractor agrees to provide replacement
+Contractor Resources and shall provide the first twenty-five (25) business days of such replacement
+resource(s) with equivalent skill at no charge.
+Eligibility for U.S. Employment. Prior to assigning personnel under an SOW, Contractor shall verify that
+all prospective Contractor Resources are eligible for employment in the United States and ensure that such
+status remains in effect for the duration of the assignment.
+
+Criminal Background Check. Prior to assigning personnel under an SOW, Contractor or an agent of
+Contractor shall perform criminal background checks on all Contractor Resources utilizing a national
+criminal database acceptable to the State. Before any Contractor Resources begin work on the Services,
+such background check shall have returned a “no record” result or, to the extent that the result revealed that
+a felony record or records exist for a given individual, the associated conviction(s) shall be unrelated to the
+work to be performed as specified under the Equal Employment Opportunities Commission’s EEOC
+Enforcement Guidance regarding the employment of convicted felons issued April 25, 2012. Contractor
+shall provide the State with notice of proposed Contractor Resources with felony or misdemeanor
+convictions that involve a crime against a person; a crime involving the use or misuse of computer
+network; a crime involving weapons, explosives or arson; a crime involving trade secret/proprietary
+information; a crime involving theft, dishonesty, embezzlement, breach of fiduciary duty, identity theft, or
+other financial-related crimes; a felony conviction for drug possession; or a crime involving the distribution
+or trafficking of illegal drugs and/or controlled substances.
+
+Use of State Information, Equipment and Systems. Prior to performing work, Contractor Resources may be
+required to sign and adhere to specific, written requirements concerning the use of State information,
+equipment and systems.
+Change or Reassignment of Assigned Personnel. The timing for transfer, reassignment or replacement of
+Contractor Resources will be coordinated with requirements for timing and other elements of the Services
+to maintain continuity in the performance of the Services and avoid interruption or disruption to the
+Services or any failures to maintain Service Levels.
+
+A1. Employment Status. Unless otherwise indicated in a SOW-RFP, the State requires that all
+    personnel assigned by Contractor to perform services under an SOW will be employees (including,
+    for example, payment by Contractor with wages to be reported to the IRS on W2 forms) of the
+    Contractor (“Assigned Personnel”). Such persons are not expected to be engaged or treated directly
+    or indirectly by Contractor as independent contractors. For resource request fulfillment, contractors
+    may present resumes of persons then working as independent contractors, but only with the
+    requirement that they will be engaged by Contractor as its employees before State work can be
+    performed. Accordingly, the Contractor shall be fully responsible for the supervision, management,
+    compensation, and performance of all its Assigned Personnel, and the filing of any and all returns
+    and reports and the withholding and/or payment of all applicable federal, State, and local wage tax,
+    or employment-related taxes, including, but not limited to, income taxes, gross receipt taxes, taxes
+    measured by income, social security taxes, and unemployment taxes for Contractor and
+    Contractor's employees.
+    The Contractor’s Assigned Personnel shall be committed to the Vermont project(s) for the duration
+    of the assignment. The Assigned Personnel shall coordinate work activities with the State. Any
+    deviation to the given resource’s work is subject to prior approval by the State. The State may
+    provide the Contractor with feedback on the performance of their assigned resources.
+    Non-Discrimination. Contractor shall conduct its hiring process for Assigned Personnel in
+    compliance with all applicable Federal and State laws to include, but not be limited to, anti-
+
+                                                                                                    Page 15 of 28
+                                                                                            Revised: July 23, 2026
+
+=== Page 16 ===
+        discrimination laws.
+
+B. SOW AGREEMENT: Based upon an evaluation of SOW Proposals, if Contractor is selected, a specific
+   SOW Agreement will be entered into between the Agency and the Contractor, which will bind the
+   Contractor to the terms of the SOW Agreement, including Project-specific payment terms. All SOW
+   Agreements shall be subject to the terms of this Retainer Contract.
+
+    The Agency representative identified in the SOW Agreement may perform administrative functions,
+    issue written directions; monitor Contractor compliance with the terms and conditions of this Retainer
+    Contract and the SOW Agreement; and approve project deliverables.
+    Contractor shall be responsible for achieving on budget/on time/on target (e.g., within scope)
+    completion of the applicable SOW Agreement.
+
+C. CERTIFICATION OF SOW AGREEMENT: All SOW Agreements valued at $25,000 or more per
+   year shall be submitted to the State of Vermont Office of the Attorney General for a determination in
+   accordance with 3 V.S.A. § 342 that such engagement is not contrary to the spirit and intent of the
+   classification plan and merit system principles and standards provided by Chapter 13 of Title 3 of the
+   Vermont Statutes. Certification when required shall be indicated in the space provide within the SOW
+   Agreement.
+
+D. NON-DISCLOSURE AGREEMENT: In some cases, Contractor may be required to sign a Non-
+   Disclosure Agreement in a form acceptable to the Agency in order to protect confidential State data to
+   which the Contractor, its employees, subcontractors or agents may have access.
+
+E. CONTRACT MANAGEMENT OVERSIGHT ACTIVITIES: The State’s Enterprise Project
+   Management Office (EPMO) or designee may monitor the progress of any or all of the SOW
+   Agreements in order to ascertain whether the Contractor is completing its work in accordance with this
+   Retainer Contract and the applicable SOW Agreement. In all cases, Contractor shall remain solely
+   responsible for achieving on-budget/on-time completion of the applicable SOW Agreement.
+
+F. REQUIRED PROJECT POLICIES, GUIDELINES AND METHODOLOGIES: The Contractor shall
+   be required to comply with all applicable laws, regulations, policies, standards and guidelines affecting
+   information technology projects, which may be created or changed periodically. It is the responsibility
+   of the Contractor to ensure adherence and to remain abreast of new or revised laws, regulations,
+   policies, standards and guidelines affecting specific project execution. The most recent version of the
+   following State policies can be found online at https://digitalservices.vermont.gov/working-us/policies
+
+    •   State of Vermont Cybersecurity Standard Update; current version online at
+        https://digitalservices.vermont.gov/cybersecurity/cybersecurity-standards-and-directives
+    •   Physical Security for Computer
+        Protection https://digitalservices.vermont.gov/sites/digitalservices/files/documents/policy/ADS-
+        Physical-Security-for-Computer-Protection.pdf
+    •   Third-Party
+        Connectivity https://digitalservices.vermont.gov/sites/digitalservices/files/documents/policy/ADS-
+        Third-Party-Network-Connectivity.pdf
+    •   Digital Media and Hardware Disposal Policy, Standard and
+        Procedure https://digitalservices.vermont.gov/sites/digitalservices/files/documents/policy/ADS-
+        Digital-Media-and-Hardware-Disposal-Policy.pdf
+    •   Phishing and Incident Response Policy
+        https://digitalservices.vermont.gov/sites/digitalservices/files/documents/policy/ADS-
+        Phishing%20Incident-Response-Process-9-19-17.pdf
+
+
+                                                                                                   Page 16 of 28
+                                                                                           Revised: July 23, 2026
+
+=== Page 17 ===
+     •   Vermont Accessibility
+         Standard https://digitalservices.vermont.gov/sites/digitalservices/files/documents/web-
+         policy/ADS-VermontAccessibilityStandard2017.pdf
+
+G. SOW PROGRESS REPORTING TO THE AGENCY: The Contractor and each Agency shall conduct
+   progress meetings as set forth in the applicable SOW Agreement. Contractor shall submit a project
+   progress report to the Agency representative identified in the SOW Agreement via email and each
+   progress report shall contain, at a minimum, the following information:
+
+         •   E-mail subject line: Contracting Agency name, IT service category name, reporting period and
+             “Progress Report.”
+         •   Work accomplished during the frequency period and all tasks planned for the upcoming
+             frequency period.
+         •   Deliverable progress, as a percentage of completion.
+         •   Problem areas, including scope creep, deviation from the work plan; tasks incomplete, or
+             behind schedule in the previous week (with reasons given for those behind schedule); and the
+             status of any corrective actions undertaken and other unresolved issues and requirements to
+             resolve unresolved issues.
+         •   Planned activities for the next reporting period.
+         •   Gantt chart updated from the original to show actual progress; as applicable, explanations for
+             variances and plan for completion on schedule.
+         •   An accounting report for the current reporting period and a cumulative summary of the totals
+             for both the current and previous reporting periods. The accounting report shall include
+             amounts invoiced-to-date and paid-to-date.
+         •   Significant changes to Contractor’s organization or method of operation or to the Project
+             management team, where applicable.
+
+H. MONTHLY REPORTING TO THE STATE: Contractor shall submit monthly reports to the State
+   detailing all SOWs issued to it under this Retainer Contract for the reporting period. Reports shall be
+   submitted as an email attachment to: SOV.ITContractingandProcurement@vermont.gov and
+   SOV.ThePathForward@vermont.gov .
+
+     Each report must contain the contract number for this Retainer Contract and detail for each SOW
+     Agreement, the following information: Agreement #, Amount, Date of SOW Agreement, and an
+     accurate description of the services procured, including IT Service Category(ies), each Contracting
+     Agency’s address, contact name, and telephone number; SOW Title(s); and price charged per SOW
+     Agreement, with totals for each SOW Agreement in each reporting period. The State reserves the right
+     to request additional information or to modify the following reporting periods.
+
+     If there is no activity during the reporting period, Contractor’s reporting shall state "no activity".
+     Reports are due by the 15th of every month.
+
+     State shall promptly notify Contractor of any changes to the above email addresses for purposes of
+     submitting reports under this section.
+
+     Failure submit complete reports in a timely manner and in the format required may result in suspension
+     or termination of this Retainer Contract and any SOW Agreements in place.
+
+I.   WORK LOCATION: Unless otherwise specified by the Agency in a SOW Agreement, all project work
+     will be performed in Vermont at the site(s) identified by the Agency and the Contractor will be
+     responsible for using its own mode of transportation for travel to and between designated sites.
+
+
+                                                                                                        Page 17 of 28
+                                                                                                Revised: July 23, 2026
+
+=== Page 18 ===
+Where applicable, the Agency will provide desks, telephone, LAN connections, and printers. Unless
+otherwise specified in the SOW RFP, the Agency will not provide desktop PCs and/or laptops to
+Contractor for use during the project.
+
+If specific laptop computers or other mobile peripheral devices are required by Contractor, then the
+Contractor must provide its own compatible equipment and will be given the appropriate support by the
+Agency.
+
+Contractor will be provided support by the Agency in setting up any accounts or connections required
+(i.e. Agency email system, network connectivity, network printing etc.). Contractor will have access to
+State phones for use in business calls related to performance of the services. Agencies will not pay
+Contractor’s cell phone bills.
+
+
+
+
+                                                                                              Page 18 of 28
+                                                                                      Revised: July 23, 2026
+
+=== Page 19 ===
+              ATTACHMENT A1: IT SERVICE CATEGORIES, ROLES, AND RATES
+
+
+NOTE: To facilitate Bidder responses to the RFP, Attachment A1 is presented separate from the contract.
+
+
+
+
+                                                                                                Page 19 of 28
+                                                                                        Revised: July 23, 2026
+
+=== Page 20 ===
+                            ATTACHMENT B – PAYMENT PROVISIONS
+
+1. Payment obligations shall only arise if and to the extent agreed in a Statement of Work Agreement between
+   Contractor and an Agency executed against this Retainer Contract. Contractor will be paid for services
+   actually performed and accepted by the Agency, up to the maximum amount payable specified in the
+   applicable SOW Agreement.
+2. The Agency shall pay the Contractor upon satisfactory completion of the services and acceptance thereof
+   by the Agency for all work identified in the applicable SOW Agreement. Rates established in a SOW
+   Agreement may be on the basis of either fixed price deliverables or time and materials.
+        a. For Services performed on a time and materials basis, Contractor shall be paid based on
+           documentation and itemization of work performed and included in invoicing. Invoicing must
+           contain a detail of services including a summary of work performed, location, dates, hours of work
+           performed, work completed, and rates of pay, which may not exceed the hourly rates set forth in
+           Attachment A1.
+        b. For fixed price deliverables, Contractor shall be paid in accordance with the payment schedule
+           included in the applicable SOW Agreement.
+        c. All rates shall be inclusive of any and all Contractor fees and expenses, including mileage.
+3. Contractor rates in a SOW Agreement may not exceed the rates set forth in Attachment A1. Further, roles
+   not specified in Attachment A1 are not authorized to be provided in a SOW Agreement.
+4. If the Agency approves in writing in advance Contractor Personnel working remotely, at a location other
+   than as directed by the Agency, all Contractor Personnel hours worked remotely must be clearly reported as
+   remote and invoiced at the appropriate remote rate.
+5. Contractor will be paid for actual hours worked (no overtime). Contractor shall not bill for travel time.
+6. Invoicing. Payment will only be made upon completion and acceptance of the deliverables as defined in
+   the applicable SOW Agreement. The Contractor shall submit invoices for payment upon acceptance of
+   separately priced deliverables, or on a time and materials basis, as the case may be, following written
+   acceptance from the Contracting Agency that the deliverable is complete. Invoices for deliverables should
+   clearly indicated the Deliverable I.D. as detailed in the Statement of Work for each line of charges
+   associated with each deliverable.
+7. Payment of invoices shall be Net 30 from the date the Agency receives an error-free invoice with full and
+   complete supporting documentation.
+8. Retainage. Contractor agrees that any SOW Agreement may provide, in the discretion of the Agency, that
+   the Agency withhold a percentage, determined in the discretion of the Agency, of the total amount payable
+   for each SOW Agreement deliverable, to be payable only after satisfactory completion and the State’s final
+   acceptance of the SOW Project.
+
+
+
+
+                                                                                                         Page 20 of 28
+                                                                                                 Revised: July 23, 2026
+
+=== Page 21 ===
+                          ATTACHMENT C: STANDARD STATE PROVISIONS
+                                FOR CONTRACTS AND GRANTS
+                                  REVISED FEBRUARY 13, 2026
+
+“Attachment C: Standard State Provisions for Contracts and Grants” revised February 13, 2026 constitutes
+part of this Agreement and is hereby incorporated by reference as if fully set forth herein and shall apply to
+Contractor and to all goods or services purchased under this Agreement. A copy of this document is available
+online at: https://bgs.vermont.gov/purchasing-contracting/forms.
+
+
+
+
+                                                                                                     Page 21 of 28
+                                                                                             Revised: July 23, 2026
+
+=== Page 22 ===
+                                          ATTACHMENT D
+                INFORMATION TECHNOLOGY PROFESSIONAL SERVICES
+                          TERMS AND CONDITIONS (rev. 12-09-2025)
+
+1.   OWNERSHIP AND LICENSE IN DELIVERABLES
+     1.1     Contractor Intellectual Property. Contractor shall retain all right, title and interest in and
+     to any work, ideas, inventions, discoveries, tools, methodology, computer programs, processes and
+     improvements and any other intellectual property, tangible or intangible, that has been created by
+     Contractor prior to entering into this Contract (“Contractor Intellectual Property”). Should the
+     State require a license for the use of Contractor Intellectual Property in connection with the
+     development or use of the items that Contractor is required to deliver to the State under this
+     Contract, including Work Product (“Deliverables”), the Contractor shall grant the State a royalty-
+     free license for such development and use. For the avoidance of doubt, Work Product shall not be
+     deemed to include Contractor Intellectual Property, provided the State shall be granted an
+     irrevocable, perpetual, non-exclusive royalty-free license to use any such Contractor Intellectual
+     Property that is incorporated into Work Product.
+     1.2     State Intellectual Property. The State shall retain all right, title and interest in and to (i)
+     all content and all property, data and information furnished by or on behalf of the State or any
+     agency, commission or board thereof, and to all information that is created under this Contract,
+     including, but not limited to, all data that is generated under this Contract as a result of the use by
+     Contractor, the State or any third party of any technology systems or knowledge bases that are
+     developed for the State and used by Contractor hereunder, and all other rights, tangible or
+     intangible; and (ii) all State trademarks, trade names, logos and other State identifiers, Internet
+     uniform resource locators, State user name or names, Internet addresses and e-mail addresses
+     obtained or developed pursuant to this Contract (collectively, “State Intellectual Property”).
+     Contractor may not use State Intellectual Property for any purpose other than as specified in this
+     Contract. Upon expiration or termination of this Contract, Contractor shall return or destroy all
+     State Intellectual Property and all copies thereof, and Contractor shall have no further right or
+     license to such State Intellectual Property.
+     Contractor acquires no rights or licenses, including, without limitation, intellectual property rights
+     or licenses, to use State Intellectual Property for its own purposes. In no event shall the Contractor
+     claim any security interest in State Intellectual Property.
+     1.3     Work Product. All Work Product shall belong exclusively to the State, with the State
+     having the sole and exclusive right to apply for, obtain, register, hold and renew, in its own name
+     and/or for its own benefit, all patents and copyrights, and all applications and registrations,
+     renewals and continuations thereof and/or any and all other appropriate protection. To the extent
+     exclusive title and/or complete and exclusive ownership rights in and to any Work Product may
+     not originally vest in the State by operation of law or otherwise as contemplated hereunder,
+     Contractor shall immediately upon request, unconditionally and irrevocably assign, transfer and
+     convey to the State all right, title and interest therein.
+     “Work Product” means any tangible or intangible ideas, inventions, improvements, modifications,
+     discoveries, development, customization, configuration, methodologies or processes, designs,
+     models, drawings, photographs, reports, formulas, algorithms, patterns, devices, compilations,
+     databases, computer programs, work of authorship, specifications, operating instructions,
+     procedures manuals or other documentation, technique, know-how, secret, or intellectual property
+     right whatsoever or any interest therein (whether patentable or not patentable or registerable under
+                                                                                                     Page 22 of 28
+                                                                                             Revised: July 23, 2026
+
+=== Page 23 ===
+     copyright or similar statutes or subject to analogous protection), that is specifically made,
+     conceived, discovered or reduced to practice by Contractor, either solely or jointly with others,
+     pursuant to this Contract. Work Product does not include Contractor Intellectual Property or third
+     party intellectual property.
+     To the extent delivered under this Contract, upon full payment to Contractor in accordance with
+     Attachment B, and subject to the terms and conditions contained herein, Contractor hereby (i)
+     assigns to State all rights in and to all Deliverables, except to the extent they include any
+     Contractor Intellectual Property; and (ii) grants to State a perpetual, non-exclusive, irrevocable,
+     royalty-free license to use for State’s internal business purposes, any Contractor Intellectual
+     Property included in the Deliverables in connection with its use of the Deliverables and, subject to
+     the State’s obligations with respect to Confidential Information, authorize others to do the same on
+     the State’s behalf. Except for the foregoing license grant, Contractor or its licensors retain all
+     rights in and to all Contractor Intellectual Property.
+     The Contractor shall not sell or copyright a Deliverable without explicit permission from the State.
+     If the Contractor is operating a system or application on behalf of the State of Vermont, then the
+     Contractor shall not make information entered into the system or application available for uses by
+     any other party than the State of Vermont, without prior authorization by the State. Nothing herein
+     shall entitle the State to pre-existing Contractor Intellectual Property or Contractor Intellectual
+     Property developed outside of this Contract with no assistance from State.
+2.   CONFIDENTIALITY AND NON-DISCLOSURE; SECURITY BREACH REPORTING
+     2.1     For purposes of this Contract, confidential information will not include information or
+     material which (a) enters the public domain (other than as a result of a breach of this Contract); (b)
+     was in the receiving party’s possession prior to its receipt from the disclosing party; (c) is
+     independently developed by the receiving party without the use of confidential information; (d) is
+     obtained by the receiving party from a third party under no obligation of confidentiality to the
+     disclosing party; or (e) is not exempt from disclosure under applicable State law.
+     2.2     Confidentiality of Contractor Information. The Contractor acknowledges and agrees
+     that this Contract and any and all Contractor information obtained by the State in connection with
+     the performance of this Contract are subject to the State of Vermont Access to Public Records Act,
+     1 V.S.A. § 315 et seq. The State will not disclose information for which a reasonable claim of
+     exemption can be made pursuant to 1 V.S.A. § 317(c), including, but not limited to, trade secrets,
+     proprietary information or financial information, including any formulae, plan, pattern, process,
+     tool, mechanism, compound, procedure, production data, or compilation of information which is
+     not patented, which is known only to the Contractor, and which gives the Contractor an
+     opportunity to obtain business advantage over competitors who do not know it or use it.
+     The State shall immediately notify Contractor of any request made under the Access to Public
+     Records Act, or any request or demand by any court, governmental agency or other person
+     asserting a demand or request for Contractor information. Contractor may, in its discretion, seek
+     an appropriate protective order, or otherwise defend any right it may have to maintain the
+     confidentiality of such information under applicable State law within three business days of the
+     State’s receipt of any such request. Contractor agrees that it will not make any claim against the
+     State if the State makes available to the public any information in accordance with the Access to
+     Public Records Act or in response to a binding order from a court or governmental body or agency
+     compelling its production. Contractor shall indemnify the State for any costs or expenses incurred
+     by the State, including, but not limited to, attorneys’ fees awarded in accordance with 1 V.S.A. §
+     320, in connection with any action brought in connection with Contractor’s attempts to prevent or
+                                                                                                   Page 23 of 28
+                                                                                           Revised: July 23, 2026
+
+=== Page 24 ===
+     unreasonably delay public disclosure of Contractor’s information if a final decision of a court of
+     competent jurisdiction determines that the State improperly withheld such information and that the
+     improper withholding was based on Contractor’s attempts to prevent public disclosure of
+     Contractor’s information.
+     The State agrees that (a) it will use the Contractor information only as may be necessary in the
+     course of performing duties, receiving services or exercising rights under this Contract; (b) it will
+     provide at a minimum the same care to avoid disclosure or unauthorized use of Contractor
+     information as it provides to protect its own similar confidential and proprietary information; (c)
+     except as required by the Access to Records Act, it will not disclose such information orally or in
+     writing to any third party unless that third party is subject to a written confidentiality agreement
+     that contains restrictions and safeguards at least as restrictive as those contained in this Contract;
+     (d) it will take all reasonable precautions to protect the Contractor’s information; and (e) it will not
+     otherwise appropriate such information to its own use or to the use of any other person or entity.
+     Contractor may affix an appropriate legend to Contractor information that is provided under this
+     Contract to reflect the Contractor’s determination that any such information is a trade secret,
+     proprietary information or financial information at time of delivery or disclosure.
+
+
+3.   SECURITY OF STATE INFORMATION.
+     3.1     Security Standards. To the extent Contractor has access to, processes, handles, collects,
+     transmits, stores or otherwise deals with State Data, the Contractor represents and warrants that it
+     has implemented and it shall maintain during the term of this Contract the highest industry
+     standard administrative, technical, and physical safeguards and controls consistent with the latest
+     version of NIST Special Publication 800-53 and Federal Information Processing Standards
+     Publication 200 and designed to (i) ensure the security and confidentiality of State Data; (ii)
+     protect against any anticipated security threats or hazards to the security or integrity of the State
+     Data; and (iii) protect against unauthorized access to or use of State Data. Such measures shall
+     include at a minimum: (1) access controls on information systems, including controls to
+     authenticate and permit access to State Data only to authorized individuals and controls to prevent
+     the Contractor employees from providing State Data to unauthorized individuals who may seek to
+     obtain this information (whether through fraudulent means or otherwise); (2) industry-standard
+     firewall protection; (3) encryption of electronic State Data while in transit from the Contractor
+     networks to external networks; (4) measures to store in a secure fashion all State Data which shall
+     include multiple levels of authentication; (5) dual control procedures, segregation of duties, and
+     pre-employment criminal background checks for employees with responsibilities for or access to
+     State Data; (6) measures to ensure that the State Data shall not be altered or corrupted without the
+     prior written consent of the State; (7) measures to protect against destruction, loss or damage of
+     State Data due to potential environmental hazards, such as fire and water damage; (8) staff training
+     to implement the information security measures; and (9) monitoring of the security of any portions
+     of the Contractor systems that are used in the provision of the services against intrusion on a
+     twenty-four (24) hour a day basis.
+     3.2     Security Breach Notice and Reporting. The Contractor shall have policies and
+     procedures in place for the effective management of Security Breaches, as defined below, which
+     shall be made available to the State upon request.
+     In addition to the requirements set forth in any applicable Business Associate Agreement as may
+     be attached to this Contract, in the event of any actual security breach or reasonable belief of an
+     actual security breach the Contractor either suffers or learns of that either compromises or could
+                                                                                                    Page 24 of 28
+                                                                                            Revised: July 23, 2026
+
+=== Page 25 ===
+     compromise State Data (a “Security Breach”), the Contractor shall notify the State within 24 hours
+     of its discovery. Contractor shall immediately determine the nature and extent of the Security
+     Breach, contain the incident by stopping the unauthorized practice, recover records, shut down the
+     system that was breached, revoke access and/or correct weaknesses in physical security.
+     Contractor shall report to the State: (i) the nature of the Security Breach; (ii) the State Data used or
+     disclosed; (iii) who made the unauthorized use or received the unauthorized disclosure; (iv) what
+     the Contractor has done or shall do to mitigate any deleterious effect of the unauthorized use or
+     disclosure; and (v) what corrective action the Contractor has taken or shall take to prevent future
+     similar unauthorized use or disclosure. The Contractor shall provide such other information,
+     including a written report, as reasonably requested by the State. Contractor shall analyze and
+     document the incident and provide all notices required by applicable law.
+     In accordance with Section 9 V.S.A. §2435(b)(3), the Contractor shall notify the Office of the
+     Attorney General, or, if applicable, Vermont Department of Financial Regulation (“DFR”), within
+     fourteen (14) business days of the Contractor’s discovery of the Security Breach. The notice shall
+     provide a preliminary description of the breach. The foregoing notice requirement shall be
+     included in the subcontracts of any of Contractor’s subcontractors, affiliates or agents which may
+     be “data collectors” hereunder.
+     The Contractor agrees to fully cooperate with the State and assume responsibility at its own
+     expense for the following, to be determined in the sole discretion of the State: (i) notice to affected
+     consumers if the State determines it to be appropriate under the circumstances of any particular
+     Security Breach, in a form recommended by the AGO; and (ii) investigation and remediation
+     associated with a Security Breach, including but not limited to, outside investigation, forensics,
+     counsel, crisis management and credit monitoring, in the sole determination of the State.
+     The Contractor agrees to comply with all applicable laws, as such laws may be amended from time
+     to time (including, but not limited to, Chapter 62 of Title 9 of the Vermont Statutes and all
+     applicable State and federal laws, rules or regulations) that require notification in the event of
+     unauthorized release of personally-identifiable information or other event requiring notification.
+     In addition to any other indemnification obligations in this Contract, the Contractor shall fully
+     indemnify and save harmless the State from any costs, loss or damage to the State resulting from a
+     Security Breach or the unauthorized disclosure of State Data by the Contractor, its officers, agents,
+     employees, and subcontractors.
+4.   CONTRACTOR’S REPRESENTATIONS AND WARRANTIES
+     4.1   General Representations and Warranties. The Contractor represents, warrants and
+     covenants that:
+     (i)     The Contractor has all requisite power and authority to execute, deliver and perform its
+     obligations under this Contract and the execution, delivery and performance of this Contract by the
+     Contractor has been duly authorized by the Contractor.
+     (ii)    There is no pending litigation, arbitrated matter or other dispute to which the Contractor is
+     a party which, if decided unfavorably to the Contractor, would reasonably be expected to have a
+     material adverse effect on the Contractor’s ability to fulfill its obligations under this Contract.
+     (iii) The Contractor will comply with all laws applicable to its performance of the services and
+     otherwise to the Contractor in connection with its obligations under this Contract.
+     (iv)    The Contractor (a) owns, or has the right to use under valid and enforceable agreements, all
+     intellectual property rights reasonably necessary for and related to delivery of the services and
+     provision of the services as set forth in this Contract; (b) shall be responsible for and have full
+                                                                                                    Page 25 of 28
+                                                                                            Revised: July 23, 2026
+
+=== Page 26 ===
+       authority to license all proprietary and/or third party software modules, including algorithms and
+       protocols, that Contractor incorporates into its product; and (c) none of the services or other
+       materials or technology provided by the Contractor to the State will infringe upon or
+       misappropriate the intellectual property rights of any third party.
+       (v)     The Contractor has adequate resources to fulfill its obligations under this Contract.
+       (vi)    Neither Contractor nor Contractor’s subcontractors has past state or federal violations,
+       convictions or suspensions relating to miscoding of employees in NCCI job codes for purposes of
+       differentiating between independent contractors and employees.
+       4.2     Contractor’s Performance Warranties. Contractor represents and warrants to the State
+       that:
+       (i)      Each and all of the services shall be performed in a timely, diligent, professional and
+       skillful manner, in accordance with the highest professional or technical standards applicable to
+       such services, by qualified persons with the technical skills, training and experience to perform
+       such services in the planned environment.
+       (ii)    Any time software is delivered to the State, whether delivered via electronic media or the
+       internet, no portion of such software or the media upon which it is stored or delivered will have
+       any type of software routine or other element which is designed to facilitate unauthorized access to
+       or intrusion upon; or unrequested disabling or erasure of; or unauthorized interference with the
+       operation of any hardware, software, data or peripheral equipment of or utilized by the State.
+       Without limiting the generality of the foregoing, if the State believes that harmful code may be
+       present in any software delivered hereunder, Contractor will, upon State’s request, provide a new
+       or clean install of the software. Notwithstanding the foregoing, Contractor assumes no
+       responsibility for the State’s negligence or failure to protect data from viruses, or any unintended
+       modification, destruction or disclosure.
+       (iii) To the extent Contractor resells commercial hardware or software it purchased from a third
+       party, Contractor will, to the extent it is legally able to do so, pass through any such third party
+       warranties to the State and will reasonably cooperate in enforcing them. Such warranty pass-
+       through will not relieve the Contractor from Contractor’s warranty obligations set forth herein.
+5.     REMEDIES FOR DEFAULT. In the event either party is in default under this Contract, the
+non-defaulting party may, at its option, pursue any or all of the remedies available to it under this
+Contract, including termination for cause, and at law or in equity.
+6.     TERMINATION
+       6.1.    Contractor shall reasonably cooperate with other parties in connection with all services to
+       be delivered under this Contract, including without limitation any successor provider to whom
+       State Data, State Intellectual Property or other State information and materials are to be transferred
+       in connection with termination. Contractor shall assist the State in exporting and extracting any
+       and all State data, in a format usable without the use of the Services and as agreed to by State, at
+       no additional cost. Any transition services requested by State involving additional knowledge
+       transfer and support may be subject to a contract amendment for a fixed fee or at rates to be
+       mutually agreed upon by the parties.
+       If the State determines in its sole discretion that a documented transition plan is necessary, then no
+       later than sixty (60) days prior to termination, Contractor and the State shall mutually prepare a
+       Transition Plan identifying transition services to be provided.
+
+
+                                                                                                     Page 26 of 28
+                                                                                             Revised: July 23, 2026
+
+=== Page 27 ===
+       6.2.     Return of Property. Upon termination of this Contract for any reason whatsoever,
+       Contractor shall immediately deliver to State all State Intellectual Property and State Data
+       (including without limitation any Deliverables for which State has made payment in whole or in
+       part), that are in the possession or under the control of Contractor in whatever stage of
+       development and form of recordation such State property is expressed or embodied at that time.
+7.       DESTRUCTION OF STATE DATA. At any time during the term of this Contract within thirty
+days of (i) the State’s written request or (ii) termination or expiration of this Contract for any reason,
+Contractor shall securely dispose of all copies, whether in written, electronic or other form or media, of
+State Data according to National Institute of Standards and Technology (NIST) approved methods, and
+certify in writing to the State that such State Data has been disposed of securely. Further, upon the
+relocation of State Data, Contractor shall securely dispose of such copies from the former data location
+according to National Institute of Standards and Technology (NIST) approved methods and certify in
+writing to the State that such State Data has been disposed of securely. Contractor shall comply with all
+reasonable directions provided by the State with respect to the disposal of State Data.
+
+
+
+
+                                                                                                   Page 27 of 28
+                                                                                           Revised: July 23, 2026
+
+=== Page 28 ===
+                                  2026 Retainer Contract Opportunity for Information Technology (IT) Services
+                                                                                                           Page 1 of 1
+
+
+
+                           WORKER CLASSIFICATION COMPLIANCE REQUIREMENT
+                            For Use With SOW-RFPs Under the IT Retainer Program
+
+                                          Subcontractor Reporting Form
+
+This form must be completed in its entirety and submitted prior to contract execution and updated as
+necessary and provided to the State as additional subcontractors are hired.
+
+
+In accordance with Act 54, Section 32 of the Acts of 2009, bidder is hereby notified that, prior to signing any SOW
+Agreement exceeding $250,000.00, it must comply with the following:
+
+Provide a list of all proposed subcontractors along with lists of subcontractor’s subcontractors and by whom each is
+insured. Include additional pages if necessary. This requirement does not apply to subcontractors providing
+supplies only and no labor to the overall contract or project.
+
+          Subcontractor               Insured By                   Subcontractor’s Sub               Insured By
+
+
+
+
+Date:
+
+Name of Company:                                          Contact Name:
+
+Address:                                                  Title:
+
+                                                          Phone Number:
+
+E-mail:
+
+
+By:                                                       Name:
+
+Failure to adhere to Act 54, Section 32 of the Acts of 2009 and submit Subcontractor Reporting: Worker
+Classification Compliance Requirement will constitute non-compliance and may result in cancellation of contract
+and/or forfeiture of future bidding privileges until resolved.
+
+Send Completed Form to:          sov.itcontractingandprocurement@vermont.gov
+
+
+
+                                                                                                             Page 28 of 28
+                                                                                                     Revised: July 23, 2026
+
+=== Page 29 ===
+                                                        Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+
+                                                                                                                        Vendor Name: __________________________
+
+IT Service Category                                                                                                    Title of Positions     Hourly Rate
+                                                                                                                                              On-Site     Remote
+ A. Business Analyst & Project Management Services
+    Contractor shall provide business analysis and project management services necessary to ensure technical
+    projects successfully meet the objectives for which they were undertaken. Following are characteristics of
+    this Service:
+    1. Business Analysis: Contractor shall evaluate, document and recommend changes to business processes                                     $           $
+         and the development, implementation and support of process improvements to eliminate redundancy
+         and increase productivity and reduce cost; interview subject matter experts and others to develop
+         requirements for engineered or commercial off the shelf software and systems.
+
+     2. Project Management: Project Management Institute (PMI) certified project manager executing any or                                     $           $
+          all of the following:
+
+            •    Development of Project Charter
+            •    Development of project plan and schedule
+            •    Coordination and scheduling of project activities across customer and functional areas
+            •    Consultation on operational and infrastructure requirements, standards and configurations
+            •    Facilitate project status meetings
+            •    Timely project status reporting
+            •    Address project issues with functional areas and management
+            •    Escalation of significant issues to customers and executive management
+            •    Manage project scope and deliverable requirements
+            •    Document changes to project scope and schedule
+            •    Facilitate and document project closeout
+
+
+ B. Infrastructure (Physical/Virtual) Support Services                                                                                        $           $
+    Contractor shall provide expert technical services in all aspects of infrastructure design, setup, installation,
+    diagnosis, repair and maintenance. Contractor may be required to support enterprise class storage, blade and
+    server technologies; and perform inter connectivity, performance, failover, deployment and/or
+    administration of VMware product suite. Services range from advance system administrative functions in a
+    VMware environment to various complex blade and storage (SAN/ISCSI/etc.) to ongoing support of Citrix
+    and Windows Server environments.
+
+                                                                                                                                                  April 30, 2025
+                                                                                                                                                   Page 1 of 22
+
+=== Page 30 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+    Following are Requirements and Capabilities for this Service:
+          • Installation, procurement and maintenance of storage sub systems and processing capacity (blade
+              and standard servers)
+          • Technical support of associated infrastructure necessary for the quality, security, performance,
+              availability, recoverability, and reliability of the system
+          • Ensure scheduled preventive maintenance for equipment is properly and promptly performed
+          • Maintain the maintenance records on the equipment
+          • Develop operations, administrative, and quality assurance back-up plans and procedural
+              documentation.
+
+
+C. Online Collaboration Support Services                                                                         $           $
+   Contractor shall provide a range of SharePoint support and/or development services. This could be anything
+   from building custom sites using out-of-the-box features to full System Development Life Cycle (SDLC) of
+   custom SharePoint business applications that will be installed in the State of Vermont SharePoint
+   environment. This will also include assisting ADS with maintaining, supporting, enhancing and/or
+   modifying the Enterprise SharePoint Environment. Agencies may need assistance with building an Agency-
+   wide intranet portal site or any subset thereof. Agencies may also need assistance with process definition;
+   requirements management (project planning, quality assurance, project tracking and oversight,
+   organizational process focus). Agencies will also need advice and guidance on SharePoint best practices,
+   along with how to leverage and configure SharePoint technology to meet their specific business
+   requirements.
+
+    Following are Requirements and Capabilities for this Service:
+        • Develop, support and maintain large farm SharePoint deployments in an enterprise environment
+        • Support SharePoint in a large multi-forest Active Directory environment
+        • SharePoint
+        • Successful Microsoft Office SharePoint Online site development, application development or
+            custom configurations
+        • Successful SharePoint site development, application development or custom configurations,
+            Enterprise Content Management (ECM) and using SharePoint as a component of an enterprise
+            ECM framework
+        • Web Content Management (WCM) and using SharePoint as a WCM platform
+        • Develop information architectures and utilizing metadata and content types in an enterprise
+            environment
+        • Solid understanding of SharePoint tools and best practices for records and information management
+            in the context of enterprise records management
+        • Implement Best Practices for WCM
+                                                                                                                     April 30, 2025
+                                                                                                                      Page 2 of 22
+
+=== Page 31 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+        •   Develop and deliver custom or standard SharePoint training to technical staff and/or to end users
+            who publish departmental Web content
+        •   Migrate data from a wide variety of legacy data sources into SharePoint
+        •   Relocate thousands of pages of Web Content
+        •   Perform SharePoint upgrades in an enterprise environment
+        •   Information Technology Infrastructure
+
+
+D. Network Consulting LAN/WAN Support Services                                                                  $           $
+    Contractor shall provide consulting services for LAN/WLAN network Services; functional specifications,
+    network design, network management, data conversion, interfaces, integration, network testing/QA,
+    implementation, training, documentation, and maintenance including version control, support, and issue
+    tracking.
+
+     Following are Requirements and Capabilities for this Service:
+        • Provide ongoing system, network maintenance and troubleshooting;
+        • Analyze and document complex network requirements;
+        • Interpret network requirements, design specifications, manage network development and, integrate
+            and test network components;
+        • Estimate network development costs and schedules;
+        • Network integration of multiple complex systems;
+        • Review existing networks and assist in making refinements, performance improvements, and
+            improving current techniques.
+
+
+E. GIS Services (formerly Enterprise GIS Services                                                               $           $
+
+ Following are Requirements and Capabilities for this Service:
+ • Platform Architecture & Management: Design, deploy, secure, and manage scalable Enterprise GIS
+     platforms (e.g., Esri, open-source) in cloud (AWS/Azure), on-premises, or hybrid environments, ensuring
+     integration with State IT infrastructure.
+ • Data Lifecycle & Integration: Manage the complete geospatial data lifecycle: acquisition, data processing,
+      storage (databases, cloud), ETL/ELT automation (e.g., FME, Python) for transformation, validation, and
+      generation of optimized formats like Cloud-Optimized GeoTIFFs (COGs), quality assurance, standards
+      compliance (metadata/STAC), and system integration.
+ • Analysis & Visualization: Perform spatial analysis; create effective maps, visualizations, and dashboards;
+      implement modern web mapping services (OGC, Esri APIs, Vector Tiles); and integrate with BI
+      platforms (e.g., Power BI).
+
+                                                                                                                    April 30, 2025
+                                                                                                                     Page 3 of 22
+
+=== Page 32 ===
+                                                       Attachment A1: IT Service Categories, Roles and Rates
+
+
+  •     Application Development: Configure COTS GIS solutions and develop custom geospatial applications
+        (web, desktop, mobile) and APIs for robust enterprise system integration.
+  •     Strategic Support: Provide expert GIS consultation, including technology roadmapping, data governance
+        guidance, cost-benefit analysis, and ongoing technical support.
+
+F. Hardware/Software/Application Security Support                                                                     $           $
+   Contractor shall provide strategies and solutions to defend hardware and software IT and
+   telecommunications resources against adversaries such as viruses, worms and hackers for operating systems
+   and applications, penetration testing and related IT security activities.
+
+      Following are Requirements and Capabilities for this Service
+          • Provide operational and analytical support related to security for computing platforms (e.g. PC,
+              servers, mainframe) and networks;
+          • Analyze and evaluate new and emerging security technologies as well as vendor security products
+              for their applicability and feasibility of use in securing hardware/software IT and
+              telecommunications resources;
+          • Support Agency security operations, including assisting Agencies with analyzing, developing and
+              implementing security methodologies and safeguards to protect their IT and telecommunications
+              assets;
+          • Provide technical training for all aspects of information security relative to personal computers, file
+              servers, and networks;
+          • Perform security audits and/or penetration testing of IT systems and applications.
+          • Provide Security as a Service supporting the State with vendor management. Examples of work
+              include 24/7 incident response assistance, vulnerability management or policy/procedure
+              development;
+          • Provide technical or compliance training for all aspects of information security. Examples of work
+              include security awareness training, secure programming best practices or threat analysis;
+          • Analyze and evaluate new and emerging security technologies as well as vendor security products
+              for their applicability and feasibility of use in securing hardware/software IT and
+              telecommunications resources;
+          • Perform security audits and/or penetration testing of IT systems and applications in the context of
+              security standards such as NIST, IRS 1075, CJIS and HIPAA;
+          • Provide operational and analytical support related to security for computing platforms (e.g. PC,
+              servers, and mainframe) and networks.
+
+
+G. Strategic Planning Assistance                                                                                      $           $
+   Contractor shall provide assistance in developing long-range information technology plans, IT-enabled
+   business plans, and program effectiveness measures related to proposed IT investments. Assistance with
+                                                                                                                          April 30, 2025
+                                                                                                                           Page 4 of 22
+
+=== Page 33 ===
+                                                     Attachment A1: IT Service Categories, Roles and Rates
+
+
+  agency-level strategic planning for IT to ensure consistency with State-level (i.e., enterprise) plans and
+  initiatives.
+
+  Following are Requirements and Capabilities for this Service:
+      • Analyze customer and citizen demand for IT-enabled services;
+      • Evaluate current and emerging technologies and assist agencies with planning the tactical and
+          strategic migration of business services to these technologies in accordance with enterprise
+          strategy;
+      • Analyze existing and planned systems and platforms at the Agency and Department level and
+          develop enterprise architectures aligned with applicable strategic goals and policies.
+      • Develop IT strategic plans that align agency business and technology plans with State business
+          technology and goals and objectives; and,
+      • Perform strengths, weaknesses, opportunities, and threats (SWOT) analyses, critical success factor
+          analyses, strategic business planning, strategic information systems planning, electronic
+          government assessments, and other techniques used to establish strategic information technology
+          plans.
+
+
+H. Independent Review                                                                                              $           $
+   Contractor shall provide the Secretary of ADS/CIO an independent expert review of any Agency
+   recommendation for any information technology activity when its total cost is $1,000,000.00 or greater or
+   when CIO requires one.
+
+    The State has identified two sub-categories for Independent Reviews, Standard and Complex. The State
+    will identify in the SOW RFP the sub-category they are seeking. State shall not consider bids greater than
+    the maximum value indicated below for this category.
+
+             Standard Independent Review $25,000 Maximum
+             Complex Independent Review $50,000 Maximum
+
+    Per Vermont statute 3 V.S.A. 2222, The Secretary of Administration shall obtain independent expert
+    review of any recommendation for any information technology initiated after July 1, 1996, as information
+    technology activity is defined by subdivision (a) (10), when its total cost is $1,000,000 or greater or when
+    required by the State Chief Information Officer. Documentation of this independent review shall be
+    included when plans are submitted for review pursuant to subdivisions (a)(9) and (10) of this section. The
+    independent review shall include:
+
+         •   An acquisition cost assessment
+         •   A technology architecture review
+
+                                                                                                                       April 30, 2025
+                                                                                                                        Page 5 of 22
+
+=== Page 34 ===
+                                                Attachment A1: IT Service Categories, Roles and Rates
+
+
+    •    An implementation plan assessment
+    •    A cost analysis and model for benefit analysis
+    •    A procurement negotiation advisory services contract
+    •    An impact analysis on net operating costs for the agency carrying out the activity
+
+In addition, from time to time special reviews of the advisability and feasibility of certain types of IT
+strategies may be required.
+
+Following are Requirements and Capabilities for this Service:
+    • Identify acquisition and lifecycle costs;
+    • Assess wide area network (WAN) and/or local area network (LAN) impact;
+    • Assess risks and/or review technical risk assessments of an IT project including security, data
+        classification(s), subsystem designs, architectures, and computer systems in terms of their impact
+        on costs, benefits, schedule and technical performance;
+    • Assess, evaluate and critically review implementation plans, e.g.:
+    • Adequacy of support for conversion and implementation activities
+    • Adequacy of department and partner staff to provide Project Management
+    • Adequacy of planned testing procedures
+    • Acceptance/readiness of staff
+    • Schedule soundness
+    • Adequacy of training pre and post project
+    • Assess proposed technical architecture to validate conformance to the State’s “strategic
+        direction.”
+    • Insure system use toolsets and strategies are consistent with State Chief Information Officer
+        (CIO) policies, including security and digital records management;
+    • Assess the architecture of the proposed hardware and software with regard to security and
+        systems integration with other applications within the Department, and within the Agency, and
+        existing or planned Enterprise Applications;
+    • Perform cost and schedule risk assessments to support various alternatives to meet mission need,
+        recommend alternative courses of action when one or more interdependent segment(s) or
+        phase(s) experience a delay, and recommend opportunities for new technology insertions;
+    • Assess the architecture of the proposed hardware and software with regard to the state of the art
+        in this technology.
+    • Assess a project’s backup/recovery strategy and the project’s disaster recovery plans for
+        adequacy and conformance to State policy.
+    • Evaluate the ability of a proposed solution to meet the needs for which the solution has been
+        proposed, define the ability of the operational and user staff to integrate this solution into their
+        work.
+
+                                                                                                               April 30, 2025
+                                                                                                                Page 6 of 22
+
+=== Page 35 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+
+I.     Enterprise Content Management                                                                            $           $
+       Contractor shall provide services to establish or maintain electronic document imaging, document
+       management, document workflow, and associated technologies in the context of enterprise strategy,
+       records management policies, and existing assets. The Association for Information and Image
+       Management (AIIM) defines ECM as the technologies used to capture, manage, store, preserve, and
+       deliver content and documents related to organizational processes.
+
+       Following are Requirements and Capabilities for this Service:
+           • Accomplish workflow analysis;
+           • Develop/implement document indexing schemes and workload management;
+           • Provide implementation and support services;
+           • Develop system interfaces;
+           • Develop/implement system migration strategies;
+           • Provide document conversion services (hardcopy to electronic or electronic to electronic);
+           • Provide performance monitoring/measurement;
+           • Accomplish system stress testing/benchmarking; and,
+           • Implement document and records retention/archiving strategies/plans.
+           • Provide software maintenance and support activities, including staff training
+
+     Digital Document Management Response Requirements:
+            • Migrating data from network shares and/or other document repositories to repositories including
+                SharePoint, Documentum or OnBase.
+            • Optical Character Recognition (OCR)
+            • Zonal OCR
+            • Batch processing
+            • Multiple formats
+            • Large format Engineering documents in color
+            • Microfilm
+            • Record/archival
+            • Presentation
+            • Certified mail receipts – postcards
+            • Medical records
+            • Other non-standard sizes
+            • Resolution options/standards
+            • Integrating document intake with workflow
+            • Indexing
+                                                                                                                    April 30, 2025
+                                                                                                                     Page 7 of 22
+
+=== Page 36 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+         •   Developing taxonomies and metadata
+         •   Working with existing taxonomy and metadata standards
+         •   Interface to applications such as SharePoint, Documentum, OnBase.
+         •   De-speckling - Example. The "Despeckle" filter is used to smoothen an image which has been
+             scanned in from a magazine, newspaper, etc.; reduce the image resolution and contrast, thereby
+             reducing the di- agnostic value of this imaging modality.
+         •   Method of transmittal/transmittal issues
+         •   Chain of custody
+         •   Turn-around time
+         •   Location requirements – Where the imaging is being accomplished
+         •   Offsite or on site for records that cannot leave government control
+         •   Document preparation requirements, i.e. what do you need the State to do for preparation of
+             documents, and/or what can vendor do?
+         •   Ask vendor to provide analysis/consulting on requirements for H/W & S/W
+         •   Vendor should provide QA/QC practices and processes, e.g. 100% inspection or statistical
+             QC/error sampling rates; independent QC services
+         •   Estimates for storage requirements
+         •   Lifecycle costs
+         •   Scale preservation (1:1)
+
+
+J.   Data Management and Engineering (formerly DBA/SQLDBA/Relational Database Support)                        $           $
+
+Contractor shall provide services to support the function of database administration. Following are
+Requirements and Capabilities for this Service:
+
+•    RDBMS Administration: Expertly administer RDBMS (e.g., Oracle, PostgreSQL, MySQL, SQL Server)
+     on cloud managed services (e.g., AWS RDS/Aurora, Azure SQL DB/Managed Instance), ensuring high
+     availability, reliability, and operational excellence.
+•    Database Lifecycle Management: Manage database lifecycle activities including automated/manual
+     patching, version upgrades, and implement robust cloud-native backup, restore, and disaster recovery
+     strategies.
+     Infrastructure as Code (IaC) & Provisioning: Provision, configure, and manage database infrastructure
+     using IaC tools (e.g., Terraform) for consistency and repeatability.
+•    Performance Tuning & Cost Optimization: Perform advanced SQL query optimization and performance
+     tuning; actively monitor and optimize costs associated with cloud database resource consumption.
+
+
+
+                                                                                                                  April 30, 2025
+                                                                                                                   Page 8 of 22
+
+=== Page 37 ===
+                                                  Attachment A1: IT Service Categories, Roles and Rates
+
+
+•   Cloud Security & Compliance: Implement and manage comprehensive cloud database security measures,
+    including IAM policies, network security groups/firewalls, encryption (at-rest/in-transit), auditing, and
+    adhere to the shared responsibility model and relevant compliance standards.
+•   OLTP & Data Warehouse Support: Support high-performance OLTP workloads on managed RDBMS
+    and analytical workloads utilizing modern Cloud Data Warehouses (e.g., Snowflake, Redshift, Synapse
+    Analytics).
+•   Data Lake & Processing Expertise: Demonstrate experience with cloud data lakes (e.g., storage like AWS
+    S3, Azure Data Lake Storage), including data ingestion patterns and distributed data processing using
+    frameworks like Apache Spark (e.g., via AWS Glue, Azure Databricks, Azure Data Factory, AWS
+    Redshift).
+•   Monitoring & Automation Scripting: Utilize cloud-native monitoring, logging, and alerting services (e.g.,
+    CloudWatch, Azure Monitor) for proactive database health management and automate routine tasks using
+    scripting languages (e.g., Python).
+
+
+K. Enterprise Resource Planning Support Services                                                                $           $
+   Contractor shall provide services to support PeopleSoft ERP platforms: HR and Financials.
+
+    Following are Requirements and Capabilities for this Service:
+
+        •   PeopleSoft HR (HCM, North American Payroll, Benefits Admin, Time and Labor, Talent
+            Acquisition, Candidate Gateway), Financials (GL, AR, AM, AP, Billing, Inventory, Purchasing)
+        •   System Support
+        •   Developer support
+        •   Application support
+        •   Peoplecode, SQR, Integration Broker, Applications Designer, App Engine
+        •   PeopleSoft on Linux
+        •   PeopleSoft 8.8, 9.1, 9.2
+        •   Upgrades
+
+
+L. Agile Coaching Services                                                                                      $           $
+   Contractor shall provide Agile development services, using such methodologies as Scrum.
+
+    Contractor will help State project teams properly use an Agile project management framework such as
+    Scrum or Kanban, increasing the likelihood of a project's overall success. When providing Scrum-specific
+    services, Contractor shall use Certified Scrum Masters (CSMs) who will have an understanding of Scrum
+    values, practices, and applications and provide a level of knowledge and expertise above and beyond that
+
+                                                                                                                    April 30, 2025
+                                                                                                                     Page 9 of 22
+
+=== Page 38 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+    of typical project managers. CSMs will act as "servant leaders," helping the rest of the Scrum team work
+    together and learn the Scrum framework.
+
+    When asked to perform Scrum Training, only a licensed Certified Scrum Trainer (CST), will teach
+    Certified Scrum Master and Certified Scrum Product Owner curriculum to individuals and groups of State
+    employees. Contractor’s CST will help State employees understand the principles and values that form
+    the foundation of Scrum. The CST will find creative ways to help State Contracting Agencies adopt this
+    Agile framework and capitalize on its benefits.
+
+    The intent is to establish three (3) contract categories that support the Agile process. Vendors may choose
+    to submit a bid for any, or all of the three categories.
+
+    All three (3) categories are intended to build the state’s capacity to think and perform in an Agile way. All
+    categories include a component of coaching, mentoring, and training state employees to become internal
+    Agile practitioners.
+         • Category 1: Leadership and Cultural Change: This category includes services related to                   $           $
+             coaching, mentoring, and training leaders to help organizations change their culture to become an
+             Agile organization. This category includes a planning component.
+        •    Category 2: Training: This category includes services related to training state employees to           $           $
+             understand and apply Agile concepts and tools.
+        •    Category 3: Facilitating Agile Process Improvement: This category includes the                         $           $
+             implementation, deployment, measurement, and follow up to Agile process improvement efforts
+             and events as well as project management and facilitation experience and approach.
+
+
+M. Mobile App Development Services                                                                                  $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+    Provide a seamless omni-channel experience on any device.
+
+    Front end development
+        • A sharp UI matched to design mockups with pixel-perfect accuracy
+        • A consistent UX across the entire application
+        • Animations and effects that don’t compromise performance
+        • Cross platform support
+
+    Back end development
+        • A solid architecture to accommodate future growth at scale
+        • Flexibility to integrate with other systems and third-party services
+
+                                                                                                                        April 30, 2025
+                                                                                                                        Page 10 of 22
+
+=== Page 39 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+        •    Advanced data structures to provide actionable insights
+        •    Cutting-edge security features to protect your users, processes, and data
+        •    Analytics & Reporting
+        •    Q & C testing
+
+
+N. (Digital Analytics, Business Intelligence, and Data Science Services) (formerly Analytics, SEO, SEM,     $           $
+   Business Intelligence)
+
+    Contractor shall provide services including, but not limited to:
+
+    Digital & Web Analytics:
+      o Implementation, management, and analysis using Google Analytics (GA4).
+      o Integration of analytics data with cloud data warehouses.
+      o Reporting on user behavior, acquisition, conversion, and site performance.
+    Search Engine Marketing (SEM):
+      o Strategy, execution, and optimization of paid search campaigns (Google Ads, Microsoft Ads).
+      o Management focused on KPIs (ROAS, CPA) and budget efficiency.
+    Search Engine Optimization (SEO):
+      o Comprehensive SEO strategy implementation (technical, on-page, content, off-page/links, local).
+      o Performance monitoring, reporting, and adaptation to algorithm changes.
+    Web & Conversion Rate Optimization (CRO):
+      o Analysis of user experience, website performance (incl. Core Web Vitals), and conversion funnels.
+    Business Intelligence (BI) & Data Visualization:
+      o Development and management of BI solutions on cloud platforms (primarily Microsoft Power BI
+           Service).
+      o Integration and modeling of data from diverse sources (APIs, cloud databases/warehouses).
+      o Creation of interactive dashboards and reports for actionable insights.
+    Data Science & Machine Learning:
+      o Application of ML models for business objectives (e.g., prediction, segmentation).
+      o Proficiency in Python/R and standard DS/ML libraries/frameworks
+      o Experience with cloud AI/ML platforms
+    Data Integration & Governance:
+      o Ability to integrate data from multiple systems for unified analysis.
+    Adherence to data quality and governance principles.
+
+
+
+
+                                                                                                                April 30, 2025
+                                                                                                                Page 11 of 22
+
+=== Page 40 ===
+                                                     Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+O. Delivery Manager Services                                                                                       $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+     Experience setting up teams for successful delivery by removing obstacles (or blockers to progress),
+     constantly helping the team to become more self-organizing, and enabling the work the team does rather
+     than impose how it’s done.
+
+     Manages one or more agile projects, typically to deliver a specific product or transformation via a multi-
+     disciplinary, high-skilled digital team. Adept at delivering complex digital projects, breaking down
+     barriers to the team, and both planning at a higher level and getting into the detail to make things happen
+     when needed.
+
+     Defines project needs and feeds these into the portfolio/program process to enable resources to be
+     appropriately allocated.
+
+     Primarily responsible for:
+         • Delivering projects and products using the appropriate agile project management methodology,
+              learning & iterating frequently
+         • Working with the Product Manager to define the roadmap for any given product and translating
+              this into user stories
+         • Leading the collaborative, dynamic planning process – prioritizing the work that needs to be
+              done against the capacity and capability of the team
+         • Matrix-managing a multi-disciplinary team
+         • Ensuring all products are built to an appropriate level of quality for the stage
+              (alpha/beta/production)
+         • Actively and openly sharing knowledge of best practices.
+
+
+P.   DevOps Engineer Services                                                                                      $           $
+
+     Contractor shall provide services in accordance with the following requirements and capabilities:
+
+     Experience serving as the engineer of complex technology implementations in a product-centric
+     environment. Comfortable with bridging the gap between legacy development or operations teams and
+     working toward a shared culture and vision. Works tirelessly to arm developers with the best tools and
+     ensuring system uptime and performance.
+
+
+
+                                                                                                                       April 30, 2025
+                                                                                                                       Page 12 of 22
+
+=== Page 41 ===
+                                                   Attachment A1: IT Service Categories, Roles and Rates
+
+
+    Primarily responsible for:
+
+        •    Deploying and configuring services using infrastructure as a service providers (e.g., Amazon
+             Web Services, Microsoft Azure, Google Compute Engine, RackSpace/OpenStack)
+        •    Configuring and managing Linux-based servers to serve a dynamic website
+        •    Debugging cluster-based computing architectures
+        •    Using scripting or basic programming skills to solve problems
+        •    Installation and management of open source monitoring tools
+        •    Configuration management tools (e.g., Puppet, Chef, Ansible, Salt)
+        •    Architecture for continuous integration and deployment, and continuous monitoring
+        •    Containerization technologies (e.g., LXC, Docker, Rocket).
+
+
+Q. Digital Performance Analyst Services                                                                           $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Experience specifying, collecting, and presenting key performance data and analysis for a given digital
+    service. Supports Product Managers by generating new and useful information and translating it into
+    actions that will allow them to iteratively improve their service for users. Possesses analytical and
+    problem-solving skills necessary for quickly developing recommendations based on the quantitative and
+    qualitative evidence gathered via web analytics, financial data, and user feedback. Confident in explaining
+    technical concepts to senior officials with limited technological background. And comfortable working
+    with data, from gathering and analysis through to design and presentation.
+
+    Primarily responsible for:
+        • Support the Product Manager to make sure their service meets performance requirements
+        • Communicate service performance against key indicators to internal and external stakeholders
+        • Ensure high-quality analysis of agency transaction data
+        • Support the procurement of the necessary digital platforms to support automated and real-time
+             collection and presentation of data
+        • Share examples of best practice in digital performance management across government
+        • Identify delivery obstacles to improving transactional performance in agencies and working with
+             teams to overcome those obstacles.
+
+
+
+
+                                                                                                                      April 30, 2025
+                                                                                                                      Page 13 of 22
+
+=== Page 42 ===
+                                                     Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+R. Interaction Designer Services                                                                                    $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+     The Interaction Designer is part of a highly collaborative, multi-disciplinary team focused on improving
+     usability, user experience, and driving user adoption and engagement. They are responsible for
+     conducting user research, analysis & synthesis, interaction design, and usability testing to create products
+     that delight our customers.
+
+     Primarily responsible for:
+         • Conduct stakeholder interviews, user requirements analysis, task analysis, conceptual modeling,
+              information architecture, interaction design, and usability testing
+         • Design and specify user interfaces and information architecture
+         • Lead participatory and iterative design activities, including observational studies, customer
+              interviews, usability testing, and other forms of requirements discovery
+         • Produce user requirements specifications & experience goals, personas, storyboards, scenarios,
+              flowcharts, design prototypes, and design specifications
+         • Effectively communicate research findings, conceptual ideas, detailed design, and design
+              rationale and goals both verbally and visually
+         • Plan and facilitate collaborative critiques and analysis & synthesis working sessions
+         • Work closely with other designers and development teams to ensure that customer goals are met
+              and design specifications are delivered upon
+         • Designs and develops primarily internet/web pages and applications
+         • Develops proof-of-concepts and prototypes of easy-to-navigate user interfaces (UIs) that consists
+              of web pages with graphics, icons, and color schemes that are visually appealing
+         • Researches user needs as well as potential system enhancements
+         • Has familiarity to, or may actually: code, test, debug documents, and implement web
+              applications using a variety of platforms
+         • Planning, recruiting, and facilitating the usability testing of a system
+         • Analyzing and synthesizing the results of usability testing in order to provide recommendations
+              for change to a system.
+
+
+S.   Product Manager Services                                                                                       $           $
+     Contractor shall provide services in accordance with the following requirements and capabilities:
+
+     Experience managing the delivery, ongoing success, and continuous improvement of one or more digital
+     products and/or platforms.
+
+                                                                                                                        April 30, 2025
+                                                                                                                        Page 14 of 22
+
+=== Page 43 ===
+                                                   Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+    Primarily responsible for:
+        • Lead one or more multi-disciplinary agile delivery teams to deliver excellent new products
+             and/or iterations to existing products to meet user needs
+        • Gather user requirements based on a communicable understanding of diverse audience groups
+        • Define and get stakeholder buy-in for product definition and delivery approach
+        • Create effective, prioritized product descriptions, and delivery plans to meet user needs in a cost-
+             effective way
+        • Interpret user research in order to make the correct product decisions, noting that users do not
+             always know what they want
+        • Continually keep abreast of changes to user habits, preferences, and behaviors across various
+             digital platforms and their implications for successful delivery of government digital services
+        • Underpin the delivery and iteration of digital services through effective analysis of qualitative
+             and quantitative user data
+        • Communicate credibly with a wide range of digital delivery disciplines and talent.
+
+
+T. Security Engineer Services                                                                                    $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Experience serving as the security engineer of complex technology implementations in a product-centric
+    environment. Comfortable with bridging the gap between legacy development or operations teams and
+    working toward a shared culture and vision. Works tirelessly to ensure help developers create the most
+    secure systems in the world while enhancing the privacy of all system users. Experience with white-hat
+    hacking and fundamental computer science concepts strongly desired.
+
+    Primarily responsible for:
+        • Performing security audits, risk analysis, application-level vulnerability testing, and security
+             code reviews
+        • Develop and implement technical solutions to help mitigate security vulnerabilities
+        • Conduct research to identify new attack vectors.
+
+
+U. Technical Architect Services                                                                                  $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Experience serving as the manager of complex technology implementations, with an eye toward constant
+    reengineering and refactoring to ensure the simplest and most elegant system possible to accomplish the
+    desired need.
+                                                                                                                     April 30, 2025
+                                                                                                                     Page 15 of 22
+
+=== Page 44 ===
+                                                   Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+    Understands how to maximally leverage the open source community to deploy systems on infrastructure
+    as a service providers. Comfortable with liberally sharing knowledge across a multi-disciplinary team and
+    working within agile methodologies. A full partner in the determination of vision, objectives, and success
+    criteria.
+
+    Primarily responsible for Architecting the overall system, by using prototyping and proof of concepts,
+    which may include:
+        • modern programming languages (e.g., Ruby, Python, Node.js) and web frameworks (e.g.,
+             Django, Rails)
+        • modern front-end web programming techniques (e.g., HTML5, CSS3, RESTful APIs) and
+             frameworks (e.g., Twitter Bootstrap, jQuery)
+        • relational databases (e.g., PostgreSQL), and “NoSQL” databases (e.g., Cassandra, MongoDB)
+        • automated configuration management (e.g., Chef, Puppet, Ansible, Salt), continuous
+             integration/deployment, and continuous monitoring solutions
+        • Use of version control systems, specifically Git and GitHub
+        • Ensuring strategic alignment of technical design and architecture to meet business growth and
+             direction, and stay on top of emerging technologies
+        • Decomposing business and system architecture to support clean-interface multi-team
+             development
+        • Developing product roadmaps, backlogs, and measurable success criteria, and writing user
+             stories (i.e., can establish a path to delivery for breaking down stories)
+        • Clearly communicates and works with stakeholders at every level.
+
+
+V. Visual Designer Services                                                                                      $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    The Visual Designer starts with a deep understanding of the goals of customers and the business so that
+    they can create experiences that delight. Visual Designers will be well-versed in all aspects of current
+    visual design standards and trends and will be responsible for managing project design reviews, resource
+    planning, and execution for all project work related to visual design.
+
+    Primarily responsible for:
+        • Oversees all visual design efforts
+        • Guides, mentors, and coaches team members while leading projects to successful completion
+        • Develops and maintains relationships with key peers in Marketing, Branding, UX leaders, IT
+             leaders, and others to identify and plan creative solutions
+        • Manages external service resources and budgets for visual design
+                                                                                                                     April 30, 2025
+                                                                                                                     Page 16 of 22
+
+=== Page 45 ===
+                                                  Attachment A1: IT Service Categories, Roles and Rates
+
+
+        •    Ensures successful completion of all work executed by the team (on time, on budget, and
+             ensuring quality)
+        •    Ensures compliance with the project management methodologies and the Project Management
+             Office processes and standards
+        •    Develops, maintains, and ensures compliance of application release management, outage
+             management and change control processes and standards
+        •    Defines, creates, communicates, and manages resource plans and other required project
+             documentation such as style guides and provides updates as necessary.
+
+
+W. Writer/Content Designer/Content Strategist Services                                                      $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Experience developing the strategy and execution of content across digital channels.
+
+    Primarily responsible for:
+        • Improves content creation efforts by helping to lead the research & development of interactive
+             and experiential storytelling for projects
+        • Advise how to improve the ongoing iteration of content models
+        • Collaborate with designers and other content strategists to improve how the effectiveness of
+             digital, print, and other content is measured
+        • Develop and maintain appropriate voice for produced content
+        • Advise how to streamline content production and management solutions and processes, based on
+             user research
+        • Assign, edit, and produce content for products, services, and various projects
+        • Plan and facilitate content strategy workshops and brainstorming sessions on developing content
+             and content services (including API development)
+        • Collaborate closely with developers and designers to create, test, and deploy effective content
+             marketing experiences using the Agile method of software development
+        • Offer educated recommendations on how to deliver a consistent, sustainable and standards-
+             driven execution of content strategy across products, services, and projects
+        • Collaborate with content managers, writers, information architects, interaction designers,
+             developers, and content creators of all types
+        • Participate, as needed, on an Agile software development scrum teams.
+
+
+
+
+                                                                                                                April 30, 2025
+                                                                                                                Page 17 of 22
+
+=== Page 46 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+
+X. User Researcher Services                                                                                        $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    The User Researcher is part of a highly collaborative, multi-disciplinary team focused on improving
+    usability and user experience, and informing work around user adoption and engagement. They are
+    responsible for conducting user research, analysis & synthesis, and usability testing to guide products that
+    delight our customers.
+
+    Primarily responsible for:
+        • Plan and lead quantitative and qualitative human subjects research studies to inform
+             prioritization, specifications, and solution designs
+        • Conduct stakeholder interviews, user requirements analysis, task analysis, conceptual modeling,
+             information architecture, heuristic analysis, and usability testing
+        • Lead participatory and iterative design activities, including observational studies, customer
+             interviews, usability testing, and other forms of requirements discovery
+        • Use quantitative and qualitative evidence to inform user requirements specifications &
+             experience goals, scenarios, design prototypes, and design specifications
+        • Effectively communicate research findings, research limitations, and generalizability both
+             verbally and visually
+        • Plan and facilitate analysis & synthesis working sessions
+        • Researches user needs as well as potential system enhancements
+        • Planning, recruiting, and facilitating the usability testing of a system
+        • Analyzing and synthesizing the results of usability testing in order to provide recommendations
+             for change to a system.
+
+
+Y. Cyber Security Incident Response and Management                                                                 $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Description - Service category to provide Cyber Security Incident Response and Management services
+    necessary to ensure personnel at all levels respond to security incidents in a way that is rapid, compliant
+    and thoughtful. Following are characteristics of this service category:
+
+    Requirements / Capabilities
+       • Certified Security Professionals writing plans, evaluating existing plans, documenting and
+           recommending changes to incident response plans and related work.
+
+    Examples of Potential Statements of work:
+                                                                                                                       April 30, 2025
+                                                                                                                       Page 18 of 22
+
+=== Page 47 ===
+                                                   Attachment A1: IT Service Categories, Roles and Rates
+
+
+        •    Classifying data stored or transmitted between computing platforms (e.g. PC, servers,
+             mainframe) and networks;
+        •    Provide incident response and related training;
+        •    Exercise/simulate incident response scenarios;
+        •    24/7 incident response assistance
+        •    Vulnerability management
+        •    Policy/procedure development;
+        •    Provide operational and analytical support related to security for computing platforms (e.g. PC,
+             servers, and mainframe) and networks.
+        •    Consultation on operational and infrastructure requirements, standards and configurations
+        •    Facilitate meetings
+        •    Address security and incident response issues with functional areas and management
+        •    Analyze and evaluate new and emerging security technologies as well as vendor security
+             products for their applicability and feasibility of use in securing hardware/software IT and
+             telecommunications resources;
+        •    Perform security audits and/or penetration testing of IT systems and applications in the context
+             of NIST, IRS 1075, CJIS, HIPAA and so on;
+        •    Provide operational and analytical support related to security for computing platforms (e.g. PC,
+             servers, and mainframe) and networks.
+
+
+Z. Software License Optimization                                                                                $           $
+   Contractor shall provide services in accordance with the following requirements and capabilities:
+
+    Description - Service category to provide Information gathering and consultation regarding license
+    position to include: discovery, accounting, tracking, compliance, costs analysis and/or cost projection.
+
+    Category Requirements
+        • Services may include the use of a software solution in addition to consultative services.
+        • The Supplier is able to advise and provide experienced, strategic advice to the State through an
+           audit process.
+        • The Supplier has the ability to produce license position reports for software by merging supplied
+           software license purchase, contract and entitlement information with assets, including software
+           usage and hardware information as required.
+        • The Supplier has the ability to identify unused or infrequently used software and recommend
+           harvesting or eliminating such licenses, thus facilitating software acquisition and disposal
+           decisions that reduce costs.
+        • Supplier has the ability to provide visualizations of software license utilization.
+
+                                                                                                                    April 30, 2025
+                                                                                                                    Page 19 of 22
+
+=== Page 48 ===
+                                                    Attachment A1: IT Service Categories, Roles and Rates
+
+
+        •    The Supplier has the ability to suggest alternative licensing and/or configuration entitlements,
+             such as upgrade/downgrade, named versus concurrent users, reassignment/right of second use,
+             multiple versions, capacity and sub capacity, processor and cores, virtual machine (VM) use
+             rights and cloud services.
+        •    The Supplier can demonstrate past experience in producing license optimization reports that
+             specific software vendors have accepted as valid license accounting.
+        •    The Supplier has the ability to provide what-if analysis capabilities that would allow the State to
+             determine the impact of hardware and software changes on license position (before the changes
+             are actually made). Actions such as modifying hardware properties, moving virtual machines
+             across hosts or installation of a new software can be simulated, providing an estimated license
+             position and financial impact that reflects these changes.
+
+        Examples of Potential Statements of work:
+        • Evaluation and consultation regarding:
+               o compliant and effective license utilization and maximization, especially within
+                    virtualized environments (can include roadmaps)
+               o Legal considerations regarding software licensure
+        • Evaluations may include the following software:
+               o Microsoft Products
+               o IBM Products
+               o SAP Products
+               o Adobe Products
+               o Oracle Products
+               o Citrix Products
+               o ESRI Products
+               o Hyland Products
+
+
+AA. Backend and Frontend Web Developer Services                                                                    $           $
+    Contractor shall provide services in accordance with the following requirements and capabilities:
+    Experience using modern, open source software to prototype and deploy backend web applications,
+    including all aspects of server-side processing, data storage, and integration with frontend development.
+
+    Primarily responsible for:
+
+        •    Web development using open-source web programming languages (e.g., Ruby, Python) and
+             frameworks (e.g., Django, Rails)
+        •    Developing and consuming web-based, RESTful APIs
+        •    Using and working in team environments that use agile methodologies (e.g., Scrum, Lean)
+                                                                                                                       April 30, 2025
+                                                                                                                       Page 20 of 22
+
+=== Page 49 ===
+                                               Attachment A1: IT Service Categories, Roles and Rates
+
+
+    •    Authoring developer-friendly documentation (e.g., API documentation, deployment operations)
+    •    Test-driven development
+    •    Use of version control systems, specifically Git and GitHub
+    •    Quickly researching and learning new programming tools and techniques
+    •    Relational and non-relational database systems
+    •    Scalable search technology (e.g. ElasticSearch, Solr)
+    •    Handling large data sets and scaling their handling and storage
+    •    Using and working with open source solutions and community
+    •    Communicating technical concepts to a non-technical audience.
+
+Frontend Web Developer Services
+Contractor shall provide services in accordance with the following requirements and capabilities:
+
+Experience using modern, frontend web development tools, techniques, and methods for the creation and
+deployment of user-facing interfaces. Is comfortable working in an agile and lean environment to
+routinely deploy changes.
+
+Primarily responsible for:
+
+    •    Frontend web development using modern techniques and frameworks (e.g., HTML5, CSS3, CSS
+         frameworks like LESS and SASS, Responsive Design, Bourbon, Twitter Bootstrap)
+    •    JavaScript development using modern standards, including strict mode compliance,
+         modularization techniques and tools, and frameworks and libraries (e.g., jQuery, MV*
+         frameworks such as Backbone.js and Ember.js, D3)
+    •    Consuming RESTful APIs
+    •    Using and working in team environments that use agile methodologies (e.g., Scrum, Lean)
+    •    Use of version control systems, specifically Git and GitHub
+    •    Ensuring Section 508 Compliance
+    •    Quickly researching and learning new programming tools and techniques
+    •    Using and working with open source solutions and community
+    •    Creating web layouts from static images
+    •    Creating views and templates in full-stack frameworks like Rails, Express, or Django
+    •    Creating mobile-responsive apps that will work well on mobile devices
+    •    includes being mindful of performance constraints around memory, networking availability, etc.
+
+
+
+
+                                                                                                          April 30, 2025
+                                                                                                          Page 21 of 22
+
+=== Page 50 ===
+                                                  Attachment A1: IT Service Categories, Roles and Rates
+
+
+BB. Customer Relationship Management Support Services                                                                         $           $
+    Contractor shall provide services to support the Salesforce CRM platform
+
+    Following are Requirements and Capabilities for this Service:
+        • Salesforce Lightning Edition (Government, Service Cloud, Data Cloud, Community Cloud)
+        • System Support
+        • Developer support (Apex, Javascript, etc.)
+        • Application support (including mobile app support)
+        • Workflow support
+        • Object Model Support
+        • Role-based access controls
+        • Security and Compliance Support
+        • Training and Workforce Development
+        • Upgrades
+
+
+
+
+                                                                                                  Name: ______________________________________
+
+                                                                                                  Signature: ___________________________________
+
+
+
+
+                                                                                                                                  April 30, 2025
+                                                                                                                                  Page 22 of 22

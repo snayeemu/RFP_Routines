@@ -1,0 +1,139 @@
+=== Sheet Pricing Spreadsheet ===
+Naval Network Warfare Command (NNWC)
+Enterprise Cloud-Network Operations-Management Services
+Pricing Spreadsheet |  |  |  |  |  | 
+ | Base Ordering Period Year I
+01 January 2027 – 31 December 2027 |  |  |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 3840 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 23040 |  | 12 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 34560 |  | 18 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 30720 |  | 16 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 9600 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 11520 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 34560 |  | 18 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 5760 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 0 |  | 0 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 84 | 0
+ | Base Ordering Period Year II |  |  |  |  | 
+ |  |  | 01 January 2028 – 31 December 2028 |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 3840 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 23040 |  | 12 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 34560 |  | 18 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 30720 |  | 16 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 9600 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 11520 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 34560 |  | 18 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 5760 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 0 |  | 0 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 0 |  | 0 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 84 | 0
+ | Base Ordering Period Year III |  |  |  |  | 
+ | 01 January 2029 – 31 December 2029 |  |  |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 3840 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 17280 |  | 9 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 28800 |  | 15 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 24960 |  | 13 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 9600 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 11520 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 28800 |  | 15 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 5760 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 9600 |  | 5 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 42240 |  | 22 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 13440 |  | 7 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 9600 |  | 5 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 111 | 0
+ | Base Ordering Period Year IV |  |  |  |  | 
+ | 01 January 2030 – 31 December 2030 |  |  |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 3840 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 17280 |  | 9 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 28800 |  | 15 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 24960 |  | 13 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 9600 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 11520 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 28800 |  | 15 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 5760 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 9600 |  | 5 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 42240 |  | 22 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 13440 |  | 7 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 9600 |  | 5 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 111 | 0
+ | Base Ordering Period Year V |  |  |  |  | 
+ | 01 January 2031 – 31 December 2031 |  |  |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 3840 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 17280 |  | 9 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 28800 |  | 15 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 24960 |  | 13 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 9600 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 11520 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 28800 |  | 15 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 5760 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 1920 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 9600 |  | 5 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 42240 |  | 22 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 13440 |  | 7 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 9600 |  | 5 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 111 | 0
+ | FAR 52.217-8  |  |  |  |  | 
+ | 01 January 2032 – 30 June 2032 |  |  |  |  | 
+Labor Category (LCAT) | Clearance | Shift | Hours  | Rate | FTE | Totals
+Labor - Position 1 - Project Manager II | Secret | Day | 960 |  | 1 | 0
+Labor - Position 2 - Technical Writer III | Secret | Day | 960 |  | 1 | 0
+Labor - Position 3 - Conditional Access Policy Manager  | Top Secret | Day | 1920 |  | 2 | 0
+Labor - Position 4 - Azure Virtual Desktop Sys Admin | Top Secret | Day/Eve/Mid | 4800 |  | 5 | 0
+Labor - Position 5 - Cloud Service Support Admin/Analyst | Top Secret | Day/Eve/Mid | 10560 |  | 11 | 0
+Labor - Position 6 - Cloud Service Support Engineer | Top Secret | Day/Eve/Mid | 9600 |  | 10 | 0
+Labor - Position 7 - Cloud Application Admin | Top Secret | Day/Eve/Mid | 4800 |  | 5 | 0
+Labor - Position 8 - Configuration Manager | Top Secret | Day | 5760 |  | 6 | 0
+Labor - Position 9 - E-Discovery Administrator (Security/FOIA/CAPSTONE) | Top Secret | Day | 11520 |  | 12 | 0
+Labor - Position 10 - Identity and Entitlement Admin | Top Secret | Day | 2880 |  | 3 | 0
+Labor - Position 11 - IT Infrastructure Security Specialist | Secret | Day | 960 |  | 1 | 0
+Labor - Position 12 - Financial Specialist | Secret | Day | 960 |  | 1 | 0
+Labor - Position 13 - Information Assurance Analyst | Top Secret | Day | 4800 |  | 5 | 0
+Labor - Position 14 - Network Specialist | Top Secret | Day | 18240 |  | 19 | 0
+Labor - Position 15 - Network Analyst | Top Secret | Day | 4800 |  | 5 | 0
+Labor - Position 16 - Network Engineer | Top Secret | Day | 4800 |  | 5 | 0
+LABOR SUB-TOTAL |  |  |  |  |  | 0
+Travel |  |  |  |  |  | 
+GRAND TOTAL |  |  |  |  | 92 | 0
+ |  |  | (5) year ordering period  |  |  | 0
+ |  |  | FAR 52.217-8  |  |  | 0
+ |  |  | TOTAL |  |  | 0

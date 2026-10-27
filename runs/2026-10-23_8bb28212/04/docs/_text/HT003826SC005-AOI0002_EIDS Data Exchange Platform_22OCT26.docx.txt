@@ -1,0 +1,158 @@
+EIDS DxP AREA OF INTEREST (AOI) #02
+Data Exchange Services Operations, Modernization, and Development Published Under: Commercial Solutions Opening (CSO) HT003826SC005
+
+
+Notice: DHA reserves the right to award one or multiple contracts or agreements under this AOI. This solicitation leverages the competitive process under CSO HT003826SC005. Vendors must submit proposed solutions in accordance with the submission instructions and requirements contained herein. If a conﬂict exists between CSO HT003826SC005 and this EIDS DxP AOI, this EIDS DxP AOI shall prevail.
+Executive Summary & Strategic Context
+The Defense Health Agency (DHA), Portfolio Acquisition Executive Medical Digital Solutions (PAE MDS), Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO) seeks commercial solutions for Data Exchange Platform (DxP) operations, sustainment, modernization, and development.
+The DxP supports mission-essential components of the Military Health System (MHS) Information Platform (MIP) and processes real-time clinical and operational data exchanged with more than 15 external systems and partners. These capabilities support secure, standards-based interoperability among DHA, the Department of Veterans Affairs, and other Federal healthcare partners in support of military health readiness and patient care delivery.
+The Government requires an approach that can sustain reliable, secure, and continuously available legacy services while modernizing the platform toward scalable, cloud-native, application programming interface (API)-driven, standards-based, and artiﬁcial intelligence/machine learning (AI/ML)-ready capabilities.
+The Government seeks commercially available capabilities, or commercial capabilities that can be conﬁgured, integrated, tested, demonstrated, or modiﬁed to meet the Government’s objectives. Vendor responses will inform the Government’s assessment of solution maturity, technical feasibility, commercial viability, and the appropriate potential acquisition pathway.
+
+The Government has provided a Draft Statement of Objectives (SOO) Data Exchange Platform Operations, Modernization, and Development as Attachment 1 to this AOI. Attachment 1, Draft SOO establishes the Government’s technical and performance objectives. Vendors must use it as the baseline for their proposed technical solution and draft performance-based work statement.
+Problem Statements & Desired Outcomes
+Problem Statement
+The EIDS PMO must sustain mission-essential legacy data-exchange services while modernizing those services without degrading operational availability (‘zero disruption’), cybersecurity, data integrity, or interoperability with mission partners. For the purposes of this AOI, 'zero disruption' refers to the avoidance of any unplanned, partner-impacting service outages. This excludes pre-scheduled and coordinated system maintenance.
+The current environment includes legacy Data Exchange Services (DES), and Access Control Services Data Access Layer (ACS-DAL) capabilities requiring continuous operations, monitoring, maintenance, incident response, security compliance, and interface management. At the same time, the Government must transition legacy SOAP-based data exchanges toward cloud-native, containerized, RESTful, standards-based services that support near-real-time data exchange and future AI/ML use cases.
+Desired Outcomes and Technical Focus Areas
+Vendor responses must address the following four technical focus areas and identify how the proposed solution satisﬁes the associated objectives in Attachment 1, Draft SOO. Teaming and subcontracting arrangements are permitted under this AOI to address the four technical focus areas; however, component-only submissions are not within scope.  Responses will be evaluated based on the combined capabilities of the proposed team to deliver a single, cohesive solution.
+Focus Area 1 — High-Availability Operations and Security
+The Government seeks to ensure uninterrupted, secure sustainment of all legacy and
+modernized data exchange systems.
+Responses must address the vendor's operational model for ensuring 24x7 availability of legacy services (DES, ACS-DAL), including their approach to proactive monitoring, rapid Tier 2/3 incident response, rigorous patch management (IAVM), implementing a Zero Trust security model, and maintaining a continuous ATO readiness posture.
+Focus Area 2 — Cloud-Native and API-Driven Modernization
+The Government seeks to transition its legacy data exchange protocols to an efficient,
+high-performing, and scalable cloud-native architecture.
+
+Responses must address the vendor’s engineering framework for transitioning legacy SOAP-based protocols to high-performing, containerized microservices (e.g., using AWS ECS or EKS), their strategy for API Gateway management, and their adherence to an API-ﬁrst design approach using OpenAPI Speciﬁcations (OAS).
+Focus Area 3 — Standards-Based, Real-Time Interoperability
+The Government seeks to deploy standards-compliant data models and an architecture that enables real-time data exchange across the enterprise.
+Responses must address the vendor’s methodology for implementing Fast Healthcare Interoperability Resources (FHIR R4) mappings, performing OMOP CDM transformations, building HL7-to-FHIR converters, and their proposed architecture for real-time event streaming pipelines (EDA).
+Focus Area 4 — Intelligent Automation and Partner Enablement
+The Government seeks to prepare the DxP for responsible downstream AI/ML applications and to reduce the time and effort required to onboard authorized mission partners.
+Responses must address the vendor’s approach to building automated ML data-preparation pipelines, supporting low-latency clinical inference use cases, creating a self-service developer portal, and providing automated onboarding workﬂows and sandboxes to accelerate partner integration.
+Crosscutting Desired Outcomes
+Across all focus areas, the Government seeks a solution that:
+Sustains mission-essential operations and cybersecurity while modernization is
+underway.
+Delivers measurable performance, availability, incident-response, vulnerability-remediation, and engineering-quality outcomes consistent with Attachment 1, Draft SOO.
+Uses transparent delivery and dependency-management practices, including Government Azure DevOps (ADO), where provided.
+Produces current, usable technical documentation and supports orderly transition-in, knowledge transfer, and transition-out.
+Clearly identiﬁes what is commercially available today; what requires conﬁguration, integration, testing, demonstration, or modiﬁcation; and the risks, assumptions, dependencies, and Government decisions associated with each.
+
+Submission Instructions & Evaluation Criteria
+Phase I Submission Requirements
+Interested vendors must submit a Phase I written response consisting of the following:
+Technical Solution Brief — Maximum Five Pages
+The Technical Solution Brief must:
+Address each of the four technical focus areas in Section 2.2;
+Describe the proposed commercial solution, technical approach, implementation
+methodology, and relevant team experience;
+Explain the vendor’s approach to sustaining legacy operations while modernizing
+the DxP environment;
+Identify the extent to which each major capability is commercially available and immediately deployable, or instead requires conﬁguration, integration, testing, demonstration, or modiﬁcation;
+Describe the vendor’s approach to DevSecOps, automated quality assurance, Agile delivery, dependency management, and multi-vendor coordination; and
+Identify material assumptions, Government dependencies, technical risks, and
+decisions required from the Government.
+Attachment 1, Draft SOO Crosswalk — Maximum Two Pages
+The vendor must provide a concise crosswalk to Attachment 1, Draft SOO. The crosswalk must summarize how the proposed solution addresses the principal Draft SOO objectives, functional areas, and performance objectives.
+At a minimum, the crosswalk must identify:
+The principal Attachment 1, Draft SOO objectives, functional areas, or performance
+objectives addressed by the proposed solution;
+The proposed commercial capability or approach;
+Whether the capability is currently commercially available, conﬁgurable, or requires further integration, testing, demonstration, or modiﬁcation; and
+Key Government dependencies, assumptions, risks, or requested clariﬁcations.
+The draft performance-based work statement required under Section 3.1(c), must provide detailed traceability to all applicable Attachment 1, Draft SOO objectives, functional areas, performance measures, deliverables, and milestones.
+Draft Performance-Based Work Statement — Maximum 20 Pages
+
+The vendor must provide a draft performance-based work statement that translates Attachment 1, Draft SOO into a proposed, measurable work scope. The draft performance-based work statement must provide a detailed crosswalk to all applicable Attachment 1, Draft SOO objectives, functional areas, performance measures, deliverables, and milestones.
+The draft performance-based work statement must:
+Align to and provide detailed traceability to Attachment 1, Draft SOO structure for operations and sustainment; modernization and development; and security, compliance, and documentation;
+Deﬁne outcomes, performance measures, deliverables, milestones, and proposed schedules;
+Describe the vendor’s approach to applicable service-level objectives and
+performance measures;
+Deﬁne the vendor’s proposed criteria for a completed iteration or increment, including working software, updated API speciﬁcations, and veriﬁed continuous integration/continuous delivery and DevSecOps checks;
+Describe the proposed use of SAFe or an equivalent Agile-at-scale approach, Government ADO where provided, dependency management, and multi-vendor coordination; and
+For planning purposes, the Government anticipates a 12-month base period and a 30-day transition period. These are planning assumptions only and do not constitute a commitment regarding award terms, transition support, Government-furnished information, or the timing of operational responsibility. Specific transition requirements and support will be addressed in subsequent phases with selected vendors and, as applicable, in any resulting award.
+Organizational Conﬂict of Interest Mitigation Approach — Maximum Two Pages
+
+The vendor must identify known or potential organizational conﬂicts of interest and describe its approach for identifying, avoiding, neutralizing, or mitigating actual or potential conﬂicts.
+
+Submission Method: Vendors must submit Phase I responses electronically to Lacey Lockard at lacey.n.lockard.civ@health.mil no later than 28 October 2026 at 1400 Eastern Time. The Government will not consider late submissions.
+Questions: Vendors must submit technical and administrative questions to Lacey Lockard at lacey.n.lockard.civ@health.mil no later than 14 October 2026 at 1400 Eastern Time. The Government may post responses to questions or otherwise provide clariﬁcations to all potential vendors, as appropriate.
+
+Phase I Evaluation Criteria — Go/No-Go
+Phase I submissions will be evaluated on an Acceptable/Unacceptable, Go/No-Go basis based on any or all of the following: technical feasibility, commercial maturity, operational risk, and alignment with the desired outcomes and technical focus areas identiﬁed in this AOI.
+A submission will receive a Go rating only if it:
+Standard business formatting is recommended, including 1-inch margins and a legible font of 11 points or greater. Each required component must comply with the applicable page limit. All pages included within a component, including cover pages, tables of contents, lists of acronyms, references, tables, and graphics, count toward that component’s page limit. Pages exceeding the applicable maximum will not be evaluated. Offerors are cautioned that required information included only on excluded pages will not be considered and may result in a No-Go rating.
+Demonstrates a credible, technically viable, and sound approach across all four
+technical focus areas, backed by veriﬁable commercial experience;
+Presents a robust, low-risk operational strategy that guarantees 24x7 legacy sustainment and zero disruption during modernization;
+Clearly documents commercial solution maturity and satisﬁes statutory criteria for
+the applicable award instrument (FAR Part 12 or 10 U.S.C. § 4022). Commercial solution maturity is evaluated across the proposed solution as an integrated offering, whether delivered directly by the prime or through teaming partners and subcontractors;
+Provides a measurable, outcome-oriented PWS framework aligned to Draft SOO
+objectives;
+Demonstrates actionable alignment with Zero Trust, DHA cloud security, and RMF;
+and
+Details a realistic staffing pipeline meeting security clearance and facility access
+criteria.
+The Government reserves the right to invite to Phase II only those Go-rated offerors whose submissions demonstrate the highest technical merit and lowest operational transition risk.
+A submission that does not meet all Go criteria will receive a No-Go rating and will not
+advance.
+Phase II Preview — Oral Presentation, Demonstration, and Targeted Validation
+The Government may invite selected vendors receiving a Phase I Go rating to participate in Phase II oral presentations, live demonstrations, technical challenges, written question-and-answer exchanges, or a combination of these methods.
+Phase II instructions and evaluation criteria will be provided only to selected vendors. To validate solution maturity, feasibility, and alignment with Government objectives, the Government may request one or more of the following:
+Oral presentation or live demonstration of relevant commercial capabilities;
+Clariﬁcation or reﬁnement of the Technical Solution Brief, Draft SOO Crosswalk, or draft performance-based work statement;
+A proposed performance-measurement and surveillance approach addressing key
+operational, cybersecurity, modernization, and delivery outcomes;
+A high-level resource and staffing approach;
+A preliminary ROM or other commercial-pricing information; and
+Additional information needed to assess technical viability, commercial feasibility, technology readiness, cost-effectiveness, and the appropriate potential acquisition pathway.
+Phase II may assess the following:
+Technical viability and maturity: Whether the solution is commercially mature,
+technically feasible, and capable of meeting the Government’s objectives.
+Operations and modernization approach: Whether the proposed approach credibly sustains legacy operations, cybersecurity, and partner interoperability while modernizing DxP capabilities.
+SOO-to-solution alignment: Whether the vendor’s proposed performance-based work statement and Draft SOO crosswalk provide measurable, achievable, and mission-relevant outcomes.
+Demonstrated capability: Whether the vendor can demonstrate relevant capabilities, including monitoring, incident response, API modernization, data interoperability, security, DevSecOps, automated testing, and delivery transparency.
+Commercial feasibility and cost-effectiveness: Whether the proposed solution represents a commercially viable and cost-effective approach suitable for the Government’s requirement.
+Phase III Preview — Detailed Commercial Proposal
+The Government may invite selected Phase II vendors to submit a detailed commercial proposal. Detailed Phase III instructions, evaluation criteria, and any requested pricing information will be provided only to vendors selected to proceed.
+Based on the Government’s assessment of the selected solution and the anticipated acquisition pathway, Phase III may require:
+A reﬁned technical solution and performance-based work statement;
+A detailed performance-surveillance approach addressing key operational, cybersecurity, modernization, and delivery outcomes;
+A detailed resource and staffing plan;
+A transition-in plan and integrated delivery schedule;
+Detailed pricing, ROM reﬁnement, or cost information appropriate to the contemplated award instrument;
+A reﬁned OCI mitigation plan; and
+Other information necessary to establish ﬁnal award terms.
+The Government may use the Phase III submission to determine the appropriate acquisition approach and potential award terms. Receipt of a Phase III invitation does not obligate the Government to make an award.
+Technical and System Security Considerations
+The Draft SOO in Attachment 1 identiﬁes the Government’s objectives related to data access, intellectual property, cybersecurity, personnel access, transition, and knowledge transfer.
+Vendor responses must demonstrate how the proposed solution will address the four technical focus areas in Section 2.2 and the applicable Attachment 1, Draft SOO objectives, including:
+High-availability operations, infrastructure sustainment, monitoring, incident response, and continuity;
+Cloud-native and API modernization;
+Healthcare data standards and real-time interoperability;
+AI/ML readiness and developer self-service;
+Cybersecurity, Risk Management Framework alignment, and DHA cloud-security
+requirements;
+Automated testing, DevSecOps, and delivery transparency;
+Documentation, knowledge transfer, and transition planning; and
+Coordination with MHS GENESIS and Department of Veterans Affairs deployment schedules, as applicable.
+The Government acknowledges that detailed technical specifications, current Service Level Agreements (SLAs), and Interface Control Documents (ICDs) are not provided for Phase I. Offerors should base their Phase I response on their experience with systems of similar scale and complexity.
+Data, Intellectual Property, Security, and Access:
+Attachment 1, Draft SOO, identiﬁes the Government’s constraints concerning data access, intellectual property, cybersecurity, personnel access, transition, and knowledge transfer. All software code, conﬁguration scripts, database structures, and documentation developed under the resulting contract shall be delivered to the Government with Government Purpose Rights (GPR).
+Vendors shall identify in their Phase I responses any material assumptions, limitations, exceptions, proposed alternatives, or Draft SOO objectives they do not intend to satisfy and provide supporting rationale for each. Final requirements, intellectual-property rights, and award terms will be established, as applicable, in a subsequent solicitation or agreement.
+Parameter | Details
+Sponsoring Agency | Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO)
+Notice Type | Area of Interest (AOI) Solicitation
+Response Phase | Phase I – Written Technical Solution Brief
+Phase I Question Deadline | 14 October 2026, 1400, Eastern Time
+Phase I Submission Deadline | 28 October 2026, 1400, Eastern Time
+Review Window | 28 October – 13 November 2026
+Award Pathway | The Government will use Phase I and, if conducted, subsequent-phase responses to assess commercial feasibility, technical merit, technology readiness, cost-effectiveness, and the extent of any required testing, evaluation, integration, or modiﬁcation. Based on that assessment and subject to applicable authorities, the Government may pursue a FAR-based contract, a prototype other transaction agreement, or another authorized instrument. The Government is not committing to a particular award instrument, period of performance, or number of awards through this AOI. The Government anticipates a Firm-Fixed-Price pricing structure for any resulting award.
+Authority | This AOI is issued under the DHA Enterprise-Wide Commercial Solutions
+Opening (CSO) HT003826SC005 pursuant to 10 U.S.C. § 3458, as amended. The Government may use any applicable award authority
+Parameter | Details
+ | identiﬁed in the CSO, consistent with the maturity and nature of the selected commercial solution and applicable law.
+Anticipated Time to Award | The Government anticipates making any resulting award or agreement by March 2027, subject to the completion of the evaluation process, availability of funds, selection of the appropriate acquisition pathway and applicable approvals. This is an estimate only and does not obligate the Government to make an award.

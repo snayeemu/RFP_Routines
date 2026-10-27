@@ -1,0 +1,59 @@
+{
+  "title": "Defense Health Agency (DHA), Portfolio Acquisition Executive, Medical Digital Solutions (PAE MDS), Enterprise Intelligence & Data Solutions (EIDS) Program Management Office (PMO), Data Exchange Services Operations, Modernization, and Development",
+  "solicitationNumber": "HT003826SC005-AOI0002",
+  "type": "o",
+  "naics": [
+    {
+      "code": [
+        "541512"
+      ],
+      "type": "primary"
+    }
+  ],
+  "setAside": "NONE",
+  "responseDeadline": "2026-10-28T14:00:00-04:00",
+  "postedDate": "2026-10-22T12:45:31.423+00:00",
+  "archived": false,
+  "cancelled": false
+}
+
+=== Description ===
+Amendment 01 10/22/2026: Revised the AOI, the draft SOO, and posted the questions and answers from 14OCT.  
+
+  Area of Interest (AOI) #02: Data Exchange Services Operations, Modernization, and Development  
+
+ PAE MDS is interested in solutions that satisfy the Government’s need for Data Exchange Services operations, modernization, and development in support of the Enterprise Intelligence and Data Solutions (EIDS) Program Management Office (PMO). 
+
+ This AOI #02 is published under the authority of the Defense Health Agency (DHA) Commercial Solutions Opening (CSO), HT003826SC005, available at: 
+https://sam.gov/workspace/contract/opp/cd16b90540b7407fb4de1e028cea74d4/view 
+
+ Consistent with the maturity and nature of the selected commercial solution and applicable law, the Government may use any applicable award authority identified in the CSO. 
+
+ The DHA Portfolio Acquisition Executive for Medical Defense Solutions (PAE MDS), EIDS PMO, seeks commercial solutions to support Data Exchange Platform (DxP) operations, sustainment, modernization, and development. 
+
+ The DxP supports mission-essential MHS Information Platform (MIP) functions by processing real-time clinical and operational data exchanged with more than 15 external systems and partners. It enables secure, standards-based interoperability among DHA, the Department of Veterans Affairs (VA), and other Federal healthcare partners in support of military health readiness and patient-care delivery. 
+
+ The Government seeks commercial solutions that sustain reliable, secure, and continuously available legacy services while modernizing the platform toward scalable, cloud-native, API-driven, standards-based, and AI/ML-ready capabilities. Solutions may be commercially available or capable of configuration, integration, testing, demonstration, or modification to meet Government objectives. Responses will inform the Government’s assessment of solution maturity, technical feasibility, commercial viability, and potential acquisition pathways. 
+
+  Proprietary Information and Non-Government Advisors  
+
+ Respondents may submit proprietary information. Respondents are responsible for adequately marking all proprietary, restricted, or competition-sensitive information contained in their submissions. Marked information will be protected from disclosure outside Government personnel unless the respondent grants permission for Government support contractors to review the material. 
+
+ The following companies and individual employees are contractually bound by Organizational Conflict of Interest and disclosure clauses regarding proprietary information. They will take all reasonable action necessary to preclude unauthorized use or disclosure of respondent proprietary data: 
+
+ 
+	 Boston Consulting Group (BCG) 
+	 Andrew Morgan, LLC 
+ 
+
+ Submission under this AOI constitutes the submitting company’s authorization for the Government to use non-Government advisors during all phases of the AOI review. Companies with concerns regarding support-contractor access to proprietary information should contact the points of contact (POCs) before submission. 
+
+  Submission Method and Due Dates  
+
+ Vendors must submit Phase I responses electronically to Lacey Lockard at  lacey.n.lockard.civ@health.mil  no later than  28 October 2026, 1400 Eastern Time . The Government will not consider late submissions. 
+
+ Vendors must submit technical and administrative questions to Lacey Lockard at  lacey.n.lockard.civ@health.mil  no later than  14 October 2026, 1400 Eastern Time . As appropriate, the Government may post responses to questions or otherwise provide clarifications to all potential vendors. 
+
+ Per the CSO terms, the Government is not liable for costs associated with preparing materials submitted in response to this AOI. 
+
+ Interested parties are strongly encouraged to review all attached documents in their entirety for complete information regarding this opportunity, including submission requirements and other specific instructions.

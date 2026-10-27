@@ -1,0 +1,38 @@
+{
+  "opportunity_id": "5eb6b57f921f43e88b08985d69404b0a",
+  "sam_url": "https://sam.gov/opp/5eb6b57f921f43e88b08985d69404b0a/view",
+  "notice": {
+    "title": "Marine Corps Cyberspace Environment (MCCE) Operational Support Services (OSS) and Enterprise Artificial Intelligence (AI) Integration",
+    "solicitationNumber": "M6785426I4208",
+    "type": "r",
+    "naics": [
+      {
+        "code": [
+          "541513"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": "NONE",
+    "responseDeadline": "2026-11-03T13:00:00-05:00",
+    "postedDate": "2026-10-22T19:15:16.091+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": "zip",
+  "expected_files": 9,
+  "files": [
+    "Attachment 2-RFI_M67854-26-I-4208_Official_QA_20261021_Public_Release.xlsx",
+    "RFI M67854-26-I-4208 Amendment 04.docx",
+    "RFI M67854-26-I-4208 Amendment 03.docx",
+    "RFI M67854-26-I-4208 Amendment 02.docx",
+    "Attachment 2- Industry QA Matrix_V1 M67854-26-I-4208 Amendment 01.xlsx",
+    "RFI M67854-26-I-4208 Amendment 01.docx",
+    "Attachment 2- Industry QA Matrix_V1 M67854-26-I-4208.xlsx",
+    "Attachment 1 - Vendor Comment Matrix_M67854-26-I-4208.xlsx",
+    "RFI M67854-26-I-4208.docx"
+  ],
+  "links": [],
+  "errors": [],
+  "status": "ok"
+}

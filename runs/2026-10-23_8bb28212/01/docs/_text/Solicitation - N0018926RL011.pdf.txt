@@ -1,0 +1,3346 @@
+=== Page 1 ===
+          SOLICITATION/CONTRACT/ORDER FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+                                                                                            1. REQUISITION NUMBER                  PAGE 1 OF
+NOTE: OFFEROR TO COMPLETE BLOCKS 12, 17, 23, 24, AND 30.
+                                                                                                                                               52
+2. CONTRACT NUMBER                  3. AWARD/EFFECTIVE      4. ORDER NUMBER                 5. SOLICITATION NUMBER                 6. SOLICITATION ISSUE
+                                       DATE                                                                                           DATE
+
+                                                                                               N0018926RL011                         10 Sep 2026
+                                    a. NAME                                                 b. TELEPHONE NUMBER (No collect        8. OFFER DUE DATE/
+ 7. FOR SOLICITATION                                                                           calls)                                 LOCAL TIME
+ INFORMATION CALL:                   Alexandria MCCUNE                                                                               13 Oct 2026
+                                                                                               757-447-2832                          02:00 PM
+9. ISSUED BY                                      CODE       N00189        10. THIS ACQUISITION IS     UNRESTRICTED OR         SET ASIDE:      100 % FOR:
+NAVSUP FLT LOG CTR NORFOLK                                                    SMALL BUSINESS           WOMEN-OWNED SMALL            NORTH AMERICAN
+                                                                              HUBZONE SMALL            BUSINESS (WOSB)          INDUSTRY CLASSIFICATION
+ATTENTION CODE 301, 1968 GILBERT STREET SUITE 600
+NORFOLK, VA 23511-3392                                                        BUSINESS                 ECONOMICALLY                STANDARD (NAICS):
+UNITED STATES                                                                 SERVICE-DISABLED         DISADVANTAGED                 518210
+Alexandria MCCUNE, Email: alexandria.e.mccune.civ@us.navy.mil Telephone:      VETERAN-OWNED            WOMEN-OWNED SMALL            SIZE STANDARD:
+757-447-2832                                                                  SMALL BUSINESS           BUSINESS (EDWOSB)
+                                                                              (SDVOSB)                 8(A)                          USD 40,000,000.00
+11. DELIVERY FOR FREE ON            12. DISCOUNT TERMS                        13a. THIS CONTRACT IS A         13b. RATING
+    BOARD (FOB) DESTINATION                                                        RATED ORDER UNDER          14. METHOD OF SOLICITATION            REQUEST
+    UNLESS BLOCK IS MARKED                                                         THE DEFENSE PRIORITIES         REQUEST     INVITATION            FOR
+                                                                                   AND ALLOCATIONS                FOR QUOTE   FOR BID               PROPOSAL
+       SEE SCHEDULE                                                                SYSTEM - DPAS (15 CFR 700)     (RFQ)       (IFB)                 (RFP)
+15. DELIVER TO                                    CODE                     16. ADMINISTERED BY                                    CODE
+
+See Continuation
+
+17a. CONTRACTOR/     CODE                        FACILITY                  18a. PAYMENT WILL BE MADE BY                           CODE
+     OFFEROR                                     CODE
+
+
+
+
+TELEPHONE NUMBER
+    17b. CHECK IF REMITTANCE IS DIFFERENT AND PUT SUCH ADDRESS IN 18b. SUBMIT INVOICES TO ADDRESS SHOWN IN BLOCK 18a UNLESS BLOCK
+         OFFER                                                         BELOW IS CHECKED       SEE ADDENDUM
+
+      19.                                         20.                                         21.         22.         23.                     24.
+ ITEM NUMBER                         SCHEDULE OF SUPPLIES/SERVICES                          QUANTITY     UNIT     UNIT PRICE                AMOUNT
+
+                 See Continuation
+
+
+
+
+                       (Use Reverse and/or Attach Additional Sheets as Necessary)
+25. ACCOUNTING AND APPROPRIATION DATA                                                                  26. TOTAL AWARD AMOUNT (For Government Use Only)
+See Continuation
+   27a. SOLICITATION INCORPORATES BY REFERENCE (FEDERAL ACQUISITION REGULATION) FAR 52.212-1, 52.212-4. FAR 52.212-3      ARE         ARE NOT ATTACHED
+        AND 52.212-5 ARE ATTACHED. ADDENDA
+   27b. CONTRACT/PURCHASE ORDER INCORPORATES BY REFERENCE FAR 52.212-4. FAR 52.212-5 IS ATTACHED. ADDENDA                 ARE         ARE NOT ATTACHED
+
+   28. CONTRACTOR IS REQUIRED TO SIGN THIS DOCUMENT AND RETURN                        29. AWARD OF CONTRACT: REFERENCE                                OFFER
+       COPIES TO ISSUING OFFICE. CONTRACTOR AGREES TO FURNISH
+       AND DELIVER ALL ITEMS SET FORTH OR OTHERWISE IDENTIFIED ABOVE AND              DATED .                . YOUR OFFER ON SOLICITATION
+       ON ANY ADDITIONAL SHEETS SUBJECT TO THE TERMS AND CONDITIONS                   (BLOCK 5), INCLUDING ANY ADDITIONS OR CHANGES WHICH ARE
+       SPECIFIED                                                                      SET FORTH HEREIN, IS ACCEPTED AS TO ITEMS:
+                                                                                                                                      See Continuation
+30a. SIGNATURE OF OFFEROR/CONTRACTOR                                       31a. UNITED STATES OF AMERICA (SIGNATURE OF CONTRACTING OFFICER)
+
+
+
+30b. NAME AND TITLE OF SIGNER (Type or print)          30c. DATE SIGNED    31b. NAME OF CONTRACTING OFFICER (Type or print)            31c. DATE SIGNED
+
+
+
+
+AUTHORIZED FOR LOCAL REPRODUCTION                                                                       STANDARD FORM 1449 (REV. 11/2021)
+PREVIOUS EDITION IS NOT USABLE
+                                                                                                        Prescribed by GSA - FAR (48 CFR) 53.212
+
+=== Page 2 ===
+                                                                                                       N0018926RL011
+                                                                                                           Page 2 of 52
+
+
+
+Solicitation/Contract Form Continuation
+Enterprise Cloud and Network Operations and Management Support Services
+
+ORDERING:
+
+Task Order Procedures:
+
+The established ceiling for this IDIQ is $99,000,000.00. No single or combination of task orders can exceed the
+contract ceiling.
+
+Oral Orders –Indefinite Delivery Contracts
+
+Oral orders may be placed provided the following conditions are compiled with:
+
+(a) No oral order will exceed $100,000 or such lesser amount as may be specified elsewhere in the schedule of
+this contract.
+(b) The Contractor will furnish with each shipment a delivery ticket, in triplicate, showing: contract number,
+order number under the contract; date order was placed, name and title of person placing order; an itemized
+listing of supplies or services furnished; unit price and extension of each item; and, delivery of performance date.
+(c) Invoices for supplies or services furnished in response to oral orders will be accompanied with a received
+copy of each related delivery ticket.
+(d) The ordering activity shall designate in writing the names of individuals authorized to place oral orders and
+will furnish a copy thereof to the Contractor.
+(e) Written confirmation of oral orders will be issued as a means of documenting the oral order within 10
+working days or oral orders will be confirmed twice a month, in writing, when more than one oral order is
+consolidated for a single confirmation.
+
+Ordering:
+
+a. Ordering: Services to be furnished under this contract shall be furnished at such times as ordered by the
+issuance of Task Orders (TOs) on DD Form 1155 or SF1449 by the Ordering Officer. All orders issued
+hereunder are subject to the terms and conditions of this contract. This contract shall control in the event of
+conflict with any TO. When mailed, a TO shall be “issued” for purpose of this contract at the time the
+Government deposits the order in the mail, or, if transmitted by other means, when physically delivered to the
+Contractor.
+
+b. Ordering Procedures:
+(1) TOs issued shall include, but not be limited to the following information:
+(a) date of order
+(b) contract and order number
+(c) appropriation and accounting data
+(d) item number and description of the services to be performed, period of performance, quantity, and unit price
+(e) DD Form 254 (contract Security Classification Spec), if applicable
+(f) DD Form 1423 (Contract Data Requirements List), if applicable.
+(g) exact place of performance.
+(h) the inspecting and accepting codes (as applicable).
+(i) the firm fixed price.
+(j) list of Government Furnished Property and the estimated value thereof, if applicable.
+(k) any other pertinent information
+c. Unilateral Orders issued under an urgent requirement. TOs under this contract will ordinarily be issued after
+both parties agree on all terms. If the parties fail to agree, the Ordering Officer may require the Contractor to
+perform and any disagreement shall be deemed a dispute within the meaning of the Disputes clause.
+
+=== Page 3 ===
+                                                                                                      N0018926RL011
+                                                                                                          Page 3 of 52
+
+
+d. Cautionary Note. Nothing stated in the TO, in a quote, or in discussions thereto, can modify the basic contract
+terms or regulations governing this contract.
+e. Pricing. All labor categories and rates used to price task orders shall be in accordance with the Pricing
+Spreadsheet, Attachment I, to the contract. Proposed pricing will be incorporated as the ceiling prices set at the
+IDIQ level.
+
+=== Page 4 ===
+                                                                                                             N0018926RL011
+                                                                                                                 Page 4 of 52
+
+
+
+Continuation of Supplies or Services and Prices/Costs
+Additional Information/Notes
+
+                                                                             Estimated
+ Item               Supplies/Service                                                     Unit   Unit Price   Amount
+                                                                             Quantity
+
+
+                    Base Ordering Period - See Attached Performance Work
+ 0001
+                    Statement                                                1           Lot
+
+                    Pricing Arrangement: Firm Fixed Price
+
+
+
+ 0002               Base Ordering Period Travel
+                                                                             1           Lot
+                    Pricing Arrangement: Cost No Fee
+
+
+
+
+ Option Line Item
+                    FAR 52.217-8 - See Attached Performance Work Statement
+ 1001                                                                        1           Lot
+                    Pricing Arrangement: Firm Fixed Price
+
+
+
+
+ Option Line Item
+                    FAR 52.217-8 Travel
+ 1002                                                                        1           Lot
+                    Pricing Arrangement: Cost No Fee
+
+=== Page 5 ===
+                                                                          N0018926RL011
+                                                                              Page 5 of 52
+
+
+
+Continuation of Description
+
+
+Requirements
+Enterprise Cloud and Network Operations and Management Support Services
+
+=== Page 6 ===
+                                                                   N0018926RL011
+                                                                       Page 6 of 52
+
+
+
+Continuation of Packaging and Marking
+Continuation of Inspection and Acceptance
+Overall Contract Inspection/Acceptance Locations
+
+                    Inspection and Acceptance Location
+ 0001
+                    Both
+                    Destination
+                    Instructions: Inspect and Accept
+
+                    DoDAAC: N69235
+                    CountryCode: USA
+
+                    NAVAL NETWORK WARFARE COMMAND
+                    2465 GUADALCANAL ROAD, NORFOLK VA 23521-3228
+                    NORFOLK, VA 23523
+                    UNITED STATES
+
+                    Dionne Hawkins, COR
+                    Email: Dionne.F.Hawkins.civ@us.navy.mil
+
+
+                    Inspection and Acceptance Location
+ 0002
+                    Both
+                    Destination
+                    Instructions: Inspect and Accept
+
+                    DoDAAC: N69235
+                    CountryCode: USA
+
+                    NAVAL NETWORK WARFARE COMMAND
+                    2465 GUADALCANAL ROAD, NORFOLK VA 23521-3228
+                    NORFOLK, VA 23523
+                    UNITED STATES
+
+                    Dionne Hawkins, COR
+                    Email: Dionne.F.Hawkins.civ@us.navy.mil
+
+
+                    Inspection and Acceptance Location
+ Option Line Item
+ 1001               Both
+                    Destination
+                    Instructions: Inspect and Accept
+
+                    DoDAAC: N69235
+                    CountryCode: USA
+
+                    NAVAL NETWORK WARFARE COMMAND
+                    2465 GUADALCANAL ROAD, NORFOLK VA 23521-3228
+                    NORFOLK, VA 23523
+                    UNITED STATES
+
+                    Dionne Hawkins, COR
+                    Email: Dionne.F.Hawkins.civ@us.navy.mil
+
+
+                    Inspection and Acceptance Location
+ Option Line Item
+ 1002               Both
+                    Destination
+                    Instructions: Inspect and Accept
+
+                    DoDAAC: N69235
+                    CountryCode: USA
+
+=== Page 7 ===
+                                               N0018926RL011
+                                                   Page 7 of 52
+
+
+
+NAVAL NETWORK WARFARE COMMAND
+2465 GUADALCANAL ROAD, NORFOLK VA 23521-3228
+NORFOLK, VA 23523
+UNITED STATES
+
+Dionne Hawkins, COR
+Email: Dionne.F.Hawkins.civ@us.navy.mil
+
+=== Page 8 ===
+                                                                                          N0018926RL011
+                                                                                              Page 8 of 52
+
+
+
+Continuation of Deliveries or Performance
+Overall Contract Delivery Period
+
+Period of Performance
+From 01 Jan 2027 to 30 Jun 2032
+
+The ordering period above may include unexercised options
+
+
+                                                            Estimated
+ Line Item                  Delivery Schedule                           Address and POC
+                                                            Quantity
+
+
+                            Period of Performance           1 Lot
+                            From
+ 0001
+                            01 Jan 2027
+                            To
+                            31 Dec 2031
+
+
+                            Period of Performance           1 Lot
+                            From
+ 0002
+                            01 Jan 2027
+                            To
+                            31 Dec 2031
+
+
+                            Period of Performance           1 Lot
+ Option Line Item           From
+ 1001                       01 Jan 2032
+                            To
+                            30 Jun 2032
+
+
+                            Period of Performance           1 Lot
+ Option Line Item           From
+ 1002                       01 Jan 2032
+                            To
+                            30 Jun 2032
+
+=== Page 9 ===
+                                                    N0018926RL011
+                                                        Page 9 of 52
+
+
+
+Continuation of Accounting and Appropriation Data
+
+=== Page 10 ===
+                                                                                                                                      N0018926RL011
+                                                                                                                                         Page 10 of 52
+
+
+
+Contract Clauses
+FAR Clauses Incorporated by Reference
+                                                                                                                                         Variation
+                                                                                                          Effective      Alternate/
+Number         Title                                                                                                                     Effective
+                                                                                                          Date           Deviation
+                                                                                                                                         Date
+52.229-12      Tax on Certain Foreign Procurements.                                                       Feb 2021
+52.219-13      Notice of Set-Aside of Orders.                                                             Mar 2020
+52.204-13      System for Award Management-Maintenance. (Deviation 2026-O0038)                            Feb 2026
+52.203-19      Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements.        Jan 2017
+52.219-6       Notice of Total Small Business Set-Aside. (Deviation 2026-O0038)                           Feb 2026
+52.219-8       Utilization of Small Business Concerns. (Deviation 2026-O0038)                             Feb 2026
+52.222-35      Equal Opportunity for Veterans. (Deviation 2026-O0038)                                     Feb 2026
+52.222-36      Equal Opportunity for Workers with Disabilities. (Deviation 2026-O0038)                    Feb 2026
+52.222-37      Employment Reports on Veterans. (Deviation 2026-O0038)                                     Feb 2026
+               Notification of Employee Rights Under the National Labor Relations Act. (Deviation
+52.222-40                                                                                                 Feb 2026
+               2026-O0038)
+               Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment
+52.222-43                                                                                                 Feb 2026
+               (Multiple Year and Option Contracts). (Deviation 2026-O0038)
+52.222-62      Paid Sick Leave Under Executive Order 13706. (Deviation 2026-O0038)                        Feb 2026
+52.226-8       Encouraging Contractor Policies to Ban Text Messaging While Driving.                       May 2024
+52.232-33      Payment by Electronic Funds Transfer-System for Award Management.                          Oct 2018
+52.232-40      Providing Accelerated Payments to Small Business Subcontractors.                           Mar 2023
+52.233-3       Protest after Award. (Deviation 2026-O0038)                                                Feb 2026
+52.233-4       Applicable Law for Breach of Contract Claim. (Deviation 2026-O0038)                        Feb 2026
+52.203-3       Gratuities.                                                                                Apr 1984
+52.222-41      Service Contract Labor Standards. (Deviation 2026-O0038)                                   Feb 2026
+52.203-13      Contractor Code of Business Ethics and Conduct.                                            Nov 2021
+               Terms and Conditions-Commercial Products and Commercial Services. (Deviation 2026-
+52.212-4                                                                                                  Feb 2026
+               O0038)
+52.224-3       Privacy Training.                                                                          Jan 2017
+               Minimum Wages for Contractor Workers Under Executive Order 14026. (Deviation 2026-
+52.222-55                                                                                                 Feb 2026
+               O0038)
+DFARS Clauses Incorporated by Reference
+                                                                                                                                         Variation
+                                                                                                          Effective      Alternate/
+Number          Title                                                                                                                    Effective
+                                                                                                          Date           Deviation
+                                                                                                                                         Date
+252.225-7052    Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten.                May 2024
+252.225-7056    Prohibition Regarding Business Operations with the Maduro Regime.                         Jan 2023
+252.225-7060    Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region.           Jun 2023
+252.203-7000    Requirements Relating to Compensation of Former DoD Officials.                            Sep 2011
+252.203-7002    Requirement to Inform Employees of Whistleblower Rights.                                  Dec 2022
+                Subcontracting with Firms that are Owned or Controlled by the Government of a
+252.209-7004                                                                                              May 2019
+                Country that is a State Sponsor of Terrorism.
+252.232-7003    Electronic Submission of Payment Requests and Receiving Reports.                          Dec 2018
+252.232-7010    Levies on Contract Payments.                                                              Dec 2006
+252.239-7018    Supply Chain Risk.                                                                        Dec 2022
+252.243-7002    Requests for Equitable Adjustment.                                                        Dec 2022
+252.247-7023    Transportation of Supplies by Sea.                                                        Oct 2024
+252.216-7010    Postaward Debriefings for Task Orders and Delivery Orders.                                Oct 2025
+                Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native
+252.226-7001                                                                                              Jan 2023
+                Hawaiian Small Business Concerns.
+252.245-7005    Management and Reporting of Government Property.                                          Jan 2024
+252.204-7004    Antiterrorism Awareness Training for Contractors.                                         Jan 2023
+252.204-7015    Notice of Authorized Disclosure of Information for Litigation Support.                    Jan 2023
+FAR Clauses Incorporated by Full Text
+
+
+52.219-28      Postaward Small Business Program Rerepresentation. (Deviation 2026-O0038)                       (Feb 2026)
+
+               POSTAWARD SMALL BUSINESS PROGRAM REREPRESENTATION (FEB 2026) (DEVIATION 2026-O0038)
+
+  (a) Definitions. As used in this clause-
+
+   Long-term contract means a contract of more than five years in duration, including options. However, the term does not include contracts that
+exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause
+at 52.217-8, Option to Extend Services, or other appropriate authority.
+
+=== Page 11 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 11 of 52
+
+
+
+  Small business concern-
+
+  (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a
+small business under the criteria in 13 CFR part 121 and the size standard in paragraph (c) of this clause.
+
+   (2) Affiliates, as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others,
+or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all
+appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the
+factors set forth at 13 CFR 121.103.
+
+   (b) If the Contractor represented that it was a small business concern, a small disadvantaged business concern, or a joint venture that was any of
+the small business concerns identified in 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status
+according to paragraph (e) of this clause or, if applicable, paragraph (g) of this clause, upon occurrence of any of the following:
+
+  (1) Within 30 days after execution of a novation agreement or within 30 days after modification of the contract to include this clause, if the
+novation agreement was executed prior to inclusion of this clause in the contract.
+
+   (2) Within 30 days after a merger or acquisition that does not require a novation or within 30 days after modification of the contract to include this
+clause, if the merger or acquisition occurred prior to inclusion of this clause in the contract.
+
+  (3) For long-term contracts-
+
+  (i) Within 60 to 120 days prior to the end of the fifth year of the contract; and
+
+  (ii) Within 60 to 120 days prior to the date specified in the contract for exercising any option thereafter.
+
+   (c) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds
+to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to
+this NAICS code(s) can be found at https://www.sba.gov/document/support--table-size-standards.
+
+  (d) The small business size standard for a Contractor providing an end item that it does not manufacture, process, or produce itself, for a contract
+other than a construction or service contract, is 500 employees, or 150 employees for information technology value-added resellers under NAICS
+code 541519, if the acquisition-
+
+  (1) Was set aside for small business and has a value above the simplified acquisition threshold;
+
+  (2) Used the HUBZone price evaluation preference regardless of dollar value, unless the Contractor waived the price evaluation preference; or
+
+   (3) Was an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-
+aside or sole-source award regardless of dollar value.
+
+  (e) Except as provided in paragraph (g) of this clause, the Contractor shall make the representation(s) required by paragraph (b) of this clause by
+validating or updating all its representations in the Representations and Certifications section of the System for Award Management (SAM) and its
+other data in SAM, as necessary, to ensure that they reflect the Contractor's current status. The Contractor shall notify the contracting officer in
+writing within the timeframes specified in paragraph (b) of this clause, that the data have been validated or updated, and provide the date of the
+validation or update.
+
+  (f) If the Contractor represented that it was other than a small business concern prior to award of this contract, the Contractor may, but is not
+required to, take the actions required by paragraphs (e) or (g) of this clause.
+
+  (g) If the Contractor does not have representations and certifications in SAM, or does not have a representation in SAM for the NAICS code
+applicable to this contract, the Contractor is required to complete the following rerepresentation and submit it to the contracting office, along with the
+contract number and the date on which the rerepresentation was completed:
+
+(1) The Contractor represents that it     is,   is not a small business concern under ____NAICS Code assigned to ____contract number.
+
+   (2) [Complete only if the Contractor represented itself as a small business concern in paragraph (g)(1) of this clause .] The Contractor represents
+that it   is,  is not, a small disadvantaged business concern as defined in 13 CFR 124.1001.
+
+(3) Women-owned small business (WOSB) joint venture eligible under the WOSB Program. The Contractor represents that it         is,   is not a
+joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [____The Contractor shall enter the name and unique entity
+identifier of each party to the joint venture: __.]
+
+(4) Economically disadvantaged women-owned small business (EDWOSB) joint venture. The Contractor represents that it        is,   is not a joint
+venture that complies with the requirements of 13 CFR 127.506(a) through (c). [____The Contractor shall enter the name and unique entity identifier
+of each party to the joint venture: __ .]
+
+=== Page 12 ===
+                                                                                                                                        N0018926RL011
+                                                                                                                                           Page 12 of 52
+
+
+
+  (5) Service-disabled veteran-owned small business (SDVOSB) joint venture eligible under the SDVOSB Program. The Contractor represents that it
+   is,   is not an SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [ ____The
+Contractor shall enter the name and unique entity identifier of each party to the joint venture: __.]
+
+
+   (6) HUBZone joint venture eligible under the HUBZone Program.[ Complete only if the offeror is a HUBZone small business concern. ] The
+offeror represents, as part of its offer, that It is, is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a)
+through (c). [____The Contractor shall enter the name and unique entity identifier of each party to the joint venture: .] Each HUBZone small business
+concern participating in the HUBZone joint venture must be certified as a HUBZone concern. [____Contractor to sign and date and insert authorized
+signer's name and title.]
+
+                                                                   (End of clause)
+
+52.222-42      Statement of Equivalent Rates for Federal Hires.                                                   (May 2014)
+
+Statement of Equivalent Rates for Federal Hires (May 2014)
+
+In compliance with the Service Contract Labor Standards statute and the regulations of the Secretary of Labor ( 29 CFR Part 4), this clause identifies
+the classes of service employees expected to be employed under the contract and states the wages and fringe benefits payable to each if they were
+employed by the contracting agency subject to the provisions of 5 U.S.C.5341 or 5332.
+
+This Statement is for Information Only: It is not a Wage Determination
+
+
+
+  Labor Category                                                               Monetary Wage                     Fringe Benefits
+
+
+
+  Project Manager II                                                           GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Technical Writer III                                                         GS 11 Step 03 ($38.93)            38.6%
+
+
+
+  Conditional Access Policy Manager                                            GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Azure Virtual Desktop Sys Admin                                              GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Cloud Service Support Admin/Analyst                                          GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Cloud Service Support Engineer                                               GS 12 Step 03                     38.6%
+
+
+
+  Cloud Application Admin                                                      GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Configuration Manager                                                        GS 09 Step 03 ($32.51)            38.6%
+
+=== Page 13 ===
+                                                                                                                                        N0018926RL011
+                                                                                                                                           Page 13 of 52
+
+
+  E-Discovery Administrator (Security/FOIA/CAPSTONE)                           GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Identity and Entitlement Admin                                               GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  IT Infrastructure Security Specialist                                        GS 08 Step 03 ($29.73)            38.6%
+
+
+
+  Financial Specialist                                                         GS 08 Step 03 ($29.73)            38.6%
+
+
+
+  Information Assurance Analyst                                                GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Network Specialist                                                           GS 08 Step 03 ($29.73)            38.6%
+
+
+
+  Network Analyst                                                              GS 09 Step 03 ($32.51)            38.6%
+
+
+
+  Network Engineer                                                             GS 12 Step 03 ($46.57)            38.6%
+
+
+(End of clause)
+
+DFARS Clauses Incorporated by Full Text
+
+
+252.232-7006      Wide Area WorkFlow Payment Instructions. (Tailored)                                             (Jan 2023)
+
+                                       WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)
+
+                                                 TO BE FILLED IN AT THE TASK ORDER LEVEL
+
+
+   (a) Definitions. As used in this clause-
+
+   "Department of Defense Activity Address Code (DoDAAC)" is a six position code that uniquely identifies a unit, activity, or organization.
+
+   "Document type" means the type of payment request or receiving report available for creation in Wide Area WorkFlow (WAWF).
+
+    "Local processing office (LPO)" is the office responsible for payment certification when payment certification is done external to the entitlement
+system.
+
+   "Payment request" and "receiving report" are defined in the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving
+Reports.
+
+    (b) Electronic invoicing. The WAWF system provides the method to electronically process vendor payment requests and receiving reports, as
+authorized by Defense Federal Acquisition Regulation Supplement (DFARS) 252.232-7003, Electronic Submission of Payment Requests and
+Receiving Reports.
+
+   (c) WAWF access. To access WAWF, the Contractor shall-
+
+        (1) Have a designated electronic business point of contact in the System for Award Management at https://www.sam.gov; and
+
+=== Page 14 ===
+                                                                                                                                       N0018926RL011
+                                                                                                                                          Page 14 of 52
+
+
+        (2) Be registered to use WAWF at https://wawf.eb.mil/ following the step-by-step procedures for self-registration available at this web site.
+
+   (d) WAWF training. The Contractor should follow the training instructions of the WAWF Web-Based Training Course and use the Practice
+Training Site before submitting payment requests through WAWF. Both can be accessed by selecting the "Web Based Training" link on the WAWF
+home page at https://wawf.eb.mil/
+
+   (e) WAWF methods of document submission. Document submissions may be via web entry, Electronic Data Interchange, or File Transfer
+Protocol.
+
+  (f) WAWF payment instructions. The Contractor shall use the following information when submitting payment requests and receiving reports in
+WAWF for this contract or task or delivery order:
+
+        (1) Document type. The Contractor shall submit payment requests using the following document type(s):
+
+            (i) For cost-type line items, including labor-hour or time-and-materials, submit a cost voucher.
+
+            (ii) For fixed price line items-
+
+                 (A) That require shipment of a deliverable, submit the invoice and receiving report specified by the Contracting Officer.
+
+____
+
+
+
+                 (B) For services that do not require shipment of a deliverable, submit either the Invoice 2in1, which meets the requirements for the
+invoice and receiving report, or the applicable invoice and receiving report, as specified by the Contracting Officer.
+
+____
+
+            (iii) For customary progress payments based on costs incurred, submit a progress payment request.
+
+            (iv) For performance based payments, submit a performance based payment request.
+
+            (v) For commercial financing, submit a commercial financing request.
+
+        (2) ) Fast Pay requests are only permitted when Federal Acquisition Regulation (FAR) 52.213-1 is included in the contract.
+
+   [Note: The Contractor may use a WAWF "combo" document type to create some combinations of invoice and receiving report in one step.]
+
+        (3) Document routing. The Contractor shall use the information in the Routing Data Table below only to fill in applicable fields in WAWF
+when creating payment requests and receiving reports in the system.
+
+                                                  Routing Data Table*
+
+
+
+                          Field Name in WAWF                  Data to be entered in WAWF
+
+
+
+
+                          Pay Official DoDAAC                 ____
+
+
+
+
+                          Issue By DoDAAC                     ____
+
+
+
+
+                          Admin DoDAAC                        ____
+
+
+
+
+                          Inspect By DoDAAC                   ____
+
+
+
+
+                          Ship To Code                        ____
+
+=== Page 15 ===
+                                                                                                                                  N0018926RL011
+                                                                                                                                     Page 15 of 52
+
+
+
+
+                         Ship From Code                     ____
+
+
+
+
+                         Mark For Code                      ____
+
+
+
+
+                         Service Approver (DoDAAC)          ____
+
+
+
+
+                         Service Acceptor (DoDAAC)          ____
+
+
+
+
+                         Accept at Other DoDAAC             ____
+
+
+
+
+                         LPO DoDAAC                         ____
+
+
+
+
+                         DCAA Auditor DoDAAC                ____
+
+
+
+
+                         Other DoDAAC(s)                    ____
+
+
+
+
+        (4) Payment request. The Contractor shall ensure a payment request includes documentation appropriate to the type of payment request in
+accordance with the payment clause, contract financing clause, or Federal Acquisition Regulation 52.216-7, Allowable Cost and Payment, as
+applicable.
+
+        (5) Receiving report. The Contractor shall ensure a receiving report meets the requirements of DFARS Appendix F.
+
+   (g) WAWF point of contact.
+
+        (1) The Contractor may obtain clarification regarding invoicing in WAWF from the following contracting activity's WAWF point of contact.
+
+____
+
+
+
+        (2) Contact the WAWF helpdesk at 866-618-5988, if assistance is needed.
+
+                                                                   (End of clause)
+
+Additional Regulation or Supplemental Clauses Incorporated by Full Text
+
+
+                   SUPTXT 203.1106-1 (3-18) NAVY USE OF ABILITYONE SUPPORT
+203.1106-1(3-18)                                                                                              (Jan 2024)
+                   CONTRACTOR - RELEASE OF OFFEROR INFORMATION
+
+NAVSUP FLC Norfolk may utilize contractor support through the AbilityOne Program, as needed, to perform
+contract closeout functions for this acquisition. Information, including business sensitive/confidential or
+proprietary data, that the offeror provides to the Government or information already in the possession of the
+
+=== Page 16 ===
+                                                                                                                                        N0018926RL011
+                                                                                                                                           Page 16 of 52
+
+
+Government may be viewed and utilized by the AbilityOne Program support contractor personnel during the
+course of its contract performance. The information that may be made available to the support contractor may
+include, for example, pricing and technical proposals, historical contract, pricing and performance information,
+Commercial Asset Visibility (CAV) reporting information and similar data/information.
+By submission of a proposal in response to this solicitation, the offeror and its subcontractors consent to a
+release of their business sensitive/confidential or proprietary data to the Government's AbilityOne Program
+support contractor personnel in order to perform close out services. Prior to the release of any such information
+to the support contractor, the support contractor will have in place with the Government a Non-Disclosure/Non-
+Use Agreement in accordance with the terms of the AbilityOne Program support contract.
+Offerors may execute their own Non-Disclosure Agreement with the AbilityOne Program (AbilityOne contact
+information available from the contracting point of contact). The support contractor must provide copies of the
+executed agreements to the Contracting Officer and the Contracting Officer's Representative (COR) for the
+support contract; and the offeror/contractor for this acquisition must provide copies of the executed Agreement
+to the Contracting Officer for this acquisition. If the offeror/contractor seeks such a Non-Disclosure Agreement
+with the AbilityOne Program support contractor, the Agreement must be executed no later than the date of final
+delivery under the resulting NAVSUP FLC Norfolk contract.
+NCH16-07       DURATION OF CONTRACT PERIOD (SEP 2015)                                                             (Dec 2025)
+
+DURATION OF CONTRACT PERIOD (SEP 2015)
+
+
+(a) This contract shall become effective on 01/01/2027 or date of award, whichever is later, and the ordering period shall continue in effect during the
+period ending 66 months after date of contract unless terminated in accordance with other provisions herein. Performance under task orders issued
+under this contract may begin 1 day after the effective date of the contract and may continue in effect during the period ending 365 days after the last
+day of the ordering period.
+
+
+
+(b) Notwithstanding the above, the Contracting Officer may extend the contract ordering period to accommodate the issuance of task orders in
+accordance with paragraph (e) of "Level of Effort".
+
+NCH42-01       CONTRACT ADMINISTRATION APPOINTMENTS AND DUTIES (SEP 2015)                                         (Dec 2025)
+
+CONTRACT ADMINISTRATION APPOINTMENTS AND DUTIES (SEP 2015)
+
+
+In order to expedite administration of this contract/order, the following delineation of duties is provided including the names, addresses and phone
+numbers for each individual or office as specified. The individual/position designated as having responsibility should be contacted for any questions,
+clarifications or information regarding the functions assigned.
+
+
+1. PROCURING CONTRACTING OFFICER (PCO) is responsible for:
+
+a. All pre-award information, questions, or data;
+
+b. Freedom of Information inquiries;
+
+c. Change/question/information regarding the scope, terms or conditions of the basic contract document; and/or
+
+d. Arranging the post award conference (See FAR 42.503).
+
+
+Name:
+
+Address:
+
+Phone:
+
+
+2. CONTRACT ADMINISTRATION OFFICE (CAO) is responsible for matters specified in FAR 42.302 and DFARS 242.302 except in those areas
+otherwise designated herein.
+
+=== Page 17 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 17 of 52
+
+Name:
+
+Address:
+
+Phone:
+
+
+
+3. DEFENSE CONTRACT AUDIT AGENCY (DCAA) is responsible for audit verification/provisional approval of invoices and final audit of the
+contract prior to final payment to the contractor.
+
+Name:
+
+Address:
+
+Phone:
+
+
+4. PAYING OFFICE is responsible for payment of proper invoices after acceptance is documented.
+
+Name:
+
+Address:
+
+Phone:
+
+
+5. CONTRACTING OFFICERS REPRESENTATIVE (COR) is responsible for:
+
+a. Liaison with personnel at the Government installation and the contractor personnel on site;
+
+b. Technical advice/recommendations/clarification on the statement of work;
+
+c. The statement of work for delivery/task orders placed under this contract.
+
+d. An independent government estimate of the effort described in the definitized statement of work;
+
+e. Quality assurance of services performed and acceptance of the services or deliverables;
+
+f. Government furnished property;
+
+g. Security requirements on Government installation;
+
+h. Providing the PCO or his designated Ordering Officer with appropriate funds for issuance of the Delivery/Task order; and/or
+
+i. Certification of invoice for payment.
+
+
+
+NOTE: When, in the opinion of the Contractor, the COR requests effort outside the existing scope of the contract (or delivery/task order), the
+Contractor shall promptly notify the Contracting Officer (or Ordering Officer) in writing. No action shall be taken by the contractor under such
+direction until the Contracting Officer has issued a modification to the contract or, in the case of a delivery/task order, until the Ordering Officer has
+issued a modification of the delivery/task order; or until the issue has otherwise been resolved. THE COR IS NOT AN ADMINISTRATIVE
+CONTRACTING OFFICER AND DOES NOT HAVE THE AUTHORITY TO DIRECT THE ACCOMPLISHMENT OF EFFORT WHICH IS
+BEYOND THE SCOPE OF THE STATEMENT OF WORK IN THE CONTRACT OR DELIVERY/TASK ORDER.
+
+COR Name:
+
+Address:
+
+Phone:
+
+In the event that the COR named above is absent due to leave, illness, or official business, all responsibilities and functions assigned to the COR will
+be the responsibility of the alternate COR listed below:
+
+
+ACOR Name:
+
+Address:
+
+Phone:
+
+=== Page 18 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 18 of 52
+
+
+
+6. TECHNICAL ASSISTANT, if assigned by the requiring activity, is responsible for providing technical assistance and support to the COR in
+contract administration by:
+
+a. Identifying contractor deficiencies to the COR;
+
+b. Reviewing contract/delivery/task order deliverables and recommending acceptance/rejection of deliverables;
+
+c. Identifying contractor noncompliance of reporting requirements;
+
+d. Evaluating contractor proposals for specific contracts/orders and identifying areas of concern affecting negotiations;
+
+e. Reviewing contractor reports providing recommendations for acceptance/rejection;
+
+f. Reviewing invoices for appropriateness of costs and providing recommendations to facilitate certification of the invoice;
+
+g. Providing COR with timely input regarding the SOW, technical direction to the contractor and recommending corrective actions; and
+
+h. Providing written reports to the COR as required concerning trips, meetings or conversations with the contractor.
+
+Name:
+
+Address:
+
+Phone:
+
+
+7. ORDERING OFFICER is responsible for:
+
+a. Requesting, obtaining, and evaluating proposals for orders to be issued;
+
+b. Determining the estimated cost of the order is fair and reasonable for the effort proposed;
+
+c. Obligating the funds by issuance of the delivery/task order;
+
+d. Authorization for use of overtime;
+
+e. Authorization to begin performance; and/or
+
+f. Monitoring of total cost of delivery/task orders issued.
+
+
+The following limitations/restrictions are placed on the Ordering Officer:
+
+
+a. Type of order issued is limited by this contract to the contract type or types covered by this contract and to any limitations on the warrant of the
+individual placing the orders;
+
+b. No order shall be placed in excess of $------------------ without the prior approval of the PCO; and/or
+
+c. No order shall be placed with delivery requirements in excess of ------------------------.
+
+Name:
+
+Address:
+
+Phone:
+
+                MINIMUM AND MAXIMUM QUANTITIES (FFP, MULTIPLE AWARD IDIQ) (SEP
+NCH16-11                                                                                                             (Dec 2025)
+                2015)
+
+MINIMUM AND MAXIMUM QUANTITIES (FFP, MULTIPLE AWARD IDIQ) (SEP 2015)
+
+This contract is one of a set of Multiple Award Contracts (MAC). As referred to in paragraph (b) of the "Indefinite Quantity" clause of this contracts,
+each MAC contract has a total contract minimum quantity of $10,000.00 worth of orders.
+
+The maximum value of the MAC program is $ 99,000,000.00.
+
+NCH01-01        COMMUNICATIONS DURING THE LIFE OF THE CONTRACT (SEP 2015)                                            (Dec 2025)
+
+COMMUNICATIONS DURING THE LIFE OF THE CONTRACT (SEP 2015)
+
+=== Page 19 ===
+                                                                                                                                       N0018926RL011
+                                                                                                                                          Page 19 of 52
+
+
+
+
+(a) Except as specified in paragraph (b) below, no order, statement, or conduct of Government personnel who visit the Contractor's facilities or in any
+other manner communicates with Contractor personnel during the performance of this contract shall constitute a change under the "Changes" clause
+of this contract.
+
+
+
+(b) The Contractor shall not comply with any order, direction or request of Government personnel unless it is issued in writing and signed by the
+Contracting Officer, or is pursuant to specific authority otherwise included as a part of this contract.
+
+
+
+(c) The Contracting Officer is the only person authorized to approve changes in any of the requirements of this contract and, notwithstanding
+provisions contained elsewhere in this contract, the said authority remains solely the Contracting Officer's. In the event the contractor effects any
+change at the direction of any person other than the Contracting Officer, the change will be considered to have been made without authority and no
+adjustment will be made in the contract price to cover any increase in charges incurred as a result thereof. The address and telephone number of the
+Principal Contracting Officer is:
+
+
+
+
+NAME: Amy Barnes
+
+ADDRESS:
+
+1968 Gilbert Street, Suite 600
+
+Norfolk, VA 23511-3392
+
+TELEPHONE: (564) 226-1893
+
+EMAIL: amy.m.barnes14.civ@us.navy.mil
+
+NCH01-02       APPOINTMENT OF CONTRACTING OFFICER'S REPRESENTATIVE (SEP 2015)                                     (Dec 2025)
+
+APPOINTMENT OF CONTRACTING OFFICER'S REPRESENTATIVE (SEP 2015)
+
+TO BE FILLED IN AT TIME OF AWARD
+
+(a) The Contracting Officer hereby designates the following individual as Contracting Officer's Representative(s) (COR) for this contract:
+
+
+
+__________________________________________
+
+NAME CODE
+
+
+
+__________________________________________
+
+MAIL ADDRESS
+
+
+
+__________________________________________
+
+TELEPHONE NUMBER
+
+
+
+(b) In the absence of the COR named above, all responsibilities and functions assigned to the COR shall be the responsibility of the alternate COR
+acting on behalf of the COR. The Contracting Officer hereby appoints the following individual as the alternate COR:
+
+
+
+__________________________________________
+
+NAME CODE
+
+=== Page 20 ===
+                                                                                                     N0018926RL011
+                                                                                                        Page 20 of 52
+
+
+
+
+__________________________________________
+
+MAIL ADDRESS
+
+
+
+__________________________________________
+
+TELEPHONE NUMBER
+
+
+
+NCH04-02    SECURITY ADMINISTRATION (CONTRACT) (SEP 2015)                            (Dec 2025)
+SECURITY ADMINISTRATION (CONTRACT) (SEP 2015)
+
+
+
+The highest level of security required under this contract is ________________ as designated on DD Form 254
+attached hereto and made a part hereof.
+
+
+The Commander, Defense Investigative Service, Director of Industrial Security, _____________ Region, is
+designated Security Administrator for the purpose of administering all elements of military security hereunder.
+
+=== Page 21 ===
+                                                                                                                                     N0018926RL011
+                                                                                                                                        Page 21 of 52
+
+
+
+Addendum to 52.212-4, Contract Terms and Conditions - Commercial Products and
+Commercial Services
+Contract Terms and Conditions Required To Implement Statutes or Executive
+Orders — Commercial Products and Commercial Services
+Addendum to Contract Clauses
+
+Contract Clauses
+FAR Clauses Incorporated by Reference
+                                                                                                                                        Variation
+                                                                                                         Effective     Alternate/
+Number         Title                                                                                                                    Effective
+                                                                                                         Date          Deviation
+                                                                                                                                        Date
+52.232-18      Availability of Funds.                                                                    Apr 1984
+52.242-13      Bankruptcy.                                                                               Jul 1995
+52.245-1       Government Property.                                                                      Sep 2021
+52.245-9       Use and Charges.                                                                          Apr 2012
+52.247-34      F.o.b. Destination.                                                                       Jan 1991
+               Prohibition on Contracting With Inverted Domestic Corporations. (Deviation 2026-
+52.209-10                                                                                                Feb 2026
+               O0038)
+52.232-39      Unenforceability of Unauthorized Obligations.                                             Jun 2013
+52.203-6       Restrictions on Subcontractor Sales to the Government. (Alternate I)                      Jun 2020      Alternate I      Nov 2021
+               Protecting the Government's Interest When Subcontracting With Contractors Debarred,
+52.209-6                                                                                                 Feb 2026
+               Suspended, Proposed for Debarment, or Voluntarily Excluded. (Deviation 2026-O0038)
+52.222-3       Convict Labor. (Deviation 2026-O0038)                                                     Feb 2026
+52.240-91      Security Prohibitions and Exclusions. (Deviation 2026-O0038)                              Feb 2026
+52.240-92      Security Requirements. (Deviation 2026-O0038)                                             Feb 2026
+52.203-12      Limitation on Payments to Influence Certain Federal Transactions.                         Jun 2020
+               Subcontracts for Commercial Products and Commercial Services. (Deviation 2026-
+52.244-6                                                                                                 Apr 2026
+               O0038)
+               Addressing DEI Discrimination by Federal Contractors. (Deviation 2026-O0040,
+52.222-90                                                                                                Apr 2026
+               Revision 1)
+52.204-9       Personal Identity Verification of Contractor Personnel.                                   Jan 2011
+52.223-5       Pollution Prevention and Right-to-Know Information.                                       May 2024
+52.224-1       Privacy Act Notification.                                                                 Apr 1984
+52.224-2       Privacy Act.                                                                              Apr 1984
+52.237-2       Protection of Government Buildings, Equipment, and Vegetation.                            Apr 1984
+DFARS Clauses Incorporated by Reference
+                                                                                                                                        Variation
+                                                                                             Effective       Alternate/
+Number          Title                                                                                                                   Effective
+                                                                                             Date            Deviation
+                                                                                                                                        Date
+252.225-7012    Preference for Certain Domestic Commodities.                                 Apr 2022
+                Prohibition Regarding Russian Fossil Fuel Business Operations (Deviation
+252.225-7967                                                                                 Feb 2024        Deviation 2024-O0006       Feb 2024
+                2024-O0006, Revision 1)
+252.201-7000    Contracting Officer's Representative.                                        Dec 1991
+                Prohibition on the Acquisition of Covered Defense Telecommunications
+252.204-7018                                                                                 Jan 2023
+                Equipment or Services.
+252.204-7022    Expediting Contract Closeout.                                                May 2021
+252.205-7000    Provision of Information to Cooperative Agreement Holders.                   Oct 2024
+252.225-7048    Export-Controlled Items.                                                     Jun 2013
+252.237-7010    Prohibition on Interrogation of Detainees by Contractor Personnel.           Jan 2023
+                Safeguarding Covered Defense Information and Cyber Incident Reporting.
+252.204-7012                                                                                 May 2024        Deviation 2024-O0013       May 2024
+                (DEVIATION 2024-O0013 REVISION 1)
+                Prohibition on the Procurement of Foreign-Made Unmanned Aircraft
+252.225-7972                                                                                 Aug 2024        Deviation 2024-O0014       Aug 2024
+                Systems. (DEVIATION 2024-O0014)
+                NIST SP 800-171 DoD Assessment Requirements. (DEVIATION 2026-
+252.240-7997                                                                                 Feb 2026        Deviation 2026-O0025       Feb 2026
+                O0025)
+                Subcontracts for Commercial Products or Commercial Services.
+252.244-7999                                                                                 Feb 2026        Deviation 2026-O0015       Jan 2026
+                (DEVIATION 2026-O0015)
+252.204-7023    Reporting Requirements for Contracted Services. (Alternate I)                Jul 2021        Alternate I                Jul 2021
+252.245-7003    Contractor Property Management System Administration                         Jan 2025
+                Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten.
+
+=== Page 22 ===
+                                                                                                                                             N0018926RL011
+                                                                                                                                                Page 22 of 52
+
+252.225-7961      (DEVIATION 2026-O0041)                                                               Jun 2026       Deviation 2026-O0041       Jun 2026
+                  Prohibitions Relating to Chinese Military Companies. (DEVIATION 2026-
+252.240-7007                                                                                           Jun 2026       Deviation 2026-O0025       Jun 2026
+                  O0025)
+                  Prohibition on Storage, Treatment, and Disposal of Toxic or Hazardous
+252.223-7006                                                                                           Sep 2014
+                  Materials.
+252.239-7010      Cloud Computing Services.                                                            Jan 2023
+FAR Clauses Incorporated by Full Text
+
+
+52.216-18      Ordering. (Tailored)                                                                                    (Aug 2020)
+
+Ordering (Aug 2020)
+
+(a) Any supplies and services to be furnished under this contract shall be ordered by issuance of delivery orders or task orders by the individuals or
+activities designated in the Schedule. Such orders may be issued from 01/01/2027 through 06/30/2032.
+
+(b) All delivery orders or task orders are subject to the terms and conditions of this contract. In the event of conflict between a delivery order or task
+order and this contract, the contract shall control.
+
+(c) A delivery order or task order is considered "issued" when-
+
+(1) If sent by mail (includes transmittal by U.S. mail or private delivery service), the Government deposits the order in the mail;
+
+(2) If sent by fax, the Government transmits the order to the Contractor's fax number; or
+
+(3) If sent electronically, the Government either-
+
+(i) Posts a copy of the delivery order or task order to a Government document access system, and notice is sent to the Contractor; or
+
+(ii) Distributes the delivery order or task order via email to the Contractor's email address.
+
+(d) Orders may be issued by methods other than those enumerated in this clause only if authorized in the contract.
+
+(End of clause)
+
+52.216-19      Order Limitations.                                                                                      (Oct 1995)
+
+Order Limitations (Oct 1995)
+
+(a) Minimum order. When the Government requires supplies or services covered by this contract in an amount of less than $50,000.00, the
+Government is not obligated to purchase, nor is the Contractor obligated to furnish, those supplies or services under the contract.
+
+(b) Maximum order. The Contractor is not obligated to honor-
+
+(1) Any order for a single item in excess of contract ceiling;
+
+(2) Any order for a combination of items in excess of contract ceiling; or
+
+(3) A series of orders from the same ordering office within N/A days that together call for quantities exceeding the limitation in paragraph (b)(1) or
+(2) of this section.
+
+(c) If this is a requirements contract (i.e., includes the Requirements clause at subsection 52.216-21 of the Federal Acquisition Regulation (FAR)), the
+Government is not required to order a part of any one requirement from the Contractor if that requirement exceeds the maximum-order limitations in
+paragraph (b) of this section.
+
+(d) Notwithstanding paragraphs (b) and (c) of this section, the Contractor shall honor any order exceeding the maximum order limitations in
+paragraph (b), unless that order (or orders) is returned to the ordering office within N/A days after issuance, with written notice stating the
+Contractor's intent not to ship the item (or items) called for and the reasons. Upon receiving this notice, the Government may acquire the supplies or
+services from another source.
+
+(End of clause)
+
+52.216-22      Indefinite Quantity. (Deviation 2026-O0038) (Tailored)                                                  (Feb 2026)
+
+Indefinite Quantity (Feb 2026) (Deviation 2026-O0038)
+
+(a) This is an indefinite-quantity contract for the supplies or services specified, and effective for the period stated, in the Schedule. The quantities of
+supplies and services specified in the Schedule are estimates only and are not purchased by this contract.
+
+=== Page 23 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 23 of 52
+
+
+
+(b) Delivery or performance shall be made only as authorized by orders issued in accordance with the Ordering clause. The Contractor shall furnish to
+the Government, when and if ordered, the supplies or services specified in the Schedule up to and including the quantity designated in the Schedule as
+the "maximum." The Government shall order at least the quantity of supplies or services designated in the Schedule as the "minimum."
+
+(c) Except for any limitations on quantities in the Order Limitations clause or in the Schedule, there is no limit on the number of orders that may be
+issued. The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
+
+(d) Any order issued during the ordering period of this contract and not completed within that period shall be completed by the Contractor within the
+time specified in the order, which may include order options to be exercised after the ordering period of this contract but before the end of the period
+of performance of the order. The contract shall govern the Contractor's and Government's rights and obligations with respect to that order, including
+options exercised, to the same extent as if the order were completed during the contract's ordering period; provided, that the Contractor shall not be
+required to make any deliveries under this contract after 6/29/2033.
+
+(End of clause)
+
+52.216-32      Task-Order and Delivery-Order Ombudsman.                                                             (Sep 2019)
+
+Task-Order and Delivery-Order Ombudsman (Sept 2019)
+
+(a) In accordance with 41 U.S.C. 4106(g), the Agency has designated the following task-order and delivery-order Ombudsman for this contract. The
+Ombudsman must review complaints from the Contractor concerning all task-order and delivery-order actions for this contract and ensure the
+Contractor is afforded a fair opportunity for consideration in the award of orders, consistent with the procedures in the contract. Mr. Michael Brown,
+PTDO, Deputy Assistant Secretary of the Navy (Procurement), 1000 Navy Pentagon, Washington, DC 20350, phone (703) 614-9600, and email usn.
+pentagon.asstsecnavrdadc.mbx.DASNP-NCAG@us.navy.mil.
+
+(b) Consulting an ombudsman does not alter or postpone the timeline for any other process (e.g., protests).
+
+(c) Before consulting with the Ombudsman, the Contractor is encouraged to first address complaints with the Contracting Officer for resolution.
+When requested by the Contractor, the Ombudsman may keep the identity of the concerned party or entity confidential, unless prohibited by law or
+agency procedure.
+
+(End of clause)
+
+52.217-8       Option to Extend Services.                                                                           (Nov 1999)
+
+Option to Extend Services (Nov 1999)
+
+The Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be
+adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than
+once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice
+to the Contractor within 1 day.
+
+(End of clause)
+
+52.252-2       Clauses Incorporated by Reference.                                                                   (Feb 1998)
+
+Clauses Incorporated By Reference (Feb 1998)
+
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the
+Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es):
+
+https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-52 and https://www.acq.osd.mil/dpap/dars
+/dfars_far_overhaul_class_deviations.html
+
+(End of clause)
+
+52.252-6       Authorized Deviations in Clauses.                                                                    (Nov 2020)
+
+Authorized Deviations in Clauses (Nov 2020)
+
+(a) The use in this solicitation or contract of any Federal Acquisition Regulation (48 CFR Chapter 1) clause with an authorized deviation is indicated
+by the addition of "(DEVIATION)" after the date of the clause.
+
+(b) The use in this solicitation or contract of any DFARS (48 CFR Chapter 2) clause with an authorized deviation is indicated by the addition of
+"(DEVIATION)" after the name of the regulation.
+
+(End of clause)
+
+52.219-14     Limitations on Subcontracting (DEVIATION 2021-O0008) (Tailored)                     (Feb 2026)      Deviation 2021-O0008      (Feb 2023)
+
+=== Page 24 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 24 of 52
+
+                                  LIMITATIONS ON SUBCONTRACTING (FEB 2023) (DEVIATION 2021-O0008)
+
+  (a) This clause does not apply to the unrestricted portion of a partial set-aside.
+
+  (b) Definition. Similarly situated entity, as used in this clause, means a first-tier subcontractor, including an independent contractor, that--
+
+     (1) Has the same small business program status as that which qualified the prime contractor for the award (e.g., for a small business set-aside
+contract, any small business concern, without regard to its socioeconomic status); and
+
+     (2) Is considered small for the size standard under the North American Industry Classification System (NAICS) code the prime contractor
+assigned to the subcontract.
+
+  (c) Applicability. This clause applies only to--
+
+     (1) Contracts that have been set aside for any of the small business concerns identified in 19.000(a)(3);
+
+     (2) Part or parts of a multiple-award contract that have been set aside for any of the small business concerns identified in 19.000(a)(3);
+
+     (3) Contracts that have been awarded on a sole-source basis in accordance with subparts 19.8, 19.13, 19.14, and 19.15;
+
+     (4) Orders expected to exceed the simplified acquisition threshold and that are--
+
+         (i) Set aside for small business concerns under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
+
+         (ii) Issued directly to small business concerns under multiple-award contracts as described in 19.504(c)(1)(ii);
+
+     (5) Orders, regardless of dollar value, that are--
+
+          (i) Set aside in accordance with subparts 19.8, 19.13, 19.14, or 19.15 under multiple-award contracts, as described in 8.405-5 and 16.505(b)
+(2)(i)(F); or
+
+         (ii) Issued directly to concerns that qualify for the programs described in subparts 19.8, 19.13, 19.14, or 19.15 under multiple-award
+contracts, as described in 19.504(c)(1)(ii); and
+
+     (6) Contracts using the HUBZone price evaluation preference to award to a HUBZone small business concern unless the concern waived the
+evaluation preference.
+
+  (d) Independent contractors. An independent contractor shall be considered a subcontractor.
+
+  (e) Limitations on subcontracting. By submission of an offer and execution of a contract, the Contractor agrees that in performance of a contract
+assigned a North American Industry Classification System (NAICS) code for--
+
+     (1) Services (except construction), it will not pay more than 50 percent of the amount paid by the Government for contract performance,
+excluding certain other direct costs and certain work performed outside the United States (see paragraph (e)(1)(i)), to subcontractors that are not
+similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 50 percent
+subcontract amount that cannot be exceeded. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the
+service portion of the contract. The following services may be excluded from the 50 percent limitation:
+
+         (i) Other direct costs, to the extent they are not the principal purpose of the acquisition and small business concerns do not provide the
+service. Examples include airline travel, work performed by a transportation or disposal entity under a contract assigned the environmental
+remediation NAICS code 562910), cloud computing services, or mass media purchases.
+
+         (ii) Work performed outside the United States on awards made pursuant to the Foreign Assistance Act of 1961, or work performed outside
+the United States required to be performed by a local contractor.
+
+     (2) Supplies (other than procurement from a nonmanufacturer of such supplies), it will not pay more than 50 percent of the amount paid by the
+Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a
+similarly situated entity further subcontracts will count towards the prime contractor's 50 percent subcontract amount that cannot be exceeded. When a
+contract includes both supplies and services, the 50 percent limitation shall apply only to the supply portion of the contract;
+
+     (3) General construction, it will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the
+cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count
+towards the prime contractor's 85 percent subcontract amount that cannot be exceeded; or
+
+     (4) Construction by special trade contractors, it will not pay more than 75 percent of the amount paid by the Government for contract
+performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further
+subcontracts will count towards the prime contractor's 75 percent subcontract amount that cannot be exceeded.
+
+  (f) The Contractor shall comply with the limitations on subcontracting as follows:
+
+     (1) For contracts, in accordance with paragraphs (c)(1), (2), (3) and (6) of this clause--
+
+=== Page 25 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 25 of 52
+
+
+
+
+           X By the end of the base term of the contract and then by the end of each subsequent option period; or
+
+           [ ] By the end of the performance period for each order issued under the contract.
+
+     (2) For orders, in accordance with paragraphs (c)(4) and (5) of this clause, by the end of the performance period for the order.
+
+  (g) A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (e) of this clause will be
+performed by the aggregate of the joint venture participants.
+
+     (1) In a joint venture comprised of a small business protege and its mentor approved by the Small Business Administration, the small business
+protege shall perform at least 40 percent of the work performed by the joint venture. Work performed by the small business protege in the joint
+venture must be more than administrative functions.
+
+     (2) In an 8(a) joint venture, the 8(a) participant(s) shall perform at least 40 percent of the work performed by the joint venture. Work performed
+by the 8(a) participants in the joint venture must be more than administrative functions.
+
+                                                                     (End of clause)
+
+52.217-9        Option to Extend the Term of the Contract. (Tailored)                                               (Mar 2000)
+
+Option to Extend the Term of the Contract (Mar 2000)
+
+TO BE FILLED IN AT THE THE TASK ORDER LEVEL
+
+(a) The Government may extend the term of this contract by written notice to the Contractor within ____[insert the period of time within which the
+Contracting Officer may exercise the option]; provided that the Government gives the Contractor a preliminary written notice of its intent to extend at
+least ____ days[60days unless a different number of days is inserted] before the contract expires. The preliminary notice does not commit the
+Government to an extension.
+
+(b) If the Government exercises this option, the extended contract shall be considered to include this option clause.
+
+(c) The total duration of this contract, including the exercise of any options under this clause, shall not exceed ____(months) (years).
+
+(End of clause)
+
+DFARS Clauses Incorporated by Full Text
+
+
+252.237-7023      Continuation of Essential Contractor Services. (Tailored)                                         (Oct 2010)
+
+                                     CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES (OCT 2010)
+
+                                                  TO BE FILLED IN AT THE TASK ORDER LEVEL
+
+   (a) Definitions. As used in this clause-
+
+         (1) "Essential contractor service" means a service provided by a firm or individual under contract to DoD to support mission-essential
+functions, such as support of vital systems, including ships owned, leased, or operated in support of military missions or roles at sea; associated
+support activities, including installation, garrison, and base support services; and similar services provided to foreign military sales customers under
+the Security Assistance Program. Services are essential if the effectiveness of defense systems or operations has the potential to be seriously impaired
+by the interruption of these services, as determined by the appropriate functional commander or civilian equivalent.
+
+         (2) "Mission-essential functions" means those organizational activities that must be performed under all circumstances to achieve DoD
+component missions or responsibilities, as determined by the appropriate functional commander or civilian equivalent. Failure to perform or sustain
+these functions would significantly affect DoD's ability to provide vital services or exercise authority, direction, and control.
+
+   (b) The Government has identified all or a portion of the contractor services performed under this contract as essential contractor services in
+support of mission essential functions. These services are listed in attachment ____, Mission-Essential Contractor Services, dated ____.
+
+   (c)(1) The Mission-Essential Contractor Services Plan submitted by the Contractor, is incorporated in this contract.
+
+         (2) The Contractor shall maintain and update its plan as necessary. The Contractor shall provide all plan updates to the Contracting Officer
+for approval.
+
+       (3) As directed by the Contracting Officer, the Contractor shall participate in training events, exercises, and drills associated with
+Government efforts to test the effectiveness of continuity of operations procedures and practices.
+
+   (d)(1) Notwithstanding any other clause of this contract, the contractor shall be responsible to perform those services identified as essential
+contractor services during crisis situations (as directed by the Contracting Officer), in accordance with its Mission-Essential Contractor Services Plan.
+
+=== Page 26 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 26 of 52
+
+
+         (2) In the event the Contractor anticipates not being able to perform any of the essential contractor services identified in accordance with
+paragraph (b) of this section during a crisis situation, the Contractor shall notify the Contracting Officer or other designated representative as
+expeditiously as possible and use its best efforts to cooperate with the Government in the Government's efforts to maintain the continuity of
+operations.
+
+   (e) The Government reserves the right in such crisis situations to use Federal employees, military personnel or contract support from other
+contractors, or to enter into new contracts for essential contractor services.
+
+    (f) Changes. The Contractor shall segregate and separately identify all costs incurred in continuing performance of essential services in a crisis
+situation. The Contractor shall notify the Contracting Officer of an increase or decrease in costs within ninety days after continued performance has
+been directed by the Contracting Officer, or within any additional period that the Contracting Officer approves in writing, but not later than the date of
+final payment under the contract. The Contractor's notice shall include the Contractor's proposal for an equitable adjustment and any data supporting
+the increase or decrease in the form prescribed by the Contracting Officer. The parties shall negotiate an equitable price adjustment to the contract
+price, delivery schedule, or both as soon as is practicable after receipt of the Contractor's proposal.
+
+   (g) The Contractor shall include the substance of this clause, including this paragraph (g), in subcontracts for the essential services.
+
+                                                                     (End of clause)
+
+Additional Regulation or Supplemental Clauses Incorporated by Full Text
+
+
+                  SUPTXT243-9400(1-92) AUTHORIZED CHANGES ONLY BY THE
+243-9400(1-92)                                                                                                       (Jan 2024)
+                  CONTRACTING OFFICER
+
+AUTHORIZED CHANGES ONLY BY THE CONTRACTING OFFICER
+(a) Except as specified in paragraph (b) below, no order, statement, or conduct of Government personnel who
+visit the Contractor's facilities or in any other manner communicate with Contractor personnel during the
+performance of this contract shall constitute a change under the "Changes" clause of this contract.
+(b) The Contractor shall not comply with any order, direction or request of Government personnel unless it is
+issued in writing and signed by the Contracting Officer, or is pursuant to specific authority otherwise included
+as a part of this contract.
+(c) The Contracting Officer is the only person authorized to approve changes in any of the requirements of this
+contract and notwithstanding provisions contained elsewhere in this contract, the said authority remains solely
+with the Contracting Officer. In the event the Contractor effects any change at the direction of any person other
+than the Contracting Officer, the change will be considered to have been made without authority and no
+adjustment will be made in the contract price to cover any increase in charges incurred as a result thereof. The
+address and telephone number of the Contracting Officer is:
+NAME: Amy Barnes
+ADDRESS:
+1968 Gilbert Street, Suite 600
+
+Norfolk, VA 23511-3392
+
+TELEPHONE: (564) 226-1893
+EMAIL: amy.m.barnes14.civ@us.navy.mil
+
+
+                    SUPTXT204-9400(05-24) CONTRACTOR UNCLASSIFIED ACCESS TO
+                    FEDERALLY CONTROLLED FACILITIES, SENSITIVE INFORMATION,
+204-9400(05-24)                                                                                                      (Jan 2024)
+                    INFORMATION TECHNOLOGY (IT) SYSTEMS OR PROTECTED HEALTH
+                    INFORMATION
+
+(a) Insert the following, as applicable, in full text in all solicitations and contracts (including commercial acquisitions) Statement of Work (SOW) or
+Performance Work Statement (PWS) under the Schedule of Supplies/Services.
+
+To submit recommended contract language to be incorporated into the Naval Supply Systems Command (NAVSUP) Contracts Handbook (CH) as
+NAVSUP component text, the language must not meet the requirements for a regulation clarification or change. All submissions (utilizing the text
+
+=== Page 27 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 27 of 52
+
+template on Contracting Knowledge Site (CKS)) should be reviewed and approved by the activity's Chief of the Contracting Office (CCO) prior to
+submission.
+
+(1) SUPTXT204-9400 (05-24) Prescription and Alternative Language
+
+The following shall be inserted in full text in all solicitations and contracts (including commercial acquisitions) which require contractor unclassified
+access to federally controlled facilities, sensitive information, Information Technology (IT) systems or protected health information. For commercial
+acquisitions, this text shall be incorporated into either the SOW or PWS.
+
+* Consult with your CSM and ISSM/IAM for local policy when Authorized User (non-sensitive) access is required for non-U.S. citizens outside the U.
+S.
+
+** Alternative language which may be included as appropriate:
+
+Contractor and all Contractor employees with access to or responsibility for XXXXXX of this contract shall comply with DoD Directive 8500.1E IA,
+DoDI 8510.01 Risk Management Framework (RMF) for DoD IT, DoD Directive 5400.11 DoD Privacy Program, DoD 5200.2-R Personnel Security
+Program and HSPD 12
+
+X.1 Be CAC ready at the properly designated IT System Level
+
+X.2 At minimum, all contractor employees must possess/maintain the required background investigation as determined by the PDT and/or IT access
+user level. This requirement is critical in order to access the government data base systems It is the contractor's responsibility to ensure that 100% of
+the contractor employees have the ability to acquire a favorably adjudicated background investigation. In addition, interim approval of clearances is
+not authorized.
+
+X.3 Be citizens of the U.S
+
+X.4 If at any time, any contractor employee requiring a Common Access Card (CAC) is unable to possess/maintain the required adjudicated
+background investigation, the contractor shall immediately notify the NAVSUP COR to coordinate removal of such a person from work under this
+contract.
+
+X.5 Contractor employees with access to or responsibility for nonpublic government data under this contract must comply with HSPD-12 Personal
+Identity Verification (PIV) issuance requirements, known as the CAC.
+
+(1) SUPTXT204-9400(4-22) CONTRACTOR UNCLASSIFIED ACCESS TO FEDERALLY CONTROLLED FACILITIES, SENSITIVE
+INFORMATION, INFORMATION TECHNOLOGY (IT) SYSTEMS OR PROTECTED HEALTH INFORMATION
+
+The security text does not apply in cases where the contractor/vendor does not have access to Navy Marine Corps Intranet (NMCI) computers, is not
+issued a Common Access Card (CAC) and is involved in training or other short term duties of less than 30 days duration that allow for the use of a
+visitor request. In these cases, the government employee must submit a Visitor Access Request (VAR) to the main gate or applicable processing entity
+for your facility and assume responsibility to escort those without CAC Credentials.
+
+This local text does not apply to non-United States (U.S.) Nationals (foreign nationals) who are contactor employees performing work overseas. This
+text is applicable to the U.S. Nationals living in the U.S. or overseas who are performing work on a Navy contract.
+
+The investigation of a non-U.S. national at a foreign location must be consistent with a National Agency Check with Written Inquiries (NACI), to the
+extent possible and include a fingerprint check against the Federal Bureau of Investigation (FBI) criminal history database, an FBI investigations file
+(name check) search and a name check against the terrorist screening database. Also, the above cited reference notes that Foreign Nationals may not
+be granted CAC credentials until completion of their investigation and not in the interim.
+
+Per Department of Defense Memorandum (DoDM) 5200.2, Department of Defense (DoD) components must initiate and ensure completion of a
+background investigation before applying the credentialing standards to a non-U.S. national at a foreign location. The background investigation must
+be favorably adjudicated before a CAC can be issued to a non-U.S. national at a foreign location. The type of background investigation may vary
+based on standing reciprocity treaties concerning identity assurance and information exchanges that exist between the U.S. and its allies or agency
+agreements with the host country.
+
+CONTRACTOR UNCLASSIFIED ACCESS TO FEDERALLY CONTROLLED FACILITIES, SENSITIVE INFORMATION, IT
+SYSTEMS OR PROTECTED HEALTH INFORMATION
+
+Executive Order 13467, Reforming Processes Related to Suitability for Government Employee, Fitness for Contractor Employees and Eligibility for
+Access to Classified National Security Information, Homeland Security Presidential Directive (HSPD)-12, requires government agencies to develop
+and implement Federal security standards for Federal employees and contractors. The 5 CFR 32 Part 157 in concert with DoD Manual 1000.13, Vol
+1, implements the Federal Standards.
+
+APPLICABILITY
+
+This text applies to all DoD sponsored individuals who require CAC eligibility (or login and P/W if acceptable per contract) for: Physical access to
+DoD facilities or non-DoD facilities on behalf of DoD; Logical access to information systems (whether on site or remotely); or remote access to DoD
+networks that use only the CAC logon for user authentication, or access to sensitive and protected information. This applies to the Office of the
+Secretary of Defense (OSD), the Military Departments, the Office of the Chairman of the Joint Chiefs of Staff and the Joint Staff, the Combatant
+Commands, the Office of the Inspector General of the DoD, the Defense Agencies, the DoD Field Activities and all other organizational entities
+
+=== Page 28 ===
+                                                                                                                                             N0018926RL011
+                                                                                                                                                Page 28 of 52
+
+within the DoD (hereinafter referred to collectively as the "DoD Components").
+
+Each contractor employee providing services at a Navy command under this contract is required to obtain a DoD CAC. Additionally, depending on
+the level of computer/network access, the contract employee will require a successful investigation as detailed below.
+
+ACCESS TO FEDERAL FACILITIES
+
+Definition. As used in this clause - Military installation means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the
+Secretary of a military department, or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military
+department or the Secretary of Defense (see 10 U.S.C. 2801(c)(4)).
+
+Per HSPD-12 and implementing guidance, all contractor employees working at a federally controlled base, facility or activity under this clause will
+require a DoD CAC. When access to a base, facility or activity is required contractor employees shall in-process with the Command's Security
+Manager (CSM) upon arrival to the command and shall out-process prior to their departure at the completion of the individual's performance under
+the contract.
+
+Training. Contractor employees who require routine physical access to a Federally controlled facility or military installation shall complete "Level I
+Antiterrorism Awareness Training" prior to gaining access to a facility and annually thereafter in accordance with DoDI O-2000.16 Vol. 1. In
+accordance with Department of Defense Instruction O-2000.16 Volume 1, DoD Antiterrorism (AT) Program Implementation: DoD AT Standards,
+Level I Antiterrorism Awareness Training shall be completed by:
+
+1. Completion of "Level I Antiterrorism Awareness Training" available at https://jkodirect.jten.mil/pdf/atl1/launch.html; or
+
+2. Under the instruction of a qualified Level I Antiterrorism Awareness instructor; or
+
+3. By providing a training certificate for "Level I Antiterrorism Awareness Training" training showing completion within the last calendar year.
+
+The contractor will submit certificates of completion for each affected contractor employee and subcontractor employee to the COR or to the
+contracting officer, if a COR is not assigned, prior to being granted access to a Federally controlled facility or military installation.
+
+Subcontracts. The Contractor shall include the substance of this clause, including this paragraph (d), in subcontracts, including subcontracts for
+commercial items, when subcontractor performance requires routine physical access to a Federally-controlled facility or military installation.
+
+OPERATION SECURITY (OPSEC)
+
+It is DoD policy according to DoD Directive 5205.02E, "DoD Operations Security (OPSEC) Program," June 20, 2012, as amended to establish and
+maintain OPSEC programs to ensure national security-related missions and functions are protected.
+
+Training: Contractor employees shall comply with all DoD OPSEC requirements and complete "OPSEC Awareness for Military Members, DoD
+Employees and Contractor" training within 30 days of onboarding the contract and annual refresher training thereafter. Training shall be completed
+through a DoD sponsored and certified computer or web-based learning instruction available at https://securityawareness.usalearning.gov/opsec/index.
+htm.
+
+The contractor will submit certificates of completion for each affected contractor employee and subcontractor employee to the COR or to the
+contracting officer, if a COR is not assigned, within 30 calendar days after training is completed by all employees and subcontractor personnel.
+
+START-UP PERIOD
+
+All contractor resource onboarding documents must be submitted via the prime contractor. The prime contractor shall make all necessary preparations
+to assume full responsibility for productive performance as of the performance start date.
+
+Definition of "productive":
+
+a. OF-306 signed by contractor employee
+
+b. FD-258 Fingerprint Card (Contingent upon availability of electronic fingerprinting submission)
+
+c. Completed Electronic Investigation (e-QIP)
+
+d. All contractor employees with need for a Common Access Card (CAC) must have an active Defense Information System for Security (DISS)
+profile.
+
+e. Common Access Card (CAC)
+
+f. DISS Visit Request submitted (Contingent upon classification of work being performed, Confidential, Secret, Top Secret).
+
+Note (1): Invoicing by the contractor will begin as of the commencement of the performance period of services and no reimbursement will be paid by
+the government for efforts expended during the start-up period.
+
+Note (2): Foreign Nationals are not allowed access to the functional/system side of Enterprise Resource Planning (ERP).
+
+=== Page 29 ===
+                                                                                                                                        N0018926RL011
+                                                                                                                                           Page 29 of 52
+
+ACCESS TO DOD INFORMATION TECHNOLOGY (IT) SYSTEM
+
+In accordance with DON CIO Memorandum (IT LEVEL DESIGNATION ON DD FORM 2875 SYSTEM AUTHORIZATION ACCESS
+REQUEST) 08 September 2020, contractor employees who require access to Department of the Navy (DoN) or DoD networks are categorized as
+Privileged, Enhanced, or Authorized users. All user level accesses may include positions which require access to Controlled Unclassified Information
+(CUI). CUI includes sensitive information protected under the Privacy Act, to include Protected Health Information (PHI). IT System levels are
+determined by the requiring activity's Command Information System Security Manager (ISSM)/Information Assurance Manager (IAM).
+
+Contractor employees requiring privileged access, (when specified by the terms of the contract) require a Tier 5 (T5) or T5R equivalent investigation,
+which is a higher level investigation than the Tier 3 (T3) and T3R described below. Due to the privileged system access, an investigation suitable for
+High Risk national security positions is required. Individuals who have access to system control, monitoring, or administration functions (e.g. system
+administrator, database administrator) require training and certification to Information Assurance (IA) Technical Level 1, and must be trained and
+certified on the Operating System or Computing Environment they are required to maintain.
+
+Contractors requiring Enhanced access, (when specified by the terms of the contract) require a T3, T3R, or equivalent investigation, which is a higher
+level investigation than the Tier 1 (T1) described below. Due to the enhanced system access, an investigation suitable for Moderate Risk national
+security positions is required.
+
+Access to sensitive IT systems is contingent upon a favorably adjudicated background investigation. When access to IT systems is required for
+performance of the contractor employee's duties, such employees shall in-process with the Navy CSM and ISSM/IAM manager upon arrival to the
+Navy command and shall out-process prior to their departure at the completion of the individual's performance under the contract. Completion and
+approval of a System Authorization Access Request Navy (SAAR-N) form is required for all individuals accessing Navy IT resources. The decision
+to authorize access to a government IT system/network is inherently governmental. The contractor supervisor is not authorized to sign the SAAR-N;
+therefore, the government employee with knowledge of the system/network access required or the Contracting Officers Representative (COR) shall
+sign the SAAR-N as the supervisor.
+
+The SAAR-N shall be forwarded to the CSM upon contractor employee acquiring a Common Access Card (CAC) credential. Failure to obtain a CAC
+credential may result in delaying the individual's start date.
+
+When required to maintain access to required IT systems or networks, the contractor shall ensure that all contractor employees requiring access
+complete annual Cyber Awareness training, and maintain a current requisite background investigation. The contractor's security representative shall
+contact the CSM for guidance when reinvestigations are required.
+
+INTERIM ACCESS
+
+The CSM may authorize issuance of a DoD CAC and interim access to a DoN or DoD unclassified computer/network upon a favorable review of the
+investigative questionnaire and advance favorable fingerprint results. When the results of the investigation are received and a favorable determination
+is not made, the contractor employee working on the contract under interim access will be denied access to the computer network and this denial will
+not relieve the contractor of his/her responsibility to perform.
+
+DENIAL OR TERMINATION OF ACCESS
+
+The potential consequences of any requirement under this clause including denial or termination of physical or system access in no way relieves the
+contractor from the requirement to execute performance under the contract within the timeframes specified in the contract. Contractors shall plan
+ahead in processing their employees and subcontractor employees. The contractor shall insert this clause in all subcontracts when the subcontractor is
+permitted to have unclassified access to a federally controlled facility, federally-controlled information system/network and/or to government
+information, meaning information not authorized for public release.
+
+ACCESS TO CONTROLLED UNCLASSIFIED INFORMATION
+
+Safeguarding sensitive unclassified information is critical to achieve NAVSUP Modernization efforts and deliver cutting-edge and uncompromised
+capabilities. The Secretary of Defense's operations security (OPSEC) campaign plan stresses the importance of protecting controlled unclassified
+information (CUI). CUI encompasses OPSEC, critical technology, intelligence, and personally identifiable information that, if not properly identified,
+marked, and controlled, could impair NAVSUP's ability to conduct its mission. Contractor employees with access to Controlled Unclassified
+Information (CUI) shall comply with DoDI 5200.48 - Controlled Unclassified Information (CUI) and complete DoD approved initial and annual
+refresher CUI training.
+
+a. Whenever Government provides CUI to, or CUI is generated by, non-DoD entities, all CUI records must be handled as required by the approved
+mandatory disposition authority.
+
+b. All CUI records must follow the approved mandatory disposition authority whenever the Government provides CUI to, or CUI is generated by, non-
+DoD entities in accordance with Section 1220-1236 of Title 36, CFR, Section 3301a of Title 44, U.S.C., and the DoDI 5200.48.
+
+c. Contractor employees shall monitor CUI aggregation and compilation based on the potential to generate classified information pursuant to security
+classification guidance addressing the accumulation of unclassified data or information
+
+d. Contractor employees shall submit unclassified government information for review and approval for release in accordance with the Standard DoD
+Component Processes, DoDI 5230.09, and DoDM 5205.07, Volume 1.
+
+CONTRACTOR'S SECURITY REPRESENTATIVE
+
+=== Page 30 ===
+                                                                                                                                              N0018926RL011
+                                                                                                                                                 Page 30 of 52
+
+The contractor shall designate an employee to serve as the contractor's security representative. Within three (3) work days after contract award, the
+contractor shall provide to the requiring activity's Security Manager and the Contracting Officer, in writing, the name, title, address and phone number
+for the contractor's security representative. The contractor's security representative shall be the primary point of contact on any security matter. The
+contractor's security representative shall not be replaced or removed without prior notice to the Contracting Officer and CSM.
+
+BACKGROUND INVESTIGATION REQUIREMENTS AND SECURITY APPROVAL PROCESS FOR CONTRACTORS ASSIGNED TO
+NATIONAL SECURITY POSITIONS OR PERFORMING SENSITIVE DUTIES
+
+Navy security policy requires that all positions be given a sensitivity value based on level of risk factors to ensure appropriate protective measures are
+applied. If the Security Office validates the contractor's position is Non-Critical Sensitive or if the IT system user level is determined to be Enhanced,
+at a minimum, each contractor employee must be a US citizen and have a favorably completed T3, T3R, or equivalent investigation to obtain a
+favorable determination for assignment to a non-critical sensitive or Enhanced position. The investigation consists of a standard National Agency
+Check and a FBI fingerprint check plus law enforcement checks and credit check. Each contractor employee filling a non-critical sensitive or
+Enhanced position is required to complete:
+
+SF-86 Questionnaire for National Security Positions (or equivalent Office of Personnel Management (OPM) investigative product)
+
+Two FD-258 Applicant Fingerprint Cards or electronic fingerprint submission (preferred))
+
+Original Signed Release Statements
+
+Failure to provide the required documentation at least thirty (30) days prior to the individual's start date shall result in delaying the individual's start
+date. Background investigations shall be reinitiated as required to ensure investigations remain current (not older than ten (10) five (5) years)
+throughout the contract performance period. The Contractor's Security Representative shall contact the CSM for guidance when reinvestigations are
+required.
+
+Regardless of their duties or IT access requirements ALL contractor employees shall in-process with the CSM upon arrival to the command and shall
+out-process prior to their departure at the completion of the individual's performance under the contract. Employees requiring IT access shall also
+check-in and check-out with the Navy Command's ISSM/IAM. Completion and approval of a System Authorization Access Request Navy (SAAR-N)
+form is required for all individuals accessing Navy IT resources. The SAAR-N shall be forwarded to the CSM upon the contractor employee
+acquiring a Common Access Card (CAC) credential. Failure to obtain a CAC credential or provide the required documentation shall result in delaying
+the individual's start date.
+
+The contractor shall ensure that each contract employee requiring access to IT systems or networks complete annual Cyber Awareness training, and
+maintain a current requisite background investigation. Contractor employees shall accurately complete the required investigative forms prior to
+submission to the CSM. The CSM will review the submitted documentation for completeness prior to submitting it to the OPM. Potential suitability
+or security issues identified may render the contractor employee ineligible for the assignment. An unfavorable determination is final (subject to SF-86
+appeal procedures) and such a determination does not relieve the contractor from meeting any contractual obligation under the contract. The CSM
+will forward the required forms to OPM for processing. Once the investigation is complete, the results will be forwarded by OPM to the DoD Central
+Adjudication Facility (CAF) for a determination.
+
+For classified contracts, if the contractor employee already possesses a current favorably adjudicated investigation, the contractor shall submit a Visit
+Access Request (VAR) via the Defense Information Security System (DISS). If the contractor employee does not have a current favorably adjudicated
+investigation, the contractor shall submit the Visit Access Request in DISS until the contractor employee has at a minimum an interim clearance. If
+the contract only requires access to unclassified information, even if the contractor takes a DISS "owning" role over the contractor employee, the
+Navy Command will also take a DISS "owning" role over the contractor employee during the hiring process and for the duration of assignment under
+that contract. If the contract requires access to classified information, the contractor's Facility Security Office (FSO) will take a DISS "ownership"
+role and the Navy command will take a DISS "servicing" role during the hiring process and the duration of assignment under that contract. All VARs
+requires annual renewal for the duration of the employee's performance under the contract.
+
+BACKGROUND INVESTIGATION REQUIREMENTS AND SECURITY APPROVAL PROCESS FOR CONTRACTORS ASSIGNED TO
+OR PERFORMING NON-SENSITIVE DUTIES
+
+Contractor employee whose work is unclassified and non-sensitive (e.g., performing certain duties such as lawn maintenance, vendor services, etc...)
+and who require physical access to publicly accessible areas to perform those duties shall meet the following minimum requirements:
+
+Must be either a U.S. citizen or a U.S. permanent resident with a minimum of 3 years of legal residency in the U.S. (as required by the Deputy
+Secretary of Defense DTM 08-006 or its subsequent DoD Instruction (INST)) and
+Must have a favorably completed NACI or T1 investigation or equivalent including a FBI fingerprint check prior to installation access.
+To be considered for a favorable trustworthiness determination, the CSR must submit for all employees each of the following:
+
+SF-85 Questionnaire for Non-Sensitive Positions
+Two FD-258 Applicant Fingerprint Cards (or the preferred method - electronic fingerprint submission)
+Original Signed Release Statements
+The contractor shall ensure each individual employee has a current favorably completed NACI or T1 equivalent investigation, or ensure successful
+FBI fingerprint results have been gained and investigation has been processed with OPM.
+
+Failure to provide the required documentation at least thirty (30) days prior to the individual's start date may result in delaying the individual's start
+date.
+
+242-9405       SUPTXT242-9405 EXPEDITING CONTRACT CLOSEOUT                                                             (Jan 2024)
+
+=== Page 31 ===
+                                                                                                      N0018926RL011
+                                                                                                         Page 31 of 52
+
+
+SUPTXT242-9405 EXPEDITING CONTRACT CLOSEOUT
+(a) As part of the negotiated fixed price or total estimated amount of this contract, both the Government and the
+Contractor have agreed to waive any entitlement that otherwise might accrue to either party in any residual
+dollar amount of $1,000 or less at the time of final contract closeout. The term "residual dollar amount" shall
+include all money that would otherwise be owed to either party at the end of the contract, except that, amounts
+connected in any way with taxation, allegations of fraud and/or antitrust violations shall be excluded. For
+purposes of determining residual dollar amounts, offsets of money owed by one party against money that would
+otherwise be paid by that party may be considered to the extent permitted by law.
+(b) This agreement to waive entitlement to residual dollar amounts has been considered by both parties. It is
+agreed that the administrative costs for either party associated with collecting such small dollar amounts could
+exceed the amount to be recovered.
+
+=== Page 32 ===
+                                                                               N0018926RL011
+                                                                                  Page 32 of 52
+
+
+
+List of Contract Documents, Exhibits, or Attachments
+
+Attachments:
+
+                                                                  Reference
+ Number        Attachment Name       Attachment Description                      Date
+                                                                  Identifier
+
+
+               QASP AND                                                          04 Aug
+ 02
+               QASP MATRIX                                                       2026
+
+
+               Contract
+                                                                                 04 Aug
+ 03            Administration
+                                                                                 2026
+               Plan
+
+
+               Contractor                                                        04 Aug
+ 04
+               Discrepancy Report                                                2026
+
+
+                                                                                 04 Aug
+ 05            DRAFT DD 254
+                                                                                 2026
+
+
+               Past Performance                                                  04 Aug
+ 06
+               Information Form                                                  2026
+
+
+               WD 2015-4341
+                                                                                 09 Sep
+ 07            REV 36 DATED          Wage Determination
+                                                                                 2026
+               8.22.26
+
+
+               Past Performance                                                  09 Sep
+ 08
+               Report Form                                                       2026
+
+
+               Attachment I-                                                     10 Sep
+ 09
+               Pricing Spreadsheet                                               2026
+
+
+               Performance Work                                                  10 Sep
+ 10                                  Performance Work Statement
+               Statement                                                         2026
+
+=== Page 33 ===
+                                                                                                                                             N0018926RL011
+                                                                                                                                                Page 33 of 52
+
+
+
+Solicitation Provisions
+FAR Clauses Incorporated by Reference
+                                                                                                                                                Variation
+                                                                                                                 Effective      Alternate/
+Number         Title                                                                                                                            Effective
+                                                                                                                 Date           Deviation
+                                                                                                                                                Date
+               Solicitation of Offers from Small Business Concerns and Small Business Teaming
+52.207-6                                                                                                         Aug 2024
+               Arrangements or Joint Ventures (Multiple-Award Contracts).
+               Instructions to Offerors-Commercial Products and Commercial Services. (Deviation 2026-
+52.212-1                                                                                                         Feb 2026
+               O0038)
+DFARS Clauses Incorporated by Reference
+                                                                                                                                                Variation
+                                                                                                                 Effective      Alternate/
+Number            Title                                                                                                                         Effective
+                                                                                                                 Date           Deviation
+                                                                                                                                                Date
+252.225-7055      Representation Regarding Business Operations with the Maduro Regime.                           May 2022
+                  Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region-
+252.225-7059                                                                                                     Jun 2023
+                  Representation.
+252.203-7005      Representation Relating to Compensation of Former DoD Officials.                               Sep 2022
+252.204-7008      Compliance with Safeguarding Covered Defense Information Controls.                             Oct 2016
+252.204-7024      Notice on the Use of the Supplier Performance Risk System.                                     Mar 2023
+FAR Clauses Incorporated by Full Text
+
+
+52.209-7       Information Regarding Responsibility Matters. (Deviation 2026-O0038)                                   (Feb 2026)
+
+                       INFORMATION REGARDING RESPONSIBILITY MATTERS (FEB 2026) (DEVIATION 2026-O0038)
+
+  (a) Definitions. As used in this provision-
+
+  Administrative proceeding means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g.,
+Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of
+Contract Appeals Proceedings). This includes administrative proceedings at the Federal and State level but only in connection with performance of a
+Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.
+
+  Federal contracts and grants with total value greater than $10,000,000 means-
+
+  (1) The total value of all current, active contracts and grants, including all priced options; and
+
+  (2) The total value of all current, active orders including all priced options under indefinite-delivery, indefinite-quantity, 8(a), or requirements
+contracts (including task and delivery and multiple-award Schedules).
+
+  Principal means an officer, director, owner, partner, or a person having primary management or supervisory responsibilities within a business
+entity (e.g., general manager; plant manager; head of a division or business segment; and similar positions).
+
+(b) The offeror      has    does not have current active Federal contracts and grants with total value greater than $10,000,000.
+
+  (c) If the offeror checked "has" in paragraph (b) of this provision, the offeror represents, by submission of this offer, that the information it has
+entered in the Federal Awardee Performance and Integrity Information System (FAPIIS) is current, accurate, and complete as of the date of
+submission of this offer with regard to the following information:
+
+   (1) Whether the offeror, and/or any of its principals, has or has not, within the last five years, in connection with the award to or performance by
+the offeror of a Federal contract or grant, been the subject of a proceeding, at the Federal or State level that resulted in any of the following
+dispositions:
+
+  (i) In a criminal proceeding, a conviction.
+
+  (ii) In a civil proceeding, a finding of fault and liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or
+damages of $5,000 or more.
+
+  (iii) In an administrative proceeding, a finding of fault and liability that results in-
+
+  (A) The payment of a monetary fine or penalty of $5,000 or more; or
+
+  (B) The payment of a reimbursement, restitution, or damages in excess of $100,000.
+
+=== Page 34 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 34 of 52
+
+
+
+   (iv) In a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by
+the Contractor if the proceeding could have led to any of the outcomes specified in paragraphs (c)(1)(i), (c)(1)(ii), or (c)(1)(iii) of this provision.
+
+  (2) If the offeror has been involved in the last five years in any of the occurrences listed in (c)(1) of this provision, whether the offeror has
+provided the requested information with regard to each occurrence.
+
+  (d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this provision in FAPIIS as required through maintaining an
+active registration in the System for Award Management, which can be accessed via https://www.sam.gov (see 52.204-7).
+
+                                                                   (End of provision)
+
+DFARS Clauses Incorporated by Full Text
+
+
+                 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or
+252.204-7017                                                                                                          (May 2021)
+                 Services-Representation.
+
+        PROHIBITION ON THE ACQUISITION OF COVERED DEFENSE TELECOMMUNICATIONS EQUIPMENT OR SERVICES-
+                                            REPRESENTATION (MAY 2021)
+
+      The Offeror is not required to complete the representation in this provision if the Offeror has represented in the provision at 252.204-7016,
+Covered Defense Telecommunications Equipment or Services-Representation, that it "does not provide covered defense telecommunications
+equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other
+contractual instrument."
+
+      (a) Definitions. "Covered defense telecommunications equipment or services," "covered mission," "critical technology," and "substantial or
+essential component," as used in this provision, have the meanings given in the 252.204-7018 clause, Prohibition on the Acquisition of Covered
+Defense Telecommunications Equipment or Services, of this solicitation.
+
+       (b) Prohibition. Section 1656 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) prohibits agencies from
+procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service to carry out covered missions that
+uses covered defense telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as
+part of any system.
+
+       (c) Procedures. The Offeror shall review the list of excluded parties in the System for Award Management (SAM) at https://www.sam.gov for
+entities that are excluded when providing any equipment, system, or service to carry out covered missions that uses covered defense
+telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system,
+unless a waiver is granted.
+
+      (d) Representation. If in its annual representations and certifications in SAM the Offeror has represented in paragraph (c) of the provision at
+252.204-7016, Covered Defense Telecommunications Equipment or Services-Representation, that it "does" provide covered defense
+telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract,
+subcontract, or other contractual instrument, then the Offeror shall complete the following additional representation:
+
+                     The Offeror represents that it     will   will not provide covered defense telecommunications equipment or services as a part
+                     of its offered products or services to DoD in the performance of any award resulting from this solicitation.
+
+     (e) Disclosures. If the Offeror has represented in paragraph (d) of this provision that it "will provide covered defense telecommunications
+equipment or services," the Offeror shall provide the following information as part of the offer:
+
+           (1) A description of all covered defense telecommunications equipment and services offered (include brand or manufacturer; product,
+such as model number, original equipment manufacturer (OEM) number, manufacturer part number, or wholesaler number; and item description, as
+applicable).
+
+          (2) An explanation of the proposed use of covered defense telecommunications equipment and services and any factors relevant to
+determining if such use would be permissible under the prohibition referenced in paragraph (b) of this provision.
+
+         (3) For services, the entity providing the covered defense telecommunications services (include entity name, unique entity identifier, and
+Commercial and Government Entity (CAGE) code, if known).
+
+            (4) For equipment, the entity that produced or provided the covered defense telecommunications equipment (include entity name, unique
+entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
+
+                                                                   (End of provision)
+
+=== Page 35 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 35 of 52
+
+
+
+Addendum to 52.212-1, Instructions to Offerors - Commercial Products and
+Commercial Services
+
+Addendum FAR 52.212-1 - Instructions to Offerors - Commercial Products and Commercial Services
+
+
+
+The Government intends to issue a Firm Fixed Price Indefinite Delivery Indefinite Quantity (FFP IDIQ) multiple award contract (MAC) with three
+(3) to six (6) awards as a result of this solicitation in accordance with FAR Part 12, Acquisition of Commercial Items, FAR Subpart 16.5, Indefinite-
+Delivery Contracts and FAR Part 15 Contracting by Negotiations. Award will be made to the offeror(s) whose proposal is most advantageous to the
+Government under the selection criteria set forth in this solicitation. The Government intends to evaluate proposals and award to three (3) to six (6)
+contracts without discussions with offerors. Therefore, the offeror's initial proposal should contain the offeror's best terms from a non-price and price
+standpoint. However, the Government reserves the right to conduct discussions if later determined by the Contracting Officer to be necessary. The
+Government reserves the right to award a FFP IDIQ to other than the three (3) to six (6) offeror(s) with the lowest price proposal or to other than the
+offeror(s) with the highest rated non-price proposal.
+
+
+
+QUESTIONS:
+
+
+
+Offerors may submit questions regarding clarification of solicitation requirements directly to the Contract Specialist and Contracting Officer at
+alexandria.e.mccune.civ@us.navy.mil and amy.m.barnes14.civ@us.navy.mil. It is requested that all questions be received no later than 18 September
+2026 as time may not permit responses to questions received after that date to be prepared and issued prior to the receipt of proposals. For this reason,
+the Government reserves the right to not answer any questions received after the due date.
+
+
+
+INSTRUCTIONS FOR SUBMISSION OF PROPOSALS:
+
+
+
+(1) Proposals shall be submitted to Amy Barnes, Alexandria McCune, and Ethan Othersen electronically no later than the due date of the solicitation
+closing via email to amy.m.barnes14.civ@us.navy.mil, alexandria.e.mccune.civ@us.navy.mil, and ethan.t.othersen.civ@us.navy.mil. Offerors shall
+comply with the detailed instructions for the format and content of the proposals contained herein; proposals that do not comply may be considered
+non-responsive and may render the proposal ineligible for award.
+
+
+
+(2) All submissions and attachments shall be in Microsoft Office Word or an Adobe PDF. Submissions are page limited to the maximum number of
+pages as defined below. Only the price supporting information may be submitted utilizing Microsoft Office Excel. Submissions are page limited to the
+maximum number of pages as defined below. These page limitations are inclusive of the executive summary and any charts, diagrams, and/or other
+graphics. Graphics (including tables) in the proposal may use Times New Roman font with 8-point size type or larger. Each "page" is defined as one
+sheet, 8 1/2 "x 11", with at least one inch margins on all sides, using Times New Roman font with a point size of 12 or greater. Lines shall, at a
+minimum, be selected as single-spaced in Microsoft Word with Microsoft Word Normal character spacing. Pages shall be consecutively numbered.
+The offeror is permitted to submit no more than one page for each of the following, which will not be included in the page count: a cover sheet, list of
+tables, list of figures, list of acronyms, compliance matrix, and table of contents.
+
+
+
+(3) Offerors should include the following information in the Subject Line of their electronic submission
+
+
+
+Proposal - N0018926RL011 - (Name of Offeror) - ("Prime" or "Sub") - Email (#) of (#)
+
+
+
+GENERAL
+
+
+
+Offerors shall respond to all requirements of the solicitation document. Offerors are cautioned not to alter the solicitation. Proposals shall include the
+following legend on each page:
+
+=== Page 36 ===
+                                                                                                                                     N0018926RL011
+                                                                                                                                        Page 36 of 52
+
+
+                                                             Source Selection Information
+
+                                                            See FAR 2.101 and FAR 3.104
+
+
+
+
+PROPOSAL FORMAT:
+
+
+
+The proposal should contain the following items in addition to other information required by this solicitation:
+
+
+
+The cover page should indicate the following:
+
+
+
+          -    Volume Number (I or II)
+
+
+
+          -    Proposal Category (Factor)
+
+
+
+          -    Request for Proposal Number
+
+
+
+          -    Name and Address of Offeror, CAGE Code, SAM Unique Entity ID, and applicable Tax I.D. Number (TIN)
+
+
+
+          -    Point of Contact name, telephone number, and email address
+
+
+
+          -    Proposal valid for 180 days after solicitation closing
+
+
+
+Offerors are required to submit their proposals in two (2) separate volumes as follows:
+
+
+
+Volume I: Non-Price Proposal
+
+
+
+
+        Factor I - Facility Security Clearance
+
+
+
+        Factor II - Past Performance
+
+
+Volume II: Factor III - Price Proposal
+
+
+
+Table of Contents: The table of contents should provide sufficient detail as to allow the important elements to be easily located.
+
+=== Page 37 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 37 of 52
+
+
+(4) Requirements for Style: Each offeror shall submit a proposal that clearly and concisely describes and defines the contractor's response to the
+requirements contained in the RFP. Unnecessary elaboration or other presentations beyond that sufficient to present a complete and effective proposal
+are not desired and may be construed as an indication of the offeror's lack of understanding of cost consciousness. The proposal shall contain all the
+pertinent information in sufficient detail in the one area of the proposal where it contributes most critically to the discussion of the same information.
+When necessary, the offeror shall refer to the initial discussion and identify its location within the submitted proposal.
+
+
+
+(5) Proposal Page Limitations
+
+
+
+Volume I - Non-Price Proposal - The following page limitations are established:
+
+
+
+
+  Factor and Sub-Factor Titles                Page Limit*
+
+
+
+
+  Factor I - Facility Security
+                                              No limit
+  Clearance
+
+
+
+
+  Factor II - Past Performance                15 Pages
+
+
+
+
+*The Facility Security Clearance is not page-limited; however, the Facility Security Clearance is to be strictly limited to a copy of the verification.
+
+
+
+Volume II - Price Proposal is not page limited; however, the Price Proposal is to be strictly limited to price and cost information and completed
+solicitation documents as described in the General Section at the beginning of this text.
+
+
+
+
+     Title                             Limit*
+
+
+
+
+     Factor III - Price Proposal       No limit
+
+
+
+
+Pages submitted in excess of the page limitations described above will not be evaluated. The Government
+may exercise discretion in determining which specific pages are considered to be in excess of the page
+limitations.
+
+
+* Page limits represent the maximum pages the Government will evaluate and are not construed as de facto standards for the amount of material
+expected in the proposal.
+
+
+
+******************************************************************************
+
+=== Page 38 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 38 of 52
+
+
+
+
+PROPOSAL CONTENT:
+
+
+
+Volume I: Non-Price Proposal
+
+
+
+This volume shall address the non-price factors and include all information required for proposal evaluation. This volume shall also address past
+performance and shall include all information required for proposal evaluation. This volume of the proposal shall exclude any reference to the price
+aspects of the proposal.
+
+Factor I - Facility Security Clearance
+
+
+
+The offeror shall provide verification that it possesses an active Facility Security Clearance at the TOP SECRET classification level at the time of
+proposal submission as identified in the PWS. The verification shall be provided via the Defense Counterintelligence and Security Agency's (DCSA)
+National Industrial Security System (NISS) and obtained no earlier than 30 days prior to the issuance of the solicitation. The Verification request shall
+include the following: Cage Code, Facility Name, Physical Location, Facility Clearance Status/Level, Status Date/Issue Date, Safeguarding Level,
+Authorized Access to FCL Limitation, Facility Security Officer, Facility Security Officer Phone Number, DCSA Field Office, and DSCA Officer
+Phone Number.
+
+
+
+Factor II - Past Performance
+
+
+
+To demonstrate its past performance, the offeror shall identify up to three (3) of its most relevant contracts within the past (5) five years of the
+solicitation issuance date. Those contracts must also reflect one year of completed performance by the closing date of the solicitation. One (1) year of
+completed performance is defined as twelve (12) consecutive months of performance completed by the closing date of the solicitation. References
+with less than twelve (12) completed, consecutive months of service by the closing date of the solicitation will not be considered. Offerors shall
+provide a detailed explanation demonstrating the relevance of the contracts to the requirements of the solicitation. Offerors shall also cite the task
+sections / subsections of the PWS to which the past performance is relevant for each of the three (3) contracts.
+
+
+
+For purposes of this solicitation, a contract is defined as a single contract or a single task order placed under an ID/IQ contract, a Blanket Purchase
+Agreement (BPA), or a Federal Supply Schedule (FSS). If an offeror submits the IDIQ contract, FSS contract, or BPA itself as a reference, then the
+offeror must identify: a) the total number of orders actually awarded to the offeror during the ordering period in the past five (5) years from the
+solicitation issuance date; and b) the total dollar amount of those orders. The total dollar amount shall be the sum of the orders actually awarded, not
+the contract maximum ceiling. Orders are defined as either delivery orders (DOs), task orders (TOs), technical direction letters (TDLs), and/or
+technical area tasks (TATs) placed under an ID/IQ, BPA, or FSS. Orders must also meet the recency requirements stated above: each order must have
+been performed within five (5) years of the solicitation issuance date and must have twelve (12) consecutive months of performance completed by the
+closing date of the solicitation. If an offeror submits an IDIQ contract, FSS contract, or BPA itself as a reference, the ordering period must be at least
+one (1) year in length and any ordering period prior to the five-years before the solicitation will not be considered. If an IDIQ contract, FSS contract,
+or BPA itself is submitted as a reference, the offeror shall state the specific experience claimed from the orders (i.e. the offeror shall identify what
+work was actually completed on the orders and the relevance to this solicitation, as opposed to generically stating that orders were merely awarded).
+Additionally, if an IDIQ contract, FSS contract, or BPA itself is submitted as a reference and has no orders issued against it, it will not be considered.
+A Past Performance example that does not provide the level of detail required may not be evaluated. If the offeror includes delivery orders / task
+orders as past performance, the offeror shall state specifically what work was performed by the offeror under the delivery order / task order and the
+dates during which work was performed.
+
+
+
+If a proposed subcontractor's past performance is provided as part of the three (3) of its most relevant contracts or efforts, the percentage and type of
+work to be done by the subcontractor on the solicitation requirement must be stated. The Offeror's submittal shall also detail clearly the aspects of the
+work in the solicitation that the subcontractor is proposed to perform. A Past Performance example which does not detail clearly the aspects of the
+work in the solicitation that the subcontractor is proposed to perform may not be evaluated.
+
+
+
+If the prime Offeror or intended subcontractor/partner submits a past performance example in which it served as a subcontractor, the prime/sub
+/partner shall detail clearly the work that it performed and the magnitude (dollar value) of that subcontracted work only. A Past Performance example
+that does not differentiate between the overall contract effort and the subcontractor effort may not be evaluated.
+
+=== Page 39 ===
+                                                                                                                                             N0018926RL011
+                                                                                                                                                Page 39 of 52
+
+The past performance of subcontractors who will be performing major or critical aspects of the solicitation will be considered as highly as a prime
+contractor's past performance.
+
+
+
+Failure of Offerors to provide the required information and level of specificity may result in the contract reference not being evaluated.
+
+
+
+With respect to joint ventures, the procuring activity will consider work done individually by each member of the joint venture as well as any work
+done by the joint venture itself previously. Joint venture references must meet the temporal requirements described in addendum FAR 52.212-1
+(within five years and a year of completed performance). Additionally, if a joint venture member submits a past performance reference, the joint
+venture member shall detail clearly the work that it performed in that effort and the magnitude (dollar value) of that work. A reference that does not
+differentiate between the overall contract effort and the joint venture member's effort for that reference may not be evaluated. The past performance
+of a joint venture member who will be performing major or critical aspects of the solicitation will be considered as highly as the joint venture's past
+performance.
+
+
+
+The Offeror shall complete a "Past Performance Information Form" for each reference submitted. The form is an attachment to the solicitation.
+
+
+
+In addition to the information requested above, Offerors shall contact their past performance references and request that each reference complete the
+Past Performance Report Form attached to the solicitation and e-mail the completed survey form directly to Amy Barnes at amy.m.barnes14.
+civ@us.navy.mil, Alexandria McCune at alexandria.e.mccune.civ@us.navy.mil, and Ethan Othersen at ethan.t.othersen.civ@us.navy.mil by
+the DUE DATE OF THIS SOLICITATION. The Government reserves the right to consider past performance report forms received after the due
+date of the solicitation and to contact references for verification or additional information.
+
+
+
+***The Past Performance submission is limited to 15 pages***
+
+
+
+Volume II: Price Proposal
+
+
+
+Factor III - Price Proposal
+
+
+
+The Price Proposal in Volume II shall include the completed solicitation documents. The price proposal shall include all elements of price and such
+other price information considered appropriate to support the offeror's proposal. The pricing information shall be completed in accordance with the
+following:
+
+
+
+a)  A completed and signed Standard Form 1449, Solicitation/Contract/Order for Commercial Items, and executed copies of any amendments
+completed "Supplies or Services and Price" section.
+
+b)     Complete the table located in Attachment I, Pricing Spreadsheet. An offeror must propose on all labor categories for all ordering periods in the
+table. Failure to do so shall be cause for rejection of the offer. All proposed pricing shall be calculated to the second decimal. If pricing is not
+provided as such, the Government will round to the second decimal. The price proposal shall include all supporting data to clearly show how the fully-
+burdened labor prices were developed. This information shall include a breakdown of the labor categories, labor hours, and labor rates anticipated and
+should be submitted within Attachment I, Pricing Spreadsheet. The firm-fixed price labor rates proposed in the pricing spreadsheet will be
+incorporated into the resultant contract as maximum rates to be used for task order proposals.
+
+c)    Unless completed in the System for Award Management, the offeror shall complete the solicitation's representations, certifications and other
+statements of offerors.
+
+d)    Travel costs are anticipated; therefore, the Government has included travel amounts for the CUI period of performance. All offerors are to
+include the "Not to Exceed" travel amounts provided in the chart below for the identified travel CLIN.
+
+
+
+
+  Period                   Travel
+
+=== Page 40 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 40 of 52
+
+
+
+
+  Ordering Period I        $60,000.00
+
+
+
+
+  Ordering Period II       $61,000.00
+
+
+
+
+  Ordering Period III      $62,000.00
+
+
+
+
+  Ordering Period IV       $64,000.00
+
+
+
+
+  Ordering Period V        $66,000.00
+
+
+
+
+  FAR 52.217-8             $33,000.00
+
+
+
+
+The above values shall be entered in travel CLINs of the price submittal, in addition to any applicable General and Administrative (G&A) and/or
+Overhead (OH) rate applicable, in accordance with FAR Part 31, in their accounting system. Only G&A and/or OH indirect costs are allowable if an
+offeror's accounting system automatically applies it, no profit or fee is allowed. Offerors G&A and/or OH shall be added to the provided travel
+amounts for a total cost associated with travel. If G&A and/or OH is not provided with the travel amounts within the vendor's offer, it will be
+determined that the offeror does not intend on applying any applicable indirect cost to provided ODCs. All price and price supporting information
+shall be contained in the price submittal. No price or pricing information shall be included in any other submittal including cover letters. Offerors are
+responsible for submitting sufficient information to enable the Government to fully evaluate their price submittal.
+
+
+
+***The price section is not page-limited but is strictly limited to the requested information and supporting documentation only. No price information
+shall be contained in any other part of the proposal.***
+
+
+
+The completion and submission of the above items will constitute a proposal and will indicate the Offeror's unconditional assent to the terms and
+conditions of this RFP and any attachments and/or exhibits hereto. All price and price supporting information shall be contained in the price proposal.
+No price or pricing information shall be included in any other volume including cover letters. Offerors are responsible for submitting sufficient
+information to enable the Government to fully evaluate their price proposal.
+
+=== Page 41 ===
+                                                                                                                                             N0018926RL011
+                                                                                                                                                Page 41 of 52
+
+
+
+Evaluation - Commercial Products and Commercial Services
+FAR Clauses Incorporated by Full Text
+
+
+               Evaluation-Commercial Products and Commercial Services. (Deviation 2026-O0038)
+52.212-2                                                                                                              (Feb 2026)
+               (Tailored)
+
+Evaluation-Commercial Products and Commercial Services (Feb 2026) (Deviation 2026-O0038)
+
+FAR 52.212-2 - Evaluation - Commercial Products and Commercial Services.
+
+
+
+The Government intends to issue a Firm Fixed Price Indefinite Delivery Indefinite Quantity (FFP IDIQ) multiple award contract (MAC) with three
+(3) to six (6) awards as a result of this solicitation in accordance with FAR Part 12, Acquisition of Commercial Items, FAR Subpart 16.5, Indefinite-
+Delivery Contracts, and FAR Subpart 15, Contracting by Negotiations. Award will be made to the offeror(s) whose proposal is most advantageous to
+the Government under the selection criteria set forth in this solicitation. The Government intends to evaluate proposals and award three (3) to six (6)
+contracts without discussions with offerors. Therefore, the offeror's initial proposal should contain the offeror's best terms from a non-price and price
+standpoint. However, the Government reserves the right to conduct discussions if later determined by the Contracting Officer to be necessary. The
+Government reserves the right to award a FFP IDIQ to other than the three (3) to six (6) offeror(s) with the lowest price proposal or to other than the
+offeror(s) with the highest rated non-price proposal.
+
+
+
+All proposals will be reviewed for timeliness. If the proposal is received after the solicitation closing date and does not meet the criteria for "late
+proposals" in the solicitation, the proposal will not be evaluated. Timely proposals will be reviewed for compliance with the solicitation. If the
+proposal is not compliant with the solicitation, it will not be evaluated and the offeror will be notified that the proposal is non-responsive and,
+therefore, will not be considered for award.
+
+
+
+The Offeror's proposal shall be in the form prescribed by and shall contain a response to each of the areas identified in Addendum FAR 52.212-1,
+Instructions to Offerors--Commercial Products and Commercial Services, of the solicitation.
+
+
+
+The selection of an Offeror for award will be based on the evaluation of Factor I - Facility Security Clearance, Factor II - Past Performance, and
+Factor III - Price Proposal. The Offeror's non-price proposal is considered significantly more important than the Offeror's price proposal.
+
+
+
+Initially, proposals shall be ranked according to price, inclusive of all option pricing. An offeror's proposed pricing will be determined by adding all
+extended amounts.
+
+
+
+If a lower priced offeror is evaluated to have a Factor I - Facility Security Clearance rating of 'Acceptable' and a Factor II - Past Performance rating of
+'Substantial Confidence', that offeror represents the best value for the Government. The evaluation will continue until three (3) to six (6) offerors are
+identified and the evaluation process stops at this point. Award(s) shall be made to those offerors without further consideration of any other proposals.
+However, if the lowest priced offeror is not evaluated to have a Factor I - Facility Security Clearance rating of 'Acceptable' and a Factor II - Past
+Performance rating of 'Substantial Confidence', the next-lowest priced offeror will be evaluated. The evaluation process will continue (in order of
+price from lowest to highest) until three (3) to six (6) proposals are evaluated to have a Factor I rating of 'Acceptable' and a Factor II rating of
+'Substantial Confidence'. The Government shall then make an integrated best-value award decision between proposals rated with a Factor I rating of
+'Acceptable' and a Factor II rating of 'Substantial Confidence', and all lower priced proposals.
+
+
+
+Offerors receiving a rating of 'Unacceptable' for any factors or sub-factors are considered un-awardable and will not be further evaluated.
+
+
+
+If no proposals are evaluated with a Factor I - Facility Security Clearance rating of 'Acceptable' and a Factor II - Past Performance rating of
+'Substantial Confidence', the Contracting Officer shall make an integrated assessment best value award decision where non-price is considered to be
+significantly more important than price from among the Offerors.
+
+
+
+Offerors simply providing general statements or paraphrasing/parroting the PWS in whole or in any part may result in a rating of unacceptable.
+Offerors should be aware that a complete understanding as to technical, price, and all terms and conditions of the proposed contract must exist
+
+=== Page 42 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 42 of 52
+
+between the offeror and the Government at the conclusion of discussions, if held. Material changes to proposals submitted in any final proposal
+revisions, if made, may not be subject to further discussions and may render the offer unacceptable to the Government. All offeror and team member
+/subcontractor information must be incorporated into one coherent proposal to be considered complete.
+
+
+
+Although price is not the most important evaluation factor, it has the potential to become more significant during the evaluation process. The degree
+of importance of price will increase with the degree of equality of the proposals in relation to the other factors on which selection is to be based. The
+importance of price will also increase when a proposal's price is so significantly high as to diminish the value to the Government that might be gained
+under the other aspects of the proposal. If, at any stage of the evaluation, all Offerors are determined to have submitted equal, or virtually equal, non-
+price proposals, price could become the factor in determining which Offerors shall receive the award.
+
+
+
+Factor I - Facility Security Clearance
+
+
+
+Factor I will be evaluated and will receive a rating of Acceptable/ Unacceptable based on its submission of the verification of its Top Secret Facilities
+Clearance Level meeting the requirements as detailed in Addendum FAR 52.212-1, based on the rating Table below.
+
+
+
+Table 1 - Technical Acceptable/Unacceptable Ratings Table
+
+
+
+
+  Technical Rating        Description
+
+
+
+
+  Acceptable              Proposal clearly meets the minimum requirements of the solicitation
+
+
+
+
+  Unacceptable            Proposal does not clearly meet the minimum requirements of the solicitation
+
+
+
+NOTE: Offerors receiving a rating of 'Unacceptable' for Factor I will no longer be considered for award and no further evaluation will be conducted.
+
+
+
+Factor II - Past Performance
+
+
+
+The past performance evaluation factor assesses the degree of confidence the Government has in an Offeror's ability to meet the task order's
+requirements based on the quality of a demonstrated record of recent and relevant performance. There are three aspects to the past performance
+evaluation: recency, relevancy, and quality. These are combined to establish a single performance confidence assessment rating for each Offeror.
+
+
+
+Past Performance Recency: Recency is the first aspect of the past performance evaluation and is the time period during which past performance
+references are considered relevant. Recency is critical to establishing the relevancy of past performance information. For purposes of this solicitation,
+recent past performance is performance that has taken place within five (5) years as of the issuance date of this solicitation. Performance outside of
+this stated period will not be considered for evaluation purposes.
+
+
+
+Past Performance Relevancy: Regarding relevancy, each past performance reference under each Offeror's Past Performance proposal will be evaluated
+to determine its scope and magnitude relative to the instant requirement. The following definitions will apply to this evaluation:
+
+
+
+               Scope: Experience in the areas described in the PWS.
+
+=== Page 43 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 43 of 52
+
+
+                Magnitude: The similarity of the dollar value of actually performed work that exists between the PWS and the Offeror's referenced
+           contracts during the stated five-year period established by the solicitation. In addition, performance data will only be assessed for those
+           references demonstrating at least one (1) year of completed performance prior to the closing date of this solicitation. If an offeror submits
+           an IDIQ contract, FSS contract, or BPA itself as a reference, only the dollar value of orders actually awarded in the past five (5) years will
+           be considered when assessing magnitude. The contract maximum or ceiling will not be considered in the magnitude assessment.
+
+
+
+The aggregate of each offeror's past performance references in terms of scope and magnitude will result in the assessed overall relevance of that
+offeror's past performance. Aggregation will not be done to meet the recency requirements for evaluation, as stated in FAR 52.212-1.
+
+
+
+Past Performance Quality: The third aspect of the past performance evaluation is to establish the overall quality of the Offeror's past performance. The
+Government will review all past performance information collected and determine the quality of the Offeror's performance, including general trends
+and usefulness of the information, and will incorporate this into the performance confidence assessment.
+
+
+
+Past Performance Confidence Assessment: The overall assigned rating for past performance will be the Past Performance Confidence Assessment
+rating, defined in the table below. The assignment of this rating will be based on the overall quality of the recent and relevant past performance and
+will also consider the source of the information, the context of the data, and general trends in the Offeror's performance. The quality of performance
+under a past performance reference that has no relevance to the instant requirement will not be considered in the overall assessment of past
+performance confidence. Evaluation will focus only on work already performed. Work yet-to-be performed and work not reflecting one year of
+completed performance by the solicitation closing date will not be considered. One year of completed performance is defined as twelve-months
+of continued performance.
+
+
+
+If the offeror's aggregated past performance is determined to be not relevant as defined in the solicitation, then the quality of the offeror's past
+performance will not be evaluated through a confidence assessment, and the past performance factor will be rated as "Neutral Confidence." If an
+offeror's aggregate past performance is determined to be relevant, then each past performance reference under the offeror's past performance
+submission that contributed to the determination of aggregate relevance (i.e., each reference that is rated at least somewhat relevant) will be evaluated
+to determine the quality of the offeror's performance under that reference. The quality of performance on contract references that are rated Not
+Relevant is not evaluated even when the overall past performance is found to be relevant.
+
+
+
+In the case of Offerors for which there is no information on past contract performance or where past contract performance information is not
+available, the Offeror may not be evaluated favorably or unfavorably on the past performance factor. In this case, the Offeror's past performance is
+unknown and assigned a performance confidence rating of "Neutral Confidence." Although an Offeror that lacks recent, relevant past performance
+may not be rated favorably or unfavorably with regard to past performance, the Government may determine that a "Substantial Confidence" or
+"Satisfactory Confidence" past performance rating provides better value to the Government than a "Neutral Confidence" past performance rating.
+
+
+
+In order to evaluate Past Performance, the Government may also utilize existing data sources, including the Contractor Performance Assessment
+Reporting System (CPARS), the Federal Awardee Performance and Integrity Information System (FAPIIS), the Electronic Subcontract Reporting
+System (eSRS), or other databases; communication with points of contact in the Offeror's customer's organization, which could include private sector
+requirements and contracts personnel, Administrative Contracting Officers, Defense Contract Management Agency (DCMA) personnel, Procuring
+Contracting Officers, Contracting Officer's Representatives, and other Government activity requirements personnel. The Government may verify past
+performance information. The Government may contact some or all of the references provided, as appropriate, and may collect information through
+questionnaires, telephone interviews, and existing data sources. The Government reserves the right to obtain information for use in the evaluation of
+past performance from any and all sources, including sources outside of the Government. This information will be used for the evaluation of past
+performance.
+
+
+
+The past performance factor evaluation and past performance confidence assessment rating is separate and distinct from the contracting officer's
+responsibility determination. The assessment of the Offeror's past performance will be used as a means of evaluating the relative capability of the
+Offeror and other competitors to successfully meet the requirements of the solicitation.
+
+
+
+Past Performance Relevancy Ratings Table
+
+
+
+
+  Rating                    Description
+
+=== Page 44 ===
+                                                                                                                                       N0018926RL011
+                                                                                                                                          Page 44 of 52
+
+
+
+
+                         Present/past performance effort involved essentially the same scope and magnitude of effort this solicitation
+  Very Relevant
+                         requires.
+
+
+
+
+  Relevant               Present/past performance effort involved similar scope and magnitude of effort this solicitation requires.
+
+
+
+
+  Somewhat Relevant      Present/past performance effort involved some of the scope and magnitude of effort this solicitation requires.
+
+
+
+
+  Not Relevant           Present/past performance effort involved little or none of the scope and magnitude of effort this solicitation requires.
+
+
+
+
+Past Performance Confidence Assessment Ratings Table
+
+
+
+
+  Rating          Description
+
+
+
+
+  Substantial     Based on the Offeror's recent/relevant performance record, the Government has a high expectation that the Offeror will
+  Confidence      successfully perform the required effort.
+
+
+
+
+  Satisfactory    Based on the Offeror's recent/relevant performance record, the Government has a reasonable expectation that the Offeror
+  Confidence      will successfully perform the required effort.
+
+
+
+
+                  No recent/relevant performance record is available, or the Offeror's performance record is so sparse that no meaningful
+  Neutral
+                  confidence assessment rating can be reasonably assigned. The Offeror may not be evaluated favorably or unfavorably on
+  Confidence
+                  the factor of past performance.
+
+
+
+
+  Limited         Based on the Offeror's recent/relevant performance record, the Government has a low expectation that the Offeror will
+  Confidence      successfully perform the required effort.
+
+
+
+
+  No              Based on the Offeror's recent/relevant performance record, the Government has no expectation that the Offeror will be
+  Confidence      able to successfully perform the required effort.
+
+=== Page 45 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 45 of 52
+
+
+
+Note: A rating of "Limited Confidence" for the past performance factor means that the Offeror's proposal is not awardable without a change or
+changes to the Offeror's proposal. A proposal that includes a "Limited Confidence" rating is considered to be susceptible to correction if the
+contracting officer determines that an exchange is appropriate and said exchange is conducted. A rating of "No Confidence" for the past performance
+factor means that the Offeror's proposal is not awardable and is not susceptible to correction.
+
+
+
+Factor III - Price
+
+
+
+Price will be evaluated on the basis of price reasonableness in accordance with FAR 15.404-1. The Government will evaluate offers for award
+purposes by adding the total price for all labor and travel, including applicable travel G&A and Overhead for the Base ordering period and the Option
+period. However, awarded contract will have a ceiling of $99,000,000.00. The amounts provided in the "Instructions to Offerors" for Travel, and any
+applicable G&A and Overhead, shall be utilized for evaluation purposes in determining the total price for the entire contract.
+
+
+
+Offerors responding to this solicitation are advised that, prior to award, the government may request offerors to submit information/data to support
+price reasonableness such as copies of paid invoices for the same or similar items, sales history for the same or similar items, price list with effective
+date and/or copies of catalog pages along with any applicable discounts. Failure to submit the requested information may result in disqualification of
+the submitted offer.
+
+
+
+The contracting officer may evaluate any and all information submitted by the offeror to support the reasonableness of prices proposed. The method
+of evaluation used by the contracting officer is solely within the discretion of the contracting officer.
+
+
+
+Option FAR 52.217-8, will be evaluated pursuant to solicitation provision FAR 52.217-5, Evaluation of Options. The Government will evaluate offers
+for award purposes by adding the total price for the option to the total price for the basic requirement. The Government may determine that an offer is
+unacceptable if the option prices are significantly unbalanced. Evaluation of options shall not obligate the Government to exercise the option(s).
+
+(End of provision)
+
+=== Page 46 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 46 of 52
+
+
+
+Addendum to Evaluation - Commercial Product and Commercial Services
+Offeror Representations and Certifications - Commercial Products and Commercial
+Services
+Addendum to Solicitation Provisions
+FAR Clauses Incorporated by Reference
+                                                                                                                                             Variation
+                                                                                                                Effective    Alternate/
+Number         Title                                                                                                                         Effective
+                                                                                                                Date         Deviation
+                                                                                                                                             Date
+52.216-27      Single or Multiple Awards.                                                                       Oct 1995
+52.233-2       Service of Protest. (Deviation 2026-O0038)                                                       Feb 2026
+52.204-7       System for Award Management-Registration. (Deviation 2026-O0038)                                 Feb 2026
+52.217-5       Evaluation of Options. (Deviation 2026-O0038)                                                    Feb 2026
+52.222-50      Combating Trafficking in Persons. (Deviation 2026-O0038)                                         Feb 2026
+               Security Prohibitions and Exclusions Representations and Certifications. (Deviation 2026-
+52.240-90                                                                                                       Feb 2026
+               O0038)
+               Certification and Disclosure Regarding Payments to Influence Certain Federal
+52.203-11                                                                                                       Sep 2024
+               Transactions.
+               Prohibition on Contracting with Entities that Require Certain Internal Confidentiality
+52.203-18                                                                                                       Jan 2017
+               Agreements or Statements-Representation.
+52.237-1       Site Visit.                                                                                      Apr 1984
+DFARS Clauses Incorporated by Reference
+                                                                                                                                             Variation
+                                                                                                    Effective       Alternate/
+Number          Title                                                                                                                        Effective
+                                                                                                    Date            Deviation
+                                                                                                                                             Date
+                Prohibition Regarding Russian Fossil Fuel Business Operations-
+252.225-7966                                                                                        Mar 2024        Deviation 2024-O0006     Mar 2024
+                Representation (Deviation 2024-O0006, Revision 1)
+252.239-7017    Notice of Supply Chain Risk.                                                        Dec 2022
+                Prohibition on the Procurement of Foreign-Made Unmanned Aircraft
+252.225-7973                                                                                        Aug 2024        Deviation 2024-O0014     Aug 2024
+                Systems—Representation. (DEVIATION 2024-O0014)
+                Prohibition on Contract Awards with Entities That Contract with Lobbyists
+252.240-7995                                                                                        Jun 2026        Deviation 2026-O0025     Jun 2026
+                for Chinese Military Companies--Representation. (DEVIATION 2026-O0025)
+                Prohibition on Contract Awards to Chinese Military Companies--
+252.240-7996                                                                                        Jun 2026        Deviation 2026-O0025     Jun 2026
+                Representation. (DEVIATION 2026-O0025)
+FAR Clauses Incorporated by Full Text
+
+
+52.229-11      Tax on Certain Foreign Procurements-Notice and Representation.                                       (Jun 2020)
+
+                        TAX ON CERTAIN FOREIGN PROCUREMENTS-NOTICE AND REPRESENTATION (JUN 2020)
+
+  (a) Definitions. As used in this provision-
+
+  Foreign person means any person other than a United States person.
+
+  Specified Federal procurement payment means any payment made pursuant to a contract with a foreign contracting party that is for goods,
+manufactured or produced, or services provided in a foreign country that is not a party to an international procurement agreement with the United
+States. For purposes of the prior sentence, a foreign country does not include an outlying area of the United States.
+
+  United States person as defined in 26 U.S.C. 7701(a)(30) means
+
+  (1) A citizen or resident of the United States;
+
+  (2) A domestic partnership;
+
+  (3) A domestic corporation;
+
+  (4) Any estate (other than a foreign estate, within the meaning of 26 U.S.C. 701(a)(31)); and
+
+  (5) Any trust if-
+
+  (i) A court within the United States is able to exercise primary supervision over the administration of the trust; and
+
+=== Page 47 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 47 of 52
+
+
+  (ii) One or more United States persons have the authority to control all substantial decisions of the trust.
+
+  (b) Unless exempted, there is a 2 percent tax of the amount of a specified Federal procurement payment on any foreign person receiving such
+payment. See 26 U.S.C. 5000C and its implementing regulations at 26 CFR 1.5000C-1 through 1.5000C-7.
+
+   (c) Exemptions from withholding under this provision are described at 26 CFR 1.5000C-1(d)(5) through (7). The Offeror may claim an exemption
+from the withholding by using the Department of the Treasury Internal Revenue Service (IRS) Form W-14, Certificate of Foreign Contracting Party
+Receiving Federal Procurement Payments, available at www.irs.gov/w14. Any exemption claimed and self-certified on the IRS Form W-14 is subject
+to audit by the IRS. Any disputes regarding the imposition and collection of the 26 U.S.C. 5000C tax are adjudicated by the IRS as the 26 U.S.C.
+5000C tax is a tax matter, not a contract issue. The IRS Form W-14 is provided to the acquiring agency rather than to the IRS.
+
+  (d) For purposes of withholding under 26 U.S.C. 5000C, the Offeror represents that
+
+(1) It     is   is not a foreign person; and
+
+(2) If the Offeror indicates "is" in paragraph (d)(1) of this provision, then the Offeror represents that-I am claiming on the IRS Form W-14        a
+full exemption, or     partial or no exemption [Offeror must select one] from the excise tax.
+
+  (e) If the Offeror represents it is a foreign person in paragraph (d)(1) of this provision, then-
+
+  (1) The clause at FAR 52.229-12, Tax on Certain Foreign Procurements, will be included in any resulting contract; and
+
+  (2) The Offeror shall submit with its offer the IRS Form W-14. If the IRS Form W-14 is not submitted with the offer, exemptions will not be
+applied to any resulting contract and the Government will withhold a full 2 percent of each payment.
+
+  (f) If the Offeror selects "is" in paragraph (d)(1) and "partial or no exemption" in paragraph (d)(2) of this provision, the Offeror will be subject to
+withholding in accordance with the clause at FAR 52.229-12, Tax on Certain Foreign Procurements, in any resulting contract.
+
+   (g) A taxpayer may, for a fee, seek advice from the IRS as to the proper tax treatment of a transaction. This is called a private letter ruling. Also,
+the IRS may publish a revenue ruling, which is an official interpretation by the IRS of the Internal Revenue Code, related statutes, tax treaties, and
+regulations. A revenue ruling is the conclusion of the IRS on how the law is applied to a specific set of facts. For questions relating to the
+interpretation of the IRS regulations go to https://www.irs.gov/help/tax-law-questions.
+
+                                                                   (End of provision)
+
+52.252-1        Solicitation Provisions Incorporated by Reference.                                                   (Feb 1998)
+
+Solicitation Provisions Incorporated by Reference (Feb 1998)
+
+This solicitation incorporates one or more solicitation provisions by reference, with the same force and effect as if they were given in full text. Upon
+request, the Contracting Officer will make their full text available. The offeror is cautioned that the listed provisions may include blocks that must be
+completed by the offeror and submitted with its quotation or offer. In lieu of submitting the full text of those provisions, the offeror may identify the
+provision by paragraph identifier and provide the appropriate information with its quotation or offer. Also, the full text of a solicitation provision may
+be accessed electronically at this/these address(es):
+
+https://www.acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-52 and https://www.acq.osd.mil/dpap/dars
+/dfars_far_overhaul_class_deviations.html
+
+(End of provision)
+
+52.252-5        Authorized Deviations in Provisions.                                                                 (Nov 2020)
+
+Authorized Deviations in Provisions (Nov 2020)
+
+(a) The use in this solicitation of any Federal Acquisition Regulation (48 CFR Chapter 1) provision with an authorized deviation is indicated by the
+addition of "(DEVIATION)" after the date of the provision.
+
+(b) The use in this solicitation of any DFARS (48 CFR Chapter 2) provision with an authorized deviation is indicated by the addition of
+"(DEVIATION)" after the name of the regulation.
+
+(End of provision)
+
+DFARS Clauses Incorporated by Full Text
+
+
+                 Alternate A, Annual Representations and Certifications. (DEVIATION                                Alternate A                (Feb 2026)
+252.204-7998                                                                                          (Feb 2026)
+                 2026-O0043)                                                                                       Deviation 2026-O0043       (Feb 2026)
+
+                        Alternate A, Annual Representations and Certifications (DEVIATION 2026-O0043)(FEB 2026)
+
+=== Page 48 ===
+                                                                                                                                          N0018926RL011
+                                                                                                                                             Page 48 of 52
+
+  Include the following paragraphs (e), (f), and (g) in the provision at FAR 52.204-7:
+
+     (e)(1) If the provision at FAR 52.204-7, System for Award Management - Registration, is included in this solicitation, paragraph (g) of this
+provision applies.
+
+         (2) If the provision at FAR 52.204-7, System for Award Management - Registration, is not included in this solicitation, and the Offeror has
+an active registration in the System for Award Management (SAM), the Offeror may choose to use paragraph (g) of this provision instead of
+completing the corresponding individual representations and certifications in the solicitation. The Offeror shall indicate which option applies by
+checking one of the following boxes:
+
+                (i) Paragraph (g) applies.
+
+                (ii) Paragraph (g) does not apply and the Offeror has completed the individual representations and certifications in the solicitation.
+
+     (f)(1) The following representations or certifications in the SAM database are applicable to this solicitation as indicated:
+
+            (i) 252.204-7016, Covered Defense Telecommunications Equipment or Services--Representation. Applies to all solicitations.
+
+             (ii) 252.216-7008, Economic Price Adjustment--Wage Rates or Material Prices Controlled by a Foreign Government. Applies to
+solicitations for fixed-price supply and service contracts when the contract is to be performed wholly or in part in a foreign country, and a foreign
+government controls wage rates or material prices and may during contract performance impose a mandatory change in wages or prices of materials.
+
+            (iii) 252.225-7042, Authorization to Perform. Applies to all solicitations when performance will be wholly or in part in a foreign country.
+
+            (iv) 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services--Representations. Applies to solicitations
+for the acquisition of commercial satellite services.
+
+             (v) 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism. Applies to all
+solicitations expected to result in contracts of $150,000 or more.
+
+            (vi) 252.229-7012, Tax Exemptions (Italy)--Representation. Applies to solicitations when contract performance will be in Italy.
+
+            (vii) 252.229-7013, Tax Exemptions (Spain)--Representation. Applies to solicitations when contract performance will be in Spain.
+
+     (2) The following representations or certifications in SAM are applicable to this solicitation as indicated by the Contracting Officer: [
+Contracting Officer check as appropriate.]
+
+         (i) 252.209-7002, Disclosure of Ownership or Control by a Foreign Government.
+
+         (ii) 252.225-7000, Buy American--Balance of Payments Program Certificate.
+
+         (iii) 252.225-7020, Trade Agreements Certificate.
+
+               Use with Alternate I.
+
+         (iv) 252.225-7031, Secondary Arab Boycott of Israel.
+
+         (v) 252.225-7035, Buy American--Free Trade Agreements--Balance of Payments Program Certificate.
+
+               Use with Alternate I.
+
+               Use with Alternate II.
+
+               Use with Alternate III.
+
+               Use with Alternate IV.
+
+               Use with Alternate V.
+
+             (vi) 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities.
+
+             (vii) 252.232-7015, Performance-Based Payments--Representation.
+
+     (g) The Offeror has completed the annual representations and certifications electronically via the SAM website at https://www.sam.gov After
+reviewing the SAM database information, the Offeror verifies by submission of the offer that the representations and certifications currently posted
+
+=== Page 49 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 49 of 52
+
+electronically that apply to this solicitation as indicated in FAR 52.204-7 and paragraph (f) of this provision have been entered or updated within the
+last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code
+referenced for this solicitation), as of the date of this offer, and are incorporated in this offer by reference (see FAR 4.203-1); except for the changes
+identified below [Offeror to insert changes, identifying change by provision number, title, date]. These amended representation(s) and/or certification
+(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
+
+
+  FAR/DFARS provision No.                                                  Title                      Date                       Change
+
+
+
+  ____                                                                     ____                       ____                       ____
+
+
+
+
+  ____                                                                     ____                       ____                       ____
+
+
+
+
+  ____                                                                     ____                       ____                       ____
+
+
+
+
+  ____                                                                     ____                       ____                       ____
+
+
+
+
+  ____                                                                     ____                       ____                       ____
+
+
+
+   Any changes provided by the Offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications
+located in the SAM database.
+
+                                                                   (End of provision)
+
+252.215-7992     Only One Offer. (DEVIATION 2026-O0048)                                           (Mar 2026)      Deviation 2026-O0048      (Mar 2026)
+
+                                             ONLY ONE OFFER (DEVIATION 2026-O0048) (MAR 2026)
+
+      (a) Cost or pricing data requirements. After initial submission of offers, if the Contracting Officer notifies the Offeror that only one offer was
+received, the Offeror agrees to--
+
+         (1) Submit any additional cost or pricing data that is required in order to determine whether the price is fair and reasonable (10 U.S.C. 3705)
+or to comply with the statutory requirement for certified cost or pricing data (10 U.S.C. 3702); and
+
+         (2) Except as provided in paragraph (b) of this provision, if the acquisition exceeds the certified cost or pricing data threshold and an
+exception to the requirement for certified cost or pricing data at FAR 15.403-2(b)(2) through (5) does not apply, certify all cost or pricing data in
+accordance with paragraph (c) of DFARS provision 252.215-7994, Requirements for Certified Cost or Pricing Data and Data Other Than Certified
+Cost or Pricing Data, of this solicitation.
+
+     (b) Canadian Commercial Corporation. If the Offeror is the Canadian Commercial Corporation, certified cost or pricing data are not required. If
+the Contracting Officer notifies the Canadian Commercial Corporation that additional data other than certified cost or pricing data are required in
+accordance with DFARS 225.870-4(c), the Canadian Commercial Corporation shall obtain and provide the following:
+
+         (1) Profit rate or fee (as applicable).
+
+        (2) Analysis provided by Public Works and Government Services Canada to the Canadian Commercial Corporation to determine a fair and
+reasonable price (comparable to the analysis required at 15.404).
+
+          (3) Data other than certified cost or pricing data necessary to permit a determination by the U.S. Contracting Officer that the proposed price
+is fair and reasonable [U.S. Contracting Officer to provide description of the data required in accordance with FAR 15.403-1 with the notification].
+
+____
+
+           (4) As specified in FAR 15.403-1(d), an offeror who does not comply with a requirement to submit data that the U.S. Contracting Officer has
+deemed necessary to determine price reasonableness or cost realism is ineligible for award unless the head of the contracting activity determines that
+it is in the best interest of the Government to make the award to that offeror.
+
+=== Page 50 ===
+                                                                                                                                            N0018926RL011
+                                                                                                                                               Page 50 of 52
+
+
+      (c) Subcontracts. Unless the Offeror is the Canadian Commercial Corporation, the Offeror shall insert the substance of this provision, including
+this paragraph (c), in all subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
+
+                                                                   (End of provision)
+
+252.237-7024     Notice of Continuation of Essential Contractor Services. (Tailored)                                 (Oct 2010)
+
+                              NOTICE OF CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES (OCT 2010)
+
+                                                  TO BE FILLED IN AT THE TASK ORDER LEVEL
+
+   (a) Definitions. "Essential contractor service"and "mission-essential functions" have the meanings given in the clause at 252.237-7023,
+Continuation of Essential Contractor Services, in this solicitation.
+
+    (b) The offeror shall provide with its offer a written plan describing how it will continue to perform the essential contractor services listed in
+attachment ____, Mission Essential Contractor Services, dated ____, during periods of crisis. The offeror shall-
+
+         (1) Identify provisions made for the acquisition of essential personnel and resources, if necessary, for continuity of operations for up to 30
+days or until normal operations can be resumed;
+
+         (2) Address in the plan, at a minimum-
+
+           (i) Challenges associated with maintaining essential contractor services during an extended event, such as a pandemic that occurs in
+repeated waves;
+
+            (ii) The time lapse associated with the initiation of the acquisition of essential personnel and resources and their actual availability on site;
+
+             (iii) The components, processes, and requirements for the identification, training, and preparedness of personnel who are capable of
+relocating to alternate facilities or performing work from home;
+
+            (iv) Any established alert and notification procedures for mobilizing identified "essential contractor service" personnel; and
+
+            (v) The approach for communicating expectations to contractor employees regarding their roles and responsibilities during a crisis.
+
+                                                                    (End of provision)
+
+252.239-7009     Representation of Use of Cloud Computing.                                                           (Sep 2015)
+
+                                       REPRESENTATION OF USE OF CLOUD COMPUTING (SEP 2015)
+
+       (a) Definition. "Cloud computing," as used in this provision, means a model for enabling ubiquitous, convenient, on-demand network access to
+a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and
+released with minimal management effort or service provider interaction. This includes other commercial terms, such as on-demand self-service,
+broad network access, resource pooling, rapid elasticity, and measured service. It also includes commercial offerings for software-as-a-service,
+infrastructure-as-a-service, and platform-as-a-service.
+
+       (b) The Offeror shall indicate by checking the appropriate blank in paragraph (c) of this provision whether the use of cloud computing is
+anticipated under the resultant contract.
+
+      (c) Representation. The Offeror represents that it-
+
+            Does anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this
+solicitation.
+
+            Does not anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this
+solicitation.
+
+                                                                   (End of provision)
+
+Additional Regulation or Supplemental Clauses Incorporated by Full Text
+
+
+UO4-01         UNLIQUIDATED OBLIGATIONS                                                                              (Dec 2025)
+
+Insert language in the equivalent of ""Section B"" in solicitations and contracts that include cost-rembursiment CLINs (e.g. Travel CLINs):
+
+The Government intends to unilaterally deobilgate any unliquidated obligations 90 days after each period of performance. Prior to doing so, the
+Contracting Officer (or Administrative Contracting Officer) will notify the contractor of the intended amount of deobligation and ask the contractor to
+confirm within one week that all invoices for the completed period of performance have been submitted and processed for payment (with the
+exception of any invoice for rate adjustment upon receipt of DCAA approved final rates for any cost-type CLINs or SLINs). Upon confirmation that
+all invoices have been submitted and processed for payment, or upon the contractor's failure to respond to the PCO/ACOs notification of intent to
+
+=== Page 51 ===
+                                                                                                                                           N0018926RL011
+                                                                                                                                              Page 51 of 52
+
+deobligate, the Contracting Officer or Administrative Contracting Officer will unilaterally deobligate the potential ULOs by reducing the funded
+amount to an amount equal to the contractors invoiced/paid amount for that contract period of performance.
+
+Note: Reduction of cost-reimbursement CLINs or SLINs in accordance with the above DOES NOT change either party's obligations under a Final
+Invoice submitted upon DCMA establishing final rates for each CLIN and or SLIN."
+
+
+NCH31-02       REIMBURSEMENT OF TRAVEL COST (SEP 2015)                                                               (Dec 2025)
+
+REIMBURSEMENT OF TRAVEL COST (SEP 2015)
+
+
+(a) Travel
+
+
+
+(1) Area of Travel. Performance under this contract may require travel by contractor personnel. If travel, domestic or overseas, is required, the
+contractor is responsible for making all needed arrangements for his personnel. This includes but is not limited to the following:
+
+
+
+       Medical Examinations
+
+       Immunization
+
+       Passports, visas, etc.
+
+       Security Clearances
+
+
+
+All contractor personnel required to perform work on any U.S. Navy vessel will have to obtain boarding authorization from the Commanding Officer
+of the vessel prior to boarding.
+
+
+
+(2) Travel Policy. The Government will reimburse the contractor for allowable travel costs incurred by the contractor in performance of the contract
+and determined to be in accordance with FAR subpart 31.2, subject to the following provisions:
+
+
+
+Travel required for tasks assigned under this contract shall be governed in accordance with rules set forth for temporary duty travel in FAR 31.205-46.
+
+
+
+(3) Travel. Travel, subsistence, and associated labor charges for travel time are authorized, whenever a task assignment requires work to be
+accomplished at a temporary alternate worksite.
+
+
+
+Travel performed for personal convenience and daily travel to and from work at contractor's facility will not be reimbursed.
+
+
+
+(4) Per Diem. Per diem for travel on work assigned under this contract will be reimbursed to employees consistent with company policy, but not to
+exceed the amount authorized in the Department of Defense Joint Travel Regulations.
+
+
+
+(5) Shipboard Stays. Whenever work assignments require temporary duty aboard a Government ship, the contractor will be reimbursed at the per
+diem rates identified in paragraphs C8101.2C or C81181.3B(6) of the DOD Joint Travel Regulations, Volume 2.
+
+
+
+(6) Air/Rail Travel. In rendering the services, the contractor shall be reimbursed for the actual costs of transportation incurred by its personnel not to
+exceed the cost of tourist class rail, or plane fare, to the extent that such transportation is necessary for the performance of the services hereunder and
+is authorized by the Ordering Officer. Such authorization by the Ordering Officer shall be indicated in the order or in some other suitable written
+form.
+
+=== Page 52 ===
+                                                                                                                                       N0018926RL011
+                                                                                                                                          Page 52 of 52
+
+
+NOTE: To the maximum extent practicable without the impairment of the effectiveness of the mission, transportation shall be tourist class. In the
+event that only first class travel is available, it will be allowed, provided justification therefore is fully documented and warranted.
+
+
+
+(7) Private Automobile. The use of privately owned conveyance within the continental United States by the traveler will be reimbursed to the
+contractor at the mileage rate allowed by Joint Travel Regulations. Authorization for the use of privately owned conveyance shall be indicated on the
+order. Distances traveled between points shall be shown in standard highway mileage guides. Any deviations from distance shown in such standard
+mileage guides shall be explained by the traveler on his expense sheet.
+
+
+
+(8) Car Rental. The contractor shall be entitled to reimbursement for car rental, exclusive of mileage charges, as authorized by each order, when the
+services are required to be performed outside the normal commuting distance from the contractor's facilities. Car rental for TDY teams will be
+limited to a rate of one car for every four (4) persons on TDY at one site.
+
+
+
+NCH04-01       SECURITY ADMINISTRATION (SOLICITATION) (SEP 2015)                                                 (Dec 2025)
+
+SECURITY ADMINISTRATION (SOLICITATION) (SEP 2015)
+
+The highest level of security that will be required under this contract is Top Secret as designated on DD Form 254 attached hereto and made a part
+hereof.
+
+
+
+The offeror shall indicate the name, address and telephone number of the cognizant security office;
+
+
+
+
+The facilities to be utilized in the performance of this effort have been cleared to Top Secret level.
+
+
+
+The offeror should also provide the above information on all proposed subcontractors who will be required to have a security clearance.

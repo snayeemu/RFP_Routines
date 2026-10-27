@@ -1,0 +1,105 @@
+{
+  "day_url": "https://mybidmatch.outreachsystems.com/go?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252",
+  "count": 11,
+  "articles": [
+    {
+      "seq": "1",
+      "source": "procure",
+      "agency": "DEPT OF DEFENSE",
+      "fsg": "D",
+      "title": "Enterprise Cloud Support Services",
+      "keywords": "ti:cloud;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=1"
+    },
+    {
+      "seq": "2",
+      "source": "procure",
+      "agency": "DEPT OF DEFENSE",
+      "fsg": "D",
+      "title": "MATLAB Software Subscription Renewal",
+      "keywords": "!IT; information; servic*;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=2"
+    },
+    {
+      "seq": "3",
+      "source": "procure",
+      "agency": "DEPT OF DEFENSE",
+      "fsg": "D",
+      "title": "Marine Corps Cyberspace Environment (MCCE) Operational Support S...",
+      "keywords": "!IT; information; technology; professional?; servic*; technolog*; ai;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=3"
+    },
+    {
+      "seq": "4",
+      "source": "procure",
+      "agency": "DEPT OF DEFENSE",
+      "fsg": "D",
+      "title": "Defense Health Agency (DHA), Portfolio Acquisition Executive, Me...",
+      "keywords": "ai;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=4"
+    },
+    {
+      "seq": "5",
+      "source": "procure",
+      "agency": "HOMELAND SECURITY",
+      "fsg": "D",
+      "title": "DHS Network Operations Security Center (NOSC) Network, Cloud, an...",
+      "keywords": "ti:cloud;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=5"
+    },
+    {
+      "seq": "6",
+      "source": "procure",
+      "agency": "DEPT OF DEFENSE",
+      "fsg": "D",
+      "title": "Enterprise IT Support Services J&A",
+      "keywords": "!IT; servic*;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=6"
+    },
+    {
+      "seq": "7",
+      "source": "bid",
+      "agency": "New Hampshire - Community College System of New Hampshire",
+      "fsg": "D",
+      "title": "(RFI) Enterprise Artificial Intelligence (AI) Platform Solutions",
+      "keywords": "ai;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=7"
+    },
+    {
+      "seq": "8",
+      "source": "bid",
+      "agency": "New Jersey - New Jersey Purchasing Group",
+      "fsg": "D",
+      "title": "BASED ROADWAY AND MUNICIPAL ASSET CONDITION ASSESSMENT SOFTWARE ...",
+      "keywords": "ai;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=8"
+    },
+    {
+      "seq": "9",
+      "source": "bid",
+      "agency": "Virginia - VBO/eVA-Virginia Business Opportunities",
+      "fsg": "D",
+      "title": "End User Computing (EUC) Services",
+      "keywords": "!IT; information; servic*;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=9"
+    },
+    {
+      "seq": "10",
+      "source": "bid",
+      "agency": "Vermont - Department of Buildings and General Services",
+      "fsg": "D",
+      "title": "2026 Retainer Contract Opportunity for Information Technology (I",
+      "keywords": "!IT; information; technology; servic*; technolog*;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=10"
+    },
+    {
+      "seq": "11",
+      "source": "small",
+      "agency": "GSA Acquistion Gateway Forecasts",
+      "fsg": "C",
+      "title": "Cloud Security Engineering Support for FedRAMP 20x Package Revie...",
+      "keywords": "ti:cloud;",
+      "article_url": "https://mybidmatch.outreachsystems.com/article?doc=8bb28212-d735-4550-a8aa-9fe6d6a28252&seq=11"
+    }
+  ]
+}

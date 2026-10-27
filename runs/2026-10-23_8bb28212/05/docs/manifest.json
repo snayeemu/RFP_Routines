@@ -1,0 +1,35 @@
+{
+  "opportunity_id": "d50e277d154a4853b961ae786b8e72f5",
+  "sam_url": "https://sam.gov/opp/d50e277d154a4853b961ae786b8e72f5/view",
+  "notice": {
+    "title": "DHS Network Operations Security Center (NOSC) Network, Cloud, and Cyber Services (NCCS) 2.0",
+    "solicitationNumber": "70RTAC26R00000007",
+    "type": "k",
+    "naics": [
+      {
+        "code": [
+          "541519"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": "NONE",
+    "responseDeadline": "2026-09-22T00:00:00-04:00",
+    "postedDate": "2026-10-22T04:43:34.535+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": "zip",
+  "expected_files": 6,
+  "files": [
+    "DRAFT Attachment 1 NCCS SOW.pdf",
+    "DRAFT Attachment 4 NCCS Reading Room Instructions.docx",
+    "DRAFT Attachment 2_NCCS Pricing Template 07152026 Draft (002) (003).xlsx",
+    "Draft Attachment 3 NCCS Labor Category Descriptions.xlsx",
+    "Draft NCCS RFP Questions from Vendors.xlsx",
+    "DRAFT NCCS RFP_9-16-2026.docx"
+  ],
+  "links": [],
+  "errors": [],
+  "status": "ok"
+}

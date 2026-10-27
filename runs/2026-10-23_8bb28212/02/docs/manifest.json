@@ -1,0 +1,28 @@
+{
+  "opportunity_id": "4f7c6d1803944040a1cdf9e854a34de7",
+  "sam_url": "https://sam.gov/opp/4f7c6d1803944040a1cdf9e854a34de7/view",
+  "notice": {
+    "title": "MATLAB Software Subscription Renewal",
+    "solicitationNumber": "N00174-27-SIMACQ-W1-0006",
+    "type": "s",
+    "naics": [
+      {
+        "code": [
+          "513210"
+        ],
+        "type": "primary"
+      }
+    ],
+    "setAside": null,
+    "responseDeadline": "2026-11-04T10:00:00-05:00",
+    "postedDate": "2026-10-22T16:41:31.922+00:00",
+    "archived": false,
+    "cancelled": false
+  },
+  "method": null,
+  "expected_files": 0,
+  "files": [],
+  "links": [],
+  "errors": [],
+  "status": "no-attachments"
+}
