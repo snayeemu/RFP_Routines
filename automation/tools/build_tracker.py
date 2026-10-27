@@ -18,8 +18,10 @@ import argparse
 import html
 import json
 import os
+import re
 import sys
 import tempfile
+import zipfile
 
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
@@ -66,9 +68,14 @@ WIDTHS = {"Sl. No.": 7, "Review Date": 14, "Solicitation Title": 34, "Solicitati
           "Solicitation Issue Date": 14, "Submission Deadline": 18,
           "Mandatory Requirements Status": 14, "Screening Verdict": 12}
 
-HEAD_FONT = Font(bold=True, color="FFFFFF")
-HEAD_FILL = PatternFill("solid", fgColor="1F4E78")
-THIN = Side(style="thin", color="BFBFBF")
+def solid(rgb):
+    """Opaque fill: openpyxl stores 6-digit colours with alpha 00, which some Excel builds show as no fill."""
+    return PatternFill("solid", fgColor="FF" + rgb, bgColor="FF" + rgb)
+
+
+HEAD_FONT = Font(bold=True, color="FF000000")
+HEAD_FILL = solid("DDEBF7")
+THIN = Side(style="thin", color="FFBFBFBF")
 BOX = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 WRAP = Alignment(wrap_text=True, vertical="top")
 
@@ -119,12 +126,12 @@ def fill_tracker(ws, rows):
             as_text(c)
         verdict = ws.cell(row=ws.max_row, column=HEADERS.index("Screening Verdict") + 1)
         if verdict.value in VERDICT_FILL:
-            verdict.fill = PatternFill("solid", fgColor=VERDICT_FILL[verdict.value])
+            verdict.fill = solid(VERDICT_FILL[verdict.value])
             verdict.font = Font(bold=True)
         link = ws.cell(row=ws.max_row, column=HEADERS.index("Source Link") + 1)
         if str(link.value).startswith("http"):
             link.hyperlink = str(link.value)
-            link.font = Font(color="0563C1", underline="single")
+            link.font = Font(color="FF0563C1", underline="single")
     for i, h in enumerate(HEADERS, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = WIDTHS.get(h, 40)
     ws.freeze_panes = "D2"
@@ -152,6 +159,34 @@ class WorkbookOpen(Exception):
     pass
 
 
+def add_apply_flags(path):
+    """openpyxl omits applyFont/applyFill/applyBorder on cell formats; some desktop Excel builds
+    then draw no fill (Google Sheets ignores the flags). Add them to xl/styles.xml in place."""
+    def flag(m):
+        xf = m.group(0)
+        for attr, key in (("applyFont", "fontId"), ("applyFill", "fillId"), ("applyBorder", "borderId")):
+            if attr not in xf and not re.search(r'\b%s="0"' % key, xf):
+                xf = xf.replace("<xf ", '<xf %s="1" ' % attr, 1)
+        return xf
+
+    def fix(styles):
+        return re.sub(r"<cellXfs\b.*?</cellXfs>",
+                      lambda m: re.sub(r"<xf\b[^>]*>", flag, m.group(0)), styles, flags=re.S)
+
+    tmp = path + ".styles"
+    try:
+        with zipfile.ZipFile(path) as src, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as dst:
+            for item in src.infolist():
+                data = src.read(item.filename)
+                if item.filename == "xl/styles.xml":
+                    data = fix(data.decode("utf-8")).encode("utf-8")
+                dst.writestr(item, data)
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):
+            os.remove(tmp)
+
+
 def save_workbook(rows, path, sheet):
     folder, name = os.path.split(os.path.abspath(path))
     if os.path.exists(os.path.join(folder, "~$" + name)):
@@ -172,9 +207,14 @@ def save_workbook(rows, path, sheet):
     # Write to a temp file, then rename, so a crash never leaves a half-written master workbook.
     fd, tmp = tempfile.mkstemp(suffix=".xlsx", dir=os.path.dirname(os.path.abspath(path)))
     os.close(fd)
-    wb.save(tmp)
-    os.chmod(tmp, 0o644)
-    os.replace(tmp, path)
+    try:
+        wb.save(tmp)
+        add_apply_flags(tmp)
+        os.chmod(tmp, 0o644)
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):  # only left behind when a step above failed
+            os.remove(tmp)
 
 
 EMAIL_COLS = ["Solicitation Title", "Solicitation Number", "Agency", "Submission Deadline",
