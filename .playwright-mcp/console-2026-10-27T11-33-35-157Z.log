@@ -1,7 +1,0 @@
-[      13ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
-[    2308ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://docs.google.com/drivesharing/clientmodel?id=1D4vE_Gjqhz_U5yBVVj4Rwvnhjq_KpczURVrWfiWKqKs&foreignService=ritz&authuser=0&origin=https%3A%2F%2Fdocs.google.com:0
-[    2764ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
-[    2788ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
-[    2790ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
-[    2791ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
-[ 3696234ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://docs.google.com/spreadsheets/d/1D4vE_Gjqhz_U5yBVVj4Rwvnhjq_KpczURVrWfiWKqKs/bind?id=1D4vE_Gjqhz_U5yBVVj4Rwvnhjq_KpczURVrWfiWKqKs&sid=2e0b4e0d9724bb1b&token=AJtFDW3_Dm7tkuVwD56WcTSk6uO_%3A1793100814567&ouid=109634006465906556527&includes_info_params=true&usp=drive_web&cros_files=false&nded=false&VER=8&lsq=1793100534697&u=07262187033963714880&vc=1&c=1&w=1&flr=0&gsi=0&smb=%5B2147483647%2C%20APzr3A%3D%3D%5D&cimpl=1&RID=rpc&SID=B901AAF7F932115&CI=0&AID=162&TYPE=xmlhttp&zx=b39qborc6n29&t=1:0
